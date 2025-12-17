@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ .Title }} | {{ .Site.Title }}</title>
+</head>
+<body>
+
+<header>
+  <h1><a href="/">{{ .Site.Title }}</a></h1>
+</header>
+
+<main>
+  {{ block "main" . }}{{ end }}
+</main>
+
+<footer>
+  <p>© {{ now.Year }} Góc Nhìn Toàn Cảnh</p>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,10 @@
+baseURL = "https://gocnhintoancanh.netlify.app/"
+languageCode = "vi"
+title = "Góc Nhìn Toàn Cảnh"
+
+paginate = 10
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,0 +1,123 @@
+goc-nhin-toan-canh/
+├─ hugo.toml
+├─ content/
+│  ├─ _index.md                # Trang chủ (content-driven)
+│  ├─ goc-nhin/
+│  │  ├─ _index.md             # List Góc Nhìn
+│  │  └─ bai-viet-01.md
+│  │  └─ bai-viet-02.md
+│  │
+│  ├─ phan-tich/
+│  │  ├─ _index.md
+│  │  └─ ...
+│  │
+│  ├─ chuyen-doi/
+│  │  ├─ _index.md
+│  │  └─ ...
+│  │
+│  └─ gioi-thieu.md
+│
+├─ layouts/
+│  ├─ _default/
+│  │  ├─ baseof.html
+│  │  ├─ single.html
+│  │  └─ list.html
+│  │
+│  ├─ partials/
+│  │  ├─ head.html
+│  │  ├─ header.html
+│  │  ├─ footer.html
+│  │  └─ seo.html
+│
+├─ assets/
+│  ├─ css/
+│  │  └─ main.css
+│  └─ js/
+│     └─ main.js
+│
+├─ static/
+│  └─ images/
+│
+└─ README.md
+
+III. SITEMAP v1 – CỐT LÕI NỘI DUNG
+🏠 Trang chủ
+
+/
+
+Giới thiệu tư tưởng
+
+Các bài nổi bật
+
+Dẫn vào các chuyên mục
+
+📂 Các trụ nội dung chính
+1️⃣ /goc-nhin/
+
+Quan sát xã hội – đời sống – con người
+
+Góc nhìn cá nhân
+
+Nhận diện vấn đề
+
+Không giật gân, không câu view
+
+2️⃣ /phan-tich/
+
+Phân tích sâu – logic – nguyên nhân hệ quả
+
+Tâm lý
+
+Hành vi
+
+Xã hội – hệ thống
+
+3️⃣ /chuyen-doi/
+
+Chữa lành – chuyển hóa – đứng dậy
+
+Trải nghiệm sống
+
+Thức tỉnh
+
+Hướng đi mới
+
+👉 Ba trụ này đủ nuôi site 5 năm
+Sau này muốn thêm:
+
+/dau-tu/
+
+/cong-nghe/
+
+/nhat-ky-song/
+
+👉 Chỉ việc thêm folder trong content/, không đập lại kiến trúc.
+
+IV. QUY TẮC VÀNG (để không lặp lại bi kịch AGX)
+🔒 1. Mỗi bài viết = 1 file .md
+
+Không gắn logic phức tạp
+
+Không phụ thuộc JS
+
+🎨 2. CSS dùng chung – nhưng ít
+
+main.css
+
+Sau này nếu cần:
+
+article.css
+
+gallery.css
+
+👉 Không nhét tất cả vào một file khổng lồ
+
+🧠 3. Gallery / media
+
+Chỉ dùng:
+
+shortcode
+
+hoặc markdown image
+
+Không được dẫn kiến trúc site
