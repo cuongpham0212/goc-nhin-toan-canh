@@ -1,0 +1,46 @@
+/* ===============================
+   Header Module
+   =============================== */
+
+header {
+  border-bottom: 1px solid #e5e7eb;
+  background: #ffffff;
+}
+
+/* Inner nav */
+header nav {
+  max-width: var(--container);
+  margin-inline: auto;
+  padding: var(--space-sm);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Logo */
+header .logo {
+  font-weight: 700;
+  font-size: var(--fs-sm);
+  color: #111827;
+  text-decoration: none;
+  letter-spacing: .02em;
+}
+
+/* Menu */
+header ul {
+  list-style: none;
+  display: flex;
+  gap: var(--space-sm);
+  margin: 0;
+  padding: 0;
+}
+
+header a {
+  text-decoration: none;
+  color: #374151;
+  font-size: var(--fs-sm);
+}
+
+header a:hover {
+  color: #111827;
+}

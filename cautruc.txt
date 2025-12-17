@@ -133,3 +133,22 @@ assets/
 │  ├─ main.js         # core js (menu, scroll)
 │  ├─ article.js      # js cho bài viết (nếu có)
 │  └─ site.js         # file gom
+
+responsive.system.css
+assets/
+└── css/
+    ├── main.css              ← FILE DUY NHẤT hugo load
+    │
+    ├── system/               ← 🧠 HỆ ĐIỀU HÀNH CSS
+    │   ├── reset.css
+    │   ├── tokens.css
+    │   ├── responsive.css
+    │   └── base.css
+    │
+    └── modules/              ← 🧩 CÁC KHỐI CHỨC NĂNG
+        ├── social-share.css
+        ├── toc.css
+        ├── gallery.css
+        ├── gate.css
+        └── article.css
+

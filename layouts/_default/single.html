@@ -1,18 +1,90 @@
 {{ define "main" }}
-    {{ partial "section-hero.html" . }}
-<article>
 
-  <h1>{{ .Page.Title }}</h1>
+  {{ partial "section-hero.html" . }}
 
-  {{ if .Params.toc }}
-  <nav class="toc">
-    <strong>Nội dung</strong>
-    {{ .TableOfContents }}
-  </nav>
+  {{ if .TableOfContents }}
+    <aside class="toc" id="toc">
+      <h2>Mục lục</h2>
+      {{ .TableOfContents }}
+    </aside>
   {{ end }}
 
-  {{ .Content }}
+  <article class="article-body" id="article">
+    {{ .Content }}
+  </article>
 
-</article>
-{{ partial "social-share.html" . }}
+  {{ partial "social-share.html" . }}
+
+  <!-- ===============================
+       STYLE: TOC + ANCHOR + PARAGRAPH FOCUS
+  =============================== -->
+  <style>
+    /* ===== TOC ===== */
+    .toc {
+      max-width: 720px;
+      margin: 2rem auto;
+      padding: 1rem;
+      border-left: 3px solid #e5e7eb;
+      font-size: .9rem;
+    }
+
+    .toc ul {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    .toc a {
+      text-decoration: none;
+      color: #6b7280;
+    }
+
+    .toc a.active {
+      color: #111827;
+      font-weight: 600;
+    }
+
+    /* ===== Anchor cho heading ===== */
+    .article-body h2,
+    .article-body h3,
+    .article-body h4 {
+      position: relative;
+    }
+
+    .article-body h2::before,
+    .article-body h3::before,
+    .article-body h4::before {
+      content: "#";
+      position: absolute;
+      left: -1.2rem;
+      opacity: 0;
+      font-size: .85rem;
+      color: #9ca3af;
+      transition: opacity .2s;
+    }
+
+    .article-body h2:hover::before,
+    .article-body h3:hover::before,
+    .article-body h4:hover::before {
+      opacity: 1;
+    }
+
+    /* ===== Paragraph focus ===== */
+    .article-body > * {
+      transition: opacity .25s ease;
+    }
+
+    .article-body .focus {
+      opacity: 1;
+    }
+
+    .article-body .dim {
+      opacity: .35;
+    }
+  </style>
+
+  <!-- ===============================
+       SCRIPT: HIGHLIGHT + SAVE POSITION + PARAGRAPH FOCUS
+  =============================== -->
+  <script src="{{ resources.Get "js/article-reader.js" | minify | fingerprint | relURL }}" defer></script>
+
 {{ end }}

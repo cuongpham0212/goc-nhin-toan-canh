@@ -1,7 +1,7 @@
 <section class="social-share">
 
   <style>
-    /* ===== Social Share Module (STABLE – NO SDK) ===== */
+    /* ===== Social Share Module (Stable – Long-term) ===== */
 
     .social-share {
       max-width: 720px;
@@ -39,6 +39,26 @@
     .social-share-links button:hover {
       color: #000;
     }
+
+    /* ===== Copy feedback (Zalo-style) ===== */
+    .social-share-toast {
+      margin-top: .9rem;
+      font-size: .85rem;
+      color: #065f46;
+      background: #ecfdf5;
+      display: inline-block;
+      padding: .45rem .8rem;
+      border-radius: 999px;
+      opacity: 0;
+      transform: translateY(6px);
+      transition: all .25s ease;
+      pointer-events: none;
+    }
+
+    .social-share-toast.show {
+      opacity: 1;
+      transform: translateY(0);
+    }
   </style>
 
   <div class="social-share-label">
@@ -56,14 +76,10 @@
       Facebook
     </a>
 
-    <!-- ZALO (WEB SHARE – STABLE) -->
-    <a
-      href="https://zalo.me/share?url={{ .Permalink | urlquery }}"
-      target="_blank"
-      rel="noopener"
-    >
+    <!-- Zalo -->
+    <button onclick="shareZalo()">
       Zalo
-    </a>
+    </button>
 
     <!-- X -->
     <a
@@ -84,10 +100,45 @@
     </a>
 
     <!-- Copy -->
-    <button onclick="navigator.clipboard.writeText('{{ .Permalink }}')">
+    <button onclick="copyLink()">
       Copy link
     </button>
 
   </div>
+
+  <!-- Toast -->
+  <div class="social-share-toast" id="share-toast">
+    ✅ Đã sao chép link
+  </div>
+
+  <script>
+    const SHARE_URL = "{{ .Permalink }}";
+    let toastTimer;
+
+    function showToast(text) {
+      const toast = document.getElementById("share-toast");
+      toast.textContent = text;
+      toast.classList.add("show");
+
+      clearTimeout(toastTimer);
+      toastTimer = setTimeout(() => {
+        toast.classList.remove("show");
+      }, 2000);
+    }
+
+    function copyLink() {
+      navigator.clipboard.writeText(SHARE_URL);
+      showToast("✅ Đã sao chép link");
+    }
+
+    function shareZalo() {
+      navigator.clipboard.writeText(SHARE_URL);
+      showToast("📋 Đã sao chép. Mở Zalo để dán");
+
+      setTimeout(() => {
+        window.location.href = "zalo://";
+      }, 500);
+    }
+  </script>
 
 </section>

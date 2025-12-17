@@ -1,0 +1,16 @@
+:root {
+  /* Font scale */
+  --fs-xs: clamp(0.8rem, 2.3vw, 0.9rem);
+  --fs-sm: clamp(0.85rem, 2.5vw, 0.95rem);
+  --fs-md: clamp(0.95rem, 2.8vw, 1.05rem);
+  --fs-lg: clamp(1.1rem, 3vw, 1.25rem);
+
+  /* Spacing */
+  --space-xs: clamp(0.4rem, 2vw, 0.6rem);
+  --space-sm: clamp(0.6rem, 2.5vw, 0.9rem);
+  --space-md: clamp(1rem, 3vw, 1.4rem);
+  --space-lg: clamp(1.6rem, 4vw, 2.4rem);
+
+  /* Container */
+  --container: min(92vw, 720px);
+}

@@ -1,0 +1,52 @@
+/* ===============================
+   Base Layout & Typography
+   =============================== */
+
+/* Body */
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: var(--fs-md);
+  line-height: 1.7;
+  color: #1f2937;
+  background: #ffffff;
+}
+
+/* Reading container */
+main,
+.container {
+  max-width: var(--container);
+  margin-inline: auto;
+  padding-inline: var(--space-sm);
+}
+
+/* Vertical rhythm for main content */
+main {
+  margin-block: var(--space-lg);
+}
+
+/* Links */
+a {
+  color: #2563eb;
+  text-underline-offset: 2px;
+}
+
+a:hover {
+  color: #1d4ed8;
+}
+
+/* ===============================
+   Reading Progress Bar
+   =============================== */
+
+#reading-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 2px;
+  width: 0;
+  background: #111827;
+  opacity: 0.8;
+  z-index: 9999;
+}

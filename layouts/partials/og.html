@@ -1,0 +1,53 @@
+{{/* =========================================
+     OpenGraph + Social Preview (Unified)
+     FIXED – Hugo safe
+========================================= */}}
+
+{{/* -------- Title -------- */}}
+{{ $title := cond .IsHome .Site.Title (printf "%s | %s" .Title .Site.Title) }}
+
+{{/* -------- Description -------- */}}
+{{ $desc := cond (isset .Params "description")
+    .Params.description
+    (cond .Summary
+      (.Summary | plainify | truncate 160)
+      .Site.Params.description)
+}}
+
+{{/* -------- URL -------- */}}
+{{ $url := .Permalink }}
+
+{{/* -------- Image -------- */}}
+{{ $image := cond (isset .Params "image")
+    (.Params.image | absURL)
+    ("/images/og-default.jpg" | absURL)
+}}
+
+{{/* -------- Basic Meta -------- */}}
+<meta name="description" content="{{ $desc }}">
+
+{{/* -------- OpenGraph (Facebook, Zalo, LinkedIn) -------- */}}
+<meta property="og:type" content="{{ cond .IsHome "website" "article" }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:url" content="{{ $url }}">
+<meta property="og:image" content="{{ $image }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+
+{{/* -------- Article Meta -------- */}}
+{{ if not .IsHome }}
+<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+{{ with .Lastmod }}
+<meta property="article:modified_time" content="{{ .Format "2006-01-02T15:04:05Z07:00" }}">
+{{ end }}
+{{ end }}
+
+{{/* -------- Twitter / X -------- */}}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $desc }}">
+<meta name="twitter:image" content="{{ $image }}">
+
+{{/* -------- LinkedIn uses OG -------- */}}
