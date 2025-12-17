@@ -2,7 +2,8 @@ baseURL = "https://gocnhintoancanh.netlify.app/"
 languageCode = "vi"
 title = "Góc Nhìn Toàn Cảnh"
 
-paginate = 10
+[pagination]
+  pagerSize = 10
 
 [markup]
   [markup.goldmark]
