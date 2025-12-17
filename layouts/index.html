@@ -1,0 +1,58 @@
+{{ define "main" }}
+
+<section class="home-intro">
+  {{ .Content }}
+</section>
+
+<hr style="margin:3rem 0">
+
+<section class="home-latest">
+  <h2>Bài viết mới</h2>
+
+  {{ $latest := first 1 (where .Site.RegularPages "Type" "in" (slice "goc-nhin" "phan-tich" "chuyen-doi")) }}
+
+  {{ range $latest }}
+    <article>
+      <h3>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </h3>
+
+      <div style="font-size:.85rem;color:#6b7280;margin-bottom:.5rem">
+        {{ .Date.Format "02/01/2006" }}
+      </div>
+
+      <p>
+        {{ with .Params.description }}
+          {{ . }}
+        {{ else }}
+          {{ .Summary | plainify | truncate 160 }}
+        {{ end }}
+      </p>
+    </article>
+  {{ end }}
+</section>
+
+<hr style="margin:3rem 0">
+
+<section class="home-sections">
+  <h2>Các trụ nội dung</h2>
+
+  <ul>
+    <li>
+      <strong><a href="/goc-nhin/">Góc nhìn</a></strong><br>
+      Quan sát đời sống, con người và những nghịch lý quen mà lạ.
+    </li>
+
+    <li>
+      <strong><a href="/phan-tich/">Phân tích</a></strong><br>
+      Bóc tách nguyên nhân – hệ quả bằng lý trí và trải nghiệm.
+    </li>
+
+    <li>
+      <strong><a href="/chuyen-doi/">Chuyển đổi</a></strong><br>
+      Những hành trình đứng dậy, chữa lành và tái cấu trúc chính mình.
+    </li>
+  </ul>
+</section>
+
+{{ end }}

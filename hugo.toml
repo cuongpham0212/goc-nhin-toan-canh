@@ -2,10 +2,15 @@ baseURL = "https://gocnhintoancanh.netlify.app/"
 languageCode = "vi"
 title = "Góc Nhìn Toàn Cảnh"
 
+enableRobotsTXT = true
+
 [pagination]
   pagerSize = 10
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+[outputs]
+  home = ["HTML", "RSS", "SITEMAP"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chuyện đời on Góc Nhìn Toàn Cảnh</title>
+    <link>http://localhost:1313/chuyen-doi/</link>
+    <description>Recent content in Chuyện đời on Góc Nhìn Toàn Cảnh</description>
+    <generator>Hugo</generator>
+    <language>vi</language>
+    <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/chuyen-doi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chuyện đời đầu tiên</title>
+      <link>http://localhost:1313/chuyen-doi/chuyen-doi-dau-tien/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chuyen-doi/chuyen-doi-dau-tien/</guid>
+      <description>&lt;h2 id=&#34;đây-là-bài-test-cho-section-chuyện-đời&#34;&gt;Đây là bài test cho section Chuyện đời&lt;/h2&gt;&#xA;&lt;p&gt;Bài viết này &lt;strong&gt;không nhằm nội dung&lt;/strong&gt;,&lt;br&gt;&#xA;mục đích duy nhất là kiểm tra:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hugo có nhận diện &lt;code&gt;chuyen-doi&lt;/code&gt; là &lt;strong&gt;section thực sự&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;_index.md&lt;/code&gt; của section có được dùng để render title hay không&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;nếu-anh-đang-đọc-được-bài-này&#34;&gt;Nếu anh đang đọc được bài này&lt;/h2&gt;&#xA;&lt;p&gt;Điều đó có nghĩa là:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Section &lt;code&gt;chuyen-doi&lt;/code&gt; &lt;strong&gt;đã có bài con&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Hugo &lt;strong&gt;bắt buộc phải coi đây là section&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Mọi logic fallback theo slug &lt;strong&gt;phải bị loại bỏ&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;kết-luận-của-bài-test&#34;&gt;Kết luận của bài test&lt;/h2&gt;&#xA;&lt;p&gt;Sau khi dán bài này:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,11 +1,27 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
+<article>
+  <h1>{{ .Title }}</h1>
 
-<ul>
-  {{ range .Pages }}
-    <li>
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    </li>
-  {{ end }}
-</ul>
+  <ul style="list-style:none; padding-left:0">
+    {{ range .Pages }}
+      <li style="margin-bottom:2rem">
+        <h2 style="margin:0 0 .3rem">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h2>
+
+        <div style="font-size:.85rem; color:#6b7280; margin-bottom:.5rem">
+          {{ .Date.Format "02/01/2006" }}
+        </div>
+
+        <p style="margin:0; color:#374151">
+          {{ with .Params.description }}
+            {{ . }}
+          {{ else }}
+            {{ .Summary | plainify | truncate 160 }}
+          {{ end }}
+        </p>
+      </li>
+    {{ end }}
+  </ul>
+</article>
 {{ end }}

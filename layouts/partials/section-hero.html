@@ -1,0 +1,64 @@
+<section class="section-hero">
+
+  <style>
+    /* ===== Section Hero Module (Dev-visible) ===== */
+
+    .section-hero {
+      max-width: 760px;
+      margin: 5rem auto 4rem;
+      padding: 0 1.2rem;
+      text-align: center;
+    }
+
+    .section-hero-title {
+      font-size: 2.6rem;
+      line-height: 1.2;
+      letter-spacing: -0.02em;
+      margin-bottom: 1.2rem;
+      color: #111827;
+    }
+
+    .section-hero-desc {
+      font-size: 1.15rem;
+      line-height: 1.8;
+      color: #374151;
+      max-width: 680px;
+      margin: 0 auto;
+      font-style: italic;
+    }
+
+    .section-hero-divider {
+      width: 64px;
+      height: 1px;
+      background: #d1d5db;
+      margin: 2.2rem auto 0;
+    }
+
+    @media (max-width: 640px) {
+      .section-hero {
+        margin-top: 3.5rem;
+      }
+
+      .section-hero-title {
+        font-size: 2.1rem;
+      }
+    }
+  </style>
+
+  <!-- HERO TITLE: dùng cho mọi page -->
+  <h1 class="section-hero-title">
+    {{ .Title }}
+  </h1>
+
+  <!-- HERO DESC: CHỈ DÙNG CHO SECTION -->
+  {{ if .IsSection }}
+    {{ with .Content }}
+      <p class="section-hero-desc">
+        {{ . }}
+      </p>
+    {{ end }}
+  {{ end }}
+
+  <div class="section-hero-divider"></div>
+
+</section>

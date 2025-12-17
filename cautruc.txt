@@ -121,3 +121,15 @@ shortcode
 hoặc markdown image
 
 Không được dẫn kiến trúc site
+
+assets/
+├─ css/
+│  ├─ base.css        # typography, layout, màu, đọc lâu
+│  ├─ header.css      # header + menu
+│  ├─ article.css     # bài viết
+│  └─ main.css        # file gom (import)
+│
+├─ js/
+│  ├─ main.js         # core js (menu, scroll)
+│  ├─ article.js      # js cho bài viết (nếu có)
+│  └─ site.js         # file gom

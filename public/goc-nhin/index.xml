@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Góc nhìn on Góc Nhìn Toàn Cảnh</title>
+    <link>http://localhost:1313/goc-nhin/</link>
+    <description>Recent content in Góc nhìn on Góc Nhìn Toàn Cảnh</description>
+    <generator>Hugo</generator>
+    <language>vi</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/goc-nhin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vì sao cần một Góc Nhìn Toàn Cảnh</title>
+      <link>http://localhost:1313/goc-nhin/goc-nhin-dau-tien/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/goc-nhin/goc-nhin-dau-tien/</guid>
+      <description>&lt;h2 id=&#34;vì-sao-tôi-viết-những-dòng-này&#34;&gt;Vì sao tôi viết những dòng này&lt;/h2&gt;&#xA;&lt;p&gt;Giữa rất nhiều tiếng ồn của tin tức, mạng xã hội và quan điểm cực đoan,&#xA;tôi nhận ra mình cần một không gian chậm hơn để nhìn lại mọi thứ&#xA;từ nhiều lớp cắt khác nhau.&lt;/p&gt;&#xA;&lt;p&gt;Không để phán xét.&#xA;Chỉ để hiểu.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;góc-nhìn-không-phải-để-thắng-thua&#34;&gt;Góc nhìn không phải để thắng thua&lt;/h2&gt;&#xA;&lt;p&gt;Một góc nhìn toàn cảnh không tìm cách chứng minh mình đúng,&#xA;mà tìm cách nhìn đủ rộng để thấy vì sao người khác có thể nghĩ khác.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,93 @@
+<section class="social-share">
+
+  <style>
+    /* ===== Social Share Module (STABLE – NO SDK) ===== */
+
+    .social-share {
+      max-width: 720px;
+      margin: 4rem auto 3rem;
+      padding: 2rem 1.2rem 0;
+      border-top: 1px solid #e5e7eb;
+      text-align: center;
+    }
+
+    .social-share-label {
+      font-size: .9rem;
+      color: #6b7280;
+      margin-bottom: .8rem;
+    }
+
+    .social-share-links {
+      display: flex;
+      justify-content: center;
+      gap: 1.4rem;
+      flex-wrap: wrap;
+    }
+
+    .social-share-links a,
+    .social-share-links button {
+      font-size: .9rem;
+      background: none;
+      border: none;
+      color: #111827;
+      cursor: pointer;
+      text-decoration: underline;
+      padding: 0;
+    }
+
+    .social-share-links a:hover,
+    .social-share-links button:hover {
+      color: #000;
+    }
+  </style>
+
+  <div class="social-share-label">
+    Nếu bài viết này có ích, bạn có thể chia sẻ
+  </div>
+
+  <div class="social-share-links">
+
+    <!-- Facebook -->
+    <a
+      href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}"
+      target="_blank"
+      rel="noopener"
+    >
+      Facebook
+    </a>
+
+    <!-- ZALO (WEB SHARE – STABLE) -->
+    <a
+      href="https://zalo.me/share?url={{ .Permalink | urlquery }}"
+      target="_blank"
+      rel="noopener"
+    >
+      Zalo
+    </a>
+
+    <!-- X -->
+    <a
+      href="https://twitter.com/intent/tweet?url={{ .Permalink | urlquery }}&text={{ .Title | urlquery }}"
+      target="_blank"
+      rel="noopener"
+    >
+      X
+    </a>
+
+    <!-- LinkedIn -->
+    <a
+      href="https://www.linkedin.com/sharing/share-offsite/?url={{ .Permalink | urlquery }}"
+      target="_blank"
+      rel="noopener"
+    >
+      LinkedIn
+    </a>
+
+    <!-- Copy -->
+    <button onclick="navigator.clipboard.writeText('{{ .Permalink }}')">
+      Copy link
+    </button>
+
+  </div>
+
+</section>

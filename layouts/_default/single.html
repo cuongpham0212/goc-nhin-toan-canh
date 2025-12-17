@@ -1,6 +1,18 @@
 {{ define "main" }}
+    {{ partial "section-hero.html" . }}
 <article>
-  <h1>{{ .Title }}</h1>
+
+  <h1>{{ .Page.Title }}</h1>
+
+  {{ if .Params.toc }}
+  <nav class="toc">
+    <strong>Nội dung</strong>
+    {{ .TableOfContents }}
+  </nav>
+  {{ end }}
+
   {{ .Content }}
+
 </article>
+{{ partial "social-share.html" . }}
 {{ end }}
