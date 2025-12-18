@@ -139,16 +139,17 @@ assets/
 └── css/
     ├── main.css              ← FILE DUY NHẤT hugo load
     │
-    ├── system/               ← 🧠 HỆ ĐIỀU HÀNH CSS
+    ├── system/               ← HỆ ĐIỀU HÀNH CSS (KHÔNG ĐỤNG)
     │   ├── reset.css
     │   ├── tokens.css
     │   ├── responsive.css
     │   └── base.css
     │
-    └── modules/              ← 🧩 CÁC KHỐI CHỨC NĂNG
-        ├── social-share.css
+    └── modules/              ← CÁC KHỐI TỰ TRỊ
+        ├── home.css          ← 👈 FILE EM ĐƯA ANH
+        ├── article.css
         ├── toc.css
         ├── gallery.css
         ├── gate.css
-        └── article.css
+        └── social-share.css
 

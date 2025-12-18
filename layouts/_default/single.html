@@ -2,18 +2,25 @@
 
   {{ partial "section-hero.html" . }}
 
-  {{ if .TableOfContents }}
-    <aside class="toc" id="toc">
-      <h2>Mục lục</h2>
-      {{ .TableOfContents }}
-    </aside>
-  {{ end }}
+  <!-- ===============================
+       READING CONTAINER
+  =============================== -->
+  <div class="container">
 
-  <article class="article-body" id="article">
-    {{ .Content }}
-  </article>
+    {{ if .TableOfContents }}
+      <aside class="toc" id="toc">
+        <h2>Mục lục</h2>
+        {{ .TableOfContents }}
+      </aside>
+    {{ end }}
 
-  {{ partial "social-share.html" . }}
+    <article class="article-body" id="article">
+      {{ .Content }}
+    </article>
+
+    {{ partial "social-share.html" . }}
+
+  </div>
 
   <!-- ===============================
        STYLE: TOC + ANCHOR + PARAGRAPH FOCUS
@@ -21,9 +28,8 @@
   <style>
     /* ===== TOC ===== */
     .toc {
-      max-width: 720px;
-      margin: 2rem auto;
-      padding: 1rem;
+      margin: 2.5rem auto;
+      padding: 1rem 1.25rem;
       border-left: 3px solid #e5e7eb;
       font-size: .9rem;
     }
@@ -83,7 +89,7 @@
   </style>
 
   <!-- ===============================
-       SCRIPT: HIGHLIGHT + SAVE POSITION + PARAGRAPH FOCUS
+       SCRIPT: ARTICLE READER
   =============================== -->
   <script src="{{ resources.Get "js/article-reader.js" | minify | fingerprint | relURL }}" defer></script>
 

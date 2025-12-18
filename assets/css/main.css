@@ -5,9 +5,20 @@
 @import "system/base.css";
 
 /* ===== MODULES ===== */
+@import "modules/home.css";
 @import "modules/header.css";
 @import "modules/article.css";
 @import "modules/social-share.css";
 @import "modules/toc.css";
 @import "modules/gallery.css";
 @import "modules/gate.css";
+
+/* ===============================
+   GLOBAL BACKGROUND & TEXT TONE
+================================ */
+
+body {
+  background-color: #f4f3ef; /* nền ấm hơn */
+  color: #1f2937;
+}
+

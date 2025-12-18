@@ -14,7 +14,6 @@ body {
 }
 
 /* Reading container */
-main,
 .container {
   max-width: var(--container);
   margin-inline: auto;

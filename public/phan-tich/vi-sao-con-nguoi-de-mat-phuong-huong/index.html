@@ -66,8 +66,8 @@
 
 
 <link rel="stylesheet"
-      href="/css/main.min.05f97f37db0e17c2a3a5a0619240c87c3ca6c64589331d4d92b108b6cfeaabe9.css"
-      integrity="sha256-Bfl/N9sOF8KjpaBhkkDIfDymxkWJMx1NkrEIts/qq&#43;k=">
+      href="/css/main.min.0510a24856c2f6bd924a4ab47ad3dab67644f1cf6d119b839d16220f75613229.css"
+      integrity="sha256-BRCiSFbC9r2SSkq0etPatnZE8c9tEZuDnRYiD3VhMik=">
 
 
 
@@ -143,20 +143,27 @@
 
 
 </head>
-<body>
+<body class="">
+
 <div id="reading-progress"></div>
 
-  <header>
-  <nav>
-    <a href="/" class="logo">Góc Nhìn Toàn Cảnh</a>
+  <header class="site-header">
+  <div class="site-header-inner">
 
-    <ul>
-      <li><a href="/goc-nhin/">Góc nhìn</a></li>
-      <li><a href="/phan-tich/">Phân tích</a></li>
-      <li><a href="/chuyen-doi/">Chuyển đổi</a></li>
-      <li><a href="/gioi-thieu/">Giới thiệu</a></li>
-    </ul>
-  </nav>
+    
+    <div class="site-brand">
+      <a href="/">Góc Nhìn Toàn Cảnh</a>
+    </div>
+
+    
+    <nav class="site-nav">
+      <a href="/goc-nhin/">Góc nhìn</a>
+      <a href="/phan-tich/">Phân tích</a>
+      <a href="/chuyen-doi/">Chuyển đổi</a>
+      <a href="/gioi-thieu/">Giới thiệu</a>
+    </nav>
+
+  </div>
 </header>
 
 
@@ -196,7 +203,7 @@
       width: 64px;
       height: 1px;
       background: #d1d5db;
-      margin: 2.2rem auto 0;
+      margin: 2.2rem auto;
     }
 
     @media (max-width: 640px) {
@@ -206,6 +213,10 @@
 
       .section-hero-title {
         font-size: 2.1rem;
+      }
+
+      .section-hero-desc {
+        font-size: 1.05rem;
       }
     }
   </style>
@@ -224,9 +235,12 @@
 
 
   
-    <aside class="toc" id="toc">
-      <h2>Mục lục</h2>
-      <nav id="TableOfContents">
+  <div class="container">
+
+    
+      <aside class="toc" id="toc">
+        <h2>Mục lục</h2>
+        <nav id="TableOfContents">
   <ul>
     <li><a href="#sự-đủ-đầy-bên-ngoài-và-trống-rỗng-bên-trong">Sự đủ đầy bên ngoài và trống rỗng bên trong</a></li>
     <li><a href="#áp-lực-phải-trở-thành-một-ai-đó">Áp lực phải trở thành một ai đó</a></li>
@@ -234,11 +248,11 @@
     <li><a href="#phương-hướng-không-phải-là-mục-tiêu">Phương hướng không phải là mục tiêu</a></li>
   </ul>
 </nav>
-    </aside>
-  
+      </aside>
+    
 
-  <article class="article-body" id="article">
-    <h2 id="sự-đủ-đầy-bên-ngoài-và-trống-rỗng-bên-trong">Sự đủ đầy bên ngoài và trống rỗng bên trong</h2>
+    <article class="article-body" id="article">
+      <h2 id="sự-đủ-đầy-bên-ngoài-và-trống-rỗng-bên-trong">Sự đủ đầy bên ngoài và trống rỗng bên trong</h2>
 <p>Chưa bao giờ con người có nhiều công cụ, nhiều lựa chọn
 và nhiều “cơ hội” như hiện tại.
 Nhưng cũng chưa bao giờ cảm giác lạc lối lại phổ biến đến vậy.</p>
@@ -262,9 +276,9 @@ mà ở việc hiểu rõ:
 mình đang sống vì điều gì,
 và điều gì khiến mình chấp nhận đánh đổi.</p>
 
-  </article>
+    </article>
 
-  <section class="social-share">
+    <section class="social-share">
 
   <style>
      
@@ -410,13 +424,14 @@ và điều gì khiến mình chấp nhận đánh đổi.</p>
 </section>
 
 
+  </div>
+
   
   <style>
      
     .toc {
-      max-width: 720px;
-      margin: 2rem auto;
-      padding: 1rem;
+      margin: 2.5rem auto;
+      padding: 1rem 1.25rem;
       border-left: 3px solid #e5e7eb;
       font-size: .9rem;
     }

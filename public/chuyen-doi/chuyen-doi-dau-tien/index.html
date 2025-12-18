@@ -68,8 +68,8 @@ Hugo có nhận diện chuyen-doi là section thực sự …
 
 
 <link rel="stylesheet"
-      href="/css/main.min.05f97f37db0e17c2a3a5a0619240c87c3ca6c64589331d4d92b108b6cfeaabe9.css"
-      integrity="sha256-Bfl/N9sOF8KjpaBhkkDIfDymxkWJMx1NkrEIts/qq&#43;k=">
+      href="/css/main.min.0510a24856c2f6bd924a4ab47ad3dab67644f1cf6d119b839d16220f75613229.css"
+      integrity="sha256-BRCiSFbC9r2SSkq0etPatnZE8c9tEZuDnRYiD3VhMik=">
 
 
 
@@ -145,20 +145,27 @@ Hugo có nhận diện chuyen-doi là section thực sự …
 
 
 </head>
-<body>
+<body class="">
+
 <div id="reading-progress"></div>
 
-  <header>
-  <nav>
-    <a href="/" class="logo">Góc Nhìn Toàn Cảnh</a>
+  <header class="site-header">
+  <div class="site-header-inner">
 
-    <ul>
-      <li><a href="/goc-nhin/">Góc nhìn</a></li>
-      <li><a href="/phan-tich/">Phân tích</a></li>
-      <li><a href="/chuyen-doi/">Chuyển đổi</a></li>
-      <li><a href="/gioi-thieu/">Giới thiệu</a></li>
-    </ul>
-  </nav>
+    
+    <div class="site-brand">
+      <a href="/">Góc Nhìn Toàn Cảnh</a>
+    </div>
+
+    
+    <nav class="site-nav">
+      <a href="/goc-nhin/">Góc nhìn</a>
+      <a href="/phan-tich/">Phân tích</a>
+      <a href="/chuyen-doi/">Chuyển đổi</a>
+      <a href="/gioi-thieu/">Giới thiệu</a>
+    </nav>
+
+  </div>
 </header>
 
 
@@ -198,7 +205,7 @@ Hugo có nhận diện chuyen-doi là section thực sự …
       width: 64px;
       height: 1px;
       background: #d1d5db;
-      margin: 2.2rem auto 0;
+      margin: 2.2rem auto;
     }
 
     @media (max-width: 640px) {
@@ -208,6 +215,10 @@ Hugo có nhận diện chuyen-doi là section thực sự …
 
       .section-hero-title {
         font-size: 2.1rem;
+      }
+
+      .section-hero-desc {
+        font-size: 1.05rem;
       }
     }
   </style>
@@ -226,20 +237,23 @@ Hugo có nhận diện chuyen-doi là section thực sự …
 
 
   
-    <aside class="toc" id="toc">
-      <h2>Mục lục</h2>
-      <nav id="TableOfContents">
+  <div class="container">
+
+    
+      <aside class="toc" id="toc">
+        <h2>Mục lục</h2>
+        <nav id="TableOfContents">
   <ul>
     <li><a href="#đây-là-bài-test-cho-section-chuyện-đời">Đây là bài test cho section Chuyện đời</a></li>
     <li><a href="#nếu-anh-đang-đọc-được-bài-này">Nếu anh đang đọc được bài này</a></li>
     <li><a href="#kết-luận-của-bài-test">Kết luận của bài test</a></li>
   </ul>
 </nav>
-    </aside>
-  
+      </aside>
+    
 
-  <article class="article-body" id="article">
-    <h2 id="đây-là-bài-test-cho-section-chuyện-đời">Đây là bài test cho section Chuyện đời</h2>
+    <article class="article-body" id="article">
+      <h2 id="đây-là-bài-test-cho-section-chuyện-đời">Đây là bài test cho section Chuyện đời</h2>
 <p>Bài viết này <strong>không nhằm nội dung</strong>,<br>
 mục đích duy nhất là kiểm tra:</p>
 <ul>
@@ -266,9 +280,9 @@ mục đích duy nhất là kiểm tra:</p>
 <p>👉 Nếu title chuyển thành <strong>“Chuyện đời”</strong><br>
 → ta xác nhận <strong>Hugo OK, lỗi nằm ở template hiện tại</strong></p>
 
-  </article>
+    </article>
 
-  <section class="social-share">
+    <section class="social-share">
 
   <style>
      
@@ -414,13 +428,14 @@ mục đích duy nhất là kiểm tra:</p>
 </section>
 
 
+  </div>
+
   
   <style>
      
     .toc {
-      max-width: 720px;
-      margin: 2rem auto;
-      padding: 1rem;
+      margin: 2.5rem auto;
+      padding: 1rem 1.25rem;
       border-left: 3px solid #e5e7eb;
       font-size: .9rem;
     }

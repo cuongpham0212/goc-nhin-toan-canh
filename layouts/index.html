@@ -1,58 +1,80 @@
 {{ define "main" }}
+<link rel="stylesheet" href="{{ "css/home.css" | relURL }}">
 
-<section class="home-intro">
-  {{ .Content }}
-</section>
+<div class="home">
 
-<hr style="margin:3rem 0">
+  <!-- CONTAINER -->
+  <div class="home-container">
 
-<section class="home-latest">
-  <h2>Bài viết mới</h2>
+    <!-- =========================
+         CỘT TRÁI: MAIN
+    ========================== -->
+    <main class="home-main">
 
-  {{ $latest := first 1 (where .Site.RegularPages "Type" "in" (slice "goc-nhin" "phan-tich" "chuyen-doi")) }}
+      <!-- KHỐI 1: GIỚI THIỆU / TỰA
+           👉 LẤY NỘI DUNG TỪ _index.md
+      -->
+      <section class="home-block home-intro">
+        <h1 class="home-title">{{ .Title }}</h1>
 
-  {{ range $latest }}
-    <article>
-      <h3>
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-      </h3>
+        <div class="home-intro-content">
+          {{ .Content }}
+        </div>
+      </section>
 
-      <div style="font-size:.85rem;color:#6b7280;margin-bottom:.5rem">
-        {{ .Date.Format "02/01/2006" }}
+      <!-- KHỐI 2: NỘI DUNG MỞ (để gắn thêm sau) -->
+      <section class="home-block">
+        <h2>Nội dung chính</h2>
+
+        <p>
+          Đây là khối nội dung trung tâm.
+          Sau này có thể gắn:
+          bài viết nổi bật, đoạn editorial, module tuỳ chỉnh,
+          hoặc bất kỳ khối HTML nào mà không ảnh hưởng cấu trúc chung.
+        </p>
+      </section>
+
+      <!-- KHỐI 3: PLACEHOLDER -->
+      <section class="home-block home-placeholder">
+        <p>[ Khối mở – thêm nội dung sau ]</p>
+      </section>
+
+    </main>
+
+    <!-- =========================
+         CỘT PHẢI: SIDEBAR
+    ========================== -->
+    <aside class="home-sidebar">
+
+      <!-- BOX 1 -->
+      <div class="sidebar-box">
+        <h3>Định hướng</h3>
+        <ul>
+          <li>Quan sát xã hội</li>
+          <li>Tâm lý &amp; hành vi</li>
+          <li>Đời sống cá nhân</li>
+          <li>Tài chính – đầu tư</li>
+        </ul>
       </div>
 
-      <p>
-        {{ with .Params.description }}
-          {{ . }}
-        {{ else }}
-          {{ .Summary | plainify | truncate 160 }}
-        {{ end }}
-      </p>
-    </article>
-  {{ end }}
-</section>
+      <!-- BOX 2 -->
+      <div class="sidebar-box">
+        <h3>Ghi chú</h3>
+        <p>
+          Cột này có thể treo:
+          menu phụ, trích dẫn, banner,
+          module custom hoặc quảng cáo sau này.
+        </p>
+      </div>
 
-<hr style="margin:3rem 0">
+      <!-- BOX MỞ -->
+      <div class="sidebar-box sidebar-placeholder">
+        <p>[ Sidebar block – thêm sau ]</p>
+      </div>
 
-<section class="home-sections">
-  <h2>Các trụ nội dung</h2>
+    </aside>
 
-  <ul>
-    <li>
-      <strong><a href="/goc-nhin/">Góc nhìn</a></strong><br>
-      Quan sát đời sống, con người và những nghịch lý quen mà lạ.
-    </li>
+  </div>
 
-    <li>
-      <strong><a href="/phan-tich/">Phân tích</a></strong><br>
-      Bóc tách nguyên nhân – hệ quả bằng lý trí và trải nghiệm.
-    </li>
-
-    <li>
-      <strong><a href="/chuyen-doi/">Chuyển đổi</a></strong><br>
-      Những hành trình đứng dậy, chữa lành và tái cấu trúc chính mình.
-    </li>
-  </ul>
-</section>
-
+</div>
 {{ end }}

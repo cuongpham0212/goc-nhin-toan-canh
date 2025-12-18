@@ -1,0 +1,120 @@
+/* ===============================
+   HOME – BASE
+================================ */
+
+.home {
+  background: transparent;
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+.home-container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 0.25rem 1rem; 
+  display: flex;
+  gap: 3rem;
+}
+
+
+/* ===============================
+   MAIN COLUMN
+================================ */
+
+.home-main {
+  flex: 1 1 65%;
+  background: #fbfbf9;
+  color: #1f2937;
+  padding: 0.25rem 2.5rem;
+  border-radius: 6px;
+}
+
+.home-title {
+  font-size: 2.2rem;
+  margin-bottom: 1rem;
+  margin-top: 0;
+}
+
+.home-block {
+  margin-bottom: 3rem;
+}
+
+.home-block h2 {
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+}
+
+.home-block p {
+  margin-bottom: 1rem;
+}
+
+.home-placeholder {
+  border: 1px dashed #d1d5db;
+  padding: 1.5rem;
+  color: #6b7280;
+}
+
+/* ===============================
+   SIDEBAR
+================================ */
+
+.home-sidebar {
+  flex: 0 0 280px;
+  background: transparent;
+  color: #374151;
+}
+
+.sidebar-box {
+  margin-bottom: 2rem;
+  padding: 1.2rem 1.2rem 1.4rem;
+  background: #fbfbf9;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+}
+
+.sidebar-box h3 {
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.8rem;
+}
+
+.sidebar-box ul {
+  padding-left: 1.1rem;
+  margin: 0;
+}
+
+.sidebar-box li {
+  margin-bottom: 0.5rem;
+}
+
+.sidebar-placeholder {
+  border-style: dashed;
+  color: #6b7280;
+}
+
+/* ===============================
+   RESPONSIVE
+================================ */
+
+@media (max-width: 900px) {
+  .home-container {
+    flex-direction: column;
+  }
+
+  .home-sidebar {
+    flex: 1 1 auto;
+  }
+}
+/* ===============================
+   INTRO CONTENT – JUSTIFY TEXT
+================================ */
+
+.home-intro-content {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.home-intro-content p {
+  margin-bottom: 1.2rem;
+}

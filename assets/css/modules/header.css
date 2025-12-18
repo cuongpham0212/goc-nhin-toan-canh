@@ -1,46 +1,76 @@
 /* ===============================
-   Header Module
-   =============================== */
+   SITE HEADER
+================================ */
 
-header {
+.site-header {
+  background: #f8f9fa;
   border-bottom: 1px solid #e5e7eb;
-  background: #ffffff;
 }
 
-/* Inner nav */
-header nav {
-  max-width: var(--container);
-  margin-inline: auto;
-  padding: var(--space-sm);
+.site-header-inner {
+  max-width: 1200px;
+  margin: auto;
+  padding: 1rem 1.5rem;
+
   display: flex;
-  justify-content: space-between;
   align-items: center;
+  justify-content: space-between;
 }
 
-/* Logo */
-header .logo {
-  font-weight: 700;
-  font-size: var(--fs-sm);
-  color: #111827;
+/* ===============================
+   BRAND
+================================ */
+
+.site-brand a {
+  font-size: 1.05rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
   text-decoration: none;
-  letter-spacing: .02em;
+  color: #111827;
 }
 
-/* Menu */
-header ul {
-  list-style: none;
+/* ===============================
+   NAV MENU
+================================ */
+
+.site-nav {
   display: flex;
-  gap: var(--space-sm);
-  margin: 0;
-  padding: 0;
+  gap: 1.75rem;
 }
 
-header a {
+.site-nav a {
+  position: relative;
+  font-size: 0.95rem;
   text-decoration: none;
-  color: #374151;
-  font-size: var(--fs-sm);
+  color: #4b5563;
+  padding: 0.25rem 0;
 }
 
-header a:hover {
+/* underline tinh tế */
+.site-nav a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -4px;
+  width: 0;
+  height: 1px;
+  background: #111827;
+  transition: width 0.25s ease;
+}
+
+/* hover */
+.site-nav a:hover {
   color: #111827;
+}
+
+.site-nav a:hover::after {
+  width: 100%;
+}
+
+/* ===============================
+   ACTIVE MENU (nếu có)
+================================ */
+
+.site-nav a.active::after {
+  width: 100%;
 }

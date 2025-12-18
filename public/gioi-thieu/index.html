@@ -68,8 +68,8 @@
 
 
 <link rel="stylesheet"
-      href="/css/main.min.05f97f37db0e17c2a3a5a0619240c87c3ca6c64589331d4d92b108b6cfeaabe9.css"
-      integrity="sha256-Bfl/N9sOF8KjpaBhkkDIfDymxkWJMx1NkrEIts/qq&#43;k=">
+      href="/css/main.min.0510a24856c2f6bd924a4ab47ad3dab67644f1cf6d119b839d16220f75613229.css"
+      integrity="sha256-BRCiSFbC9r2SSkq0etPatnZE8c9tEZuDnRYiD3VhMik=">
 
 
 
@@ -145,20 +145,27 @@
 
 
 </head>
-<body>
+<body class="">
+
 <div id="reading-progress"></div>
 
-  <header>
-  <nav>
-    <a href="/" class="logo">Góc Nhìn Toàn Cảnh</a>
+  <header class="site-header">
+  <div class="site-header-inner">
 
-    <ul>
-      <li><a href="/goc-nhin/">Góc nhìn</a></li>
-      <li><a href="/phan-tich/">Phân tích</a></li>
-      <li><a href="/chuyen-doi/">Chuyển đổi</a></li>
-      <li><a href="/gioi-thieu/">Giới thiệu</a></li>
-    </ul>
-  </nav>
+    
+    <div class="site-brand">
+      <a href="/">Góc Nhìn Toàn Cảnh</a>
+    </div>
+
+    
+    <nav class="site-nav">
+      <a href="/goc-nhin/">Góc nhìn</a>
+      <a href="/phan-tich/">Phân tích</a>
+      <a href="/chuyen-doi/">Chuyển đổi</a>
+      <a href="/gioi-thieu/">Giới thiệu</a>
+    </nav>
+
+  </div>
 </header>
 
 
@@ -198,7 +205,7 @@
       width: 64px;
       height: 1px;
       background: #d1d5db;
-      margin: 2.2rem auto 0;
+      margin: 2.2rem auto;
     }
 
     @media (max-width: 640px) {
@@ -208,6 +215,10 @@
 
       .section-hero-title {
         font-size: 2.1rem;
+      }
+
+      .section-hero-desc {
+        font-size: 1.05rem;
       }
     }
   </style>
@@ -226,21 +237,24 @@
 
 
   
-    <aside class="toc" id="toc">
-      <h2>Mục lục</h2>
-      <nav id="TableOfContents"></nav>
-    </aside>
-  
+  <div class="container">
 
-  <article class="article-body" id="article">
-    <p><strong>Góc Nhìn Toàn Cảnh</strong> không phải một blog tin tức.</p>
+    
+      <aside class="toc" id="toc">
+        <h2>Mục lục</h2>
+        <nav id="TableOfContents"></nav>
+      </aside>
+    
+
+    <article class="article-body" id="article">
+      <p><strong>Góc Nhìn Toàn Cảnh</strong> không phải một blog tin tức.</p>
 <p>Đây là không gian chia sẻ những góc nhìn sâu,
 được chắt lọc từ trải nghiệm sống, quan sát xã hội
 và những lần va đập thật với đời.</p>
 
-  </article>
+    </article>
 
-  <section class="social-share">
+    <section class="social-share">
 
   <style>
      
@@ -386,13 +400,14 @@ và những lần va đập thật với đời.</p>
 </section>
 
 
+  </div>
+
   
   <style>
      
     .toc {
-      max-width: 720px;
-      margin: 2rem auto;
-      padding: 1rem;
+      margin: 2.5rem auto;
+      padding: 1rem 1.25rem;
       border-left: 3px solid #e5e7eb;
       font-size: .9rem;
     }

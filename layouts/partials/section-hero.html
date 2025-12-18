@@ -1,7 +1,10 @@
 <section class="section-hero">
 
   <style>
-    /* ===== Section Hero Module (Dev-visible) ===== */
+    /* ===============================
+       SECTION HERO MODULE
+       Lightweight – inline CSS
+    =============================== */
 
     .section-hero {
       max-width: 760px;
@@ -31,7 +34,7 @@
       width: 64px;
       height: 1px;
       background: #d1d5db;
-      margin: 2.2rem auto 0;
+      margin: 2.2rem auto;
     }
 
     @media (max-width: 640px) {
@@ -42,16 +45,20 @@
       .section-hero-title {
         font-size: 2.1rem;
       }
+
+      .section-hero-desc {
+        font-size: 1.05rem;
+      }
     }
   </style>
 
-  <!-- HERO TITLE: dùng cho mọi page -->
+  <!-- HERO TITLE -->
   <h1 class="section-hero-title">
     {{ .Title }}
   </h1>
 
-  <!-- HERO DESC: CHỈ DÙNG CHO SECTION -->
-  {{ if .IsSection }}
+  <!-- HERO DESCRIPTION (HOME / SECTION) -->
+  {{ if or .IsHome .IsSection }}
     {{ with .Content }}
       <p class="section-hero-desc">
         {{ . }}

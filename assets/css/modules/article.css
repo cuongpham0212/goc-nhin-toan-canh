@@ -1,23 +1,37 @@
-article h1 {
-  font-size: 2rem;
-  line-height: 1.3;
+/* ===============================
+   ARTICLE CONTENT
+================================ */
+
+.article-body h1 {
+  font-size: 2.1rem;
+  line-height: 1.25;
   margin: 0 0 1.5rem;
+  letter-spacing: -0.01em;
 }
 
-article h2 {
-  font-size: 1.4rem;
-  margin: 2.5rem 0 1rem;
+.article-body h2 {
+  font-size: 1.45rem;
+  margin: 3rem 0 1rem;
 }
 
-article h3 { font-size: 1.15rem; margin-top: 2rem; }
-
-article p { margin: 1.2rem 0; }
-
-article ul, article ol {
-  margin: 1.2rem 0 1.2rem 1.5rem;
+.article-body h3 {
+  font-size: 1.2rem;
+  margin-top: 2.2rem;
 }
 
-article blockquote {
+.article-body p {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: #374151;
+  margin: 1.4rem 0;
+}
+
+.article-body ul,
+.article-body ol {
+  margin: 1.4rem 0 1.4rem 1.5rem;
+}
+
+.article-body blockquote {
   margin: 2rem 0;
   padding-left: 1rem;
   border-left: 3px solid #d1d5db;
@@ -25,18 +39,9 @@ article blockquote {
   font-style: italic;
 }
 
-.home-latest h3 {
-  margin-bottom: .3rem;
-}
-
-.home-sections ul {
-  list-style: none;
-  padding-left: 0;
-}
-
-.home-sections li {
-  margin-bottom: 1.2rem;
-}
+/* ===============================
+   TOC
+================================ */
 
 .toc {
   border-left: 3px solid #e5e7eb;
@@ -63,62 +68,45 @@ article blockquote {
   text-decoration: underline;
 }
 
-article > h1 {
-  font-size: 2.1rem;
-  line-height: 1.25;
-  margin-bottom: 1rem;
-  letter-spacing: -0.01em;
+/* ==================================================
+   SECTION LIST – 2 COLUMN EDITORIAL LAYOUT (FINAL)
+================================================== */
+
+.section-layout {
+  max-width: 1440px;
+  margin-inline: auto;
+  padding: 0 2rem;
+  display: grid;
+  grid-template-columns: minmax(0, 2.4fr) minmax(0, 1fr);
+  gap: 3.5rem;
 }
 
-article > p {
-  font-size: 1.05rem;
-  color: #4b5563;
-  margin-bottom: 2.5rem;
-}
-
-article h2 {
-  font-size: 1.45rem;
-  margin-top: 3rem;
-  margin-bottom: 1rem;
-}
-
-article h3 {
-  font-size: 1.2rem;
-  margin-top: 2.2rem;
-}
-
-article p {
-  font-size: 1.05rem;
-  line-height: 1.8;
-  margin: 1.4rem 0;
-}
-
-/* ===== Section list ===== */
-
-.section-intro {
-  font-size: 1.05rem;
-  color: #4b5563;
-  margin-bottom: 3rem;
+/* MAIN COLUMN */
+.section-main {
+  min-width: 0;
 }
 
 .section-list {
   list-style: none;
-  padding-left: 0;
+  margin: 0;
+  padding: 0;
 }
 
 .section-item {
-  margin-bottom: 2.5rem;
+  padding-bottom: 2.75rem;
+  margin-bottom: 2.75rem;
+  border-bottom: 1px solid #e5e7eb;
 }
 
 .section-item-title {
-  font-size: 1.25rem;
+  font-size: 1.4rem;
   line-height: 1.4;
-  margin: 0 0 .4rem;
+  margin: 0 0 .5rem;
 }
 
 .section-item-title a {
-  text-decoration: none;
   color: #111827;
+  text-decoration: none;
 }
 
 .section-item-title a:hover {
@@ -128,10 +116,64 @@ article p {
 .section-item-meta {
   font-size: .85rem;
   color: #6b7280;
-  margin-bottom: .6rem;
+  margin-bottom: .8rem;
 }
 
 .section-item-desc {
-  color: #374151;
+  font-size: 1.05rem;
   line-height: 1.75;
+  color: #374151;
+}
+
+/* SIDEBAR */
+.section-sidebar {
+  position: sticky;
+  top: 6rem;
+}
+
+.sidebar-block {
+  padding: 1.5rem;
+  margin-bottom: 2.5rem;
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+}
+
+.sidebar-block h3 {
+  font-size: 1rem;
+  margin-bottom: .75rem;
+}
+
+.sidebar-block ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar-block li {
+  margin-bottom: .6rem;
+}
+
+.sidebar-block a {
+  font-size: .9rem;
+  text-decoration: none;
+  color: #2563eb;
+}
+
+.sidebar-block a:hover {
+  text-decoration: underline;
+}
+
+/* ===============================
+   RESPONSIVE
+================================ */
+
+@media (max-width: 1024px) {
+  .section-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .section-sidebar {
+    position: static;
+  }
 }
