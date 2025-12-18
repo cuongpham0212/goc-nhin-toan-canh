@@ -157,14 +157,15 @@
     width: 42px;
     height: 2px;
     background: #1f2937;
-    margin-top: 0.75rem;
+    margin: 0.75rem auto 0;
   }
 
   /* INTRO TEXT */
   .home-intro-content {
     font-size: 0.95rem;
     line-height: 1.85;
-    text-align: left; /* mobile KHÔNG justify */
+    text-align: justify;
+    text-justify: inter-word;
   }
 
   /* CÁC BLOCK SAU */
@@ -189,4 +190,17 @@
   .sidebar-box h3 {
     font-size: 0.85rem;
   }
+}
+
+@media (max-width: 768px) {
+
+  /* Giảm khoảng cách từ menu xuống content */
+  .home-container {
+    padding-top: 0.25rem;
+  }
+
+  .home-main {
+    margin-top: 0;
+  }
+
 }
