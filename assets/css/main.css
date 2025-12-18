@@ -22,3 +22,27 @@ body {
   color: #1f2937;
 }
 
+/* ===============================
+   MOBILE MENU BEHAVIOR
+================================ */
+
+@media (max-width: 768px) {
+
+  .site-nav {
+    display: none;
+    flex-direction: column;
+    gap: 0;
+    margin-top: 1rem;
+    border-top: 1px solid #e6e4df;
+  }
+
+  /* Khi menu mở */
+  .site-header.menu-open .site-nav {
+    display: flex;
+  }
+
+  .site-nav a {
+    padding: 0.75rem 0;
+    border-bottom: 1px solid #f0eee9;
+  }
+}
