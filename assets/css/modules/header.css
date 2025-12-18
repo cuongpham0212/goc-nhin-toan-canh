@@ -29,10 +29,11 @@
   letter-spacing: 0.02em;
   text-decoration: none;
   color: #111827;
+  white-space: nowrap; /* 🔑 không cho brand xuống dòng */
 }
 
 /* ===============================
-   NAV MENU
+   NAV MENU – DESKTOP
 ================================ */
 
 .site-nav {
@@ -46,6 +47,7 @@
   text-decoration: none;
   color: #4b5563;
   padding: 0.25rem 0;
+  white-space: nowrap;
 }
 
 /* underline tinh tế */
@@ -60,7 +62,6 @@
   transition: width 0.25s ease;
 }
 
-/* hover */
 .site-nav a:hover {
   color: #111827;
 }
@@ -69,19 +70,13 @@
   width: 100%;
 }
 
-/* ===============================
-   ACTIVE MENU (nếu có)
-================================ */
-
 .site-nav a.active::after {
   width: 100%;
 }
 
-@media (max-width: 768px) {
-  .site-nav {
-    display: none;
-  }
-}
+/* ===============================
+   MENU TOGGLE (☰)
+================================ */
 
 .menu-toggle {
   display: none;
@@ -91,13 +86,49 @@
   cursor: pointer;
   color: #1f2937;
   line-height: 1;
-  z-index: 1001;           /* 🔑 quan trọng */
+  z-index: 1001;
 }
 
+/* ===============================
+   MOBILE MENU – DROPDOWN PANEL
+================================ */
 
 @media (max-width: 768px) {
+
+  /* Ẩn menu ngang */
+  .site-nav {
+    display: none;
+    position: absolute;
+    top: 100%;
+    right: 1rem;
+
+    width: 220px;
+    background: #fbfbf9;
+    border: 1px solid #e6e4df;
+    border-radius: 8px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+
+    padding: 0.5rem 0;
+    z-index: 2000;
+  }
+
+  /* Khi mở menu */
+  .site-header.menu-open .site-nav {
+    display: block;
+  }
+
+  .site-nav a {
+    display: block;
+    padding: 0.75rem 1.25rem;
+    border-bottom: 1px solid #f0eee9;
+  }
+
+  .site-nav a:last-child {
+    border-bottom: none;
+  }
+
+  /* Hiện nút ☰ */
   .menu-toggle {
     display: block;
   }
 }
-
