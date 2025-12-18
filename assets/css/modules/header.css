@@ -99,28 +99,45 @@
   .site-nav {
     display: none;
     position: absolute;
-    top: 100%;
+    top: calc(100% + 6px);     /* tách nhẹ khỏi header */
     right: 1rem;
 
     width: 220px;
-    background: #fbfbf9;
-    border: 1px solid #e6e4df;
-    border-radius: 8px;
-    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+    background: #ffffff;      /* trắng rõ hơn */
+    border: 1px solid #e2e0da;
+    border-top: 3px solid #1f2937; /* 🔑 điểm nhấn nhanh cho mắt */
+    border-radius: 10px;
 
-    padding: 0.5rem 0;
+    box-shadow: 0 14px 30px rgba(0,0,0,0.12); /* rõ hơn 1 nấc */
+
+    padding: 0.4rem 0;
     z-index: 2000;
+
+    opacity: 0;
+    transform: translateY(-6px);
+    transition: opacity 0.18s ease, transform 0.18s ease;
   }
+
 
   /* Khi mở menu */
   .site-header.menu-open .site-nav {
     display: block;
+    opacity: 1;
+    transform: translateY(0);
   }
+
 
   .site-nav a {
     display: block;
-    padding: 0.75rem 1.25rem;
+    padding: 0.8rem 1rem;
     border-bottom: 1px solid #f0eee9;
+    text-align: center;          /* ✅ canh giữa chữ */
+    font-size: 0.95rem;
+  }
+
+  .site-nav a:hover,
+  .site-nav a:active {
+    background: #f4f3ef;
   }
 
   .site-nav a:last-child {
