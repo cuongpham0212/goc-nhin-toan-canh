@@ -5,6 +5,8 @@
 .site-header {
   background: #f8f9fa;
   border-bottom: 1px solid #e5e7eb;
+  position: relative;
+  z-index: 1000;
 }
 
 .site-header-inner {
@@ -88,10 +90,14 @@
   font-size: 1.4rem;
   cursor: pointer;
   color: #1f2937;
+  line-height: 1;
+  z-index: 1001;           /* 🔑 quan trọng */
 }
+
 
 @media (max-width: 768px) {
   .menu-toggle {
     display: block;
   }
 }
+
