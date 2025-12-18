@@ -120,6 +120,8 @@
     transition:
       opacity 0.18s ease,
       transform 0.18s cubic-bezier(0.22, 1, 0.36, 1);
+    will-change: transform, opacity;
+  
   }
 
 
@@ -127,7 +129,7 @@
   .site-header.menu-open .site-nav {
     display: block;
     opacity: 1;
-    transform: translateY(0);
+    transform: translateY(0) scale(1);
   }
 
 
