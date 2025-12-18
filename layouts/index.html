@@ -22,6 +22,28 @@
         </div>
       </section>
 
+      <!-- KHỐI GIỮ CHÂN USER – AUTO -->
+      <section class="home-block home-featured">
+        <h2 class="featured-title">Nên xem</h2>
+
+        <div class="featured-list">
+
+          {{ range first 3 (where .Site.RegularPages "Type" "!=" "page") }}
+            <article class="featured-item">
+              <h3>
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              </h3>
+
+              {{ with .Summary }}
+                <p>{{ . }}</p>
+              {{ end }}
+            </article>
+          {{ end }}
+
+        </div>
+      </section>
+
+
       <!-- KHỐI 2: NỘI DUNG MỞ (để gắn thêm sau) -->
       <section class="home-block">
         <h2>Nội dung chính</h2>
