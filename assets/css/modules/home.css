@@ -194,13 +194,18 @@
 
 @media (max-width: 768px) {
 
-  /* Giảm khoảng cách từ menu xuống content */
-  .home-container {
-    padding-top: 0.25rem;
+  /* CENTER INTRO ON MOBILE */
+  .home-block.home-intro {
+    text-align: center;
   }
 
-  .home-main {
-    margin-top: 0;
+  .home-title {
+    text-align: center;
+  }
+
+  .home-intro-content {
+    text-align: justify; /* nội dung vẫn justify */
   }
 
 }
+
