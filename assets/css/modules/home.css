@@ -1,6 +1,6 @@
-/* ===============================
+/* ==================================================
    HOME – BASE
-================================ */
+================================================== */
 
 .home {
   background: transparent;
@@ -11,15 +11,15 @@
 .home-container {
   max-width: 1200px;
   margin: auto;
-  padding: 0.25rem 1rem; 
+  padding: 0.25rem 1rem;
   display: flex;
   gap: 3rem;
 }
 
 
-/* ===============================
+/* ==================================================
    MAIN COLUMN
-================================ */
+================================================== */
 
 .home-main {
   flex: 1 1 65%;
@@ -31,8 +31,7 @@
 
 .home-title {
   font-size: 2.2rem;
-  margin-bottom: 1rem;
-  margin-top: 0;
+  margin: 0 0 1rem;
 }
 
 .home-block {
@@ -54,9 +53,24 @@
   color: #6b7280;
 }
 
-/* ===============================
+
+/* ==================================================
+   INTRO CONTENT
+================================================== */
+
+.home-intro-content {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.home-intro-content p {
+  margin-bottom: 1.2rem;
+}
+
+
+/* ==================================================
    SIDEBAR
-================================ */
+================================================== */
 
 .home-sidebar {
   flex: 0 0 280px;
@@ -93,9 +107,80 @@
   color: #6b7280;
 }
 
-/* ===============================
-   RESPONSIVE
-================================ */
+/* ==================================================
+   FEATURED – GIỮ CHÂN USER
+================================================== */
+
+.home-featured {
+  margin: 3.5rem 0 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid #e6e4df; /* 🔑 đường cắt intro */
+}
+
+.featured-title {
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #374151;
+  margin-bottom: 0.5rem;
+}
+
+.featured-title::after {
+  content: "";
+  display: block;
+  width: 36px;
+  height: 2px;
+  background: #1f2937;
+  margin-top: 0.5rem;
+}
+
+.featured-desc {
+  font-size: 0.9rem;
+  color: #6b7280;
+  margin-bottom: 1.75rem;
+}
+
+.featured-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.featured-item {
+  padding: 1.25rem;
+  background: #ffffff; /* khác nền intro */
+  border: 1px solid #e6e4df;
+  border-radius: 10px;
+}
+
+.featured-item h3 {
+  font-size: 1.05rem;
+  margin-bottom: 0.5rem;
+}
+
+.featured-item a {
+  text-decoration: none;
+  color: #111827;
+}
+
+.featured-snippet {
+  font-size: 0.9rem;
+  color: #4b5563;
+  line-height: 1.55;
+
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+
+  line-clamp: 3;            /* ✅ chuẩn */
+  -webkit-line-clamp: 3;    /* ✅ fallback */
+
+  overflow: hidden;
+}
+
+/* ==================================================
+   RESPONSIVE – TABLET & DOWN
+================================================== */
 
 @media (max-width: 900px) {
   .home-container {
@@ -106,23 +191,11 @@
     flex: 1 1 auto;
   }
 }
-/* ===============================
-   INTRO CONTENT – JUSTIFY TEXT
-================================ */
-
-.home-intro-content {
-  text-align: justify;
-  text-justify: inter-word;
-}
-
-.home-intro-content p {
-  margin-bottom: 1.2rem;
-}
 
 
-/* ===============================
-   MOBILE OPTIMIZATION – HOME
-================================ */
+/* ==================================================
+   MOBILE OPTIMIZATION
+================================================== */
 
 @media (max-width: 768px) {
 
@@ -138,8 +211,9 @@
     border-radius: 10px;
   }
 
-  /* INTRO BLOCK = HERO CHỮ */
+  /* INTRO = HERO CHỮ */
   .home-block.home-intro {
+    text-align: center;
     margin-bottom: 2rem;
   }
 
@@ -147,10 +221,8 @@
     font-size: 1.75rem;
     line-height: 1.3;
     margin-bottom: 0.75rem;
-    position: relative;
   }
 
-  /* underline tinh tế cho mobile */
   .home-title::after {
     content: "";
     display: block;
@@ -160,7 +232,6 @@
     margin: 0.75rem auto 0;
   }
 
-  /* INTRO TEXT */
   .home-intro-content {
     font-size: 0.95rem;
     line-height: 1.85;
@@ -168,7 +239,7 @@
     text-justify: inter-word;
   }
 
-  /* CÁC BLOCK SAU */
+  /* BLOCKS */
   .home-block {
     margin-bottom: 2.25rem;
   }
@@ -177,89 +248,17 @@
     font-size: 1.15rem;
   }
 
-  /* SIDEBAR = BLOCK PHỤ */
+  /* SIDEBAR */
   .home-sidebar {
     margin-top: 0.5rem;
   }
 
   .sidebar-box {
-    padding: 1.25rem 1.25rem;
+    padding: 1.25rem;
     border-radius: 10px;
   }
 
   .sidebar-box h3 {
     font-size: 0.85rem;
   }
-}
-
-@media (max-width: 768px) {
-
-  /* CENTER INTRO ON MOBILE */
-  .home-block.home-intro {
-    text-align: center;
-  }
-
-  .home-title {
-    text-align: center;
-  }
-
-  .home-intro-content {
-    text-align: justify; /* nội dung vẫn justify */
-  }
-
-}
-
-/* ===============================
-   FEATURED – GIỮ CHÂN USER
-================================ */
-
-.home-featured {
-  margin-bottom: 3rem;
-}
-
-.featured-title {
-  font-size: 1.25rem;
-  margin-bottom: 1.25rem;
-  position: relative;
-  font-weight: 600;
-  letter-spacing: 0.01em;
-}
-
-/* gạch nhấn rất nhẹ */
-.featured-title::after {
-  content: "";
-  display: block;
-  width: 36px;
-  height: 2px;
-  background: #1f2937;
-  margin-top: 0.5rem;
-}
-
-.featured-list {
-  display: flex;
-  flex-direction: column;
-  gap: 1.25rem;
-}
-
-.featured-item {
-  padding: 1.25rem 1.25rem;
-  background: #fbfbf9;
-  border: 1px solid #e6e4df;
-  border-radius: 10px;
-}
-
-.featured-item h3 {
-  font-size: 1.05rem;
-  margin-bottom: 0.5rem;
-}
-
-.featured-item a {
-  text-decoration: none;
-  color: #111827;
-}
-
-.featured-item p {
-  font-size: 0.95rem;
-  color: #4b5563;
-  line-height: 1.6;
 }

@@ -25,8 +25,11 @@
       <!-- KHỐI GIỮ CHÂN USER – AUTO -->
       <section class="home-block home-featured">
         <h2 class="featured-title">Nên xem</h2>
+        <p class="featured-desc">
+          Một vài bài viết gần đây, có thể bạn sẽ quan tâm.
+        </p>
 
-        <div class="featured-list">
+          <div class="featured-list">
 
           {{ range first 3 (where .Site.RegularPages "Type" "!=" "page") }}
             <article class="featured-item">
@@ -34,14 +37,15 @@
                 <a href="{{ .RelPermalink }}">{{ .Title }}</a>
               </h3>
 
-              {{ with .Summary }}
-                <p>{{ . }}</p>
+              {{ with .Params.description }}
+                <p class="featured-snippet">{{ . }}</p>
               {{ end }}
             </article>
           {{ end }}
 
         </div>
       </section>
+
 
 
       <!-- KHỐI 2: NỘI DUNG MỞ (để gắn thêm sau) -->
