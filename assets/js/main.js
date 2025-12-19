@@ -28,3 +28,24 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
+
+/* ===============================
+   HOME FEATURED – SCROLL REVEAL
+=============================== */
+
+const featured = document.querySelector(".home-featured");
+
+if (featured) {
+  const observer = new IntersectionObserver(
+    ([entry]) => {
+      if (entry.isIntersecting) {
+        featured.classList.add("is-visible");
+      }
+    },
+    {
+      threshold: 0.15
+    }
+  );
+
+  observer.observe(featured);
+}
