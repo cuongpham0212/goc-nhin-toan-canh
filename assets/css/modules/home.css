@@ -296,3 +296,24 @@
   transform: scaleX(1);
 }
 
+/* ==================================================
+   FEATURED – MOBILE EMPHASIS
+================================================== */
+
+@media (max-width: 768px) {
+
+  .home-featured::before {
+    height: 3px;                 /* dày hơn */
+    background: #374151;         /* đậm hơn 1 nấc */
+    opacity: 0;
+    transform: scaleX(0.25);     /* ngắn hơn lúc đầu */
+    transition:
+      opacity 0.45s ease,
+      transform 0.5s ease;
+  }
+
+  .home-featured.is-visible::before {
+    opacity: 1;
+    transform: scaleX(1);
+  }
+}
