@@ -5,7 +5,13 @@
 @import "system/base.css";
 
 /* ===== MODULES ===== */
-@import "modules/home.css";
+
+/* HOME – tách theo vai trò (giữ nguyên logic cũ) */
+@import "modules/home.base.css";
+@import "modules/home.responsive.css";
+@import "modules/home.featured.css";
+
+/* OTHER MODULES */
 @import "modules/header.css";
 @import "modules/article.css";
 @import "modules/social-share.css";
