@@ -27,3 +27,26 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
+
+document.addEventListener("DOMContentLoaded", function () {
+  const featured = document.querySelector(".home-featured");
+
+  if (!featured || !("IntersectionObserver" in window)) return;
+
+  const observer = new IntersectionObserver(
+    function (entries) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) {
+          featured.classList.add("is-visible");
+          observer.disconnect(); // chạy 1 lần là đủ
+        }
+      });
+    },
+    {
+      rootMargin: "-40px 0px", // trigger sớm hơn chút
+      threshold: 0.1,
+    }
+  );
+
+  observer.observe(featured);
+});

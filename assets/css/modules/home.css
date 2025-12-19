@@ -262,3 +262,16 @@
     font-size: 0.85rem;
   }
 }
+
+/* ==================================================
+   FEATURED – SCROLL REVEAL
+================================================== */
+
+.home-featured {
+  border-top-color: transparent;
+  transition: border-top-color 0.4s ease;
+}
+
+.home-featured.is-visible {
+  border-top-color: #e6e4df;
+}
