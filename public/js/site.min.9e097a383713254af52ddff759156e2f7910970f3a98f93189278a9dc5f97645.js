@@ -1,1 +1,0 @@
-document.addEventListener("scroll",()=>{const e=document.documentElement,t=e.scrollTop||document.body.scrollTop,n=e.scrollHeight-e.clientHeight,s=t/n*100;document.getElementById("reading-progress").style.width=s+"%"})
