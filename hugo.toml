@@ -19,3 +19,13 @@ enableRobotsTXT = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[security]
+  enableInlineShortcodes = true
+
+  [security.exec]
+    allow = ['^dart-sass$', '^go$', '^npx$', '^postcss$', '^tailwindcss$']
+
+  [security.http]
+    methods = ['GET']
+    urls = ['https://unpkg.com', 'http://localhost:8081']
