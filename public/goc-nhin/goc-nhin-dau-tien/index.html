@@ -321,7 +321,8 @@ Chúng được viết để:</p>
  
 .article-toc-btn {
   position: fixed;
-  right: 16px;
+  left: 16px;               
+  right: auto;
   bottom: 22%;
   z-index: 50;
   padding: 10px 12px;
@@ -335,13 +336,14 @@ Chúng được viết để:</p>
  
 .article-toc-panel {
   position: fixed;
-  right: 16px;
+  left: 16px;               
+  right: auto;
   bottom: calc(22% + 52px);
   width: 260px;
   max-height: 60vh;
   z-index: 60;
 
-  background: rgba(255,255,255,.45);  
+  background: rgba(255,255,255,.45);
   backdrop-filter: blur(10px);
   border-radius: 14px;
   box-shadow: 0 10px 30px rgba(0,0,0,.12);
@@ -399,13 +401,9 @@ Chúng được viết để:</p>
  
 @media (max-width: 768px) {
   .article-toc-panel {
-    left: 50%;
-    right: auto;
-    bottom: 18%;
-    transform: translateX(-50%);
-    width: 90%;
+    width: 88%;
     max-width: 320px;
-
+    bottom: 18%;
     background: rgba(255,255,255,.30);  
   }
 
@@ -444,25 +442,48 @@ document.addEventListener("DOMContentLoaded", function () {
     }, 2500);
   }
 
-  toggle.addEventListener("click", () => {
+  function hidePanel() {
+    panel.classList.add("hidden");
+    autoDim();
+  }
+
+  toggle.addEventListener("click", (e) => {
+    e.stopPropagation();
     panel.classList.remove("hidden");
     activate();
     autoDim();
   });
 
-  closeBtn?.addEventListener("click", () => {
-    panel.classList.add("hidden");
-    autoDim();
+  closeBtn?.addEventListener("click", hidePanel);
+
+   
+  document.addEventListener("click", (e) => {
+    if (
+      !panel.contains(e.target) &&
+      !toggle.contains(e.target)
+    ) {
+      hidePanel();
+    }
   });
 
-  
+   
+  document.addEventListener("touchstart", (e) => {
+    if (
+      !panel.contains(e.target) &&
+      !toggle.contains(e.target)
+    ) {
+      hidePanel();
+    }
+  });
+
+   
   window.addEventListener("scroll", autoDim, { passive: true });
 
-  
+   
   panel.addEventListener("touchstart", activate);
   panel.addEventListener("mouseenter", activate);
 
-  
+   
   autoDim();
 });
 </script>
