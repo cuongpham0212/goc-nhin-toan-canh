@@ -5,61 +5,32 @@
   <!-- ===============================
        READING CONTAINER
   =============================== -->
-  <div class="container">
+  <main class="container" role="main">
 
-    {{ if .TableOfContents }}
-      <aside class="toc" id="toc">
-        <h2>Mục lục</h2>
-        {{ .TableOfContents }}
-      </aside>
-    {{ end }}
-
-    <article class="article-body" id="article">
+    <article class="article-body" id="article" itemscope itemtype="https://schema.org/Article">
       {{ .Content }}
     </article>
 
+    <!-- TOC OVERLAY (ẩn UI – vẫn có anchor cho Google) -->
     {{ partial "article-toc-overlay.html" . }}
+
     {{ partial "social-share.html" . }}
 
-  </div>
+  </main>
 
   <!-- ===============================
-       STYLE: TOC + ANCHOR + PARAGRAPH FOCUS
+       STYLE: JUMP LINK + PARAGRAPH FOCUS
   =============================== -->
   <style>
-    /* ===== TOC ===== */
-    .toc {
-      margin: 2.5rem auto;
-      padding: 1rem 1.25rem;
-      border-left: 3px solid #e5e7eb;
-      font-size: .9rem;
-    }
-
-    .toc ul {
-      list-style: none;
-      padding-left: 0;
-    }
-
-    .toc a {
-      text-decoration: none;
-      color: #6b7280;
-    }
-
-    .toc a.active {
-      color: #111827;
-      font-weight: 600;
-    }
-
-    /* ===== Anchor cho heading ===== */
+    /* ===== Jump link optimization ===== */
     .article-body h2,
-    .article-body h3,
-    .article-body h4 {
+    .article-body h3 {
       position: relative;
+      scroll-margin-top: 96px;
     }
 
     .article-body h2::before,
-    .article-body h3::before,
-    .article-body h4::before {
+    .article-body h3::before {
       content: "#";
       position: absolute;
       left: -1.2rem;
@@ -70,23 +41,17 @@
     }
 
     .article-body h2:hover::before,
-    .article-body h3:hover::before,
-    .article-body h4:hover::before {
+    .article-body h3:hover::before {
       opacity: 1;
     }
 
-    /* ===== Paragraph focus ===== */
+    /* ===== Paragraph focus (đọc sâu) ===== */
     .article-body > * {
       transition: opacity .25s ease;
     }
 
-    .article-body .focus {
-      opacity: 1;
-    }
-
-    .article-body .dim {
-      opacity: .35;
-    }
+    .article-body .focus { opacity: 1; }
+    .article-body .dim { opacity: .35; }
   </style>
 
   <!-- ===============================

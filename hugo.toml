@@ -15,11 +15,25 @@ enableRobotsTXT = true
   priority = 0.5
   filename = "sitemap.xml"
 
+# ===============================
+# MARKUP
+# ===============================
 [markup]
+
+  # ---- Markdown renderer ----
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
+  # ---- TOC (Jump link cho Google) ----
+  [markup.tableOfContents]
+    startLevel = 2   # h2
+    endLevel   = 3   # h3
+    ordered    = false
+
+# ===============================
+# SECURITY
+# ===============================
 [security]
   enableInlineShortcodes = true
 
