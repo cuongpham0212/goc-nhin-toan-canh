@@ -289,6 +289,167 @@ Chúng được viết để:</p>
 
     </article>
 
+    
+
+
+<button id="toc-toggle"
+  aria-label="Mở mục lục bài viết"
+  class="article-toc-btn">
+  ☰
+</button>
+
+
+<div id="toc-panel" class="article-toc-panel hidden dimmed">
+  <div class="article-toc-header">
+    <span>Nội dung</span>
+    <button id="toc-close" aria-label="Đóng">✕</button>
+  </div>
+
+  <nav class="article-toc-content">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#vì-sao-tôi-viết-những-dòng-này">Vì sao tôi viết những dòng này</a></li>
+    <li><a href="#góc-nhìn-không-phải-để-thắng-thua">Góc nhìn không phải để thắng thua</a></li>
+    <li><a href="#viết-để-soi-lại-chính-mình">Viết để soi lại chính mình</a></li>
+  </ul>
+</nav>
+  </nav>
+</div>
+
+
+<style>
+ 
+.article-toc-btn {
+  position: fixed;
+  right: 16px;
+  bottom: 22%;
+  z-index: 50;
+  padding: 10px 12px;
+  border-radius: 999px;
+  background: rgba(0,0,0,.65);
+  color: #fff;
+  font-size: 16px;
+}
+
+ 
+.article-toc-panel {
+  position: fixed;
+  right: 16px;
+  bottom: calc(22% + 52px);
+  width: 260px;
+  max-height: 60vh;
+  z-index: 60;
+
+  background: rgba(255,255,255,.75);
+  backdrop-filter: blur(10px);
+  border-radius: 14px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.15);
+
+  transition: opacity .3s ease, transform .25s ease;
+}
+
+ 
+.hidden {
+  display: none;
+}
+
+ 
+.article-toc-panel.dimmed {
+  opacity: .35;
+}
+
+ 
+.article-toc-panel:hover,
+.article-toc-panel.active {
+  opacity: 1;
+}
+
+ 
+.article-toc-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 14px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+ 
+.article-toc-content {
+  padding: 10px 14px;
+  overflow-y: auto;
+  font-size: 14px;
+}
+
+.article-toc-content ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.article-toc-content li {
+  margin: 6px 0;
+}
+
+.article-toc-content a {
+  color: #222;
+  text-decoration: none;
+}
+
+.article-toc-content a:hover {
+  text-decoration: underline;
+}
+
+ 
+@media (max-width: 768px) {
+  .article-toc-panel {
+    left: 50%;
+    right: auto;
+    bottom: 18%;
+    transform: translateX(-50%);
+    width: 90%;
+    max-width: 320px;
+  }
+}
+</style>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const toggle = document.getElementById("toc-toggle");
+  const panel = document.getElementById("toc-panel");
+  const closeBtn = document.getElementById("toc-close");
+
+  if (!toggle || !panel) return;
+
+  toggle.addEventListener("click", () => {
+    panel.classList.remove("hidden");
+    panel.classList.add("active");
+    panel.classList.remove("dimmed");
+  });
+
+  function hideTOC() {
+    panel.classList.remove("active");
+    panel.classList.add("dimmed");
+    setTimeout(() => panel.classList.add("hidden"), 200);
+  }
+
+  closeBtn?.addEventListener("click", hideTOC);
+
+  
+  let dimTimer;
+  panel.addEventListener("mouseenter", () => {
+    panel.classList.remove("dimmed");
+    clearTimeout(dimTimer);
+  });
+
+  panel.addEventListener("mouseleave", () => {
+    dimTimer = setTimeout(() => {
+      panel.classList.add("dimmed");
+    }, 3000);
+  });
+});
+</script>
+
     <section class="social-share">
 
   <style>
