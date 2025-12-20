@@ -1,8 +1,5 @@
-local_backend: true
-
 backend:
-  name: github
-  repo: cuongpham0212/goc-nhin-toan-canh
+  name: git-gateway
   branch: main
 
 site_url: https://gocnhintoancanh.netlify.app/
