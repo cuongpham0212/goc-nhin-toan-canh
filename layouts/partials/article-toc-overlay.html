@@ -1,11 +1,11 @@
 {{/* =====================================================
-     ARTICLE TOC OVERLAY – MOBILE & DESKTOP OPTIMIZED
+     ARTICLE TOC OVERLAY – AUTO DIM (MOBILE FIRST)
 ===================================================== */}}
 
 <!-- ===== TOGGLE BUTTON ===== -->
 <button id="toc-toggle"
   aria-label="Mở mục lục bài viết"
-  class="article-toc-btn">
+  class="article-toc-btn dimmed">
   ☰
 </button>
 
@@ -34,6 +34,7 @@
   background: rgba(0,0,0,.65);
   color: #fff;
   font-size: 16px;
+  transition: opacity .3s ease;
 }
 
 /* ===== TOC panel base ===== */
@@ -45,28 +46,28 @@
   max-height: 60vh;
   z-index: 60;
 
-  background: rgba(255,255,255,.75);
+  background: rgba(255,255,255,.45); /* ⬅ giảm mạnh */
   backdrop-filter: blur(10px);
   border-radius: 14px;
-  box-shadow: 0 10px 30px rgba(0,0,0,.15);
+  box-shadow: 0 10px 30px rgba(0,0,0,.12);
 
   transition: opacity .3s ease, transform .25s ease;
+}
+
+/* ===== Dim state ===== */
+.dimmed {
+  opacity: .45;
+}
+
+/* ===== Active / focus ===== */
+.article-toc-panel.active,
+.article-toc-btn.active {
+  opacity: 1;
 }
 
 /* ===== Hidden ===== */
 .hidden {
   display: none;
-}
-
-/* ===== Auto dim (khi không dùng) ===== */
-.article-toc-panel.dimmed {
-  opacity: .35;
-}
-
-/* ===== Active / hover ===== */
-.article-toc-panel:hover,
-.article-toc-panel.active {
-  opacity: 1;
 }
 
 /* ===== Header ===== */
@@ -96,12 +97,8 @@
 }
 
 .article-toc-content a {
-  color: #222;
+  color: #111;
   text-decoration: none;
-}
-
-.article-toc-content a:hover {
-  text-decoration: underline;
 }
 
 /* ===== MOBILE ADJUST ===== */
@@ -113,6 +110,12 @@
     transform: translateX(-50%);
     width: 90%;
     max-width: 320px;
+
+    background: rgba(255,255,255,.30); /* ⬅ giảm thêm 1/2 cho mobile */
+  }
+
+  .dimmed {
+    opacity: .35;
   }
 }
 </style>
@@ -126,31 +129,45 @@ document.addEventListener("DOMContentLoaded", function () {
 
   if (!toggle || !panel) return;
 
-  toggle.addEventListener("click", () => {
-    panel.classList.remove("hidden");
+  let dimTimer;
+
+  function activate() {
+    toggle.classList.add("active");
+    toggle.classList.remove("dimmed");
     panel.classList.add("active");
     panel.classList.remove("dimmed");
-  });
-
-  function hideTOC() {
-    panel.classList.remove("active");
-    panel.classList.add("dimmed");
-    setTimeout(() => panel.classList.add("hidden"), 200);
+    clearTimeout(dimTimer);
   }
 
-  closeBtn?.addEventListener("click", hideTOC);
-
-  // Auto dim sau 3s không tương tác
-  let dimTimer;
-  panel.addEventListener("mouseenter", () => {
-    panel.classList.remove("dimmed");
+  function autoDim() {
     clearTimeout(dimTimer);
+    dimTimer = setTimeout(() => {
+      toggle.classList.remove("active");
+      toggle.classList.add("dimmed");
+      panel.classList.remove("active");
+      panel.classList.add("dimmed");
+    }, 2500);
+  }
+
+  toggle.addEventListener("click", () => {
+    panel.classList.remove("hidden");
+    activate();
+    autoDim();
   });
 
-  panel.addEventListener("mouseleave", () => {
-    dimTimer = setTimeout(() => {
-      panel.classList.add("dimmed");
-    }, 3000);
+  closeBtn?.addEventListener("click", () => {
+    panel.classList.add("hidden");
+    autoDim();
   });
+
+  // User scroll → coi như đang đọc → dim lại
+  window.addEventListener("scroll", autoDim, { passive: true });
+
+  // Chạm vào panel → rõ lại
+  panel.addEventListener("touchstart", activate);
+  panel.addEventListener("mouseenter", activate);
+
+  // Bắt đầu trạng thái mờ
+  autoDim();
 });
 </script>

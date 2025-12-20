@@ -269,7 +269,7 @@ và những lần va đập thật với đời.</p>
 
 <button id="toc-toggle"
   aria-label="Mở mục lục bài viết"
-  class="article-toc-btn">
+  class="article-toc-btn dimmed">
   ☰
 </button>
 
@@ -298,6 +298,7 @@ và những lần va đập thật với đời.</p>
   background: rgba(0,0,0,.65);
   color: #fff;
   font-size: 16px;
+  transition: opacity .3s ease;
 }
 
  
@@ -309,28 +310,28 @@ và những lần va đập thật với đời.</p>
   max-height: 60vh;
   z-index: 60;
 
-  background: rgba(255,255,255,.75);
+  background: rgba(255,255,255,.45);  
   backdrop-filter: blur(10px);
   border-radius: 14px;
-  box-shadow: 0 10px 30px rgba(0,0,0,.15);
+  box-shadow: 0 10px 30px rgba(0,0,0,.12);
 
   transition: opacity .3s ease, transform .25s ease;
 }
 
  
+.dimmed {
+  opacity: .45;
+}
+
+ 
+.article-toc-panel.active,
+.article-toc-btn.active {
+  opacity: 1;
+}
+
+ 
 .hidden {
   display: none;
-}
-
- 
-.article-toc-panel.dimmed {
-  opacity: .35;
-}
-
- 
-.article-toc-panel:hover,
-.article-toc-panel.active {
-  opacity: 1;
 }
 
  
@@ -360,12 +361,8 @@ và những lần va đập thật với đời.</p>
 }
 
 .article-toc-content a {
-  color: #222;
+  color: #111;
   text-decoration: none;
-}
-
-.article-toc-content a:hover {
-  text-decoration: underline;
 }
 
  
@@ -377,6 +374,12 @@ và những lần va đập thật với đời.</p>
     transform: translateX(-50%);
     width: 90%;
     max-width: 320px;
+
+    background: rgba(255,255,255,.30);  
+  }
+
+  .dimmed {
+    opacity: .35;
   }
 }
 </style>
@@ -390,32 +393,46 @@ document.addEventListener("DOMContentLoaded", function () {
 
   if (!toggle || !panel) return;
 
-  toggle.addEventListener("click", () => {
-    panel.classList.remove("hidden");
+  let dimTimer;
+
+  function activate() {
+    toggle.classList.add("active");
+    toggle.classList.remove("dimmed");
     panel.classList.add("active");
     panel.classList.remove("dimmed");
-  });
-
-  function hideTOC() {
-    panel.classList.remove("active");
-    panel.classList.add("dimmed");
-    setTimeout(() => panel.classList.add("hidden"), 200);
+    clearTimeout(dimTimer);
   }
 
-  closeBtn?.addEventListener("click", hideTOC);
+  function autoDim() {
+    clearTimeout(dimTimer);
+    dimTimer = setTimeout(() => {
+      toggle.classList.remove("active");
+      toggle.classList.add("dimmed");
+      panel.classList.remove("active");
+      panel.classList.add("dimmed");
+    }, 2500);
+  }
+
+  toggle.addEventListener("click", () => {
+    panel.classList.remove("hidden");
+    activate();
+    autoDim();
+  });
+
+  closeBtn?.addEventListener("click", () => {
+    panel.classList.add("hidden");
+    autoDim();
+  });
 
   
-  let dimTimer;
-  panel.addEventListener("mouseenter", () => {
-    panel.classList.remove("dimmed");
-    clearTimeout(dimTimer);
-  });
+  window.addEventListener("scroll", autoDim, { passive: true });
 
-  panel.addEventListener("mouseleave", () => {
-    dimTimer = setTimeout(() => {
-      panel.classList.add("dimmed");
-    }, 3000);
-  });
+  
+  panel.addEventListener("touchstart", activate);
+  panel.addEventListener("mouseenter", activate);
+
+  
+  autoDim();
 });
 </script>
 
