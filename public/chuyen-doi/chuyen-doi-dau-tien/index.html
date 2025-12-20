@@ -321,11 +321,9 @@ mục đích duy nhất là kiểm tra:</p>
 
 
 <style>
- 
 .article-toc-btn {
   position: fixed;
-  left: 16px;               
-  right: auto;
+  left: 16px;
   bottom: 22%;
   z-index: 50;
   padding: 10px 12px;
@@ -336,11 +334,9 @@ mục đích duy nhất là kiểm tra:</p>
   transition: opacity .3s ease;
 }
 
- 
 .article-toc-panel {
   position: fixed;
-  left: 16px;               
-  right: auto;
+  left: 16px;
   bottom: calc(22% + 52px);
   width: 260px;
   max-height: 60vh;
@@ -350,27 +346,16 @@ mục đích duy nhất là kiểm tra:</p>
   backdrop-filter: blur(10px);
   border-radius: 14px;
   box-shadow: 0 10px 30px rgba(0,0,0,.12);
-
-  transition: opacity .3s ease, transform .25s ease;
+  transition: opacity .3s ease;
 }
 
- 
-.dimmed {
-  opacity: .45;
-}
+.dimmed { opacity: .45; }
 
- 
 .article-toc-panel.active,
-.article-toc-btn.active {
-  opacity: 1;
-}
+.article-toc-btn.active { opacity: 1; }
 
- 
-.hidden {
-  display: none;
-}
+.hidden { display: none; }
 
- 
 .article-toc-header {
   display: flex;
   justify-content: space-between;
@@ -380,7 +365,6 @@ mục đích duy nhất là kiểm tra:</p>
   font-size: 14px;
 }
 
- 
 .article-toc-content {
   padding: 10px 14px;
   overflow-y: auto;
@@ -392,27 +376,21 @@ mục đích duy nhất là kiểm tra:</p>
   padding-left: 0;
 }
 
-.article-toc-content li {
-  margin: 6px 0;
-}
+.article-toc-content li { margin: 6px 0; }
 
 .article-toc-content a {
   color: #111;
   text-decoration: none;
 }
 
- 
 @media (max-width: 768px) {
   .article-toc-panel {
     width: 88%;
     max-width: 320px;
     bottom: 18%;
-    background: rgba(255,255,255,.30);  
+    background: rgba(255,255,255,.30);
   }
-
-  .dimmed {
-    opacity: .35;
-  }
+  .dimmed { opacity: .35; }
 }
 </style>
 
@@ -422,6 +400,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const toggle = document.getElementById("toc-toggle");
   const panel = document.getElementById("toc-panel");
   const closeBtn = document.getElementById("toc-close");
+  const tocLinks = panel.querySelectorAll("a");
 
   if (!toggle || !panel) return;
 
@@ -442,7 +421,7 @@ document.addEventListener("DOMContentLoaded", function () {
       toggle.classList.add("dimmed");
       panel.classList.remove("active");
       panel.classList.add("dimmed");
-    }, 2500);
+    }, 2000);
   }
 
   function hidePanel() {
@@ -450,6 +429,7 @@ document.addEventListener("DOMContentLoaded", function () {
     autoDim();
   }
 
+   
   toggle.addEventListener("click", (e) => {
     e.stopPropagation();
     panel.classList.remove("hidden");
@@ -461,22 +441,22 @@ document.addEventListener("DOMContentLoaded", function () {
 
    
   document.addEventListener("click", (e) => {
-    if (
-      !panel.contains(e.target) &&
-      !toggle.contains(e.target)
-    ) {
+    if (!panel.contains(e.target) && !toggle.contains(e.target)) {
+      hidePanel();
+    }
+  });
+
+  document.addEventListener("touchstart", (e) => {
+    if (!panel.contains(e.target) && !toggle.contains(e.target)) {
       hidePanel();
     }
   });
 
    
-  document.addEventListener("touchstart", (e) => {
-    if (
-      !panel.contains(e.target) &&
-      !toggle.contains(e.target)
-    ) {
+  tocLinks.forEach(link => {
+    link.addEventListener("click", () => {
       hidePanel();
-    }
+    });
   });
 
    
@@ -486,7 +466,6 @@ document.addEventListener("DOMContentLoaded", function () {
   panel.addEventListener("touchstart", activate);
   panel.addEventListener("mouseenter", activate);
 
-   
   autoDim();
 });
 </script>
