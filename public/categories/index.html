@@ -124,8 +124,7 @@
 
 
 
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-
+  
 </head>
 <body class="">
 
@@ -174,18 +173,6 @@
 
   
   <script src="/js/site.min.9e097a383713254af52ddff759156e2f7910970f3a98f93189278a9dc5f97645.js" defer></script>
-
-  <script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", function (user) {
-      if (!user) {
-        window.netlifyIdentity.on("login", function () {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-</script>
 
 </body>
 </html>

@@ -2,8 +2,7 @@
 <html lang="vi">
 <head>
   {{ partial "head.html" . }}
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-
+  
 </head>
 <body class="{{ if .IsHome }}home{{ end }}">
 
@@ -19,18 +18,6 @@
 
   {{ $js := resources.Get "js/site.js" | minify | fingerprint }}
   <script src="{{ $js.RelPermalink }}" defer></script>
-
-  <script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", function (user) {
-      if (!user) {
-        window.netlifyIdentity.on("login", function () {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-</script>
 
 </body>
 </html>
