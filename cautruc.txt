@@ -146,10 +146,32 @@ assets/
     │   └── base.css
     │
     └── modules/              ← CÁC KHỐI TỰ TRỊ
-        ├── home.css          ← 👈 FILE EM ĐƯA ANH
+        ├── home.base.css         
+        ├── home.featured
+        ├── home.responsive
         ├── article.css
         ├── toc.css
         ├── gallery.css
         ├── gate.css
         └── social-share.css
 
+Cấu trúc thư mục mua sắm
+
+content/
+└── mua-sam/
+    ├── _index.md
+    ├── sach.md
+    ├── thiet-bi-hoc-tap.md
+    └── tai-nghe.md
+
+layouts/
+└── mua-sam/
+    ├── list.html        ← trang /mua-sam/
+    └── single.html      ← render grid link affi
+
+layouts/partials/
+└── search/
+    └── section-search.html
+
+assets/js/
+└── section-search.js

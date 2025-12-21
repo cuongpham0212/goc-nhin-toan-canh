@@ -13,11 +13,16 @@
 
 /* OTHER MODULES */
 @import "modules/header.css";
-@import "modules/article.css";
 @import "modules/social-share.css";
 @import "modules/toc.css";
 @import "modules/gallery.css";
 @import "modules/gate.css";
+@import "modules/section.css";
+
+/* ⬇️ LUÔN LUÔN CUỐI */
+@import "modules/article.css";
+@import "modules/mua-sam.css";
+
 
 /* ===============================
    GLOBAL BACKGROUND & TEXT TONE

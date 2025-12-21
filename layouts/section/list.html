@@ -6,52 +6,59 @@
        SECTION LIST – 2 COLUMNS
   =============================== -->
   <section class="section-body">
-    <div class="section-layout">
+    <div class="container">
 
-      <!-- MAIN COLUMN -->
-      <div class="section-main">
-        <ul class="section-list">
-          {{ range .Pages }}
-            <li class="section-item">
-              <h2 class="section-item-title">
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-              </h2>
+      <div class="section-layout">
 
-              <div class="section-item-meta">
-                {{ .Date.Format "02/01/2006" }}
-              </div>
+        <!-- MAIN COLUMN -->
+        <div class="section-main">
+          <ul class="section-list">
+            {{ range .RegularPages.ByDate.Reverse }}
+              <li class="section-item">
 
-              <p class="section-item-desc">
-                {{ with .Params.description }}
-                  {{ . }}
-                {{ else }}
-                  {{ .Summary | plainify | truncate 160 }}
-                {{ end }}
-              </p>
-            </li>
-          {{ end }}
-        </ul>
-      </div>
+                <h2 class="section-item-title">
+                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </h2>
 
-      <!-- SIDEBAR COLUMN -->
-      <aside class="section-sidebar">
-        <div class="sidebar-block">
-          <h3>Gợi ý cho bạn</h3>
-          <p>Nơi đặt banner, bài viết liên quan, CTA, ghi chú biên tập…</p>
-        </div>
+                <div class="section-item-meta">
+                  {{ .Date.Format "02/01/2006" }}
+                </div>
 
-        <div class="sidebar-block">
-          <h3>Đọc thêm</h3>
-          <ul>
-            {{ range first 5 .Site.RegularPages }}
-              <li>
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                <p class="section-item-desc">
+                  {{ with .Params.description }}
+                    {{ . }}
+                  {{ else }}
+                    {{ .Summary | plainify | truncate 160 }}
+                  {{ end }}
+                </p>
+
               </li>
             {{ end }}
           </ul>
         </div>
-      </aside>
 
+        <!-- SIDEBAR COLUMN -->
+        <aside class="section-sidebar">
+
+          <div class="sidebar-block">
+            <h3>Gợi ý cho bạn</h3>
+            <p>Nơi đặt banner, bài viết liên quan, CTA, ghi chú biên tập…</p>
+          </div>
+
+          <div class="sidebar-block">
+            <h3>Đọc thêm</h3>
+            <ul>
+              {{ range first 5 .Site.RegularPages.ByDate.Reverse }}
+                <li>
+                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </li>
+              {{ end }}
+            </ul>
+          </div>
+
+        </aside>
+
+      </div>
     </div>
   </section>
 

@@ -1,179 +1,71 @@
-/* ===============================
-   ARTICLE CONTENT
-================================ */
-
-.article-body h1 {
-  font-size: 2.1rem;
-  line-height: 1.25;
-  margin: 0 0 1.5rem;
-  letter-spacing: -0.01em;
-}
-
-.article-body h2 {
-  font-size: 1.45rem;
-  margin: 3rem 0 1rem;
-}
-
-.article-body h3 {
-  font-size: 1.2rem;
-  margin-top: 2.2rem;
-}
-
-.article-body p {
-  font-size: 1.05rem;
-  line-height: 1.8;
-  color: #374151;
-  margin: 1.4rem 0;
-}
-
-.article-body ul,
-.article-body ol {
-  margin: 1.4rem 0 1.4rem 1.5rem;
-}
-
-.article-body blockquote {
-  margin: 2rem 0;
-  padding-left: 1rem;
-  border-left: 3px solid #d1d5db;
-  color: #4b5563;
-  font-style: italic;
-}
-
-/* ===============================
-   TOC
-================================ */
-
-.toc {
-  border-left: 3px solid #e5e7eb;
-  padding-left: 1rem;
-  margin: 2rem 0;
-  font-size: 0.95rem;
-}
-
-.toc ul {
-  list-style: none;
-  padding-left: 0;
-}
-
-.toc li {
-  margin: 0.4rem 0;
-}
-
-.toc a {
-  text-decoration: none;
-  color: #2563eb;
-}
-
-.toc a:hover {
-  text-decoration: underline;
-}
-
 /* ==================================================
-   SECTION LIST – 2 COLUMN EDITORIAL LAYOUT (FINAL)
+   ARTICLE PAGE – FINAL (NO BODY CLASS)
 ================================================== */
 
-.section-layout {
-  max-width: 1440px;
-  margin-inline: auto;
-  padding: 0 2rem;
-  display: grid;
-  grid-template-columns: minmax(0, 2.4fr) minmax(0, 1fr);
-  gap: 3.5rem;
-}
-
-/* MAIN COLUMN */
-.section-main {
-  min-width: 0;
-}
-
-.section-list {
-  list-style: none;
+/* Gỡ ảnh hưởng container global */
+main.container {
+  max-width: none;
   margin: 0;
   padding: 0;
 }
 
-.section-item {
-  padding-bottom: 2.75rem;
-  margin-bottom: 2.75rem;
-  border-bottom: 1px solid #e5e7eb;
+/* Khung đọc bài viết – CANH LỀ THẬT */
+article.article-body {
+  max-width: 1280px;      /* ⬅️ hẹp vừa cho đọc chữ */
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5rem; /* ⬅️ đệm gọn lại */
+  padding-right: 1.5rem;
 }
 
-.section-item-title {
-  font-size: 1.4rem;
-  line-height: 1.4;
-  margin: 0 0 .5rem;
-}
-
-.section-item-title a {
-  color: #111827;
-  text-decoration: none;
-}
-
-.section-item-title a:hover {
-  text-decoration: underline;
-}
-
-.section-item-meta {
-  font-size: .85rem;
-  color: #6b7280;
-  margin-bottom: .8rem;
-}
-
-.section-item-desc {
+/* Typography */
+article.article-body {
   font-size: 1.05rem;
   line-height: 1.75;
-  color: #374151;
+  color: #1f2937;
 }
 
-/* SIDEBAR */
-.section-sidebar {
-  position: sticky;
-  top: 6rem;
+/* Heading */
+article.article-body h1,
+article.article-body h2,
+article.article-body h3 {
+  line-height: 1.35;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
 }
 
-.sidebar-block {
-  padding: 1.5rem;
-  margin-bottom: 2.5rem;
-  background: #f9fafb;
-  border: 1px solid #e5e7eb;
-  border-radius: 10px;
+/* Paragraph */
+article.article-body p {
+  margin: 1.25rem 0;
 }
 
-.sidebar-block h3 {
-  font-size: 1rem;
-  margin-bottom: .75rem;
+/* Lists */
+article.article-body ul,
+article.article-body ol {
+  padding-left: 1.25rem;
+  margin: 1.25rem 0;
 }
 
-.sidebar-block ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+/* Images */
+article.article-body img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.75rem auto;
 }
 
-.sidebar-block li {
-  margin-bottom: .6rem;
-}
-
-.sidebar-block a {
-  font-size: .9rem;
-  text-decoration: none;
-  color: #2563eb;
-}
-
-.sidebar-block a:hover {
-  text-decoration: underline;
-}
-
-/* ===============================
-   RESPONSIVE
-================================ */
-
+/* Responsive */
 @media (max-width: 1024px) {
-  .section-layout {
-    grid-template-columns: 1fr;
+  article.article-body {
+    max-width: 100%;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
   }
+}
 
-  .section-sidebar {
-    position: static;
+@media (max-width: 640px) {
+  article.article-body {
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 }

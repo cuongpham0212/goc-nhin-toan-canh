@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="vi">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -32,8 +32,8 @@
 <meta property="og:site_name" content="Góc Nhìn Toàn Cảnh">
 <meta property="og:title" content="Categories | Góc Nhìn Toàn Cảnh">
 <meta property="og:description" content="">
-<meta property="og:url" content="http://localhost:1313/categories/">
-<meta property="og:image" content="http://localhost:1313/images/og-default.jpg">
+<meta property="og:url" content="https://gocnhintoancanh.netlify.app/categories/">
+<meta property="og:image" content="https://gocnhintoancanh.netlify.app/images/og-default.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 
@@ -47,7 +47,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Categories | Góc Nhìn Toàn Cảnh">
 <meta name="twitter:description" content="">
-<meta name="twitter:image" content="http://localhost:1313/images/og-default.jpg">
+<meta name="twitter:image" content="https://gocnhintoancanh.netlify.app/images/og-default.jpg">
 
 
 
@@ -57,15 +57,15 @@
         
       ">
 
-<link rel="canonical" href="http://localhost:1313/categories/">
+<link rel="canonical" href="https://gocnhintoancanh.netlify.app/categories/">
 
 
 
 
 
 <link rel="stylesheet"
-      href="/css/main.min.0e872b010471b469e47d12e8a8fd70fb399d0a1beb0a43105366562b1b35b01b.css"
-      integrity="sha256-DocrAQRxtGnkfRLoqP1w&#43;zmdChvrCkMQU2ZWKxs1sBs=">
+      href="/css/main.min.b1ede4507b60d903ecba09582e580ee537e813b374d02910277a5d43b71de28b.css"
+      integrity="sha256-se3kUHtg2QPsuglYLlgO5TfoE7N00CkQJ3pdQ7cd4os=">
 
 
 
@@ -82,7 +82,7 @@
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "Góc Nhìn Toàn Cảnh",
-  "url": "http:\/\/localhost:1313\/",
+  "url": "https:\/\/gocnhintoancanh.netlify.app\/",
   "description": "Góc nhìn chậm, sâu và toàn diện về đời sống, con người và chuyển hóa nội tâm."
 }
 </script>
@@ -98,14 +98,14 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Trang chủ",
-      "item": "http:\/\/localhost:1313\/"
+      "item": "https:\/\/gocnhintoancanh.netlify.app\/"
     }
     ,
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Categories",
-      "item": "http:\/\/localhost:1313\/categories\/"
+      "item": "https:\/\/gocnhintoancanh.netlify.app\/categories\/"
     }
     
 
@@ -114,7 +114,7 @@
       "@type": "ListItem",
       "position": 3,
       "name": "Categories",
-      "item": "http:\/\/localhost:1313\/categories\/"
+      "item": "https:\/\/gocnhintoancanh.netlify.app\/categories\/"
     }
   ]
 }
@@ -138,23 +138,112 @@
     <div class="site-brand">
       <a href="/">Góc Nhìn Toàn Cảnh</a>
     </div>   
-      <button class="menu-toggle" aria-label="Menu">☰</button>
-    
+
+    <button class="menu-toggle" aria-label="Menu">☰</button>
 
     
     <nav class="site-nav">
       <a href="/goc-nhin/">Góc nhìn</a>
       <a href="/phan-tich/">Phân tích</a>
       <a href="/chuyen-doi/">Chuyện đời</a>
+      <a href="/mua-sam/">Mua sắm</a>
       <a href="/gioi-thieu/">Giới thiệu</a>
     </nav>
 
   </div>
 </header>
 
+  
+
+<button class="back-to-top"
+        type="button"
+        aria-label="Lên đầu trang"
+        title="Lên đầu trang">
+
+  <svg xmlns="http://www.w3.org/2000/svg"
+       viewBox="0 0 24 24"
+       fill="none"
+       stroke="currentColor"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       width="20"
+       height="20">
+    <path d="M12 19V5" />
+    <path d="M5 12l7-7 7 7" />
+  </svg>
+
+  <span>Đầu trang</span>
+</button>
+
+<style>
+.back-to-top{
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 99999;
+
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;
+
+  padding: .35rem .6rem;
+  font-size: .9rem;
+  font-weight: 500;
+
+  color: #333;
+  background: rgba(255,255,255,.95);
+  border: 1px solid rgba(0,0,0,.08);
+  border-radius: 999px;
+
+  box-shadow: 0 2px 10px rgba(0,0,0,.08);
+  backdrop-filter: blur(6px);
+
+  cursor: pointer;
+  opacity: 0;
+  transform: translateY(6px);
+  pointer-events: none;
+  transition: all .2s ease;
+}
+
+.back-to-top.is-visible{
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+@media (max-width: 768px){
+  .back-to-top{
+    right: .75rem;
+    bottom: .75rem;
+    font-size: .85rem;
+  }
+}
+</style>
+
+<script>
+(function(){
+  const btn = document.querySelector('.back-to-top');
+  if(!btn) return;
+
+  const toggle = () => {
+    if (window.scrollY > 500) btn.classList.add('is-visible');
+    else btn.classList.remove('is-visible');
+  };
+
+  window.addEventListener('scroll', toggle, { passive: true });
+  toggle();
+
+  btn.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+})();
+</script>
+
 
   <main>
     
+
 <article>
   <h1>Categories</h1>
 

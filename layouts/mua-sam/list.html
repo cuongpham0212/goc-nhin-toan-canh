@@ -1,0 +1,81 @@
+{{ define "main" }}
+
+<section class="shopping-section">
+  <div class="shopping-container">
+
+    <!-- HEADER -->
+    <header class="shopping-header">
+      <h1>{{ .Title }}</h1>
+
+      {{ with .Params.description }}
+        <p>{{ . }}</p>
+      {{ end }}
+
+      <!-- SEARCH (trang list luôn có) -->
+      {{ partial "search/section-search.html" . }}
+    </header>
+
+    <!-- DANH MỤC + PREVIEW SẢN PHẨM -->
+    <div class="shopping-category-list">
+
+      {{ range .Pages }}
+
+        <section class="shopping-category-block">
+
+          <!-- TÊN DANH MỤC -->
+          <header class="shopping-category-header">
+            <h2>
+              <a href="{{ .RelPermalink }}">
+                {{ .Title }}
+              </a>
+            </h2>
+
+            {{ with .Params.summary }}
+              <p>{{ . }}</p>
+            {{ end }}
+          </header>
+
+          <!-- GRID PREVIEW SẢN PHẨM -->
+          {{ with .Params.items }}
+            <div class="shopping-grid shopping-grid-preview">
+
+              {{ range first 4 . }}
+                {{ $item := . }}
+
+                <div class="shopping-card">
+                  <a href="{{ $.RelPermalink }}" title="Xem tất cả {{ $.Title }}">
+
+                    {{ with $item.image }}
+                      <img src="{{ . }}" alt="{{ $item.title }}">
+                    {{ end }}
+
+                    <h3>{{ $item.title }}</h3>
+
+                    <span class="shopping-cta">
+                      Xem chi tiết →
+                    </span>
+
+                  </a>
+                </div>
+              {{ end }}
+
+            </div>
+          {{ end }}
+
+          <!-- LINK XEM TẤT CẢ -->
+          <div class="shopping-more">
+            <a href="{{ .RelPermalink }}">
+              Xem tất cả {{ .Title }} →
+            </a>
+          </div>
+
+        </section>
+
+      {{ end }}
+
+    </div>
+
+  </div>
+</section>
+
+{{ end }}

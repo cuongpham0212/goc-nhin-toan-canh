@@ -1,10 +1,28 @@
 /* ===============================
-   Base Layout & Typography
+   RESET KHUNG NGOÀI – HẸP LỀ
    =============================== */
 
-/* Body */
-body {
+html, body {
+  width: 100%;
   margin: 0;
+  padding: 0;
+}
+
+/* Gỡ mọi giới hạn width bên ngoài */
+body,
+.page,
+.site,
+.wrapper {
+  max-width: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* ===============================
+   Base Typography
+   =============================== */
+
+body {
   font-family: system-ui, -apple-system, BlinkMacSystemFont,
                "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: var(--fs-md);
@@ -13,19 +31,30 @@ body {
   background: #ffffff;
 }
 
-/* Reading container */
+/* ===============================
+   CONTAINER – HẸP TỐI ĐA
+   =============================== */
+
 .container {
-  max-width: var(--container);
-  margin-inline: auto;
-  padding-inline: var(--space-sm);
+  width: 100%;
+  max-width: none;          /* ❗ KHÔNG GIỚI HẠN */
+  margin: 0;
+  padding-inline: 0.5rem;   /* ❗ LỀ SÁT NHẤT CÓ THỂ */
 }
 
-/* Vertical rhythm for main content */
+/* ===============================
+   Main spacing
+   =============================== */
+
 main {
-  margin-block: var(--space-lg);
+  width: 100%;
+  margin-block: var(--space-md);
 }
 
-/* Links */
+/* ===============================
+   Links
+   =============================== */
+
 a {
   color: #2563eb;
   text-underline-offset: 2px;

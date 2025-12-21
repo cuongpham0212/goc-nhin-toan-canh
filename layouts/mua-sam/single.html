@@ -1,0 +1,51 @@
+{{ define "main" }}
+
+<section class="shopping-section">
+  <div class="shopping-container">
+
+    <!-- HEADER -->
+    <header class="shopping-header">
+      <h1>{{ .Title }}</h1>
+
+      {{ with .Params.summary }}
+        <p>{{ . }}</p>
+      {{ end }}
+
+      <!-- SEARCH (chỉ khi bật search:true) -->
+      {{ if .Params.search }}
+        {{ partial "search/section-search.html" . }}
+      {{ end }}
+    </header>
+
+    <!-- GRID SẢN PHẨM (FULL) -->
+    {{ with .Params.items }}
+      <div class="shopping-grid">
+
+        {{ range . }}
+          {{ $item := . }}
+
+          <div class="shopping-card">
+            <a href="{{ $item.link }}" target="_blank" rel="nofollow sponsored">
+
+              {{ with $item.image }}
+                <img src="{{ . }}" alt="{{ $item.title }}">
+              {{ end }}
+
+              <h3>{{ $item.title }}</h3>
+
+              <span class="shopping-cta">
+                👉 Xem giá & ưu đãi trên Shopee
+              </span>
+
+            </a>
+          </div>
+
+        {{ end }}
+
+      </div>
+    {{ end }}
+
+  </div>
+</section>
+
+{{ end }}

@@ -1,0 +1,218 @@
+/* ===============================
+   MUA SAM – SECTION MODULE
+   =============================== */
+
+/* ----- SECTION WRAPPER ----- */
+.shopping-section {
+  margin-block: 2.5rem;
+}
+
+/* ----- HEADER ----- */
+.shopping-header {
+  margin-bottom: 2rem;
+}
+
+.shopping-header h1 {
+  margin-bottom: 0.5rem;
+}
+
+.shopping-header p {
+  max-width: 640px;
+  color: #4b5563;
+  margin-bottom: 1rem;
+}
+
+/* ----- SEARCH BOX ----- */
+.section-search {
+  margin-top: 1rem;
+}
+
+.section-search input {
+  width: 100%;
+  max-width: 420px;
+  padding: 0.6rem 0.75rem;
+  font-size: 0.95rem;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+}
+
+.section-search input:focus {
+  outline: none;
+  border-color: #2563eb;
+}
+
+/* ----- CATEGORY BLOCK ----- */
+.shopping-category-block {
+  margin-bottom: 3rem;
+}
+
+.shopping-category-header h2 {
+  margin-bottom: 0.25rem;
+}
+
+.shopping-category-header h2 a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.shopping-category-header p {
+  font-size: 0.95rem;
+  color: #6b7280;
+}
+
+/* GRID CHUNG CHO LIST & SINGLE */
+.shopping-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+
+.shopping-grid-preview {
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+}
+
+/* ----- CARD ----- */
+.shopping-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  background: #ffffff;
+  overflow: hidden;
+}
+
+.shopping-card a {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+/* ----- IMAGE (CHỐT TỈ LỆ) ----- */
+.shopping-card img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  display: block;
+}
+
+/* ----- TITLE ----- */
+.shopping-card h3 {
+  font-size: 0.9rem;
+  font-weight: 500;
+  padding: 0.5rem 0.5rem 0;
+  line-height: 1.4;
+}
+
+/* ----- CTA ----- */
+.shopping-cta {
+  display: block;
+  padding: 0.4rem 0.5rem 0.6rem;
+  font-size: 0.85rem;
+  color: #2563eb;
+}
+
+/* ----- MORE LINK ----- */
+.shopping-more {
+  margin-top: 0.75rem;
+}
+
+.shopping-more a {
+  font-size: 0.9rem;
+  color: #2563eb;
+  text-decoration: none;
+}
+
+/* ----- CONTAINER RIÊNG CHO MUA SAM ----- */
+.shopping-container {
+  max-width: 1200px;
+  margin-inline: auto;
+  padding-inline: 1.25rem; /* lề trái/phải */
+}
+
+/* ===============================
+   RESPONSIVE
+   =============================== */
+@media (max-width: 640px) {
+  .shopping-grid-preview {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* ===============================
+   MUA SAM – MOBILE OPTIMIZATION
+   =============================== */
+
+@media (max-width: 768px) {
+
+  /* Container: giữ lề thoáng */
+  .shopping-container {
+    padding-inline: 1rem;
+  }
+
+  /* Header gọn hơn */
+  .shopping-header {
+    margin-bottom: 1.5rem;
+  }
+
+  .shopping-header h1 {
+    font-size: 1.35rem;
+  }
+
+  .shopping-header p {
+    font-size: 0.95rem;
+  }
+
+  /* Search box full width */
+  .section-search input {
+    max-width: 100%;
+    font-size: 1rem;
+    padding: 0.65rem 0.75rem;
+  }
+
+  /* Category block giãn nhịp */
+  .shopping-category-block {
+    margin-bottom: 2.5rem;
+  }
+
+  /* GRID: 2 cột chuẩn mobile */
+  .shopping-grid,
+  .shopping-grid-preview {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.75rem;
+  }
+
+  /* Card: ưu tiên bấm */
+  .shopping-card h3 {
+    font-size: 0.9rem;
+    line-height: 1.35;
+  }
+
+  .shopping-cta {
+    font-size: 0.85rem;
+    padding-bottom: 0.7rem;
+  }
+
+  /* Link xem tất cả rõ ràng hơn */
+  .shopping-more a {
+    font-size: 0.95rem;
+  }
+}
+
+/* ===============================
+   SMALL MOBILE (<= 420px)
+   =============================== */
+
+@media (max-width: 420px) {
+
+  .shopping-header h1 {
+    font-size: 1.25rem;
+  }
+
+  .shopping-card h3 {
+    font-size: 0.85rem;
+  }
+
+  .shopping-cta {
+    font-size: 0.8rem;
+  }
+}
