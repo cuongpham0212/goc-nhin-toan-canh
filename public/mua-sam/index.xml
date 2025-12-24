@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gian hàng chọn lọc on Góc Nhìn Toàn Cảnh</title>
-    <link>http://localhost:1313/mua-sam/</link>
+    <link>https://gocnhintoancanh.netlify.app/mua-sam/</link>
     <description>Recent content in Gian hàng chọn lọc on Góc Nhìn Toàn Cảnh</description>
     <generator>Hugo</generator>
     <language>vi</language>
-    <atom:link href="http://localhost:1313/mua-sam/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gocnhintoancanh.netlify.app/mua-sam/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sách nên mua</title>
-      <link>http://localhost:1313/mua-sam/sach/</link>
+      <link>https://gocnhintoancanh.netlify.app/mua-sam/sach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mua-sam/sach/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/mua-sam/sach/</guid>
       <description>Sách chọn lọc để học tập, chữa lành và đầu tư bản thân</description>
     </item>
   </channel>
