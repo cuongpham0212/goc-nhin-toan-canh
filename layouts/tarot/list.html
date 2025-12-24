@@ -1,0 +1,27 @@
+{{ define "main" }}
+<section class="tarot-hub container">
+  <header>
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}
+      <div class="intro">
+        {{ . }}
+      </div>
+    {{ end }}
+  </header>
+
+  <nav class="tarot-nav">
+    <ul>
+      <li>
+        <a href="{{ "/tarot/boi-1-la/" | relURL }}">
+          🔮 Xem Tarot Online – Rút 1 Lá
+        </a>
+      </li>
+      <li>
+        <a href="{{ "/tarot/la-bai/" | relURL }}">
+          🃏 Tìm hiểu ý nghĩa 78 lá Tarot
+        </a>
+      </li>
+    </ul>
+  </nav>
+</section>
+{{ end }}

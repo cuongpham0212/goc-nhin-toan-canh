@@ -1,0 +1,256 @@
+{{/* =========================================================
+   RECOMMEND ROTATOR (Section-based)
+   Source: content/mua-sam/*.md (each page = a product group)
+   Each time user sees the block => random group + random items
+========================================================= */}}
+
+{{ $groups := where site.RegularPages "Section" "mua-sam" }}
+{{ if gt (len $groups) 0 }}
+
+{{/* Build dataset for JS */}}
+{{ $dataset := slice }}
+{{ range $groups }}
+  {{ $items := .Params.items }}
+  {{ if and $items (gt (len $items) 0) }}
+    {{ $dataset = $dataset | append (dict
+      "groupTitle" .Title
+      "groupUrl" .RelPermalink
+      "items" $items
+    ) }}
+  {{ end }}
+{{ end }}
+
+{{ if gt (len $dataset) 0 }}
+
+{{/* Server-side first render (fallback) */}}
+{{ $firstGroup := index (shuffle $dataset) 0 }}
+{{ $firstItems := first 8 (shuffle $firstGroup.items) }}
+
+<section class="ms-reco" data-ms-reco>
+  <div class="ms-reco__head">
+    <div class="ms-reco__title">
+      <h3>Gợi ý cho bạn</h3>
+      <p>
+        <span data-ms-group>{{ $firstGroup.groupTitle }}</span>
+        {{ with $firstGroup.groupUrl }}
+          · <a class="ms-reco__more" href="{{ . }}">Xem nhóm</a>
+        {{ end }}
+      </p>
+    </div>
+
+    <div class="ms-reco__hint">
+      <span>↔ kéo ngang</span>
+    </div>
+  </div>
+
+  <div class="ms-reco__slider" data-ms-slider>
+    {{ range $firstItems }}
+      {{ $t := .title | default "Sản phẩm" }}
+      {{ $u := .url | default "#" }}
+      <a class="ms-card" href="{{ $u }}" target="_blank" rel="nofollow sponsored noopener">
+        {{ with .image }}
+          <div class="ms-card__thumb">
+            <img src="{{ . }}" alt="{{ $t }}" loading="lazy">
+          </div>
+        {{ end }}
+        <div class="ms-card__info">
+          <h4 class="ms-card__name">{{ $t }}</h4>
+          {{ with .price }}<div class="ms-card__price">{{ . }}</div>{{ end }}
+        </div>
+      </a>
+    {{ end }}
+  </div>
+
+  {{/* Embed JSON dataset for client-side rotation */}}
+  <script type="application/json" data-ms-data>
+    {{ $dataset | jsonify }}
+  </script>
+</section>
+
+<style>
+/* ===============================
+   Mua-sam Recommend Rotator
+   =============================== */
+
+.ms-reco{
+  margin: 3rem auto;
+  padding: 1.1rem 1.1rem 1.25rem;
+  max-width: 720px;                 /* ✅ KHÓA BỀ NGANG */
+  border-radius: 12px;
+  background: #f9fafb;
+  border: 1px solid #eef2f7;
+}
+
+.ms-reco__head{
+  display:flex;
+  align-items:flex-end;
+  justify-content:space-between;
+  gap:1rem;
+  margin-bottom: 0.9rem;
+}
+
+.ms-reco__title h3{
+  margin:0 0 .25rem;
+  font-size: 1.05rem;
+  line-height:1.2;
+}
+
+.ms-reco__title p{
+  margin:0;
+  font-size:.85rem;
+  color:#6b7280;
+}
+
+.ms-reco__more{
+  color:#2563eb;
+  text-decoration:none;
+}
+.ms-reco__more:hover{ text-decoration:underline; }
+
+.ms-reco__hint{
+  font-size:.8rem;
+  color:#9ca3af;
+  user-select:none;
+  white-space:nowrap;
+}
+
+/* ===== SLIDER NGANG (GIỮ NGUYÊN) ===== */
+
+.ms-reco__slider{
+  display:flex;
+  gap:1rem;
+  overflow-x:auto;
+  scroll-snap-type:x mandatory;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom:.25rem;
+}
+.ms-reco__slider::-webkit-scrollbar{ display:none; }
+
+/* ===== CARD ===== */
+
+.ms-card{
+  flex:0 0 auto;
+  width:180px;                      /* ~4 card desktop */
+  background:#fff;
+  border-radius: 10px;
+  overflow:hidden;
+  text-decoration:none;
+  color:inherit;
+  scroll-snap-align:start;
+  box-shadow: 0 4px 10px rgba(0,0,0,.05);
+  border: 1px solid #f1f5f9;
+  transition: transform .18s ease;
+}
+.ms-card:hover{ transform: translateY(-2px); }
+
+@media (max-width: 640px){
+  .ms-card{
+    width:150px;                    /* ~2.5–3 card mobile */
+  }
+}
+
+.ms-card__thumb img{
+  width:100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  display:block;
+}
+
+.ms-card__info{ padding:.6rem .7rem .75rem; }
+
+.ms-card__name{
+  margin:0 0 .3rem;
+  font-size:.9rem;
+  line-height:1.25;
+
+  display: -webkit-box;
+  line-clamp: 2;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.ms-card__price{
+  font-size:.86rem;
+  color:#2563eb;
+  font-weight: 650;
+}
+</style>
+
+<script>
+(() => {
+  const root = document.querySelector("[data-ms-reco]");
+  if (!root) return;
+
+  const dataTag = root.querySelector("script[data-ms-data]");
+  const slider = root.querySelector("[data-ms-slider]");
+  const groupLabel = root.querySelector("[data-ms-group]");
+  const moreLink = root.querySelector(".ms-reco__more");
+
+  if (!dataTag || !slider) return;
+
+  let groups = [];
+  try { groups = JSON.parse(dataTag.textContent.trim() || "[]"); } catch(e) {}
+  if (!groups.length) return;
+
+  const pickRandom = arr => arr[Math.floor(Math.random() * arr.length)];
+  const shuffle = arr => {
+    const a = arr.slice();
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+  };
+
+  const render = () => {
+    const g = pickRandom(groups);
+    const items = shuffle(g.items).slice(0, 8);
+
+    if (groupLabel) groupLabel.textContent = g.groupTitle;
+    if (moreLink) moreLink.href = g.groupUrl;
+
+    slider.innerHTML = items.map(it => `
+      <a class="ms-card" href="${it.url}" target="_blank" rel="nofollow sponsored noopener">
+        ${it.image ? `
+          <div class="ms-card__thumb">
+            <img src="${it.image}" alt="${it.title}" loading="lazy">
+          </div>` : ``}
+        <div class="ms-card__info">
+          <h4 class="ms-card__name">${it.title}</h4>
+          ${it.price ? `<div class="ms-card__price">${it.price}</div>` : ``}
+        </div>
+      </a>
+    `).join("");
+
+    slider.scrollLeft = 0;
+  };
+
+  /* đổi khi block vào viewport */
+  const io = new IntersectionObserver(e=>{
+    if (e[0].isIntersecting) render();
+  },{threshold:0.35});
+  io.observe(root);
+
+  /* auto scroll nhẹ */
+  let raf;
+  const autoScroll = () => {
+    if (slider.scrollWidth > slider.clientWidth) {
+      slider.scrollLeft += 0.25;
+      if (slider.scrollLeft + slider.clientWidth >= slider.scrollWidth - 2) {
+        slider.scrollLeft = 0;
+      }
+    }
+    raf = requestAnimationFrame(autoScroll);
+  };
+  raf = requestAnimationFrame(autoScroll);
+
+  window.addEventListener("pagehide",()=>{
+    if(raf) cancelAnimationFrame(raf);
+    io.disconnect();
+  });
+})();
+</script>
+
+{{ end }}
+{{ end }}

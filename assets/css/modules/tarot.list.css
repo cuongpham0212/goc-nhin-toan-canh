@@ -1,0 +1,165 @@
+/* ==================================================
+   TAROT LIST – Highlighted Groups & Hover Restored
+   ================================================== */
+
+.tarot-list-page {
+  padding-block: 3rem 5rem;
+}
+
+/* ---------- Page Title ---------- */
+
+.tarot-list-header {
+  text-align: center;
+  margin-bottom: 3.5rem;
+}
+
+.tarot-list-title {
+  font-size: 2.6rem;
+  font-weight: 700;
+  letter-spacing: .02em;
+  color: #111827;
+}
+
+.tarot-list-lead {
+  font-size: 1.1rem;
+  font-style: italic;
+  color: #6b7280;
+}
+
+/* ---------- Layout ---------- */
+
+.tarot-list-layout {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 3rem;
+}
+
+/* ---------- TOC ---------- */
+
+.tarot-toc {
+  position: sticky;
+  top: 6rem;
+}
+
+.tarot-toc-title {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.tarot-toc a {
+  color: #374151;
+  text-decoration: none;
+}
+
+.tarot-toc a:hover {
+  text-decoration: underline;
+}
+
+/* ---------- Group Titles ---------- */
+
+.tarot-suit-group {
+  margin-bottom: 5rem;
+}
+
+.tarot-suit-title {
+  font-size: 2.1rem;
+  font-weight: 700;
+  margin-bottom: .6rem;
+}
+
+.tarot-major-title {
+  color: #7c2d12;
+}
+
+.tarot-cups {
+  color: #1d4ed8;
+}
+
+.tarot-wands {
+  color: #92400e;
+}
+
+.tarot-swords {
+  color: #374151;
+}
+
+.tarot-pentacles {
+  color: #065f46;
+}
+
+.tarot-suit-desc {
+  max-width: 640px;
+  margin-bottom: 1.8rem;
+  color: #4b5563;
+  line-height: 1.7;
+}
+
+/* ---------- Grid ---------- */
+
+.tarot-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 1.1rem;
+}
+
+/* ---------- Card ---------- */
+
+.tarot-card-item {
+  text-align: center;
+}
+
+.tarot-card-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.25s ease;
+}
+
+.tarot-card-link img {
+  width: 100%;
+  display: block;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,.14);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+/* ---------- HOVER (ĐÃ FIX) ---------- */
+
+.tarot-card-link:hover {
+  transform: translateY(-6px);
+}
+
+.tarot-card-link:hover img {
+  box-shadow: 0 14px 34px rgba(0,0,0,.28);
+}
+
+/* ---------- Card Title ---------- */
+
+.tarot-card-title {
+  margin-top: .45rem;
+  font-size: .95rem;
+  font-weight: 600;
+  color: #111827;
+  text-align: center;
+}
+
+/* ---------- Responsive ---------- */
+
+@media (max-width: 1200px) {
+  .tarot-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (max-width: 900px) {
+  .tarot-list-layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .tarot-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

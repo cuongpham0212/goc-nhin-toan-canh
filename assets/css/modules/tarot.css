@@ -1,0 +1,300 @@
+/* =========================================================
+   TAROT – BÓI 1 LÁ (AURA STATE – FINAL CLEAN VERSION)
+   Chữ cân – khối rõ – đọc chuyên nghiệp
+   ========================================================= */
+
+/* =========================
+   BODY STATE
+   ========================= */
+body.tarot-before .tarot-wrap {
+  background: rgba(0, 0, 0, 0.18);
+}
+
+body.tarot-after .tarot-wrap {
+  background: rgba(0, 0, 0, 0.52);
+}
+
+/* =========================
+   PAGE ROOT
+   ========================= */
+.tarot-page {
+  min-height: 100svh;
+  background: url("https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/hinh-nen-vu-tru-34.jpg.webp")
+    center / cover no-repeat;
+}
+
+/* =========================
+   WRAPPER
+   ========================= */
+.tarot-wrap {
+  min-height: 100%;
+  padding: 4.5rem 1.5rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+
+  isolation: isolate;
+  transition: background 0.8s ease;
+}
+
+/* =========================
+   PANEL – BASE
+   ========================= */
+.tarot-panel {
+  width: 100%;
+  max-width: 760px;
+  padding: 3.25rem 3rem 3.75rem;
+  position: relative;
+
+  background: rgba(15, 23, 42, 0.06);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+
+  border-radius: 28px;
+  box-shadow: none;
+
+  transition:
+    background 0.8s ease,
+    backdrop-filter 0.8s ease,
+    box-shadow 0.8s ease;
+}
+
+.tarot-panel::after {
+  content: "";
+  position: absolute;
+  inset: -44px;
+  border-radius: inherit;
+  pointer-events: none;
+
+  background: radial-gradient(
+    circle at top,
+    rgba(99,102,241,0.14),
+    transparent 72%
+  );
+
+  opacity: 0.35;
+  transition: opacity 0.8s ease;
+}
+
+/* =========================
+   PANEL – ACTIVE
+   ========================= */
+.tarot-panel.is-active {
+  background: rgba(15, 23, 42, 0.46);
+  backdrop-filter: blur(22px);
+  -webkit-backdrop-filter: blur(22px);
+
+  box-shadow:
+    0 60px 160px rgba(0,0,0,0.75);
+}
+
+.tarot-panel.is-active::after {
+  opacity: 1;
+}
+
+/* =========================
+   HEADER
+   ========================= */
+.tarot-header h1 {
+  font-size: 2.05rem;
+  line-height: 1.28;
+  margin-bottom: 1.35rem;
+
+  color: #f9fafb;
+  letter-spacing: -0.02em;
+
+  text-shadow:
+    0 4px 26px rgba(0,0,0,0.9),
+    0 0 46px rgba(99,102,241,0.25);
+}
+
+.tarot-intro {
+  font-size: 1.02rem;
+  line-height: 1.75;
+  max-width: 640px;
+
+  color: #e5e7eb;
+  text-shadow:
+    0 2px 16px rgba(0,0,0,0.75);
+}
+
+/* =========================
+   ACTION
+   ========================= */
+.tarot-action {
+  margin-block: 2.75rem;
+}
+
+.tarot-btn {
+  padding: 0.85rem 2.1rem;
+  border-radius: 999px;
+  border: none;
+  cursor: pointer;
+
+  background: linear-gradient(135deg, #6366f1, #8b5cf6);
+
+  color: #fff;
+  font-size: 0.95rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+
+  box-shadow:
+    0 12px 32px rgba(99,102,241,0.5),
+    inset 0 0 0 1px rgba(255,255,255,0.25);
+
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.tarot-btn:hover {
+  transform: translateY(-1px);
+  box-shadow:
+    0 18px 48px rgba(99,102,241,0.65);
+}
+
+/* =========================
+   RESULT
+   ========================= */
+.tarot-result {
+  margin-top: 3.25rem;
+}
+
+/* =========================
+   CARD
+   ========================= */
+.tarot-card {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2.25rem;
+}
+
+.tarot-card img {
+  width: 210px;
+  border-radius: 14px;
+  box-shadow: 0 24px 60px rgba(0,0,0,0.3);
+}
+
+/* =========================
+   CARD TITLE
+   ========================= */
+.tarot-card-title {
+  text-align: center;
+  font-size: 1.35rem;
+  margin-bottom: 2.25rem;
+  color: #f8fafc;
+}
+
+/* =========================
+   TEXT BLOCK
+   ========================= */
+.tarot-block {
+  margin-bottom: 2.1rem;
+}
+
+.tarot-block h3 {
+  font-size: 0.72rem;
+  letter-spacing: 0.2em;
+  margin-bottom: 0.5rem;
+
+  color: #a5b4fc;
+}
+
+.tarot-block p {
+  font-size: 0.98rem;
+  line-height: 1.75;
+
+  color: #f1f5f9;
+  text-shadow:
+    0 2px 14px rgba(0,0,0,0.85);
+}
+
+/* =========================
+   FOOTER
+   ========================= */
+.tarot-footer {
+  margin-top: 3.5rem;
+  text-align: center;
+}
+
+.tarot-footer a {
+  color: #93c5fd;
+  text-decoration: none;
+}
+
+.tarot-footer a:hover {
+  text-decoration: underline;
+}
+
+/* =========================
+   OVERLAY
+   ========================= */
+.tarot-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+
+  background: rgba(11, 13, 24, 0.92);
+  backdrop-filter: blur(6px);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tarot-overlay[hidden] {
+  display: none !important;
+}
+
+.tarot-overlay-box {
+  text-align: center;
+  color: #f9fafb;
+}
+
+.tarot-orb {
+  width: 84px;
+  height: 84px;
+  margin: 0 auto 1.75rem;
+
+  border-radius: 50%;
+  background: radial-gradient(circle, #c7d2fe, #6366f1);
+
+  box-shadow:
+    0 0 30px rgba(99,102,241,0.9),
+    0 0 70px rgba(99,102,241,0.6),
+    0 0 120px rgba(99,102,241,0.35);
+}
+
+.tarot-overlay-text {
+  font-size: 0.95rem;
+  letter-spacing: 0.12em;
+}
+
+/* =========================
+   MOBILE
+   ========================= */
+@media (max-width: 640px) {
+  .tarot-panel {
+    padding: 2.25rem 1.75rem 3rem;
+    border-radius: 22px;
+  }
+
+  .tarot-header h1 {
+    font-size: 1.7rem;
+  }
+
+  .tarot-card img {
+    width: 175px;
+  }
+}
+/* =========================
+   CENTER DRAW BUTTON
+   ========================= */
+.tarot-action {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tarot-btn {
+  margin-inline: auto;
+}

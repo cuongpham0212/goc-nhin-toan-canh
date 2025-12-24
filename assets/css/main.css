@@ -18,6 +18,10 @@
 @import "modules/gallery.css";
 @import "modules/gate.css";
 @import "modules/section.css";
+@import "modules/tarot.css";
+@import "modules/tarot.article.css";
+@import "modules/tarot.list.css";
+
 
 /* ⬇️ LUÔN LUÔN CUỐI */
 @import "modules/article.css";

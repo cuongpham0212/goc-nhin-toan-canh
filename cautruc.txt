@@ -175,3 +175,54 @@ layouts/partials/
 
 assets/js/
 └── section-search.js
+
+******* Cấu trúc section tarot
+
+content/
+└─ tarot/
+   ├─ _index.md
+   ├─ boi-1-la.md
+   └─ la-bai/
+      ├─ _index.md
+      ├─ the-fool.md (ảnh là link cdn ngoài repo)
+      └─ ...
+
+layouts/
+└─ tarot/
+   ├─ list.html              # HUB Tarot (/tarot/)
+   ├─ boi-1-la.html          # Tool Tarot online
+   └─ la-bai/
+      ├─ list.html           # Danh sách 78 lá
+      └─ single.html         # Trang SEO từng lá
+
+assets/
+└─ js/
+   └─ tarot/
+      └─ draw-one.js         # Logic bói 1 lá
+
+Mỗi lá Tarot (content/tarot/la-bai/the-fool.md)
+
+---
+title: "The Fool – Kẻ Lữ Hành"
+slug: "the-fool"
+
+arcana: "major"          # major | minor
+number: 0                # major: 0–21
+
+summary: "Khởi đầu mới, bước đi chưa biết điểm đến."
+keywords:
+  - khởi đầu
+  - tự do
+  - mạo hiểm
+
+emotion:
+  - háo hức
+  - bất an
+  - tò mò
+
+guidance:
+  - tin vào trải nghiệm
+  - đi chậm nhưng không dừng
+
+image: "https://cdn.example.com/tarot/major/the-fool.jpg"
+---

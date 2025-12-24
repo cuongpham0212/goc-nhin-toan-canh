@@ -67,8 +67,8 @@ Nó tồn tại với mục đích thử nghiệm nhịp đọc, độ dài, và
 
 
 <link rel="stylesheet"
-      href="/css/main.min.b1ede4507b60d903ecba09582e580ee537e813b374d02910277a5d43b71de28b.css"
-      integrity="sha256-se3kUHtg2QPsuglYLlgO5TfoE7N00CkQJ3pdQ7cd4os=">
+      href="/css/main.min.bb1b8469c6ec259a1143fe496797ae1fae3caabda3fbb2b9a9cf7f6ee6efdf58.css"
+      integrity="sha256-uxuEacbsJZoRQ/5JZ5euH648qr2j&#43;7K5qc9/bubv31g=">
 
 
 
@@ -193,17 +193,35 @@ Nó tồn tại với mục đích thử nghiệm nhịp đọc, độ dài, và
     
     <div class="site-brand">
       <a href="/">Góc Nhìn Toàn Cảnh</a>
-    </div>   
+    </div>
 
+    
     <button class="menu-toggle" aria-label="Menu">☰</button>
 
     
     <nav class="site-nav">
+
       <a href="/goc-nhin/">Góc nhìn</a>
       <a href="/phan-tich/">Phân tích</a>
       <a href="/chuyen-doi/">Chuyện đời</a>
+
+      
+      <div class="nav-item ">
+        <a href="/tarot/la-bai/" class="nav-parent">Tarot</a>
+
+        <ul class="nav-submenu">
+          <li>
+            <a href="/tarot/boi-1-la/">🔮 Xem Tarot Online – Rút 1 Lá</a>
+          </li>
+          <li>
+            <a href="/tarot/la-bai/">📖 Ý nghĩa 78 lá Tarot</a>
+          </li>
+        </ul>
+      </div>
+
       <a href="/mua-sam/">Mua sắm</a>
       <a href="/gioi-thieu/">Giới thiệu</a>
+
     </nav>
 
   </div>
@@ -914,6 +932,282 @@ document.addEventListener("DOMContentLoaded", function () {
   </script>
 
 </section>
+
+    
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+
+
+
+
+
+
+
+<section class="ms-reco" data-ms-reco>
+  <div class="ms-reco__head">
+    <div class="ms-reco__title">
+      <h3>Gợi ý cho bạn</h3>
+      <p>
+        <span data-ms-group>Sách nên mua</span>
+        
+          · <a class="ms-reco__more" href="/mua-sam/sach/">Xem nhóm</a>
+        
+      </p>
+    </div>
+
+    <div class="ms-reco__hint">
+      <span>↔ kéo ngang</span>
+    </div>
+  </div>
+
+  <div class="ms-reco__slider" data-ms-slider>
+    
+      
+      
+      <a class="ms-card" href="#" target="_blank" rel="nofollow sponsored noopener">
+        
+          <div class="ms-card__thumb">
+            <img src="https://via.placeholder.com/400" alt="Sách Chữa Lành" loading="lazy">
+          </div>
+        
+        <div class="ms-card__info">
+          <h4 class="ms-card__name">Sách Chữa Lành</h4>
+          
+        </div>
+      </a>
+    
+      
+      
+      <a class="ms-card" href="#" target="_blank" rel="nofollow sponsored noopener">
+        
+          <div class="ms-card__thumb">
+            <img src="https://via.placeholder.com/400" alt="Sách Đầu Tư Cơ Bản" loading="lazy">
+          </div>
+        
+        <div class="ms-card__info">
+          <h4 class="ms-card__name">Sách Đầu Tư Cơ Bản</h4>
+          
+        </div>
+      </a>
+    
+      
+      
+      <a class="ms-card" href="#" target="_blank" rel="nofollow sponsored noopener">
+        
+          <div class="ms-card__thumb">
+            <img src="https://via.placeholder.com/400" alt="Sách Tâm Lý Học" loading="lazy">
+          </div>
+        
+        <div class="ms-card__info">
+          <h4 class="ms-card__name">Sách Tâm Lý Học</h4>
+          
+        </div>
+      </a>
+    
+  </div>
+
+  
+  <script type="application/json" data-ms-data>
+    "[{\"groupTitle\":\"Sách nên mua\",\"groupUrl\":\"/mua-sam/sach/\",\"items\":[{\"image\":\"https://via.placeholder.com/400\",\"link\":\"https://s.shopee.vn/8pdJsuElmX\",\"title\":\"Sách Tâm Lý Học\"},{\"image\":\"https://via.placeholder.com/400\",\"link\":\"https://shopee.vn/affiliate-link-2\",\"title\":\"Sách Đầu Tư Cơ Bản\"},{\"image\":\"https://via.placeholder.com/400\",\"link\":\"https://shopee.vn/affiliate-link-3\",\"title\":\"Sách Chữa Lành\"}]}]"
+  </script>
+</section>
+
+<style>
+ 
+
+.ms-reco{
+  margin: 3rem auto;
+  padding: 1.1rem 1.1rem 1.25rem;
+  max-width: 720px;                  
+  border-radius: 12px;
+  background: #f9fafb;
+  border: 1px solid #eef2f7;
+}
+
+.ms-reco__head{
+  display:flex;
+  align-items:flex-end;
+  justify-content:space-between;
+  gap:1rem;
+  margin-bottom: 0.9rem;
+}
+
+.ms-reco__title h3{
+  margin:0 0 .25rem;
+  font-size: 1.05rem;
+  line-height:1.2;
+}
+
+.ms-reco__title p{
+  margin:0;
+  font-size:.85rem;
+  color:#6b7280;
+}
+
+.ms-reco__more{
+  color:#2563eb;
+  text-decoration:none;
+}
+.ms-reco__more:hover{ text-decoration:underline; }
+
+.ms-reco__hint{
+  font-size:.8rem;
+  color:#9ca3af;
+  user-select:none;
+  white-space:nowrap;
+}
+
+ 
+
+.ms-reco__slider{
+  display:flex;
+  gap:1rem;
+  overflow-x:auto;
+  scroll-snap-type:x mandatory;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom:.25rem;
+}
+.ms-reco__slider::-webkit-scrollbar{ display:none; }
+
+ 
+
+.ms-card{
+  flex:0 0 auto;
+  width:180px;                       
+  background:#fff;
+  border-radius: 10px;
+  overflow:hidden;
+  text-decoration:none;
+  color:inherit;
+  scroll-snap-align:start;
+  box-shadow: 0 4px 10px rgba(0,0,0,.05);
+  border: 1px solid #f1f5f9;
+  transition: transform .18s ease;
+}
+.ms-card:hover{ transform: translateY(-2px); }
+
+@media (max-width: 640px){
+  .ms-card{
+    width:150px;                     
+  }
+}
+
+.ms-card__thumb img{
+  width:100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  display:block;
+}
+
+.ms-card__info{ padding:.6rem .7rem .75rem; }
+
+.ms-card__name{
+  margin:0 0 .3rem;
+  font-size:.9rem;
+  line-height:1.25;
+
+  display: -webkit-box;
+  line-clamp: 2;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.ms-card__price{
+  font-size:.86rem;
+  color:#2563eb;
+  font-weight: 650;
+}
+</style>
+
+<script>
+(() => {
+  const root = document.querySelector("[data-ms-reco]");
+  if (!root) return;
+
+  const dataTag = root.querySelector("script[data-ms-data]");
+  const slider = root.querySelector("[data-ms-slider]");
+  const groupLabel = root.querySelector("[data-ms-group]");
+  const moreLink = root.querySelector(".ms-reco__more");
+
+  if (!dataTag || !slider) return;
+
+  let groups = [];
+  try { groups = JSON.parse(dataTag.textContent.trim() || "[]"); } catch(e) {}
+  if (!groups.length) return;
+
+  const pickRandom = arr => arr[Math.floor(Math.random() * arr.length)];
+  const shuffle = arr => {
+    const a = arr.slice();
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+  };
+
+  const render = () => {
+    const g = pickRandom(groups);
+    const items = shuffle(g.items).slice(0, 8);
+
+    if (groupLabel) groupLabel.textContent = g.groupTitle;
+    if (moreLink) moreLink.href = g.groupUrl;
+
+    slider.innerHTML = items.map(it => `
+      <a class="ms-card" href="${it.url}" target="_blank" rel="nofollow sponsored noopener">
+        ${it.image ? `
+          <div class="ms-card__thumb">
+            <img src="${it.image}" alt="${it.title}" loading="lazy">
+          </div>` : ``}
+        <div class="ms-card__info">
+          <h4 class="ms-card__name">${it.title}</h4>
+          ${it.price ? `<div class="ms-card__price">${it.price}</div>` : ``}
+        </div>
+      </a>
+    `).join("");
+
+    slider.scrollLeft = 0;
+  };
+
+   
+  const io = new IntersectionObserver(e=>{
+    if (e[0].isIntersecting) render();
+  },{threshold:0.35});
+  io.observe(root);
+
+   
+  let raf;
+  const autoScroll = () => {
+    if (slider.scrollWidth > slider.clientWidth) {
+      slider.scrollLeft += 0.25;
+      if (slider.scrollLeft + slider.clientWidth >= slider.scrollWidth - 2) {
+        slider.scrollLeft = 0;
+      }
+    }
+    raf = requestAnimationFrame(autoScroll);
+  };
+  raf = requestAnimationFrame(autoScroll);
+
+  window.addEventListener("pagehide",()=>{
+    if(raf) cancelAnimationFrame(raf);
+    io.disconnect();
+  });
+})();
+</script>
+
+
+
+
 
 
   </main>

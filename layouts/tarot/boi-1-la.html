@@ -1,0 +1,127 @@
+{{ define "main" }}
+<body class="tarot-before">
+<div class="tarot-page">
+
+  <!-- ==================================================
+       [1] OVERLAY – KẾT NỐI NĂNG LƯỢNG
+       ================================================== -->
+  <div id="tarot-overlay" class="tarot-overlay" hidden>
+    <div class="tarot-overlay-box">
+      <div class="tarot-orb"></div>
+      <div class="tarot-overlay-text">
+        Đang kết nối với trường năng lượng…
+      </div>
+    </div>
+  </div>
+
+  <!-- ==================================================
+       [2] TAROT PAGE WRAPPER
+       ================================================== -->
+  <section class="tarot-wrap">
+
+    <!-- ==================================================
+         [3] CONTENT PANEL
+         ================================================== -->
+    <div class="tarot-panel" id="tarotPanel">
+
+      <!-- ===== HEADER ===== -->
+      <header class="tarot-header">
+        <h1>{{ .Title }}</h1>
+
+        {{ with .Content }}
+          <div class="tarot-intro">
+            {{ . }}
+          </div>
+        {{ end }}
+      </header>
+
+      <!-- ===== ACTION ===== -->
+      <div class="tarot-action">
+        <button id="draw-card" class="tarot-btn">
+          Rút 1 lá Tarot
+        </button>
+      </div>
+
+      <!-- ===== RESULT ===== -->
+      <div id="tarot-result" class="tarot-result" hidden>
+
+        <!-- CARD IMAGE -->
+        <div class="tarot-card">
+          <img
+            id="tarot-image"
+            alt=""
+            loading="lazy"
+          />
+        </div>
+
+        <!-- CARD TITLE -->
+        <h2 id="tarot-name" class="tarot-card-title"></h2>
+
+        <!-- REFLECTION -->
+        <section class="tarot-block">
+          <h3>Phản chiếu hiện tại</h3>
+          <p id="tarot-summary"></p>
+        </section>
+
+        <!-- EMOTION -->
+        <section class="tarot-block">
+          <h3>Cảm xúc ngầm</h3>
+          <p id="tarot-emotion"></p>
+        </section>
+
+        <!-- GUIDANCE -->
+        <section class="tarot-block">
+          <h3>Gợi mở</h3>
+          <p id="tarot-guidance"></p>
+        </section>
+
+        <!-- LINK -->
+        <div class="tarot-footer">
+          <a id="tarot-link" href="#">
+            Xem ý nghĩa đầy đủ của lá này →
+          </a>
+        </div>
+
+      </div>
+    </div>
+  </section>
+  {{/* ================= BUILD TAROT CARDS ================= */}}
+{{ $cards := slice }}
+
+{{ range .Site.RegularPages }}
+  {{ if eq .File.Dir "tarot/la-bai/" }}
+
+    {{ $emotion := "" }}
+    {{ with .Params.emotion }}
+      {{ $emotion = delimit . ", " }}
+    {{ end }}
+
+    {{ $guidance := "" }}
+    {{ with .Params.guidance }}
+      {{ $guidance = delimit . ", " }}
+    {{ end }}
+
+    {{ $cards = $cards | append (dict
+      "title" .Title
+      "url" .RelPermalink
+      "image" (.Params.image | default "")
+      "summary" (.Params.summary | default "")
+      "emotion" $emotion
+      "guidance" $guidance
+    ) }}
+
+  {{ end }}
+{{ end }}
+
+<!-- DEBUG_CARDS_COUNT = {{ len $cards }} -->
+
+{{ partial "tarot/data.html" (dict "cards" $cards) }}
+
+  {{ $js := resources.Get "js/tarot/draw-one.js" | resources.Minify }}
+  <script src="{{ $js.RelPermalink }}"></script>
+
+</div>
+
+</body>
+
+{{ end }}

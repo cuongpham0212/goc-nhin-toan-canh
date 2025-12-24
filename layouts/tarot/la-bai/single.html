@@ -1,0 +1,61 @@
+{{ define "main" }}
+
+<article class="tarot-article container">
+
+  <!-- ===== HEADER ===== -->
+  <header class="tarot-header">
+    <h1 class="tarot-title">{{ .Title }}</h1>
+
+    {{ with .Params.image }}
+      <figure class="tarot-figure">
+        <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" />
+      </figure>
+    {{ end }}
+
+    {{ with .Params.summary }}
+      <p class="tarot-summary">{{ . }}</p>
+    {{ end }}
+  </header>
+
+  <!-- ===== CONTENT ===== -->
+  <section class="tarot-content">
+    {{ .Content }}
+  </section>
+
+  <!-- ===== CONTEMPLATION BLOCK ===== -->
+  {{ with .Params.guidance }}
+  <aside class="tarot-contemplation">
+    <h2>Gợi ý chiêm nghiệm</h2>
+    <ul>
+      {{ range . }}
+        <li>{{ . }}</li>
+      {{ end }}
+    </ul>
+  </aside>
+  {{ end }}
+
+  <!-- ===== NAVIGATION ===== -->
+  <nav class="tarot-nav">
+    {{ with .PrevInSection }}
+      <a class="tarot-prev" href="{{ .RelPermalink }}">
+        ← {{ .Title }}
+      </a>
+    {{ end }}
+
+    {{ with .NextInSection }}
+      <a class="tarot-next" href="{{ .RelPermalink }}">
+        {{ .Title }} →
+      </a>
+    {{ end }}
+  </nav>
+
+  <!-- ===== FOOTER ===== -->
+  <footer class="tarot-footer">
+    <a class="tarot-backlink" href="{{ "/tarot/boi-1-la/" | relURL }}">
+      ← Quay lại Tarot online
+    </a>
+  </footer>
+
+</article>
+
+{{ end }}

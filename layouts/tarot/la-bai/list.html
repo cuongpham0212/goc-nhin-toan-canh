@@ -1,0 +1,153 @@
+{{ define "main" }}
+
+<section class="tarot-list-page container">
+
+  <!-- ===== PAGE TITLE ===== -->
+  <header class="tarot-list-header">
+    <h1 class="tarot-list-title">{{ .Title }}</h1>
+    <p class="tarot-list-lead">
+      78 lá bài – 78 biểu tượng – 78 hành trình nhận thức nội tâm.
+    </p>
+  </header>
+
+  <!-- ===== LAYOUT ===== -->
+  <div class="tarot-list-layout">
+
+    <!-- ===== TOC ===== -->
+    <aside class="tarot-toc">
+      <h2 class="tarot-toc-title">Mục lục Tarot</h2>
+      <ul>
+        <li><a href="#major">Major Arcana – Ẩn chính</a></li>
+        <li><a href="#cups">Cups – Cảm xúc</a></li>
+        <li><a href="#wands">Wands – Hành động</a></li>
+        <li><a href="#swords">Swords – Tư duy</a></li>
+        <li><a href="#pentacles">Pentacles – Vật chất</a></li>
+      </ul>
+    </aside>
+
+    <!-- ===== CONTENT ===== -->
+    <div class="tarot-list-content">
+
+      <!-- ===== MAJOR ARCANA ===== -->
+      <section id="major" class="tarot-suit-group tarot-major">
+        <h2 class="tarot-suit-title tarot-major-title">
+          Major Arcana – Ẩn chính
+        </h2>
+        <p class="tarot-suit-desc">
+          Những biểu tượng cốt lõi phản ánh các bước ngoặt lớn trong hành trình đời người và sự thức tỉnh nội tâm.
+        </p>
+
+        <div class="tarot-grid-wrap">
+          <div class="tarot-grid">
+            {{ range where .Pages "Params.arcana" "major" }}
+              <article class="tarot-card-item">
+                <a href="{{ .RelPermalink }}" class="tarot-card-link">
+                  {{ with .Params.image }}
+                    <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" />
+                  {{ end }}
+                  <h3 class="tarot-card-title">{{ .Title }}</h3>
+                </a>
+              </article>
+            {{ end }}
+          </div>
+        </div>
+      </section>
+
+      <!-- ===== CUPS ===== -->
+      <section id="cups" class="tarot-suit-group">
+        <h2 class="tarot-suit-title tarot-cups">Cups</h2>
+        <p class="tarot-suit-desc">
+          Biểu trưng cho cảm xúc, trực giác và các mối quan hệ.
+        </p>
+
+        <div class="tarot-grid-wrap">
+          <div class="tarot-grid">
+            {{ range where .Pages "Params.suit" "cups" }}
+              <article class="tarot-card-item">
+                <a href="{{ .RelPermalink }}" class="tarot-card-link">
+                  {{ with .Params.image }}
+                    <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" />
+                  {{ end }}
+                  <h3 class="tarot-card-title">{{ .Title }}</h3>
+                </a>
+              </article>
+            {{ end }}
+          </div>
+        </div>
+      </section>
+
+      <!-- ===== WANDS ===== -->
+      <section id="wands" class="tarot-suit-group">
+        <h2 class="tarot-suit-title tarot-wands">Wands</h2>
+        <p class="tarot-suit-desc">
+          Đại diện cho hành động, ý chí và năng lượng sáng tạo.
+        </p>
+
+        <div class="tarot-grid-wrap">
+          <div class="tarot-grid">
+            {{ range where .Pages "Params.suit" "wands" }}
+              <article class="tarot-card-item">
+                <a href="{{ .RelPermalink }}" class="tarot-card-link">
+                  {{ with .Params.image }}
+                    <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" />
+                  {{ end }}
+                  <h3 class="tarot-card-title">{{ .Title }}</h3>
+                </a>
+              </article>
+            {{ end }}
+          </div>
+        </div>
+      </section>
+
+      <!-- ===== SWORDS ===== -->
+      <section id="swords" class="tarot-suit-group">
+        <h2 class="tarot-suit-title tarot-swords">Swords</h2>
+        <p class="tarot-suit-desc">
+          Liên quan đến tư duy, xung đột, quyết định và sự thật.
+        </p>
+
+        <div class="tarot-grid-wrap">
+          <div class="tarot-grid">
+            {{ range where .Pages "Params.suit" "swords" }}
+              <article class="tarot-card-item">
+                <a href="{{ .RelPermalink }}" class="tarot-card-link">
+                  {{ with .Params.image }}
+                    <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" />
+                  {{ end }}
+                  <h3 class="tarot-card-title">{{ .Title }}</h3>
+                </a>
+              </article>
+            {{ end }}
+          </div>
+        </div>
+      </section>
+
+      <!-- ===== PENTACLES ===== -->
+      <section id="pentacles" class="tarot-suit-group">
+        <h2 class="tarot-suit-title tarot-pentacles">Pentacles</h2>
+        <p class="tarot-suit-desc">
+          Phản ánh thế giới vật chất, công việc, tiền bạc và nền tảng đời sống.
+        </p>
+
+        <div class="tarot-grid-wrap">
+          <div class="tarot-grid">
+            {{ range where .Pages "Params.suit" "pentacles" }}
+              <article class="tarot-card-item">
+                <a href="{{ .RelPermalink }}" class="tarot-card-link">
+                  {{ with .Params.image }}
+                    <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" />
+                  {{ end }}
+                  <h3 class="tarot-card-title">{{ .Title }}</h3>
+                </a>
+              </article>
+            {{ end }}
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </div>
+
+</section>
+
+{{ end }}

@@ -1,20 +1,38 @@
 <header class="site-header">
   <div class="site-header-inner">
 
-    <!-- LOGO / SITE NAME -->
+    <!-- LOGO -->
     <div class="site-brand">
       <a href="/">Góc Nhìn Toàn Cảnh</a>
-    </div>   
+    </div>
 
+    <!-- MENU TOGGLE (MOBILE) -->
     <button class="menu-toggle" aria-label="Menu">☰</button>
 
     <!-- MAIN MENU -->
     <nav class="site-nav">
+
       <a href="/goc-nhin/">Góc nhìn</a>
       <a href="/phan-tich/">Phân tích</a>
       <a href="/chuyen-doi/">Chuyện đời</a>
+
+      <!-- TAROT MENU (CHA + CON) -->
+      <div class="nav-item {{ if hasPrefix .RelPermalink "/tarot/" }}active{{ end }}">
+        <a href="/tarot/la-bai/" class="nav-parent">Tarot</a>
+
+        <ul class="nav-submenu">
+          <li>
+            <a href="/tarot/boi-1-la/">🔮 Xem Tarot Online – Rút 1 Lá</a>
+          </li>
+          <li>
+            <a href="/tarot/la-bai/">📖 Ý nghĩa 78 lá Tarot</a>
+          </li>
+        </ul>
+      </div>
+
       <a href="/mua-sam/">Mua sắm</a>
       <a href="/gioi-thieu/">Giới thiệu</a>
+
     </nav>
 
   </div>

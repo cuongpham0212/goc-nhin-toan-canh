@@ -1,0 +1,104 @@
+/* ==================================================
+   TAROT ARTICLE – Print-style / Academic
+   ================================================== */
+
+.tarot-article {
+  max-width: 760px;
+  margin-inline: auto;
+  padding-block: 3rem 4rem;
+}
+
+/* ---------- Header ---------- */
+
+.tarot-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.tarot-title {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.35;
+  margin-bottom: 2rem;
+}
+
+.tarot-figure {
+  margin: 0 auto 2rem;
+  max-width: 320px;
+}
+
+.tarot-figure img {
+  width: 100%;
+  display: block;
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.12);
+}
+
+.tarot-summary {
+  max-width: 560px;
+  margin: 0 auto;
+  font-style: italic;
+  line-height: 1.7;
+  color: #4b5563;
+}
+
+/* ---------- Content ---------- */
+
+.tarot-content {
+  margin-top: 3.5rem;
+  font-size: 1.05rem;
+  line-height: 1.9;
+  text-align: justify;
+}
+
+/* ---------- Contemplation ---------- */
+
+.tarot-contemplation {
+  margin-top: 4rem;
+  padding: 2rem;
+  border-left: 3px solid #e5e7eb;
+  background: #fafafa;
+}
+
+.tarot-contemplation h2 {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.tarot-contemplation ul {
+  padding-left: 1.2rem;
+}
+
+.tarot-contemplation li {
+  margin-bottom: .6rem;
+}
+
+/* ---------- Navigation ---------- */
+
+.tarot-nav {
+  margin-top: 4rem;
+  display: flex;
+  justify-content: space-between;
+  font-size: .95rem;
+}
+
+.tarot-nav a {
+  color: #374151;
+  text-decoration: none;
+}
+
+.tarot-nav a:hover {
+  text-decoration: underline;
+}
+
+/* ---------- Footer ---------- */
+
+.tarot-footer {
+  margin-top: 3rem;
+  text-align: center;
+}
+
+.tarot-backlink {
+  font-size: .9rem;
+  color: #6b7280;
+}
