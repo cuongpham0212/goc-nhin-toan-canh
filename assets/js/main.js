@@ -21,11 +21,24 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   document.addEventListener("click", function () {
-    if (header.classList.contains("menu-open")) {
-      header.classList.remove("menu-open");
-      toggle.setAttribute("aria-expanded", "false");
-      toggle.textContent = "☰";
-    }
+    header.classList.remove("menu-open");
+    toggle.setAttribute("aria-expanded", "false");
+    toggle.textContent = "☰";
+  });
+
+  /* ===============================
+     SUBMENU TOGGLE (MOBILE)
+  =============================== */
+
+  const submenuToggles = document.querySelectorAll(".submenu-toggle");
+
+  submenuToggles.forEach(btn => {
+    btn.addEventListener("click", function (e) {
+      e.preventDefault();
+      e.stopPropagation();
+      const item = btn.closest(".nav-item");
+      item.classList.toggle("submenu-open");
+    });
   });
 });
 
@@ -42,9 +55,7 @@ if (featured) {
         featured.classList.add("is-visible");
       }
     },
-    {
-      threshold: 0.15
-    }
+    { threshold: 0.15 }
   );
 
   observer.observe(featured);

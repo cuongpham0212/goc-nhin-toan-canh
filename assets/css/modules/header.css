@@ -167,77 +167,49 @@
 }
 
 /* ===============================
-   MOBILE MENU – DROPDOWN PANEL
+   MOBILE SUBMENU (ẨN + BẤM MỞ)
 ================================ */
 
 @media (max-width: 768px) {
 
-  .site-nav {
-    display: none;
-    position: absolute;
-    top: calc(100% + 8px);
-    right: 1rem;
-
-    width: 240px;
-    background: #ffffff;
-    border: 1px solid #e2e0da;
-    border-top: 3px solid #1f2937;
-    border-radius: 10px;
-
-    box-shadow: 0 14px 30px rgba(0,0,0,0.12);
-
-    padding: 0.4rem 0;
-    z-index: 2000;
-
-    opacity: 0;
-    transform: translateY(-4px) scale(0.98);
-    transform-origin: top right;
-
-    transition:
-      opacity 0.18s ease,
-      transform 0.18s cubic-bezier(0.22, 1, 0.36, 1);
+  /* bọc Tarot + nút */
+  .nav-parent-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
   }
 
-  .site-header.menu-open .site-nav {
-    display: block;
-    opacity: 1;
-    transform: translateY(0) scale(1);
-  }
-
-  .site-nav a {
-    display: block;
-    padding: 0.8rem 1rem;
-    border-bottom: 1px solid #f0eee9;
-    text-align: center;
-    font-size: 0.95rem;
-  }
-
-  .site-nav a:hover,
-  .site-nav a:active {
-    background: #f4f3ef;
-  }
-
-  .site-nav a:last-child {
-    border-bottom: none;
-  }
-
-  /* mobile submenu luôn hiện */
-  .nav-submenu {
-    position: static;
-    display: block;
-    box-shadow: none;
+  .submenu-toggle {
+    background: none;
     border: none;
-    margin-top: 0;
-    padding: 0;
-  }
-
-  .nav-submenu a {
-    padding: 0.6rem 1.2rem;
-    font-size: 0.9rem;
+    font-size: 1rem;
+    padding: 0.6rem 1rem;
+    cursor: pointer;
     color: #374151;
   }
 
-  .menu-toggle {
+  /* submenu ẨN */
+  .nav-submenu {
+    display: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  /* khi mở */
+  .nav-item.submenu-open > .nav-submenu {
     display: block;
+  }
+
+  .nav-submenu a {
+    display: block;
+    padding: 0.6rem 1.4rem;
+    font-size: 0.9rem;
+    background: #fafafa;
+    border-top: 1px solid #eee;
+  }
+
+  /* xoay mũi tên */
+  .nav-item.submenu-open .submenu-toggle {
+    transform: rotate(180deg);
   }
 }

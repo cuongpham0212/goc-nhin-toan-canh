@@ -7,7 +7,7 @@
     </div>
 
     <!-- MENU TOGGLE (MOBILE) -->
-    <button class="menu-toggle" aria-label="Menu">☰</button>
+    <button class="menu-toggle" aria-label="Menu" aria-expanded="false">☰</button>
 
     <!-- MAIN MENU -->
     <nav class="site-nav">
@@ -16,9 +16,15 @@
       <a href="/phan-tich/">Phân tích</a>
       <a href="/chuyen-doi/">Chuyện đời</a>
 
-      <!-- TAROT MENU (CHA + CON) -->
-      <div class="nav-item {{ if hasPrefix .RelPermalink "/tarot/" }}active{{ end }}">
-        <a href="/tarot/la-bai/" class="nav-parent">Tarot</a>
+      <!-- TAROT MENU -->
+      <div class="nav-item has-submenu {{ if hasPrefix .RelPermalink "/tarot/" }}active{{ end }}">
+
+        <div class="nav-parent-wrap">
+          <a href="/tarot/la-bai/" class="nav-parent">Tarot</a>
+
+          <!-- NÚT MỞ MENU CON (CHỈ MOBILE) -->
+          <button class="submenu-toggle" aria-label="Mở menu Tarot">▾</button>
+        </div>
 
         <ul class="nav-submenu">
           <li>
