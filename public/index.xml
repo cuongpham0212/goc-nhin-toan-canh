@@ -2,626 +2,619 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Góc Nhìn Toàn Cảnh</title>
-    <link>http://localhost:1313/</link>
+    <link>https://gocnhintoancanh.netlify.app/</link>
     <description>Recent content on Góc Nhìn Toàn Cảnh</description>
     <generator>Hugo</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>http://localhost:1313/test2/</link>
-      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/test2/</guid>
-      <description>&lt;p&gt;No front matter again&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Fri, 19 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gocnhintoancanh.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thử nghiệm nhịp đọc và điểm tựa quay về</title>
-      <link>http://localhost:1313/phan-tich/test-back-to-home/</link>
+      <link>https://gocnhintoancanh.netlify.app/phan-tich/test-back-to-home/</link>
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/phan-tich/test-back-to-home/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/phan-tich/test-back-to-home/</guid>
       <description>&lt;h2 id=&#34;mở-đầu&#34;&gt;Mở đầu&lt;/h2&gt;&#xA;&lt;p&gt;Bài viết này không nhằm truyền tải một luận điểm hoàn chỉnh.&lt;br&gt;&#xA;Nó tồn tại với mục đích &lt;strong&gt;thử nghiệm nhịp đọc&lt;/strong&gt;, &lt;strong&gt;độ dài&lt;/strong&gt;, và &lt;strong&gt;cảm giác của người đọc khi đi sâu vào một dòng suy tưởng kéo dài&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Trong những site chữ, đặc biệt là site mang tính &lt;em&gt;editorial&lt;/em&gt; hoặc &lt;em&gt;narrative&lt;/em&gt;, người đọc rất dễ lạc hướng nếu không có một &lt;strong&gt;điểm tựa tinh thần&lt;/strong&gt; — không phải để thoát ra ngay, mà để &lt;em&gt;biết rằng mình có thể quay về&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chuyện đời đầu tiên</title>
-      <link>http://localhost:1313/chuyen-doi/chuyen-doi-dau-tien/</link>
+      <link>https://gocnhintoancanh.netlify.app/chuyen-doi/chuyen-doi-dau-tien/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/chuyen-doi/chuyen-doi-dau-tien/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/chuyen-doi/chuyen-doi-dau-tien/</guid>
       <description>&lt;h2 id=&#34;đây-là-bài-test-cho-section-chuyện-đời&#34;&gt;Đây là bài test cho section Chuyện đời&lt;/h2&gt;&#xA;&lt;p&gt;Bài viết này &lt;strong&gt;không nhằm nội dung&lt;/strong&gt;,&lt;br&gt;&#xA;mục đích duy nhất là kiểm tra:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hugo có nhận diện &lt;code&gt;chuyen-doi&lt;/code&gt; là &lt;strong&gt;section thực sự&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;_index.md&lt;/code&gt; của section có được dùng để render title hay không&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;nếu-anh-đang-đọc-được-bài-này&#34;&gt;Nếu anh đang đọc được bài này&lt;/h2&gt;&#xA;&lt;p&gt;Điều đó có nghĩa là:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Section &lt;code&gt;chuyen-doi&lt;/code&gt; &lt;strong&gt;đã có bài con&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Hugo &lt;strong&gt;bắt buộc phải coi đây là section&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Mọi logic fallback theo slug &lt;strong&gt;phải bị loại bỏ&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;kết-luận-của-bài-test&#34;&gt;Kết luận của bài test&lt;/h2&gt;&#xA;&lt;p&gt;Sau khi dán bài này:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vì sao con người dễ mất phương hướng trong thời hiện đại</title>
-      <link>http://localhost:1313/phan-tich/vi-sao-con-nguoi-de-mat-phuong-huong/</link>
+      <link>https://gocnhintoancanh.netlify.app/phan-tich/vi-sao-con-nguoi-de-mat-phuong-huong/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/phan-tich/vi-sao-con-nguoi-de-mat-phuong-huong/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/phan-tich/vi-sao-con-nguoi-de-mat-phuong-huong/</guid>
       <description>&lt;h2 id=&#34;sự-đủ-đầy-bên-ngoài-và-trống-rỗng-bên-trong&#34;&gt;Sự đủ đầy bên ngoài và trống rỗng bên trong&lt;/h2&gt;&#xA;&lt;p&gt;Chưa bao giờ con người có nhiều công cụ, nhiều lựa chọn&#xA;và nhiều “cơ hội” như hiện tại.&#xA;Nhưng cũng chưa bao giờ cảm giác lạc lối lại phổ biến đến vậy.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;áp-lực-phải-trở-thành-một-ai-đó&#34;&gt;Áp lực phải trở thành một ai đó&lt;/h2&gt;&#xA;&lt;p&gt;Mạng xã hội không chỉ khoe thành công,&#xA;mà còn ngầm đặt ra một chuẩn mực:&#xA;phải nhanh, phải giỏi, phải hơn người khác.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vì sao cần một Góc Nhìn Toàn Cảnh</title>
-      <link>http://localhost:1313/goc-nhin/goc-nhin-dau-tien/</link>
+      <link>https://gocnhintoancanh.netlify.app/goc-nhin/goc-nhin-dau-tien/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/goc-nhin/goc-nhin-dau-tien/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/goc-nhin/goc-nhin-dau-tien/</guid>
       <description>&lt;h2 id=&#34;vì-sao-tôi-viết-những-dòng-này&#34;&gt;Vì sao tôi viết những dòng này&lt;/h2&gt;&#xA;&lt;p&gt;Giữa rất nhiều tiếng ồn của tin tức, mạng xã hội và quan điểm cực đoan,&#xA;tôi nhận ra mình cần một không gian chậm hơn để nhìn lại mọi thứ&#xA;từ nhiều lớp cắt khác nhau.&lt;/p&gt;&#xA;&lt;p&gt;Không để phán xét.&#xA;Chỉ để hiểu.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;góc-nhìn-không-phải-để-thắng-thua&#34;&gt;Góc nhìn không phải để thắng thua&lt;/h2&gt;&#xA;&lt;p&gt;Một góc nhìn toàn cảnh không tìm cách chứng minh mình đúng,&#xA;mà tìm cách nhìn đủ rộng để thấy vì sao người khác có thể nghĩ khác.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/test/</link>
+      <link>https://gocnhintoancanh.netlify.app/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/test/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/test/</guid>
       <description>&lt;p&gt;No front matter&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ace of Cups – Dòng Cảm Xúc Mới</title>
-      <link>http://localhost:1313/tarot/la-bai/ace-of-cups/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/ace-of-cups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/ace-of-cups/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/ace-of-cups/</guid>
       <description>Khởi đầu cảm xúc, tình yêu và sự mở lòng.</description>
     </item>
     <item>
       <title>Ace of Pentacles – Hạt Giống Vật Chất</title>
-      <link>http://localhost:1313/tarot/la-bai/ace-of-pentacles/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/ace-of-pentacles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/ace-of-pentacles/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/ace-of-pentacles/</guid>
       <description>Cơ hội mới về tiền bạc, công việc hoặc sự ổn định.</description>
     </item>
     <item>
       <title>Ace of Swords – Sự Thật Khởi Sinh</title>
-      <link>http://localhost:1313/tarot/la-bai/ace-of-swords/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/ace-of-swords/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/ace-of-swords/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/ace-of-swords/</guid>
       <description>Sự rõ ràng, sự thật và tư duy mới.</description>
     </item>
     <item>
       <title>Ace of Wands – Tia Lửa Khởi Sinh</title>
-      <link>http://localhost:1313/tarot/la-bai/ace-of-wands/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/ace-of-wands/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/ace-of-wands/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/ace-of-wands/</guid>
       <description>Nguồn năng lượng mới, ý tưởng vừa được thắp sáng.</description>
     </item>
     <item>
       <title>Death – Kết Thúc &amp; Tái Sinh</title>
-      <link>http://localhost:1313/tarot/la-bai/death/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/death/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/death/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/death/</guid>
       <description>Kết thúc cần thiết để bắt đầu mới.</description>
     </item>
     <item>
       <title>Eight of Cups – Rời Bỏ</title>
-      <link>http://localhost:1313/tarot/la-bai/eight-of-cups/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/eight-of-cups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/eight-of-cups/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/eight-of-cups/</guid>
       <description>Buông bỏ điều không còn nuôi dưỡng cảm xúc.</description>
     </item>
     <item>
       <title>Eight of Pentacles – Chuyên Tâm</title>
-      <link>http://localhost:1313/tarot/la-bai/eight-of-pentacles/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/eight-of-pentacles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/eight-of-pentacles/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/eight-of-pentacles/</guid>
       <description>Rèn luyện kỹ năng và tập trung làm việc.</description>
     </item>
     <item>
       <title>Eight of Swords – Tự Giam Mình</title>
-      <link>http://localhost:1313/tarot/la-bai/eight-of-swords/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/eight-of-swords/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/eight-of-swords/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/eight-of-swords/</guid>
       <description>Bị trói buộc bởi chính suy nghĩ.</description>
     </item>
     <item>
       <title>Eight of Wands – Tăng Tốc</title>
-      <link>http://localhost:1313/tarot/la-bai/eight-of-wands/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/eight-of-wands/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/eight-of-wands/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/eight-of-wands/</guid>
       <description>Mọi thứ diễn ra nhanh chóng và liên tục.</description>
     </item>
     <item>
       <title>Five of Cups – Mất Mát</title>
-      <link>http://localhost:1313/tarot/la-bai/five-of-cups/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/five-of-cups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/five-of-cups/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/five-of-cups/</guid>
       <description>Nỗi buồn vì điều đã mất.</description>
     </item>
     <item>
       <title>Five of Pentacles – Thiếu Thốn</title>
-      <link>http://localhost:1313/tarot/la-bai/five-of-pentacles/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/five-of-pentacles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/five-of-pentacles/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/five-of-pentacles/</guid>
       <description>Khó khăn tài chính và cảm giác bị bỏ rơi.</description>
     </item>
     <item>
       <title>Five of Swords – Thắng Thua Độc Hại</title>
-      <link>http://localhost:1313/tarot/la-bai/five-of-swords/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/five-of-swords/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/five-of-swords/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/five-of-swords/</guid>
       <description>Chiến thắng nhưng mất mát.</description>
     </item>
     <item>
       <title>Five of Wands – Xung Đột</title>
-      <link>http://localhost:1313/tarot/la-bai/five-of-wands/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/five-of-wands/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/five-of-wands/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/five-of-wands/</guid>
       <description>Cạnh tranh, va chạm và cái tôi.</description>
     </item>
     <item>
       <title>Four of Cups – Thờ Ơ Cảm Xúc</title>
-      <link>http://localhost:1313/tarot/la-bai/four-of-cups/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/four-of-cups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/four-of-cups/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/four-of-cups/</guid>
       <description>Sự chán nản và bỏ lỡ cơ hội cảm xúc.</description>
     </item>
     <item>
       <title>Four of Pentacles – Giữ Chặt</title>
-      <link>http://localhost:1313/tarot/la-bai/four-of-pentacles/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/four-of-pentacles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/four-of-pentacles/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/four-of-pentacles/</guid>
       <description>Bám víu vào sự an toàn vật chất.</description>
     </item>
     <item>
       <title>Four of Swords – Nghỉ Ngơi</title>
-      <link>http://localhost:1313/tarot/la-bai/four-of-swords/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/four-of-swords/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/four-of-swords/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/four-of-swords/</guid>
       <description>Tạm dừng để hồi phục tinh thần.</description>
     </item>
     <item>
       <title>Four of Wands – Nền Tảng Vững</title>
-      <link>http://localhost:1313/tarot/la-bai/four-of-wands/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/four-of-wands/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/four-of-wands/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/four-of-wands/</guid>
       <description>Sự ổn định, ăn mừng và cảm giác thuộc về.</description>
     </item>
     <item>
       <title>Giới thiệu</title>
-      <link>http://localhost:1313/gioi-thieu/</link>
+      <link>https://gocnhintoancanh.netlify.app/gioi-thieu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gioi-thieu/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/gioi-thieu/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Góc Nhìn Toàn Cảnh&lt;/strong&gt; không phải một blog tin tức.&lt;/p&gt;&#xA;&lt;p&gt;Đây là không gian chia sẻ những góc nhìn sâu,&#xA;được chắt lọc từ trải nghiệm sống, quan sát xã hội&#xA;và những lần va đập thật với đời.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Judgement – Thức Tỉnh</title>
-      <link>http://localhost:1313/tarot/la-bai/judgement/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/judgement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/judgement/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/judgement/</guid>
       <description>Sự gọi thức linh hồn và tái sinh.</description>
     </item>
     <item>
       <title>Justice – Công Lý</title>
-      <link>http://localhost:1313/tarot/la-bai/justice/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/justice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/justice/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/justice/</guid>
       <description>Sự thật, trách nhiệm và cân bằng.</description>
     </item>
     <item>
       <title>King of Cups – Bậc Thầy Cảm Xúc</title>
-      <link>http://localhost:1313/tarot/la-bai/king-of-cups/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/king-of-cups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/king-of-cups/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/king-of-cups/</guid>
       <description>Sự chín muồi và kiểm soát cảm xúc.</description>
     </item>
     <item>
       <title>King of Pentacles – Bậc Thầy Vật Chất</title>
-      <link>http://localhost:1313/tarot/la-bai/king-of-pentacles/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/king-of-pentacles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/king-of-pentacles/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/king-of-pentacles/</guid>
       <description>Sự giàu có, ổn định và lãnh đạo thực tế.</description>
     </item>
     <item>
       <title>King of Swords – Bậc Thầy Lý Trí</title>
-      <link>http://localhost:1313/tarot/la-bai/king-of-swords/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/king-of-swords/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/king-of-swords/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/king-of-swords/</guid>
       <description>Quyền lực trí tuệ và phán đoán công tâm.</description>
     </item>
     <item>
       <title>King of Wands – Nhà Lãnh Đạo Tầm Nhìn</title>
-      <link>http://localhost:1313/tarot/la-bai/king-of-wands/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/king-of-wands/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/king-of-wands/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/king-of-wands/</guid>
       <description>Tầm nhìn lớn và khả năng dẫn dắt.</description>
     </item>
     <item>
       <title>Knight of Cups – Kẻ Mộng Mơ</title>
-      <link>http://localhost:1313/tarot/la-bai/knight-of-cups/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/knight-of-cups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/knight-of-cups/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/knight-of-cups/</guid>
       <description>Theo đuổi lý tưởng và tình yêu.</description>
     </item>
     <item>
       <title>Knight of Pentacles – Bền Bỉ</title>
-      <link>http://localhost:1313/tarot/la-bai/knight-of-pentacles/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/knight-of-pentacles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/knight-of-pentacles/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/knight-of-pentacles/</guid>
       <description>Tiến chậm nhưng chắc.</description>
     </item>
     <item>
       <title>Knight of Swords – Hành Động Nhanh</title>
-      <link>http://localhost:1313/tarot/la-bai/knight-of-swords/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/knight-of-swords/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/knight-of-swords/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/knight-of-swords/</guid>
       <description>Quyết liệt, nhanh chóng và không chần chừ.</description>
     </item>
     <item>
       <title>Knight of Wands – Kẻ Xông Pha</title>
-      <link>http://localhost:1313/tarot/la-bai/knight-of-wands/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/knight-of-wands/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/knight-of-wands/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/knight-of-wands/</guid>
       <description>Hành động táo bạo và đầy nhiệt huyết.</description>
     </item>
     <item>
       <title>Nine of Cups – Ước Nguyện</title>
-      <link>http://localhost:1313/tarot/la-bai/nine-of-cups/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/nine-of-cups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/nine-of-cups/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/nine-of-cups/</guid>
       <description>Sự thỏa mãn và hài lòng cảm xúc.</description>
     </item>
     <item>
       <title>Nine of Pentacles – Độc Lập</title>
-      <link>http://localhost:1313/tarot/la-bai/nine-of-pentacles/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/nine-of-pentacles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/nine-of-pentacles/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/nine-of-pentacles/</guid>
       <description>Thành quả cá nhân và tự chủ tài chính.</description>
     </item>
     <item>
       <title>Nine of Swords – Ám Ảnh</title>
-      <link>http://localhost:1313/tarot/la-bai/nine-of-swords/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/nine-of-swords/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/nine-of-swords/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/nine-of-swords/</guid>
       <description>Lo âu, ám ảnh và dằn vặt tinh thần.</description>
     </item>
     <item>
       <title>Nine of Wands – Kiệt Sức Nhưng Chưa Gục</title>
-      <link>http://localhost:1313/tarot/la-bai/nine-of-wands/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/nine-of-wands/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/nine-of-wands/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/nine-of-wands/</guid>
       <description>Sự bền bỉ sau nhiều lần tổn thương.</description>
     </item>
     <item>
       <title>Page of Cups – Thông Điệp Cảm Xúc</title>
-      <link>http://localhost:1313/tarot/la-bai/page-of-cups/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/page-of-cups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/page-of-cups/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/page-of-cups/</guid>
       <description>Cảm xúc mới mẻ và thông điệp bất ngờ.</description>
     </item>
     <item>
       <title>Page of Pentacles – Người Học Việc</title>
-      <link>http://localhost:1313/tarot/la-bai/page-of-pentacles/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/page-of-pentacles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/page-of-pentacles/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/page-of-pentacles/</guid>
       <description>Khởi đầu học tập và phát triển kỹ năng.</description>
     </item>
     <item>
       <title>Page of Swords – Kẻ Quan Sát</title>
-      <link>http://localhost:1313/tarot/la-bai/page-of-swords/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/page-of-swords/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/page-of-swords/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/page-of-swords/</guid>
       <description>Sự tò mò, học hỏi và cảnh giác.</description>
     </item>
     <item>
       <title>Page of Wands – Người Khám Phá</title>
-      <link>http://localhost:1313/tarot/la-bai/page-of-wands/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/page-of-wands/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/page-of-wands/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/page-of-wands/</guid>
       <description>Tinh thần khám phá và ham học hỏi.</description>
     </item>
     <item>
       <title>Queen of Cups – Người Lắng Nghe</title>
-      <link>http://localhost:1313/tarot/la-bai/queen-of-cups/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/queen-of-cups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/queen-of-cups/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/queen-of-cups/</guid>
       <description>Sự cảm thông và trí tuệ cảm xúc.</description>
     </item>
     <item>
       <title>Queen of Pentacles – Người Nuôi Dưỡng</title>
-      <link>http://localhost:1313/tarot/la-bai/queen-of-pentacles/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/queen-of-pentacles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/queen-of-pentacles/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/queen-of-pentacles/</guid>
       <description>Sự chăm sóc, ổn định và thực tế.</description>
     </item>
     <item>
       <title>Queen of Swords – Trí Tuệ Sắc Lạnh</title>
-      <link>http://localhost:1313/tarot/la-bai/queen-of-swords/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/queen-of-swords/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/queen-of-swords/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/queen-of-swords/</guid>
       <description>Sự rõ ràng, trung thực và độc lập.</description>
     </item>
     <item>
       <title>Queen of Wands – Nữ Hoàng Lửa</title>
-      <link>http://localhost:1313/tarot/la-bai/queen-of-wands/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/queen-of-wands/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/queen-of-wands/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/queen-of-wands/</guid>
       <description>Sự tự tin, cuốn hút và độc lập.</description>
     </item>
     <item>
       <title>Sách nên mua</title>
-      <link>http://localhost:1313/mua-sam/sach/</link>
+      <link>https://gocnhintoancanh.netlify.app/mua-sam/sach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mua-sam/sach/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/mua-sam/sach/</guid>
       <description>Sách chọn lọc để học tập, chữa lành và đầu tư bản thân</description>
     </item>
     <item>
       <title>Seven of Cups – Ảo Ảnh</title>
-      <link>http://localhost:1313/tarot/la-bai/seven-of-cups/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/seven-of-cups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/seven-of-cups/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/seven-of-cups/</guid>
       <description>Quá nhiều lựa chọn và sự mơ hồ.</description>
     </item>
     <item>
       <title>Seven of Pentacles – Chờ Đợi Kết Quả</title>
-      <link>http://localhost:1313/tarot/la-bai/seven-of-pentacles/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/seven-of-pentacles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/seven-of-pentacles/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/seven-of-pentacles/</guid>
       <description>Đánh giá tiến trình và kiên nhẫn.</description>
     </item>
     <item>
       <title>Seven of Swords – Gian Trá</title>
-      <link>http://localhost:1313/tarot/la-bai/seven-of-swords/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/seven-of-swords/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/seven-of-swords/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/seven-of-swords/</guid>
       <description>Sự dối trá và hành động lén lút.</description>
     </item>
     <item>
       <title>Seven of Wands – Bảo Vệ Vị Trí</title>
-      <link>http://localhost:1313/tarot/la-bai/seven-of-wands/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/seven-of-wands/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/seven-of-wands/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/seven-of-wands/</guid>
       <description>Đứng vững trước áp lực và thách thức.</description>
     </item>
     <item>
       <title>Six of Cups – Hoài Niệm</title>
-      <link>http://localhost:1313/tarot/la-bai/six-of-cups/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/six-of-cups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/six-of-cups/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/six-of-cups/</guid>
       <description>Ký ức, quá khứ và sự ngây thơ.</description>
     </item>
     <item>
       <title>Six of Pentacles – Cho &amp; Nhận</title>
-      <link>http://localhost:1313/tarot/la-bai/six-of-pentacles/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/six-of-pentacles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/six-of-pentacles/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/six-of-pentacles/</guid>
       <description>Sự hào phóng và cân bằng giá trị.</description>
     </item>
     <item>
       <title>Six of Swords – Rời Vùng Bão</title>
-      <link>http://localhost:1313/tarot/la-bai/six-of-swords/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/six-of-swords/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/six-of-swords/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/six-of-swords/</guid>
       <description>Di chuyển khỏi khó khăn để tìm sự yên ổn.</description>
     </item>
     <item>
       <title>Six of Wands – Chiến Thắng</title>
-      <link>http://localhost:1313/tarot/la-bai/six-of-wands/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/six-of-wands/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/six-of-wands/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/six-of-wands/</guid>
       <description>Thành công được công nhận.</description>
     </item>
     <item>
       <title>Strength – Sức Mạnh Nội Tâm</title>
-      <link>http://localhost:1313/tarot/la-bai/strength/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/strength/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/strength/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/strength/</guid>
       <description>Sự dịu dàng chiến thắng bạo lực.</description>
     </item>
     <item>
       <title>Temperance – Điều Hòa</title>
-      <link>http://localhost:1313/tarot/la-bai/temperance/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/temperance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/temperance/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/temperance/</guid>
       <description>Cân bằng, chữa lành và hòa hợp.</description>
     </item>
     <item>
       <title>Ten of Cups – Hạnh Phúc Trọn Vẹn</title>
-      <link>http://localhost:1313/tarot/la-bai/ten-of-cups/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/ten-of-cups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/ten-of-cups/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/ten-of-cups/</guid>
       <description>Hạnh phúc gia đình và sự viên mãn cảm xúc.</description>
     </item>
     <item>
       <title>Ten of Pentacles – Thịnh Vượng</title>
-      <link>http://localhost:1313/tarot/la-bai/ten-of-pentacles/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/ten-of-pentacles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/ten-of-pentacles/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/ten-of-pentacles/</guid>
       <description>Sự giàu có bền vững và gia đình.</description>
     </item>
     <item>
       <title>Ten of Swords – Sụp Đổ</title>
-      <link>http://localhost:1313/tarot/la-bai/ten-of-swords/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/ten-of-swords/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/ten-of-swords/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/ten-of-swords/</guid>
       <description>Kết thúc đau đớn nhưng dứt khoát.</description>
     </item>
     <item>
       <title>Ten of Wands – Gánh Nặng</title>
-      <link>http://localhost:1313/tarot/la-bai/ten-of-wands/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/ten-of-wands/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/ten-of-wands/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/ten-of-wands/</guid>
       <description>Quá nhiều trách nhiệm đè nặng.</description>
     </item>
     <item>
       <title>The Chariot – Cỗ Xe Chiến Thắng</title>
-      <link>http://localhost:1313/tarot/la-bai/the-chariot/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-chariot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/the-chariot/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-chariot/</guid>
       <description>Ý chí mạnh mẽ và tiến về phía trước.</description>
     </item>
     <item>
       <title>The Devil – Ràng Buộc</title>
-      <link>http://localhost:1313/tarot/la-bai/the-devil/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-devil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/the-devil/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-devil/</guid>
       <description>Sự lệ thuộc và cám dỗ vô thức.</description>
     </item>
     <item>
       <title>The Emperor – Người Cầm Quyền</title>
-      <link>http://localhost:1313/tarot/la-bai/the-emperor/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-emperor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/the-emperor/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-emperor/</guid>
       <description>Cấu trúc, kỷ luật và quyền lực được kiểm soát.</description>
     </item>
     <item>
       <title>The Empress – Mẹ Đất</title>
-      <link>http://localhost:1313/tarot/la-bai/the-empress/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-empress/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/the-empress/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-empress/</guid>
       <description>Sự nuôi dưỡng, sinh sôi và tình yêu vô điều kiện.</description>
     </item>
     <item>
       <title>The Fool – Kẻ Lữ Hành</title>
-      <link>http://localhost:1313/tarot/la-bai/the-fool/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-fool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/the-fool/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-fool/</guid>
       <description>Khởi đầu mới, bước đi chưa biết điểm đến.</description>
     </item>
     <item>
       <title>The Hanged Man – Người Bị Treo</title>
-      <link>http://localhost:1313/tarot/la-bai/the-hanged-man/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-hanged-man/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/the-hanged-man/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-hanged-man/</guid>
       <description>Buông bỏ để nhìn đời từ góc khác.</description>
     </item>
     <item>
       <title>The Hermit – Kẻ Ẩn Sĩ</title>
-      <link>http://localhost:1313/tarot/la-bai/the-hermit/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-hermit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/the-hermit/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-hermit/</guid>
       <description>Tìm câu trả lời bên trong chính mình.</description>
     </item>
     <item>
       <title>The Hierophant – Người Truyền Dạy</title>
-      <link>http://localhost:1313/tarot/la-bai/the-hierophant/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-hierophant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/the-hierophant/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-hierophant/</guid>
       <description>Niềm tin, truyền thống và giá trị tinh thần.</description>
     </item>
     <item>
       <title>The High Priestess – Người Giữ Bí Mật</title>
-      <link>http://localhost:1313/tarot/la-bai/the-high-priestess/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-high-priestess/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/the-high-priestess/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-high-priestess/</guid>
       <description>Trực giác, chiều sâu nội tâm và điều chưa được nói ra.</description>
     </item>
     <item>
       <title>The Lovers – Sự Lựa Chọn</title>
-      <link>http://localhost:1313/tarot/la-bai/the-lovers/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-lovers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/the-lovers/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-lovers/</guid>
       <description>Tình yêu, kết nối và quyết định từ trái tim.</description>
     </item>
     <item>
       <title>The Magician – Nhà Kiến Tạo</title>
-      <link>http://localhost:1313/tarot/la-bai/the-magician/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-magician/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/the-magician/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-magician/</guid>
       <description>Sức mạnh ý chí và khả năng biến ý tưởng thành hiện thực.</description>
     </item>
     <item>
       <title>The Moon – Vùng Mờ</title>
-      <link>http://localhost:1313/tarot/la-bai/the-moon/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-moon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/the-moon/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-moon/</guid>
       <description>Nỗi sợ tiềm ẩn và ảo ảnh.</description>
     </item>
     <item>
       <title>The Star – Hy Vọng</title>
-      <link>http://localhost:1313/tarot/la-bai/the-star/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-star/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/the-star/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-star/</guid>
       <description>Niềm tin nhẹ nhàng sau giông bão.</description>
     </item>
     <item>
       <title>The Sun – Ánh Sáng</title>
-      <link>http://localhost:1313/tarot/la-bai/the-sun/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-sun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/the-sun/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-sun/</guid>
       <description>Niềm vui, sự rõ ràng và thành công.</description>
     </item>
     <item>
       <title>The Tower – Sụp Đổ</title>
-      <link>http://localhost:1313/tarot/la-bai/the-tower/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-tower/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/the-tower/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-tower/</guid>
       <description>Biến cố phá vỡ cấu trúc cũ.</description>
     </item>
     <item>
       <title>The World – Hoàn Thành</title>
-      <link>http://localhost:1313/tarot/la-bai/the-world/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/the-world/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/the-world/</guid>
       <description>Sự trọn vẹn và khép lại hành trình.</description>
     </item>
     <item>
       <title>Thông Điệp Tarot Hôm Nay</title>
-      <link>http://localhost:1313/tarot/thong-diep-tarot-hom-nay/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/thong-diep-tarot-hom-nay/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/thong-diep-tarot-hom-nay/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/thong-diep-tarot-hom-nay/</guid>
       <description>&lt;p&gt;Mỗi ngày đều mang một nhịp năng lượng riêng.&lt;br&gt;&#xA;Lá Tarot bạn rút hôm nay &lt;strong&gt;không phải ngẫu nhiên&lt;/strong&gt;, mà phản chiếu điều bạn đang cần nhận thức.&lt;/p&gt;&#xA;&lt;h2 id=&#34;trước-khi-rút-bài&#34;&gt;Trước khi rút bài&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Không cần hỏi quá cụ thể&lt;/li&gt;&#xA;&lt;li&gt;Chỉ cần để tâm đến cảm xúc hiện tại&lt;/li&gt;&#xA;&lt;li&gt;Đón nhận thông điệp như một lời nhắc, không phải phán quyết&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;👉 Nhấn nút bên dưới khi bạn đã sẵn sàng.&lt;/p&gt;&#xA;&lt;div class=&#34;tarot-cta&#34;&gt;&#xA;  &lt;p&gt;&lt;strong&gt;Bạn đã sẵn sàng?&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Three of Cups – Chia Sẻ Niềm Vui</title>
-      <link>http://localhost:1313/tarot/la-bai/three-of-cups/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/three-of-cups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/three-of-cups/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/three-of-cups/</guid>
       <description>Niềm vui tập thể và sự ăn mừng.</description>
     </item>
     <item>
       <title>Three of Pentacles – Hợp Tác</title>
-      <link>http://localhost:1313/tarot/la-bai/three-of-pentacles/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/three-of-pentacles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/three-of-pentacles/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/three-of-pentacles/</guid>
       <description>Làm việc nhóm và học hỏi kỹ năng.</description>
     </item>
     <item>
       <title>Three of Swords – Tổn Thương</title>
-      <link>http://localhost:1313/tarot/la-bai/three-of-swords/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/three-of-swords/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/three-of-swords/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/three-of-swords/</guid>
       <description>Nỗi đau tinh thần và vết cắt cảm xúc.</description>
     </item>
     <item>
       <title>Three of Wands – Mở Rộng Chân Trời</title>
-      <link>http://localhost:1313/tarot/la-bai/three-of-wands/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/three-of-wands/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/three-of-wands/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/three-of-wands/</guid>
       <description>Hành trình đã khởi động, chờ đợi kết quả phía xa.</description>
     </item>
     <item>
       <title>Two of Cups – Kết Nối Cân Bằng</title>
-      <link>http://localhost:1313/tarot/la-bai/two-of-cups/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/two-of-cups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/two-of-cups/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/two-of-cups/</guid>
       <description>Sự hòa hợp và kết nối hai chiều.</description>
     </item>
     <item>
       <title>Two of Pentacles – Cân Bằng</title>
-      <link>http://localhost:1313/tarot/la-bai/two-of-pentacles/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/two-of-pentacles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/two-of-pentacles/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/two-of-pentacles/</guid>
       <description>Xoay xở giữa nhiều trách nhiệm.</description>
     </item>
     <item>
       <title>Two of Swords – Bế Tắc</title>
-      <link>http://localhost:1313/tarot/la-bai/two-of-swords/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/two-of-swords/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/two-of-swords/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/two-of-swords/</guid>
       <description>Trốn tránh quyết định và khóa chặt cảm xúc.</description>
     </item>
     <item>
       <title>Two of Wands – Lập Kế Hoạch</title>
-      <link>http://localhost:1313/tarot/la-bai/two-of-wands/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/two-of-wands/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/two-of-wands/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/two-of-wands/</guid>
       <description>Đứng giữa lựa chọn: an toàn hay bước xa hơn.</description>
     </item>
     <item>
       <title>Wheel of Fortune – Bánh Xe Số Mệnh</title>
-      <link>http://localhost:1313/tarot/la-bai/wheel-of-fortune/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/la-bai/wheel-of-fortune/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/la-bai/wheel-of-fortune/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/la-bai/wheel-of-fortune/</guid>
       <description>Sự thay đổi và chu kỳ không thể tránh.</description>
     </item>
     <item>
       <title>Xem Tarot Online – Rút 1 Lá - Thông Điệp Dành Riêng Cho Bạn</title>
-      <link>http://localhost:1313/tarot/boi-1-la/</link>
+      <link>https://gocnhintoancanh.netlify.app/tarot/boi-1-la/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tarot/boi-1-la/</guid>
+      <guid>https://gocnhintoancanh.netlify.app/tarot/boi-1-la/</guid>
       <description>&lt;p&gt;Đây là trang trải nghiệm Tarot online.&lt;/p&gt;&#xA;&lt;p&gt;Rút 1 lá Tarot là cách đơn giản nhưng sâu sắc để &lt;strong&gt;kết nối với trạng thái nội tâm hiện tại&lt;/strong&gt;.&lt;br&gt;&#xA;Không cần nghi thức phức tạp, Tarot hoạt động hiệu quả nhất khi bạn &lt;strong&gt;thành thật với cảm xúc của mình&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;khi-nào-nên-rút-1-lá-tarot&#34;&gt;Khi nào nên rút 1 lá Tarot?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Khi bạn đang phân vân một lựa chọn&lt;/li&gt;&#xA;&lt;li&gt;Khi cảm xúc rối loạn, khó gọi tên&lt;/li&gt;&#xA;&lt;li&gt;Khi cần một góc nhìn khác để soi chiếu vấn đề&lt;/li&gt;&#xA;&lt;li&gt;Hoặc đơn giản: &lt;em&gt;bạn muốn lắng nghe chính mình&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;cách-rút-1-lá-tarot-đúng-tinh-thần&#34;&gt;Cách rút 1 lá Tarot đúng tinh thần&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Ngồi yên vài giây, hít thở chậm&lt;/li&gt;&#xA;&lt;li&gt;Nghĩ đến &lt;strong&gt;một câu hỏi hoặc trạng thái hiện tại&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Nhấn nút &lt;strong&gt;“Rút 1 Lá”&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Đọc thông điệp với tâm thế cởi mở, không phán xét&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Tarot &lt;strong&gt;không tiên đoán số phận&lt;/strong&gt;, mà phản chiếu &lt;strong&gt;năng lượng bạn đang mang theo&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
