@@ -17,14 +17,13 @@
       <a href="/chuyen-doi/">Chuyện đời</a>
 
       <!-- TAROT MENU -->
-      <div class="nav-item has-submenu {{ if hasPrefix .RelPermalink "/tarot/" }}active{{ end }}">
+      <div class="nav-item {{ if hasPrefix .RelPermalink "/tarot/" }}active{{ end }}">
 
-        <div class="nav-parent-wrap">
-          <a href="/tarot/la-bai/" class="nav-parent">Tarot</a>
+        <!-- DESKTOP: chỉ là link bình thường -->
+        <a href="/tarot/la-bai/" class="nav-parent">Tarot</a>
 
-          <!-- NÚT MỞ MENU CON (CHỈ MOBILE) -->
-          <button class="submenu-toggle" aria-label="Mở menu Tarot">▾</button>
-        </div>
+        <!-- MOBILE: nút mở menu con (ẩn ở desktop bằng CSS) -->
+        <button class="submenu-toggle" aria-label="Mở menu Tarot">▾</button>
 
         <ul class="nav-submenu">
           <li>

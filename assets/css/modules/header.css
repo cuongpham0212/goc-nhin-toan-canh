@@ -167,19 +167,23 @@
 }
 
 /* ===============================
-   MOBILE SUBMENU (ẨN + BẤM MỞ)
+   SUBMENU TOGGLE – DESKTOP / MOBILE
+================================ */
+
+/* ❌ DESKTOP: ẨN NÚT */
+.submenu-toggle {
+  display: none;
+}
+
+/* ===============================
+   MOBILE SUBMENU
 ================================ */
 
 @media (max-width: 768px) {
 
-  /* bọc Tarot + nút */
-  .nav-parent-wrap {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
-
+  /* hiện nút ở mobile */
   .submenu-toggle {
+    display: inline-flex;
     background: none;
     border: none;
     font-size: 1rem;
@@ -188,14 +192,17 @@
     color: #374151;
   }
 
-  /* submenu ẨN */
+  /* menu con ẨN */
   .nav-submenu {
     display: none;
+    position: static;
+    border: none;
+    box-shadow: none;
     padding: 0;
     margin: 0;
   }
 
-  /* khi mở */
+  /* mở menu con */
   .nav-item.submenu-open > .nav-submenu {
     display: block;
   }
@@ -209,7 +216,7 @@
   }
 
   /* xoay mũi tên */
-  .nav-item.submenu-open .submenu-toggle {
+  .nav-item.submenu-open > .submenu-toggle {
     transform: rotate(180deg);
   }
 }
