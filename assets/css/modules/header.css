@@ -167,47 +167,6 @@
 }
 
 /* ===============================
-   DESKTOP SUBMENU (HOVER)
-================================ */
-
-.nav-item {
-  position: relative;
-}
-
-.nav-submenu {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
-
-  min-width: 260px;
-  background: #fff;
-  border: 1px solid #e5e7eb;
-  border-radius: 10px;
-  padding: 0.6rem 0;
-  box-shadow: 0 14px 30px rgba(0,0,0,0.12);
-  z-index: 1500;
-}
-
-.nav-submenu::before {
-  content: "";
-  position: absolute;
-  top: -12px;
-  left: 0;
-  width: 100%;
-  height: 12px;
-}
-
-.nav-item:hover > .nav-submenu {
-  display: block;
-}
-
-/* desktop KHÔNG có nút */
-.submenu-toggle {
-  display: none;
-}
-
-/* ===============================
    MOBILE SUBMENU (BẮT BUỘC)
 ================================ */
 
@@ -215,7 +174,7 @@
 
   /* TAROT thành hàng ngang: link + nút */
   .site-nav .nav-item {
-    display: flex;
+    display: block;
     align-items: center;
     justify-content: space-between;
   }
