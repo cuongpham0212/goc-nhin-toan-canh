@@ -5,8 +5,10 @@
       <a href="/">Góc Nhìn Toàn Cảnh</a>
     </div>
 
+    <!-- MOBILE TOGGLE -->
     <button class="menu-toggle" aria-label="Menu" aria-expanded="false">☰</button>
 
+    <!-- NAV -->
     <nav class="site-nav">
 
       <a href="/goc-nhin/">Góc nhìn</a>
@@ -15,10 +17,11 @@
 
       <!-- TAROT -->
       <div class="nav-item {{ if hasPrefix .RelPermalink "/tarot/" }}active{{ end }}">
-        <a href="/tarot/la-bai/" class="nav-parent">Tarot</a>
 
-        <!-- NÚT CHỈ MOBILE -->
-        <button class="submenu-toggle" aria-label="Mở menu Tarot">▾</button>
+        <div class="nav-row">
+          <a href="/tarot/la-bai/" class="nav-parent">Tarot</a>
+          <button class="submenu-toggle" aria-label="Mở menu Tarot">▾</button>
+        </div>
 
         <ul class="nav-submenu">
           <li><a href="/tarot/boi-1-la/">🔮 Xem Tarot Online – Rút 1 Lá</a></li>
