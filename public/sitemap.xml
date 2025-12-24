@@ -2,35 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gocnhintoancanh.netlify.app/tarot/</loc>
+    <loc>http://localhost:1313/tarot/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gocnhintoancanh.netlify.app/phan-tich/</loc>
+    <loc>http://localhost:1313/test2/</loc>
+    <lastmod>2025-12-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/phan-tich/</loc>
     <lastmod>2025-12-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gocnhintoancanh.netlify.app/chuyen-doi/</loc>
+    <loc>http://localhost:1313/chuyen-doi/</loc>
     <lastmod>2025-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gocnhintoancanh.netlify.app/goc-nhin/</loc>
+    <loc>http://localhost:1313/goc-nhin/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gocnhintoancanh.netlify.app/test/</loc>
+    <loc>http://localhost:1313/test/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gocnhintoancanh.netlify.app/mua-sam/</loc>
+    <loc>http://localhost:1313/mua-sam/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gocnhintoancanh.netlify.app/gioi-thieu/</loc>
+    <loc>http://localhost:1313/gioi-thieu/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

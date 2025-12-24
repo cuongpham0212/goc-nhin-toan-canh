@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Phân tích on Góc Nhìn Toàn Cảnh</title>
-    <link>https://gocnhintoancanh.netlify.app/phan-tich/</link>
+    <link>http://localhost:1313/phan-tich/</link>
     <description>Recent content in Phân tích on Góc Nhìn Toàn Cảnh</description>
     <generator>Hugo</generator>
     <language>vi</language>
     <lastBuildDate>Fri, 19 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gocnhintoancanh.netlify.app/phan-tich/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/phan-tich/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thử nghiệm nhịp đọc và điểm tựa quay về</title>
-      <link>https://gocnhintoancanh.netlify.app/phan-tich/test-back-to-home/</link>
+      <link>http://localhost:1313/phan-tich/test-back-to-home/</link>
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://gocnhintoancanh.netlify.app/phan-tich/test-back-to-home/</guid>
+      <guid>http://localhost:1313/phan-tich/test-back-to-home/</guid>
       <description>&lt;h2 id=&#34;mở-đầu&#34;&gt;Mở đầu&lt;/h2&gt;&#xA;&lt;p&gt;Bài viết này không nhằm truyền tải một luận điểm hoàn chỉnh.&lt;br&gt;&#xA;Nó tồn tại với mục đích &lt;strong&gt;thử nghiệm nhịp đọc&lt;/strong&gt;, &lt;strong&gt;độ dài&lt;/strong&gt;, và &lt;strong&gt;cảm giác của người đọc khi đi sâu vào một dòng suy tưởng kéo dài&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Trong những site chữ, đặc biệt là site mang tính &lt;em&gt;editorial&lt;/em&gt; hoặc &lt;em&gt;narrative&lt;/em&gt;, người đọc rất dễ lạc hướng nếu không có một &lt;strong&gt;điểm tựa tinh thần&lt;/strong&gt; — không phải để thoát ra ngay, mà để &lt;em&gt;biết rằng mình có thể quay về&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vì sao con người dễ mất phương hướng trong thời hiện đại</title>
-      <link>https://gocnhintoancanh.netlify.app/phan-tich/vi-sao-con-nguoi-de-mat-phuong-huong/</link>
+      <link>http://localhost:1313/phan-tich/vi-sao-con-nguoi-de-mat-phuong-huong/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://gocnhintoancanh.netlify.app/phan-tich/vi-sao-con-nguoi-de-mat-phuong-huong/</guid>
+      <guid>http://localhost:1313/phan-tich/vi-sao-con-nguoi-de-mat-phuong-huong/</guid>
       <description>&lt;h2 id=&#34;sự-đủ-đầy-bên-ngoài-và-trống-rỗng-bên-trong&#34;&gt;Sự đủ đầy bên ngoài và trống rỗng bên trong&lt;/h2&gt;&#xA;&lt;p&gt;Chưa bao giờ con người có nhiều công cụ, nhiều lựa chọn&#xA;và nhiều “cơ hội” như hiện tại.&#xA;Nhưng cũng chưa bao giờ cảm giác lạc lối lại phổ biến đến vậy.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;áp-lực-phải-trở-thành-một-ai-đó&#34;&gt;Áp lực phải trở thành một ai đó&lt;/h2&gt;&#xA;&lt;p&gt;Mạng xã hội không chỉ khoe thành công,&#xA;mà còn ngầm đặt ra một chuẩn mực:&#xA;phải nhanh, phải giỏi, phải hơn người khác.&lt;/p&gt;</description>
     </item>
   </channel>
