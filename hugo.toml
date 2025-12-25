@@ -9,6 +9,11 @@ enableRobotsTXT = true
 
 [outputs]
   home = ["HTML", "RSS", "SITEMAP"]
+  section = ["HTML"]
+  page = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
+
 
 [sitemap]
   changefreq = "weekly"
@@ -43,3 +48,5 @@ enableRobotsTXT = true
   [security.http]
     methods = ['GET']
     urls = ['https://unpkg.com', 'http://localhost:8081']
+
+ignoreFiles = ["node_modules/.*"]

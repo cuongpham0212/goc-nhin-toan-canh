@@ -1,28 +1,140 @@
 ---
-title: "King of Cups – Bậc Thầy Cảm Xúc"
+title: "King of Cups – Làm Chủ Cảm Xúc"
 slug: "king-of-cups"
 
 arcana: "minor"
 number: 14
 suit: "cups"
 
-summary: "Sự chín muồi và kiểm soát cảm xúc."
+summary: "Sự làm chủ cảm xúc, cân bằng nội tâm và trưởng thành tinh thần."
 keywords:
-  - cân bằng cảm xúc
+  - king of cups
+  - lá bài king of cups
+  - tarot cups
+  - làm chủ cảm xúc
+  - cân bằng
   - trưởng thành
-  - điềm tĩnh
-  - trí tuệ nội tâm
+  - trí tuệ cảm xúc
   - lãnh đạo cảm xúc
 
 emotion:
-  - điềm đạm
+  - điềm tĩnh
   - vững vàng
-  - bao dung
+  - chín chắn
 
 guidance:
-  - giữ cân bằng giữa lý trí và cảm xúc
-  - làm điểm tựa cho người khác
-  - dẫn dắt bằng sự thấu hiểu
+  - giữ cân bằng giữa cảm xúc và lý trí
+  - làm điểm tựa cảm xúc cho người khác
+  - dẫn dắt bằng sự điềm tĩnh
+
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/king-of-cups.webp"
+---
+
+## Tổng quan về lá King of Cups
+
+**King of Cups** là đỉnh cao của suit Cups – biểu tượng cho **sự trưởng thành hoàn toàn về mặt cảm xúc**.  
+Nếu Queen of Cups là sự thấu cảm và nuôi dưỡng, thì King of Cups là **khả năng làm chủ và dẫn dắt cảm xúc**.
+
+Đây là lá bài của:
+- Cân bằng nội tâm
+- Điềm tĩnh
+- Trí tuệ cảm xúc ở mức cao nhất
+
+King of Cups không bị cảm xúc chi phối, nhưng cũng **không chối bỏ cảm xúc**.
 
 ---
+
+## Biểu tượng và ý nghĩa hình ảnh
+
+King of Cups thường được miêu tả:
+- Ngồi vững trên ngai giữa biển động
+- Tay cầm cốc và quyền trượng
+- Sóng lớn xung quanh nhưng không lay chuyển
+
+Biểu tượng này cho thấy:
+👉 Cảm xúc có thể dâng cao, nhưng **tâm không còn chao đảo**.
+
+---
+
+## Ý nghĩa xuôi (Upright) của King of Cups
+
+### ⚖️ Làm chủ cảm xúc
+
+King of Cups xuôi phản ánh:
+- Khả năng giữ bình tĩnh trong hoàn cảnh khó
+- Không phản ứng bốc đồng
+- Hiểu cảm xúc nhưng không để cảm xúc điều khiển
+
+Đây là trạng thái **điềm tĩnh từ bên trong**, không phải kìm nén.
+
+---
+
+### 🧠 Trưởng thành và chín chắn
+
+Lá bài này cho thấy:
+- Đã đi qua đủ trải nghiệm cảm xúc
+- Không còn cực đoan
+- Không cần chứng minh gì thêm
+
+King of Cups là:
+👉 *Người đã hòa giải được với chính mình.*
+
+---
+
+### 🧭 Lãnh đạo bằng cảm xúc cân bằng
+
+King of Cups thường xuất hiện khi:
+- Ta trở thành điểm tựa cho người khác
+- Cần đưa ra quyết định công bằng
+- Dẫn dắt bằng sự thấu hiểu, không áp đặt
+
+---
+
+## King of Cups (Ngược) – Khi cảm xúc bị kìm nén hoặc thao túng
+
+Khi **King of Cups xuất hiện ở vị trí ngược**, sự làm chủ cảm xúc bị **lệch hướng**.
+
+### ⚠️ Ý nghĩa chính
+
+King of Cups ngược có thể cho thấy:
+- Kìm nén cảm xúc quá mức
+- Thao túng cảm xúc người khác
+- Tỏ ra bình tĩnh nhưng bên trong rối loạn
+
+Kiểm soát không đồng nghĩa với trưởng thành.
+
+---
+
+### 🧭 Lời khuyên
+
+- Thành thật với cảm xúc thật
+- Đừng dùng sự điềm tĩnh để che giấu tổn thương
+- Học cách chia sẻ thay vì giữ hết bên trong
+
+---
+
+## 🔗Để hiểu đầy đủ tiến trình cảm xúc trong Tarot, bạn có thể đọc thêm:
+
+- **[Queen of Cups – Sự Thấu Cảm Và Nuôi Dưỡng](/tarot/la-bai/queen-of-cups/)**  
+- **[Ten of Cups – Hạnh Phúc Trọn Vẹn](/tarot/la-bai/ten-of-cups/)**  
+- **[Eight of Cups – Rời Bỏ Và Tìm Ý Nghĩa Sâu Hơn](/tarot/la-bai/eight-of-cups/)**  
+- **[Ace of Cups – Dòng Cảm Xúc Mới](/tarot/la-bai/ace-of-cups/)**  
+
+---
+
+## Tóm tắt ý nghĩa King of Cups
+
+**Xuôi:**
+- ⚖️ Làm chủ cảm xúc
+- 🧠 Trưởng thành – chín chắn
+- 🧭 Cân bằng nội tâm
+
+**Ngược:**
+- ⚠️ Kìm nén hoặc thao túng
+- 🌊 Sóng ngầm cảm xúc
+- 🧭 Cần sống thật hơn với nội tâm
+
+King of Cups nhắc ta rằng:  
+**Trưởng thành cảm xúc không phải là không còn sóng gió, mà là giữ được tay lái vững vàng giữa đại dương.**
+
+👉 Xem toàn bộ mạch cảm xúc: **[Suit of Cups – Hành Trình Cảm Xúc](/tarot/la-bai/suit-of-cups/)**
