@@ -1,28 +1,207 @@
 ---
-title: "Four of Wands – Nền Tảng Vững"
+title: "Four of Wands – Ổn Định Và Ăn Mừng"
 slug: "four-of-wands"
 
 arcana: "minor"
 number: 4
 suit: "wands"
 
-summary: "Sự ổn định, ăn mừng và cảm giác thuộc về."
+summary: "Giai đoạn ổn định đầu tiên sau mở rộng: thiết lập nền tảng, cảm giác thuộc về và ăn mừng những thành quả ban đầu."
 keywords:
+  - four of wands
+  - lá bài four of wands
+  - tarot wands
   - ổn định
-  - ăn mừng
   - nền tảng
-  - gia đình
-  - an toàn
+  - ăn mừng
+  - cộng đồng
+  - an cư
 
 emotion:
-  - vui vẻ
-  - nhẹ nhõm
+  - an tâm
+  - vui mừng
   - gắn kết
 
 guidance:
-  - trân trọng thành quả hiện tại
-  - chia sẻ niềm vui
-  - củng cố nền tảng lâu dài
+  - trân trọng thành quả bước đầu
+  - xây nền vững trước khi tiến xa
+  - cho phép mình nghỉ và ăn mừng
+
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/four-of-wands.webp"
+---
+
+## Tổng quan về lá Four of Wands
+
+Nếu **Three of Wands** là đứng nhìn thuyền ra khơi,  
+thì **Four of Wands** là khoảnh khắc:
+
+👉 *“Mình đã có chỗ đứng.”*
+
+Đây là lá bài của:
+- Ổn định
+- Nền tảng
+- Niềm vui chung
+
+Four of Wands không nói rằng hành trình đã xong,  
+mà nói rằng **bạn đã đi đủ xa để dừng lại và mỉm cười**.
 
 ---
+
+## Biểu tượng và ý nghĩa hình ảnh
+
+Hình ảnh quen thuộc của Four of Wands thường là:
+- Bốn cây gậy dựng thành cổng
+- Hoa lá trang trí
+- Con người tụ họp ăn mừng
+
+Biểu tượng này cho thấy:
+👉 *Một cấu trúc đủ vững để che chở – đủ mở để đón người.*
+
+Bốn cây gậy đại diện cho:
+- Sự cân bằng
+- Nền móng
+- Không gian an toàn
+
+---
+
+## Ý nghĩa xuôi (Upright) của Four of Wands
+
+### 🏡 Ổn định và nền tảng
+
+Four of Wands xuôi phản ánh:
+- Sự ổn định ban đầu
+- Cảm giác “an cư”
+- Có nơi để quay về
+
+Đây là trạng thái:
+👉 *Không còn phải chứng minh – chỉ cần hiện diện.*
+
+---
+
+### 🎉 Ăn mừng bước đầu
+
+Lá bài cho thấy:
+- Lễ kỷ niệm
+- Thành quả chung
+- Niềm vui được chia sẻ
+
+Four of Wands nhắc:
+👉 *Ăn mừng không làm bạn chậm lại – nó giúp bạn đi xa hơn.*
+
+---
+
+### 👥 Cộng đồng và sự gắn kết
+
+Đây là lá bài của:
+- Gia đình
+- Đội nhóm
+- Những người cùng chí hướng
+
+Hành động lúc này:
+👉 *Không còn đơn độc.*
+
+---
+
+## Four of Wands trong các khía cạnh đời sống
+
+### 🔹 Trong công việc & dự án
+
+- Hoàn thành giai đoạn đầu
+- Ổn định đội ngũ
+- Có thể tạm nghỉ để củng cố
+
+Lá bài khuyên:
+- Đừng vội tăng tốc
+- Xây chắc nền trước khi mở rộng tiếp
+
+---
+
+### 🔹 Trong tình cảm
+
+Four of Wands trong tình cảm phản ánh:
+- Mối quan hệ ổn định
+- Cảm giác thuộc về
+- Có thể ăn mừng cột mốc chung
+
+Đây là tình yêu:
+👉 *Ở bên nhau thấy yên.*
+
+---
+
+### 🔹 Trong đời sống nội tâm
+
+Lá bài phản ánh:
+- Cảm giác an toàn nội tại
+- Không còn căng thẳng liên tục
+
+Four of Wands đặt ra câu hỏi:
+👉 *Bạn đã cho phép mình tận hưởng điều mình xây được chưa?*
+
+---
+
+## Four of Wands (Ngược) – Thiếu ổn định hoặc ăn mừng vội
+
+Khi **Four of Wands xuất hiện ở vị trí ngược**, nền tảng chưa thật sự vững.
+
+---
+
+### ⚠️ Ý nghĩa chính
+
+Four of Wands ngược cho thấy:
+- Cảm giác không thuộc về
+- Ổn định giả tạo
+- Hoặc ăn mừng quá sớm
+
+Vấn đề không phải là niềm vui,  
+mà là:
+👉 *Nền móng chưa đủ chắc.*
+
+---
+
+### 🧠 Góc nhìn tâm lý
+
+Ở trạng thái ngược, lá bài phản ánh:
+- Sợ đứng yên
+- Sợ kiểm tra lại nền tảng
+
+Nhưng:
+👉 *Không dừng lại, bạn sẽ không biết mình đang đứng ở đâu.*
+
+---
+
+### 🧭 Lời khuyên khi Four of Wands ngược xuất hiện
+
+- Củng cố nền tảng
+- Xem lại mối liên kết
+- Đừng so sánh tiến độ với người khác
+
+Ổn định thật  
+đến từ **bên trong**.
+
+---
+
+## 🔗Để theo dõi mạch hành động của Wands, bạn có thể đọc thêm:
+
+- **[Three of Wands – Mở Rộng Và Chờ Đợi](/tarot/la-bai/three-of-wands/)**  
+- **[Five of Wands – Cạnh Tranh Và Xung Đột](/tarot/la-bai/five-of-wands/)**  
+- **[Two of Wands – Lựa Chọn Và Định Hướng](/tarot/la-bai/two-of-wands/)**  
+- **[Suit of Wands – Con Đường Hành Động](/tarot/la-bai/suit-of-wands/)**  
+
+---
+
+## Tóm tắt ý nghĩa Four of Wands
+
+**Xuôi:**
+- 🏡 Ổn định
+- 🎉 Ăn mừng bước đầu
+- 👥 Cộng đồng & gắn kết
+
+**Ngược:**
+- ⚠️ Thiếu nền tảng
+- 🌫️ Ổn định giả
+- 🧭 Cần củng cố lại
+
+Four of Wands nhắc ta rằng:  
+**Không phải lúc nào tiến lên cũng là đi tiếp – đôi khi, dừng lại để ăn mừng chính là cách đi xa hơn.**
+
+👉 Xem toàn bộ mạch: **[Suit of Wands – Con Đường Hành Động](/tarot/la-bai/suit-of-wands/)**

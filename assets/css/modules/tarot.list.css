@@ -185,15 +185,24 @@
 }
 /* ---------- Suit Link ---------- */
 
-.tarot-suit-link {
+/* ---------- Suit Link (Fix visibility) ---------- */
+
+.tarot-suit-group .tarot-suit-link {
   display: inline-block;
   margin-top: -1rem;
   margin-bottom: 2rem;
+
   font-size: 0.95rem;
   font-weight: 500;
-  color: #2563eb;
+
+  color: #2563eb !important;
   text-decoration: none;
 }
+
+.tarot-suit-group .tarot-suit-link:hover {
+  text-decoration: underline;
+}
+
 
 .tarot-suit-link:hover {
   text-decoration: underline;

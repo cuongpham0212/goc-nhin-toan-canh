@@ -13,7 +13,7 @@
   <!-- ===== LAYOUT ===== -->
   <div class="tarot-list-layout">
 
-    <!-- ===== TOC (SCROLL THEO USER) ===== -->
+    <!-- ===== TOC ===== -->
     <aside class="tarot-toc">
       <h2 class="tarot-toc-title">Mục lục Tarot</h2>
       <ul>
@@ -28,14 +28,20 @@
     <!-- ===== CONTENT ===== -->
     <div class="tarot-list-content">
 
-      <!-- ===== MAJOR ===== -->
+      <!-- ===== MAJOR ARCANA ===== -->
       <section id="major" class="tarot-suit-group tarot-major">
         <h2 class="tarot-suit-title tarot-major-title">
           Major Arcana – Ẩn chính
         </h2>
+
         <p class="tarot-suit-desc">
-          Những biểu tượng cốt lõi phản ánh các bước ngoặt lớn trong hành trình đời người và sự thức tỉnh nội tâm.
+          Những biểu tượng cốt lõi phản ánh các bước ngoặt lớn trong hành trình đời người
+          và quá trình thức tỉnh nhận thức.
         </p>
+
+        <a class="tarot-suit-link" href="{{ "/tarot/la-bai/major-arcana/" | relURL }}">
+          Xem hành trình Ẩn chính →
+        </a>
 
         <div class="tarot-grid-wrap">
           <div class="tarot-grid">
@@ -43,7 +49,7 @@
               <article class="tarot-card-item">
                 <a href="{{ .RelPermalink }}" class="tarot-card-link">
                   {{ with .Params.image }}
-                    <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+                    <img src="{{ . }}" alt="{{ $.Title }} – {{ $.Title }}" loading="lazy">
                   {{ end }}
                   <h3 class="tarot-card-title">{{ .Title }}</h3>
                 </a>
@@ -61,8 +67,7 @@
           Biểu trưng cho cảm xúc, trực giác và các mối quan hệ.
         </p>
 
-        <a class="tarot-suit-link"
-           href="{{ "/tarot/la-bai/suit-of-cups/" | relURL }}">
+        <a class="tarot-suit-link" href="{{ "/tarot/la-bai/suit-of-cups/" | relURL }}">
           Xem hành trình cảm xúc →
         </a>
 
@@ -72,7 +77,7 @@
               <article class="tarot-card-item">
                 <a href="{{ .RelPermalink }}" class="tarot-card-link">
                   {{ with .Params.image }}
-                    <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+                    <img src="{{ . }}" alt="{{ $.Title }} – {{ $.Title }}" loading="lazy">
                   {{ end }}
                   <h3 class="tarot-card-title">{{ .Title }}</h3>
                 </a>
@@ -85,9 +90,14 @@
       <!-- ===== WANDS ===== -->
       <section id="wands" class="tarot-suit-group tarot-wands">
         <h2 class="tarot-suit-title">Wands</h2>
+
         <p class="tarot-suit-desc">
           Đại diện cho hành động, ý chí và năng lượng sáng tạo.
         </p>
+
+        <a class="tarot-suit-link" href="{{ "/tarot/la-bai/suit-of-wands/" | relURL }}">
+          Xem hành trình hành động →
+        </a>
 
         <div class="tarot-grid-wrap">
           <div class="tarot-grid">
@@ -95,7 +105,7 @@
               <article class="tarot-card-item">
                 <a href="{{ .RelPermalink }}" class="tarot-card-link">
                   {{ with .Params.image }}
-                    <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+                    <img src="{{ . }}" alt="{{ $.Title }} – {{ $.Title }}" loading="lazy">
                   {{ end }}
                   <h3 class="tarot-card-title">{{ .Title }}</h3>
                 </a>
@@ -108,9 +118,14 @@
       <!-- ===== SWORDS ===== -->
       <section id="swords" class="tarot-suit-group tarot-swords">
         <h2 class="tarot-suit-title">Swords</h2>
+
         <p class="tarot-suit-desc">
           Liên quan đến tư duy, xung đột, quyết định và sự thật.
         </p>
+
+        <a class="tarot-suit-link" href="{{ "/tarot/la-bai/suit-of-swords/" | relURL }}">
+          Xem hành trình tư duy →
+        </a>
 
         <div class="tarot-grid-wrap">
           <div class="tarot-grid">
@@ -118,7 +133,7 @@
               <article class="tarot-card-item">
                 <a href="{{ .RelPermalink }}" class="tarot-card-link">
                   {{ with .Params.image }}
-                    <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+                    <img src="{{ . }}" alt="{{ $.Title }} – {{ $.Title }}" loading="lazy">
                   {{ end }}
                   <h3 class="tarot-card-title">{{ .Title }}</h3>
                 </a>
@@ -131,9 +146,14 @@
       <!-- ===== PENTACLES ===== -->
       <section id="pentacles" class="tarot-suit-group tarot-pentacles">
         <h2 class="tarot-suit-title">Pentacles</h2>
+
         <p class="tarot-suit-desc">
           Phản ánh thế giới vật chất, công việc, tiền bạc và nền tảng đời sống.
         </p>
+
+        <a class="tarot-suit-link" href="{{ "/tarot/la-bai/suit-of-pentacles/" | relURL }}">
+          Xem hành trình vật chất →
+        </a>
 
         <div class="tarot-grid-wrap">
           <div class="tarot-grid">
@@ -141,7 +161,7 @@
               <article class="tarot-card-item">
                 <a href="{{ .RelPermalink }}" class="tarot-card-link">
                   {{ with .Params.image }}
-                    <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+                    <img src="{{ . }}" alt="{{ $.Title }} – {{ $.Title }}" loading="lazy">
                   {{ end }}
                   <h3 class="tarot-card-title">{{ .Title }}</h3>
                 </a>
