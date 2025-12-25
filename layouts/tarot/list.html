@@ -1,27 +1,79 @@
 {{ define "main" }}
+
 <section class="tarot-hub container">
-  <header>
-    <h1>{{ .Title }}</h1>
+
+  <header class="tarot-hub-header">
+    <h1 class="tarot-hub-title">{{ .Title }}</h1>
+
     {{ with .Content }}
-      <div class="intro">
+      <div class="tarot-hub-intro">
         {{ . }}
       </div>
     {{ end }}
   </header>
-
-  <nav class="tarot-nav">
-    <ul>
-      <li>
-        <a href="{{ "/tarot/boi-1-la/" | relURL }}">
-          🔮 Xem Tarot Online – Rút 1 Lá
-        </a>
-      </li>
-      <li>
-        <a href="{{ "/tarot/la-bai/" | relURL }}">
-          🃏 Tìm hiểu ý nghĩa 78 lá Tarot
-        </a>
-      </li>
-    </ul>
-  </nav>
+  {{ partial "article-toc-overlay.html" . }}
 </section>
+
+<!-- ===== SHOPPING / RECOMMEND ROTATOR ===== -->
+<section class="tarot-hub-recommend">
+  {{ partial "mua-sam/recommend-rotator.html" . }}
+</section>
+
+<style>
+/* ===============================
+   Tarot Hub – Intro Page Styles
+   Scoped only for /tarot/
+================================ */
+
+.tarot-hub {
+  max-width: 900px;
+  margin-inline: auto;
+  padding-block: 3.5rem 3rem;
+}
+
+/* Header */
+.tarot-hub-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.tarot-hub-title {
+  font-size: 2rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  margin-bottom: 1.5rem;
+}
+
+/* Intro content */
+.tarot-hub-intro {
+  font-size: 1rem;
+  line-height: 1.85;
+  color: #374151;
+  text-align: justify;
+  text-justify: inter-word;
+  max-width: 720px;
+  margin-inline: auto;
+}
+
+/* Khoảng thở giữa các đoạn */
+.tarot-hub-intro p + p {
+  margin-top: 1.25rem;
+}
+
+/* ===== Recommend block spacing ===== */
+
+.tarot-hub-recommend {
+  margin-top: 3.5rem;
+  padding-block: 2rem 3rem;
+  border-top: 1px solid #e5e7eb;
+}
+
+/* Giữ block mua sắm không quá rộng */
+.tarot-hub-recommend .recommend-rotator,
+.tarot-hub-recommend .recommend-group {
+  max-width: 1100px;
+  margin-inline: auto;
+}
+</style>
+
 {{ end }}

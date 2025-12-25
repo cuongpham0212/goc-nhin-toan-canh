@@ -3,70 +3,127 @@ document.addEventListener("DOMContentLoaded", () => {
   if (!dataEl) return;
 
   let cards = JSON.parse(dataEl.textContent);
+  if (typeof cards === "string") cards = JSON.parse(cards);
+  if (!Array.isArray(cards) || cards.length === 0) return;
 
-// 🔒 FIX CUỐI: nếu Hugo stringify 2 lần
-if (typeof cards === "string") {
-  cards = JSON.parse(cards);
-}
+  /* ===============================
+     CONSTANTS
+     =============================== */
+  const BACK_IMAGE =
+    "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp";
 
-  const drawBtn = document.getElementById("draw-card");
-  if (!drawBtn) return;
+  /* ===============================
+     ELEMENTS
+     =============================== */
+  const slots = document.querySelectorAll(".tarot-slot");
+  const revealBtn = document.getElementById("reveal-reading");
 
   const overlay = document.getElementById("tarot-overlay");
   const panel = document.querySelector(".tarot-panel");
-  const result = document.getElementById("tarot-result");
 
-  const cardBox = document.querySelector(".tarot-card");
-  const img = document.getElementById("tarot-image");
-  const name = document.getElementById("tarot-name");
-  const summary = document.getElementById("tarot-summary");
-  const emotion = document.getElementById("tarot-emotion");
-  const guidance = document.getElementById("tarot-guidance");
-  const link = document.getElementById("tarot-link");
+  const readingBox = document.getElementById("tarot-reading");
+  const reading1 = document.getElementById("reading-1");
+  const reading2 = document.getElementById("reading-2");
+  const reading3 = document.getElementById("reading-3");
 
-  drawBtn.addEventListener("click", () => {
-    // ===== SHOW OVERLAY =====
-    if (overlay) overlay.hidden = false;
+  if (slots.length !== 3) return;
 
-    // ===== RESET CARD STATE =====
-    if (cardBox) cardBox.classList.remove("is-flipped");
-    if (result) result.hidden = true;
+  /* ===============================
+     STATE
+     =============================== */
+  let remainingIndexes = cards.map((_, i) => i);
+  let selectedCards = [];
 
-    // ===== RANDOM DELAY (NGHI THỨC) =====
+  /* ===============================
+     HELPERS
+     =============================== */
+  function randomIndex() {
+    const r = Math.floor(Math.random() * remainingIndexes.length);
+    return remainingIndexes.splice(r, 1)[0];
+  }
+
+  function createFlipCard(frontSrc) {
+    const wrapper = document.createElement("div");
+    wrapper.className = "tarot-card";
+
+    const back = document.createElement("div");
+    back.className = "tarot-face back";
+    back.innerHTML = `<img src="${BACK_IMAGE}" alt="Tarot back">`;
+
+    const front = document.createElement("div");
+    front.className = "tarot-face front";
+    front.innerHTML = `<img src="${frontSrc}" alt="Tarot front">`;
+
+    wrapper.appendChild(back);
+    wrapper.appendChild(front);
+    return wrapper;
+  }
+
+  /* ===============================
+     INIT SLOTS (3 LÁ ÚP)
+     =============================== */
+  slots.forEach((slot) => {
+    slot.innerHTML = "";
+    const flip = createFlipCard(BACK_IMAGE);
+    slot.appendChild(flip);
+  });
+
+  /* ===============================
+     CLICK SLOT → RANDOM → FLIP
+     =============================== */
+  slots.forEach((slot, slotIndex) => {
+    slot.addEventListener("click", () => {
+      if (selectedCards[slotIndex]) return;
+      if (remainingIndexes.length === 0) return;
+
+      const index = randomIndex();
+      const cardData = cards[index];
+      selectedCards[slotIndex] = cardData;
+
+      const flip = slot.querySelector(".tarot-card");
+      const frontImg = flip.querySelector(".tarot-face.front img");
+
+      frontImg.src =
+        cardData.image && cardData.image.trim()
+          ? cardData.image
+          : BACK_IMAGE;
+
+      requestAnimationFrame(() => {
+        flip.classList.add("is-flipped");
+      });
+
+      if (selectedCards.filter(Boolean).length === 3) {
+        revealBtn.disabled = false;
+      }
+    });
+  });
+
+  /* ===============================
+     REVEAL READING
+     =============================== */
+  revealBtn.addEventListener("click", () => {
+    if (selectedCards.length !== 3) return;
+
+    overlay && (overlay.hidden = false);
+
     setTimeout(() => {
-      const card = cards[Math.floor(Math.random() * cards.length)];
-      if (!card) {
-        if (overlay) overlay.hidden = true;
-        return;
-      }
-
-      if (img && card.image) {
-        img.src = card.image;
-        img.alt = card.title || "";
-      }
-
-      if (name) name.textContent = card.title || "";
-      if (summary) summary.textContent = card.summary || "";
-      if (emotion) emotion.textContent = card.emotion || "";
-      if (guidance) guidance.textContent = card.guidance || "";
-      if (link && card.url) link.href = card.url;
-
-      // ===== STATE CHANGE =====
       document.body.classList.remove("tarot-before");
       document.body.classList.add("tarot-after");
-      if (panel) panel.classList.add("is-active");
+      panel?.classList.add("is-active");
 
-      // ===== SHOW RESULT =====
-      if (result) result.hidden = false;
+      reading1.textContent =
+        selectedCards[0].summary || selectedCards[0].guidance || "";
 
-      // ===== FLIP CARD =====
-      if (cardBox) {
-        setTimeout(() => {
-          cardBox.classList.add("is-flipped");
-        }, 100);
-      }
+      reading2.textContent =
+        selectedCards[1].summary || selectedCards[1].emotion || "";
 
-      if (overlay) overlay.hidden = true;
-    }, 1600);
+      reading3.textContent =
+        selectedCards[2].guidance || selectedCards[2].summary || "";
+
+      readingBox.hidden = false;
+      overlay.hidden = true;
+
+      readingBox.scrollIntoView({ behavior: "smooth", block: "start" });
+    }, 1200);
   });
 });
