@@ -24,27 +24,11 @@ collections:
     preview_path: "goc-nhin/{{slug}}"
 
     fields:
-      - label: "Tiêu đề"
-        name: "title"
-        widget: "string"
-
-      - label: "Mô tả (SEO description)"
-        name: "description"
-        widget: "text"
-        required: true
-
-      - label: "Ảnh đại diện (URL)"
-        name: "image"
-        widget: "string"
-        required: false
-
-      - label: "Ngày đăng"
-        name: "date"
-        widget: "datetime"
-
-      - label: "Nội dung bài viết"
-        name: "body"
-        widget: "markdown"
+      - { label: "Tiêu đề", name: "title", widget: "string" }
+      - { label: "Mô tả (SEO)", name: "description", widget: "text", required: true }
+      - { label: "Ảnh đại diện (URL)", name: "image", widget: "string", required: false }
+      - { label: "Ngày đăng", name: "date", widget: "datetime" }
+      - { label: "Nội dung", name: "body", widget: "markdown" }
 
 
   # =========================
@@ -59,27 +43,11 @@ collections:
     preview_path: "phan-tich/{{slug}}"
 
     fields:
-      - label: "Tiêu đề"
-        name: "title"
-        widget: "string"
-
-      - label: "Mô tả (SEO description)"
-        name: "description"
-        widget: "text"
-        required: true
-
-      - label: "Ảnh đại diện (URL)"
-        name: "image"
-        widget: "string"
-        required: false
-
-      - label: "Ngày đăng"
-        name: "date"
-        widget: "datetime"
-
-      - label: "Nội dung bài viết"
-        name: "body"
-        widget: "markdown"
+      - { label: "Tiêu đề", name: "title", widget: "string" }
+      - { label: "Mô tả (SEO)", name: "description", widget: "text", required: true }
+      - { label: "Ảnh đại diện (URL)", name: "image", widget: "string", required: false }
+      - { label: "Ngày đăng", name: "date", widget: "datetime" }
+      - { label: "Nội dung", name: "body", widget: "markdown" }
 
 
   # =========================
@@ -94,61 +62,45 @@ collections:
     preview_path: "chuyen-doi/{{slug}}"
 
     fields:
-      - label: "Tiêu đề"
-        name: "title"
-        widget: "string"
-
-      - label: "Mô tả (SEO description)"
-        name: "description"
-        widget: "text"
-        required: true
-
-      - label: "Ảnh đại diện (URL)"
-        name: "image"
-        widget: "string"
-        required: false
-
-      - label: "Ngày đăng"
-        name: "date"
-        widget: "datetime"
-
-      - label: "Nội dung bài viết"
-        name: "body"
-        widget: "markdown"
+      - { label: "Tiêu đề", name: "title", widget: "string" }
+      - { label: "Mô tả (SEO)", name: "description", widget: "text", required: true }
+      - { label: "Ảnh đại diện (URL)", name: "image", widget: "string", required: false }
+      - { label: "Ngày đăng", name: "date", widget: "datetime" }
+      - { label: "Nội dung", name: "body", widget: "markdown" }
 
 
   # =========================
-  # TAROT (NESTED – ĐÚNG CẤU TRÚC ANH ĐANG DÙNG)
+  # TAROT · 78 LÁ BÀI
   # =========================
-  - name: "tarot"
-    label: "Tarot"
-    label_singular: "Nội dung Tarot"
-    folder: "content/tarot"
+  - name: "tarot-la-bai"
+    label: "Tarot · 78 Lá bài"
+    label_singular: "Lá bài Tarot"
+    folder: "content/tarot/la-bai"
     create: true
-    nested:
-      depth: 2
     slug: "{{slug}}"
-    preview_path: "tarot/{{slug}}"
+    preview_path: "tarot/la-bai/{{slug}}"
 
     fields:
-      - label: "Tiêu đề"
-        name: "title"
-        widget: "string"
+      - { label: "Tên lá bài", name: "title", widget: "string" }
+      - { label: "Tóm tắt", name: "summary", widget: "text", required: false }
+      - { label: "Ảnh lá bài (URL)", name: "image", widget: "string", required: false }
+      - { label: "Nội dung", name: "body", widget: "markdown" }
 
-      - label: "Mô tả (SEO description)"
-        name: "description"
-        widget: "text"
-        required: false
 
-      - label: "Ảnh đại diện (URL)"
-        name: "image"
-        widget: "string"
-        required: false
+  # =========================
+  # TAROT · CUỘC SỐNG
+  # =========================
+  - name: "tarot-cuoc-song"
+    label: "Tarot · Cuộc sống"
+    label_singular: "Bài Tarot & Cuộc sống"
+    folder: "content/tarot/cuoc-song"
+    create: true
+    slug: "{{slug}}"
+    preview_path: "tarot/cuoc-song/{{slug}}"
 
-      - label: "Ngày đăng"
-        name: "date"
-        widget: "datetime"
-
-      - label: "Nội dung"
-        name: "body"
-        widget: "markdown"
+    fields:
+      - { label: "Tiêu đề bài viết", name: "title", widget: "string" }
+      - { label: "Mô tả (SEO)", name: "description", widget: "text", required: true }
+      - { label: "Ảnh đại diện (URL)", name: "image", widget: "string", required: false }
+      - { label: "Ngày đăng", name: "date", widget: "datetime" }
+      - { label: "Nội dung", name: "body", widget: "markdown" }
