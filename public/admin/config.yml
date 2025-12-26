@@ -124,7 +124,7 @@ collections:
     label: "Tarot"
     label_singular: "Nội dung Tarot"
     folder: "content/tarot"
-    create: false
+    create: true
     nested:
       depth: 2
     slug: "{{slug}}"
