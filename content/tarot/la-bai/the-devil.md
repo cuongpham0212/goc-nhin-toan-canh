@@ -29,6 +29,63 @@ guidance:
   - chịu trách nhiệm cho sự tự do của chính mình
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/the-devil.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, The Devil cho thấy
+      bạn từng bị ràng buộc
+      bởi thói quen, mối quan hệ,
+      hoặc niềm tin giới hạn.
+      Dù nhận ra sự bất ổn,
+      việc thoát ra khi đó
+      không hề dễ dàng.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một lần bạn từng bắt đầu
+      nhận diện và nới lỏng
+      những ràng buộc vô hình.
+      Dù chưa hoàn toàn tự do,
+      bạn đã thấy lối thoát.
+
+  present:
+    upright: >
+      Ở hiện tại, The Devil cho thấy
+      bạn đang đối diện
+      với phần bóng tối còn sót lại.
+      Lá bài không kết án,
+      mà yêu cầu bạn nhìn thẳng:
+      điều gì đang giữ bạn lại
+      vì sợ hãi, khoái cảm,
+      hay ảo tưởng kiểm soát?
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang trong quá trình
+      giải phóng khỏi ràng buộc.
+      Nhận thức rõ ràng
+      giúp bạn lấy lại quyền lựa chọn
+      cho chính mình.
+
+  future:
+    upright: >
+      Về hướng đi, The Devil gợi ý rằng
+      tự do chỉ đến
+      khi bạn dám thừa nhận
+      điều mình đang lệ thuộc.
+      Sự trung thực với bóng tối
+      là bước đầu của giải phóng.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      khi bạn tiếp tục tháo gỡ
+      những sợi dây vô hình,
+      sức mạnh cá nhân
+      sẽ dần được khôi phục.
+      Tự do là quá trình,
+      không phải khoảnh khắc.
+
 ---
 
 ## Tổng quan về lá The Devil

@@ -28,6 +28,60 @@ guidance:
   - phân biệt kiên trì và cố chấp
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/nine-of-wands.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Nine of Wands cho thấy
+      bạn từng đi qua nhiều thử thách liên tiếp.
+      Dù mệt mỏi và hoài nghi,
+      bạn vẫn không bỏ cuộc
+      vì biết mình đã đi quá xa để quay đầu.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng kiệt sức
+      vì phải liên tục phòng thủ.
+      Việc không cho phép mình nghỉ
+      có thể đã làm tổn thương
+      cả thể chất lẫn tinh thần.
+
+  present:
+    upright: >
+      Ở hiện tại, Nine of Wands cho thấy
+      bạn đang ở sát vạch đích.
+      Dù mệt,
+      bạn vẫn còn đủ ý chí
+      để đứng vững thêm một chút.
+      Lá bài nhắc rằng
+      bạn không yếu đuối —
+      bạn chỉ đang rất mệt.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang muốn buông
+      vì quá tải.
+      Lá bài nhắc bạn xem lại:
+      điều gì thật sự cần giữ,
+      điều gì có thể hạ xuống
+      để tiếp tục đi.
+
+  future:
+    upright: >
+      Về hướng đi, Nine of Wands gợi ý rằng
+      nếu bạn kiên trì thêm một đoạn ngắn,
+      bạn sẽ vượt qua giai đoạn khó nhất.
+      Sức mạnh lúc này
+      đến từ kinh nghiệm đã tích lũy.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      tiếp tục gồng gánh
+      mà không điều chỉnh
+      sẽ dẫn đến sụp đổ.
+      Nghỉ ngơi có chọn lọc
+      là điều cần thiết.
+
 ---
 
 ## Tổng quan về lá Nine of Wands

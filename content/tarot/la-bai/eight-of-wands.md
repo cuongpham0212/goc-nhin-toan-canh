@@ -28,6 +28,57 @@ guidance:
   - đừng chần chừ khi dòng chảy đã mở
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/eight-of-wands.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Eight of Wands cho thấy
+      đã từng có giai đoạn
+      mọi thứ tiến triển rất nhanh.
+      Khi bạn dám hành động dứt khoát,
+      cơ hội đến liên tiếp
+      và tạo đà mạnh mẽ.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một lần bạn từng bị chậm nhịp
+      vì thiếu phối hợp hoặc do dự.
+      Việc bỏ lỡ thời điểm
+      khiến tiến trình bị gián đoạn.
+
+  present:
+    upright: >
+      Ở hiện tại, Eight of Wands cho thấy
+      năng lượng đang tăng tốc.
+      Đây là lúc hành động nhanh,
+      giao tiếp rõ ràng
+      và tận dụng đà đang có.
+      Do dự lúc này
+      dễ khiến bạn lỡ nhịp.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      sự trì hoãn hoặc tắc nghẽn thông tin.
+      Lá bài nhắc bạn
+      cần sắp xếp lại ưu tiên
+      trước khi tiếp tục lao về phía trước.
+
+  future:
+    upright: >
+      Về hướng đi, Eight of Wands gợi ý rằng
+      khi bạn bắt đúng nhịp,
+      tiến trình sẽ diễn ra suôn sẻ
+      và nhanh hơn mong đợi.
+      Đây là giai đoạn
+      tận dụng đà để bứt phá.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu tăng tốc mà thiếu định hướng,
+      bạn có thể rơi vào hỗn loạn.
+      Tốc độ cần đi kèm
+      với sự rõ ràng.
+
 ---
 
 ## Tổng quan về lá Eight of Wands

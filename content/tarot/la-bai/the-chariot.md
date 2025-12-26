@@ -29,6 +29,60 @@ guidance:
   - tiến lên khi đã rõ mục tiêu
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/the-chariot.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, The Chariot cho thấy
+      bạn từng học cách tiến lên
+      bằng ý chí mạnh mẽ.
+      Việc kiểm soát hai lực đối lập
+      dạy bạn rằng
+      chiến thắng đến từ định hướng,
+      không chỉ từ sức mạnh.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng mất kiểm soát
+      hoặc bị kéo lệch hướng
+      bởi cảm xúc mâu thuẫn.
+      Thiếu định tâm
+      khiến tiến trình chậm lại.
+
+  present:
+    upright: >
+      Ở hiện tại, The Chariot cho thấy
+      bạn đang sẵn sàng tiến lên.
+      Lá bài nhấn mạnh
+      sự tập trung, kỷ luật
+      và quyết tâm có ý thức.
+      Khi bạn giữ tay lái vững,
+      con đường sẽ mở.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang bị phân tâm
+      hoặc kéo về hai hướng khác nhau.
+      Lá bài nhắc rằng
+      tiến lên cần sự thống nhất nội tâm,
+      không phải ép buộc.
+
+  future:
+    upright: >
+      Về hướng đi, The Chariot gợi ý rằng
+      khi bạn rõ mục tiêu
+      và làm chủ năng lượng,
+      bạn sẽ vượt qua chướng ngại.
+      Chiến thắng bền vững
+      đến từ sự tự chủ.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu tiếp tục tiến mà thiếu định hướng,
+      bạn sẽ nhanh kiệt sức.
+      Dừng lại chỉnh hướng
+      là điều cần thiết trước khi tăng tốc.
+
 ---
 
 ## Tổng quan về lá The Chariot

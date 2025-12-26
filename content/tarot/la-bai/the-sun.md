@@ -29,6 +29,62 @@ guidance:
   - bước ra ánh sáng bằng sự trong trẻo
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/the-sun.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, The Sun cho thấy
+      bạn từng trải qua
+      giai đoạn rõ ràng và tích cực.
+      Mọi thứ sáng sủa,
+      năng lượng sống mạnh mẽ,
+      và bạn cảm thấy
+      mình được là chính mình.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một thời điểm niềm vui
+      từng bị che mờ
+      bởi lo lắng hoặc kỳ vọng quá cao.
+      Ánh sáng vẫn ở đó,
+      chỉ là bạn chưa nhìn thấy.
+
+  present:
+    upright: >
+      Ở hiện tại, The Sun cho thấy
+      sự thật đang hiển lộ.
+      Lá bài mang năng lượng
+      của niềm vui, sự trong trẻo
+      và sự tự tin tự nhiên.
+      Đây là lúc bạn
+      có thể sống đúng
+      mà không cần che giấu.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang nghi ngờ
+      quyền được hạnh phúc của mình.
+      Lá bài nhắc rằng
+      niềm vui không cần hoàn hảo,
+      chỉ cần chân thật.
+
+  future:
+    upright: >
+      Về hướng đi, The Sun gợi ý rằng
+      khi bạn bước ra ánh sáng,
+      sự rõ ràng sẽ dẫn đường.
+      Niềm vui bền vững
+      đến từ việc sống thật
+      và chấp nhận chính mình.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu bạn tiếp tục kìm nén
+      niềm vui vì sợ mất,
+      ánh sáng sẽ mờ đi.
+      Hãy cho phép mình
+      được hạnh phúc.
+
 ---
 
 ## Tổng quan về lá The Sun

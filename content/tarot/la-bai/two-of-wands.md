@@ -28,6 +28,61 @@ guidance:
   - chọn hướng đi thay vì đứng yên với tiềm năng
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/two-of-wands.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Two of Wands cho thấy
+      bạn từng đứng trước
+      một lựa chọn quan trọng:
+      ở lại vùng an toàn
+      hay bước ra thế giới rộng hơn.
+      Dù chọn hướng nào,
+      khoảnh khắc đó
+      đã mở rộng tầm nhìn của bạn.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một lần bạn do dự
+      vì sợ rủi ro hoặc sợ mất kiểm soát.
+      Việc không dám bước ra
+      có thể đã khiến bạn
+      cảm thấy mình bỏ lỡ điều gì đó.
+
+  present:
+    upright: >
+      Ở hiện tại, Two of Wands cho thấy
+      bạn đang nhìn xa hơn hiện tại.
+      Bạn có động lực,
+      nhưng đang cân nhắc chiến lược.
+      Đây là giai đoạn lập kế hoạch,
+      chọn hướng đi
+      trước khi hành động mạnh mẽ.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang bị kẹt
+      giữa quá nhiều lựa chọn.
+      Nỗi sợ sai
+      khiến bạn chưa dám quyết,
+      dù ngọn lửa đã có.
+
+  future:
+    upright: >
+      Về hướng đi, Two of Wands gợi ý rằng
+      khi bạn chọn một hướng rõ ràng,
+      năng lượng sẽ được tập trung
+      và hành động sẽ trở nên mạnh mẽ hơn.
+      Thế giới bên ngoài
+      đang chờ bạn bước tới.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu tiếp tục đứng giữa hai ngã,
+      bạn sẽ khó tiến xa.
+      Lựa chọn không cần hoàn hảo,
+      chỉ cần đủ để bạn bắt đầu.
+
 ---
 
 ## Tổng quan về lá Two of Wands

@@ -28,6 +28,58 @@ guidance:
   - tin vào giá trị của tiến trình dài hạn
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/knight-of-pentacles.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Knight of Pentacles cho thấy
+      bạn từng chọn con đường chậm nhưng chắc.
+      Có thể bạn đã kiên trì xây dựng
+      một nền tảng ổn định,
+      dù điều đó đòi hỏi nhiều thời gian
+      và sự nhẫn nại.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng cảm thấy
+      bị mắc kẹt trong sự trì trệ.
+      Việc quá thận trọng hoặc sợ sai
+      có thể đã khiến bạn bỏ lỡ cơ hội tiến lên.
+
+  present:
+    upright: >
+      Ở hiện tại, Knight of Pentacles cho thấy
+      bạn đang hành động với sự tập trung và kỷ luật.
+      Bạn hiểu rằng những gì bền vững
+      cần được xây dựng từng bước,
+      và bạn sẵn sàng đi con đường dài
+      thay vì tìm kết quả nhanh chóng.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang cảm thấy chán nản
+      vì mọi thứ tiến triển quá chậm.
+      Sự lặp lại và thiếu linh hoạt
+      có thể khiến bạn mất động lực
+      nếu không điều chỉnh nhịp độ.
+
+  future:
+    upright: >
+      Về hướng đi, Knight of Pentacles gợi ý rằng
+      sự ổn định và thành quả lâu dài
+      sẽ đến nếu bạn tiếp tục kiên trì.
+      Dù không hào nhoáng,
+      con đường này mang lại cảm giác an toàn
+      và đáng tin cậy.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      việc bám chặt vào thói quen cũ
+      có thể cản trở sự phát triển.
+      Đôi khi, bạn cần cho phép mình
+      thử nghiệm hoặc thay đổi nhịp đi,
+      thay vì chỉ giữ nguyên một cách máy móc.
+
 ---
 
 ## Tổng quan về lá Knight of Pentacles

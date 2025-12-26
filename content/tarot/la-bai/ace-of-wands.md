@@ -28,6 +28,60 @@ guidance:
   - tin vào sinh lực tự nhiên của mình
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/ace-of-wands.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Ace of Wands cho thấy
+      đã từng có một khoảnh khắc
+      bạn cảm thấy mình “muốn sống lại”.
+      Một ý tưởng, một mong muốn
+      hoặc một thôi thúc mạnh mẽ
+      từng đánh thức ngọn lửa bên trong bạn.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng bị dập tắt nhiệt huyết.
+      Có thể vì sợ thất bại,
+      thiếu niềm tin
+      hoặc môi trường không ủng hộ,
+      ngọn lửa đã không được nuôi dưỡng.
+
+  present:
+    upright: >
+      Ở hiện tại, Ace of Wands cho thấy
+      năng lượng khởi đầu đang trở lại.
+      Bạn có thể chưa biết rõ
+      mình sẽ đi đến đâu,
+      nhưng bạn biết rằng
+      mình không thể đứng yên nữa.
+      Đây là thời điểm của cảm hứng và can đảm.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang cảm thấy thiếu động lực
+      hoặc hoài nghi chính mình.
+      Lá bài nhắc rằng
+      lửa không mất đi,
+      nó chỉ đang chờ
+      được thắp lại đúng cách.
+
+  future:
+    upright: >
+      Về hướng đi, Ace of Wands gợi ý rằng
+      một cơ hội hành động mới sẽ xuất hiện.
+      Khi bạn dám nắm lấy
+      và cho phép mình thử,
+      hành trình mới sẽ bắt đầu.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu tiếp tục trì hoãn
+      hoặc chờ đợi điều kiện hoàn hảo,
+      cảm hứng có thể nguội dần.
+      Hành động nhỏ
+      sẽ giữ ngọn lửa sống.
+
 ---
 
 ## Tổng quan về lá Ace of Wands

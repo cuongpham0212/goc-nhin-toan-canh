@@ -28,6 +28,59 @@ guidance:
   - nghĩ xa hơn lợi ích cá nhân
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/ten-of-pentacles.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Ten of Pentacles cho thấy
+      bạn từng lớn lên hoặc chịu ảnh hưởng
+      từ những giá trị về gia đình,
+      truyền thống hoặc sự ổn định lâu dài.
+      Những nền tảng này đã định hình
+      cách bạn nhìn nhận về an toàn và thành công.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      những đứt gãy trong hệ giá trị gia đình
+      hoặc cảm giác thiếu sự nâng đỡ dài hạn.
+      Có thể bạn đã phải tự xây nền
+      thay vì thừa hưởng sẵn.
+
+  present:
+    upright: >
+      Ở hiện tại, Ten of Pentacles cho thấy
+      bạn đang hướng tới sự ổn định bền vững,
+      không chỉ cho bản thân
+      mà còn cho những người xung quanh.
+      Đây là lúc suy nghĩ về
+      nền móng lâu dài, hệ thống,
+      và các giá trị có thể duy trì theo thời gian.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang bị ràng buộc
+      bởi kỳ vọng gia đình hoặc chuẩn mực cũ.
+      Sự ổn định thật sự cần được xây dựng
+      dựa trên giá trị phù hợp với bạn,
+      không chỉ vì truyền thống.
+
+  future:
+    upright: >
+      Về hướng đi, Ten of Pentacles gợi ý rằng
+      thành quả bạn tạo ra có khả năng
+      trở thành di sản lâu dài.
+      Khi bạn xây dựng với tầm nhìn rộng,
+      sự bền vững sẽ vượt qua giới hạn cá nhân
+      và lan tỏa sang các thế hệ tiếp theo.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu thiếu kế hoạch dài hạn,
+      sự ổn định có thể chỉ mang tính tạm thời.
+      Việc rà soát lại cấu trúc, giá trị
+      và cách phân bổ nguồn lực
+      là cần thiết để tránh đổ vỡ về sau.
+
 ---
 
 ## Tổng quan về lá Ten of Pentacles

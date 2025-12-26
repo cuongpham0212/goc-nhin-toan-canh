@@ -28,6 +28,56 @@ guidance:
   - chia sẻ yêu thương một cách bền vững
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/ten-of-cups.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Ten of Cups cho thấy
+      bạn từng trải nghiệm một giai đoạn
+      hòa hợp và trọn vẹn về mặt cảm xúc.
+      Đó có thể là gia đình, mối quan hệ,
+      hoặc một môi trường nơi bạn cảm thấy
+      được chấp nhận và thuộc về.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một ký ức về hạnh phúc không trọn vẹn.
+      Có thể bề ngoài mọi thứ trông ổn,
+      nhưng bên trong vẫn tồn tại
+      những khoảng lặng chưa được lấp đầy.
+
+  present:
+    upright: >
+      Ở hiện tại, Ten of Cups cho thấy
+      bạn đang ở rất gần cảm giác
+      bình yên và đủ đầy về mặt cảm xúc.
+      Đây là lúc bạn có thể trân trọng
+      những mối liên kết đang nuôi dưỡng mình,
+      thay vì tìm kiếm điều gì đó xa hơn.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang kỳ vọng quá nhiều
+      vào một hình mẫu hạnh phúc lý tưởng.
+      Điều này khiến bạn khó hài lòng
+      với những gì đang hiện diện.
+
+  future:
+    upright: >
+      Về hướng đi, Ten of Cups gợi ý rằng
+      sự hòa hợp bền vững sẽ đến
+      khi bạn xây dựng kết nối
+      dựa trên sự thấu hiểu và sẻ chia thật sự.
+      Hạnh phúc lúc này không phải cao trào,
+      mà là sự an trú.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      hạnh phúc không thể được duy trì
+      nếu chỉ dựa vào vẻ ngoài.
+      Việc đối thoại cảm xúc chân thành
+      sẽ quyết định sự gắn kết lâu dài.
+
 ---
 
 ## Tổng quan về lá Ten of Cups

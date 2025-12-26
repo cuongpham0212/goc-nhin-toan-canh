@@ -28,6 +28,62 @@ guidance:
   - trở thành điểm tựa cho hành động của người khác
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/king-of-wands.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, King of Wands cho thấy
+      bạn từng ở vị trí
+      phải dẫn dắt hoặc khởi xướng.
+      Những trải nghiệm đó
+      rèn cho bạn tầm nhìn
+      và khả năng chịu trách nhiệm.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một lần bạn từng quá nóng vội
+      hoặc áp đặt tầm nhìn của mình.
+      Việc thiếu lắng nghe
+      có thể đã gây ra
+      sự phản kháng không cần thiết.
+
+  present:
+    upright: >
+      Ở hiện tại, King of Wands cho thấy
+      bạn đang ở vai trò lãnh đạo tự nhiên.
+      Bạn không cần kiểm soát chi li,
+      mà truyền lửa bằng tầm nhìn
+      và niềm tin vào hành động.
+      Người khác theo bạn
+      vì họ tin vào hướng đi.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang phân tán năng lượng
+      hoặc thiếu kiên nhẫn với tiến độ.
+      Lá bài nhắc rằng
+      lãnh đạo bền vững
+      cần sự ổn định và nhất quán.
+
+  future:
+    upright: >
+      Về hướng đi, King of Wands gợi ý rằng
+      khi bạn giữ được tầm nhìn dài hạn,
+      ngọn lửa bạn mang
+      sẽ dẫn đường cho nhiều người.
+      Thành công đến
+      từ việc biến cảm hứng
+      thành hành động cụ thể.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu không quản lý tốt năng lượng,
+      sự nhiệt huyết
+      có thể biến thành kiệt sức.
+      Lãnh đạo hiệu quả
+      là biết phân quyền
+      và giữ nhịp bền.
+
 ---
 
 ## Tổng quan về lá King of Wands

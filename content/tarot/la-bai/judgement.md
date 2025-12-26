@@ -29,6 +29,60 @@ guidance:
   - bước sang giai đoạn sống có ý thức
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/judgement.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Judgement cho thấy
+      bạn từng trải qua một khoảnh khắc thức tỉnh.
+      Có thể là một biến cố,
+      một lời nói,
+      hoặc một sự kiện
+      buộc bạn nhìn lại toàn bộ con đường đã đi.
+      Đó là lúc bạn nhận ra
+      mình không thể sống như cũ nữa.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng né tránh
+      sự thật hoặc tiếng gọi nội tâm.
+      Việc trì hoãn đối diện
+      khiến bài học kéo dài hơn cần thiết.
+
+  present:
+    upright: >
+      Ở hiện tại, Judgement cho thấy
+      bạn đang đứng trước lời kêu gọi
+      phải sống thật với chính mình.
+      Đây không phải là phán xét từ bên ngoài,
+      mà là sự tự nhận thức:
+      bạn biết điều gì cần được tha thứ,
+      điều gì cần được khép lại.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang tự phán xét quá khắt khe
+      hoặc sợ bị đánh giá.
+      Lá bài nhắc rằng
+      thức tỉnh không nhằm trừng phạt,
+      mà để giải phóng.
+
+  future:
+    upright: >
+      Về hướng đi, Judgement gợi ý rằng
+      khi bạn chấp nhận sự thật
+      và chịu trách nhiệm cho lựa chọn của mình,
+      một chu kỳ mới sẽ bắt đầu.
+      Đây là thời điểm tái sinh,
+      nhẹ gánh quá khứ.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu tiếp tục từ chối lời gọi nội tâm,
+      bạn sẽ bị kẹt giữa cũ và mới.
+      Tha thứ cho chính mình
+      là chìa khóa để bước tiếp.
+
 ---
 
 ## Tổng quan về lá Judgement

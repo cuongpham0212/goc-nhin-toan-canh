@@ -29,6 +29,62 @@ guidance:
   - cho phép bản thân tận hưởng và đón nhận
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/the-empress.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, The Empress cho thấy
+      bạn từng được nuôi dưỡng
+      hoặc đã học cách chăm sóc
+      người khác bằng sự dịu dàng.
+      Những trải nghiệm này
+      gieo mầm cho sự an toàn
+      và cảm giác đủ đầy.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng thiếu sự chăm sóc,
+      hoặc quên nuôi dưỡng chính mình.
+      Việc cho đi quá nhiều
+      khiến năng lượng cạn kiệt.
+
+  present:
+    upright: >
+      Ở hiện tại, The Empress cho thấy
+      bạn đang ở trạng thái
+      sẵn sàng nuôi dưỡng:
+      một mối quan hệ,
+      một dự án,
+      hoặc chính bản thân mình.
+      Yêu thương lúc này
+      là hành động cụ thể,
+      không chỉ là cảm xúc.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang tự bỏ bê
+      nhu cầu của mình.
+      Lá bài nhắc rằng
+      không thể nuôi dưỡng người khác
+      khi bản thân đang thiếu hụt.
+
+  future:
+    upright: >
+      Về hướng đi, The Empress gợi ý rằng
+      khi bạn tiếp tục chăm sóc
+      bằng sự kiên nhẫn và dịu dàng,
+      thành quả sẽ sinh sôi tự nhiên.
+      Sự đủ đầy đến
+      từ việc cho và nhận cân bằng.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu không tái tạo năng lượng,
+      sự mệt mỏi sẽ ảnh hưởng
+      đến khả năng yêu thương.
+      Nuôi dưỡng bản thân
+      là ưu tiên cần thiết.
+
 ---
 
 ## Tổng quan về lá The Empress

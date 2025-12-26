@@ -29,6 +29,59 @@ guidance:
   - giữ sự tĩnh lặng để tri thức tự hé mở
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/the-high-priestess.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, The High Priestess cho thấy
+      bạn từng trải qua giai đoạn
+      phải tin vào cảm nhận bên trong
+      hơn là bằng chứng bên ngoài.
+      Dù không nói ra,
+      bạn đã biết
+      điều gì là đúng với mình.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một thời điểm bạn từng bỏ qua
+      trực giác của mình.
+      Việc phớt lờ tiếng nói bên trong
+      khiến bạn cảm thấy lệch nhịp
+      và thiếu kết nối.
+
+  present:
+    upright: >
+      Ở hiện tại, The High Priestess cho thấy
+      câu trả lời đang nằm bên trong bạn.
+      Lá bài nhắc rằng
+      không phải lúc nào cũng cần hành động.
+      Im lặng, quan sát
+      và lắng nghe sâu
+      là sức mạnh lúc này.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang bị nhiễu
+      bởi ý kiến bên ngoài.
+      Lá bài nhắc bạn
+      quay về với trực giác,
+      nơi sự thật luôn hiện diện.
+
+  future:
+    upright: >
+      Về hướng đi, The High Priestess gợi ý rằng
+      khi bạn tiếp tục tin vào cảm nhận tinh tế,
+      sự sáng suốt sẽ dần lộ diện.
+      Trí tuệ thật
+      đến từ sự tĩnh lặng.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu tiếp tục nghi ngờ trực giác,
+      bạn sẽ tìm kiếm câu trả lời
+      ở những nơi không cần thiết.
+      Sự tin tưởng là chìa khóa.
+
 ---
 
 ## Tổng quan về lá The High Priestess

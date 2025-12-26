@@ -29,6 +29,61 @@ guidance:
   - đi chậm và quan sát cảm xúc thật
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/the-moon.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, The Moon cho thấy
+      bạn từng đi qua giai đoạn mơ hồ,
+      nơi cảm xúc và nỗi sợ
+      chi phối mạnh mẽ.
+      Có thể bạn đã không hiểu rõ
+      điều gì đang xảy ra,
+      nhưng trực giác đã âm thầm dẫn lối.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một lần bạn từng bắt đầu
+      nhận ra sự thật
+      sau thời gian dài rối loạn.
+      Màn sương dần tan,
+      dù chưa hoàn toàn rõ ràng.
+
+  present:
+    upright: >
+      Ở hiện tại, The Moon cho thấy
+      bạn đang ở trong vùng vô thức.
+      Lá bài nhắc rằng
+      không phải mọi câu trả lời
+      đều đến từ lý trí.
+      Hãy lắng nghe trực giác,
+      nhưng đừng để nỗi sợ
+      dẫn dắt hành động.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang dần phân biệt
+      đâu là cảm xúc thật,
+      đâu là ảo ảnh.
+      Đây là giai đoạn
+      tỉnh dần khỏi mê cung nội tâm.
+
+  future:
+    upright: >
+      Về hướng đi, The Moon gợi ý rằng
+      bạn cần đi chậm
+      khi chưa đủ ánh sáng.
+      Sự kiên nhẫn và tin vào cảm nhận
+      sẽ giúp bạn
+      không lạc lối trong bóng tối.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      khi sự thật dần lộ diện,
+      nỗi sợ sẽ mất quyền kiểm soát.
+      Trực giác được soi sáng
+      sẽ trở thành trí tuệ.
+
 ---
 
 ## Tổng quan về lá The Moon

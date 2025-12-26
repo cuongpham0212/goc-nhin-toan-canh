@@ -28,6 +28,60 @@ guidance:
   - tin rằng đây là điểm thấp nhất – và cũng là điểm xoay chiều
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/ten-of-swords.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Ten of Swords cho thấy
+      bạn từng trải qua một kết thúc
+      rất đau đớn hoặc mang tính quyết định.
+      Dù cảm giác như bị đâm sau lưng,
+      đây là điểm mà
+      một chu kỳ cũ buộc phải khép lại.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng níu kéo
+      điều đã kết thúc.
+      Việc không chấp nhận thực tế
+      có thể khiến nỗi đau kéo dài.
+
+  present:
+    upright: >
+      Ở hiện tại, Ten of Swords cho thấy
+      bạn đang ở điểm chạm đáy.
+      Không còn gì để mất,
+      và chính điều đó
+      mở ra khả năng buông bỏ hoàn toàn.
+      Đây là khoảnh khắc đau,
+      nhưng cũng là khoảnh khắc giải thoát.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang đứng giữa ranh giới
+      của việc buông hay níu.
+      Lá bài nhắc rằng
+      quá trình hồi phục
+      cần sự dứt khoát,
+      không phải kéo dài đau đớn.
+
+  future:
+    upright: >
+      Về hướng đi, Ten of Swords gợi ý rằng
+      sau khi chạm đáy,
+      không còn con đường nào
+      ngoài việc đứng dậy.
+      Bình minh chỉ đến
+      khi đêm đã qua điểm tối nhất.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu bạn không cho phép
+      một kết thúc thực sự xảy ra,
+      bạn sẽ khó bước sang chu kỳ mới.
+      Việc chấp nhận kết thúc
+      chính là khởi đầu cho hồi sinh.
+
 ---
 
 ## Tổng quan về lá Ten of Swords

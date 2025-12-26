@@ -29,6 +29,58 @@ guidance:
   - chọn lọc điều thật sự quan trọng
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/the-hermit.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, The Hermit cho thấy
+      bạn từng chọn rút lui
+      để suy ngẫm và học hỏi.
+      Những khoảng lặng đó
+      giúp bạn tích lũy
+      trí tuệ thực tế.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một thời điểm bạn từng cô lập
+      vì sợ hãi hoặc né tránh.
+      Việc tách mình khỏi thế giới
+      khi đó không mang lại sáng tỏ.
+
+  present:
+    upright: >
+      Ở hiện tại, The Hermit cho thấy
+      bạn đang cần thời gian
+      ở một mình có ý thức.
+      Lá bài nhắc rằng
+      câu trả lời bạn tìm
+      không nằm ở đám đông,
+      mà trong sự tĩnh lặng.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang quá khép kín
+      hoặc ngại chia sẻ.
+      Lá bài nhắc rằng
+      tìm đường không có nghĩa
+      là cắt đứt kết nối hoàn toàn.
+
+  future:
+    upright: >
+      Về hướng đi, The Hermit gợi ý rằng
+      khi bạn tiếp tục soi sáng nội tâm,
+      con đường sẽ hiện ra
+      từng bước vững chắc.
+      Trí tuệ chín
+      đến từ trải nghiệm lắng đọng.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu kéo dài sự cô lập,
+      bạn có thể lạc hướng.
+      Chia sẻ đúng người
+      giúp ánh sáng rõ hơn.
+
 ---
 
 ## Tổng quan về lá The Hermit

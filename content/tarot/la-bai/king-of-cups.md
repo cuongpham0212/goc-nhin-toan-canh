@@ -28,6 +28,59 @@ guidance:
   - dẫn dắt bằng sự điềm tĩnh
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/king-of-cups.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, King of Cups cho thấy
+      bạn từng học cách giữ bình tĩnh
+      trong những tình huống cảm xúc mạnh.
+      Có thể bạn đã sớm hiểu rằng
+      cảm xúc cần được quản lý,
+      chứ không phải buông thả hay chối bỏ.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng kiểm soát cảm xúc
+      quá chặt chẽ.
+      Việc cố gắng tỏ ra ổn định
+      có thể đã khiến bạn xa rời
+      những cảm nhận thật sự bên trong.
+
+  present:
+    upright: >
+      Ở hiện tại, King of Cups cho thấy
+      bạn đang ở trạng thái tương đối cân bằng.
+      Bạn có khả năng cảm nhận sâu sắc
+      mà không bị cảm xúc cuốn đi.
+      Đây là lúc bạn vừa thấu hiểu,
+      vừa đủ vững để đưa ra quyết định sáng suốt.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang che giấu cảm xúc
+      sau vẻ ngoài điềm tĩnh.
+      Sự kìm nén kéo dài
+      có thể dẫn đến mất kết nối nội tâm
+      hoặc bùng phát cảm xúc bất ngờ.
+
+  future:
+    upright: >
+      Về hướng đi, King of Cups gợi ý rằng
+      sự trưởng thành cảm xúc thực sự
+      đến từ việc bạn dám cảm nhận đầy đủ,
+      nhưng không để cảm xúc điều khiển mình.
+      Khi bạn giữ được sự bình an bên trong,
+      bạn cũng trở thành điểm tựa cho người khác.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      việc làm chủ cảm xúc không đồng nghĩa
+      với việc phủ nhận chúng.
+      Nếu bạn học cách bộc lộ
+      một cách lành mạnh hơn,
+      sự ổn định sẽ trở nên bền vững.
+
 ---
 
 ## Tổng quan về lá King of Cups

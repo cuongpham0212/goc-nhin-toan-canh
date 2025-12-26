@@ -29,6 +29,59 @@ guidance:
   - nhìn sự việc từ một góc hoàn toàn khác
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/the-hanged-man.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, The Hanged Man cho thấy
+      bạn từng rơi vào giai đoạn bị “treo lại”:
+      kế hoạch đình trệ,
+      con đường không tiến triển như mong đợi.
+      Dù khó chịu,
+      khoảng dừng này buộc bạn
+      nhìn mọi thứ từ góc khác.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một lần bạn từng chống lại việc dừng lại.
+      Càng cố vùng vẫy,
+      bạn càng cảm thấy bế tắc
+      vì chưa sẵn sàng buông kiểm soát.
+
+  present:
+    upright: >
+      Ở hiện tại, The Hanged Man cho thấy
+      bạn đang được yêu cầu dừng lại có ý thức.
+      Đây không phải là thất bại,
+      mà là khoảng lặng cần thiết
+      để thay đổi góc nhìn.
+      Buông lúc này
+      là một hành động can đảm.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang mắc kẹt vì không chịu buông
+      những gì đã không còn phù hợp.
+      Lá bài nhắc rằng
+      sự hy sinh cần thiết
+      không thể tránh né mãi.
+
+  future:
+    upright: >
+      Về hướng đi, The Hanged Man gợi ý rằng
+      sự sáng tỏ sẽ đến
+      khi bạn chấp nhận dừng
+      và nhìn sâu vào bên trong.
+      Hiểu biết mới
+      sẽ thay đổi toàn bộ cách bạn tiếp cận cuộc sống.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu tiếp tục trì hoãn việc buông bỏ,
+      bạn sẽ kéo dài trạng thái treo lơ lửng.
+      Quyết định buông
+      là chìa khóa để chuyển động trở lại.
+
 ---
 
 ## Tổng quan về lá The Hanged Man

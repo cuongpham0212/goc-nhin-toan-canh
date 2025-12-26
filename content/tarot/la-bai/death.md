@@ -29,6 +29,60 @@ guidance:
   - tin vào tiến trình chuyển hóa tự nhiên
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/death.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Death cho thấy
+      bạn từng trải qua một kết thúc lớn:
+      mối quan hệ, vai trò,
+      hoặc phiên bản cũ của chính mình.
+      Dù đau,
+      sự kết thúc đó
+      đã cắt đứt điều không còn sống.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một lần bạn từng níu kéo
+      điều đã đến lúc kết thúc.
+      Việc sợ thay đổi
+      khiến nỗi đau kéo dài hơn cần thiết.
+
+  present:
+    upright: >
+      Ở hiện tại, Death cho thấy
+      một chu kỳ đang đi đến hồi kết.
+      Lá bài không nói về mất mát,
+      mà nói về sự cần thiết
+      phải khép lại để sống tiếp.
+      Điều cũ phải chết
+      để điều mới có chỗ sinh ra.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang kháng cự chuyển hóa.
+      Sự thay đổi vẫn sẽ xảy ra,
+      chỉ là theo cách
+      đau hơn nếu bạn tiếp tục chống lại.
+
+  future:
+    upright: >
+      Về hướng đi, Death gợi ý rằng
+      sau khi kết thúc thật sự,
+      bạn sẽ bước vào giai đoạn tái sinh.
+      Không phải trở thành người khác,
+      mà là sống đúng
+      với phiên bản chân thật hơn.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu không cho phép
+      một kết thúc trọn vẹn,
+      bạn sẽ khó đón nhận
+      khởi đầu mới.
+      Chuyển hóa đòi hỏi
+      sự dứt khoát.
+
 ---
 
 ## Tổng quan về lá Death

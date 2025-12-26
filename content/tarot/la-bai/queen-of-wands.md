@@ -28,6 +28,56 @@ guidance:
   - dẫn dắt bằng sự hiện diện, không bằng ép buộc
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/queen-of-wands.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Queen of Wands cho thấy
+      bạn từng học cách tin vào chính mình.
+      Qua trải nghiệm, bạn nhận ra
+      giá trị không cần phải gồng chứng minh,
+      mà đến từ sự tự tin và hiện diện tự nhiên.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng nghi ngờ bản thân
+      hoặc so sánh mình với người khác.
+      Sự thiếu tự tin khi đó
+      làm lửa trong bạn bị che mờ.
+
+  present:
+    upright: >
+      Ở hiện tại, Queen of Wands cho thấy
+      bạn đang tỏa ra năng lượng tích cực.
+      Bạn dám là chính mình,
+      dám đứng vào trung tâm
+      và truyền cảm hứng bằng hành động.
+      Sự tự tin của bạn
+      khiến người khác tin theo.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang che giấu
+      sự bất an sau vẻ ngoài mạnh mẽ.
+      Lá bài nhắc rằng
+      tự tin thật sự
+      không cần phải ồn ào.
+
+  future:
+    upright: >
+      Về hướng đi, Queen of Wands gợi ý rằng
+      khi bạn tiếp tục tin vào giá trị của mình,
+      bạn sẽ thu hút đúng người,
+      đúng cơ hội
+      và đúng không gian để tỏa sáng.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu để nỗi sợ đánh giá
+      dẫn dắt hành động,
+      bạn sẽ tự làm mờ ánh lửa.
+      Hãy quay về với sự chân thật.
+
 ---
 
 ## Tổng quan về lá Queen of Wands

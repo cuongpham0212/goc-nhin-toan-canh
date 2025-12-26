@@ -28,6 +28,49 @@ guidance:
   - trân trọng cảm nhận ban đầu
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/ace-of-cups.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Ace of Cups cho thấy bạn từng có một khởi đầu cảm xúc
+      rất thuần khiết – có thể là yêu thương, hy vọng hoặc sự chân thành –
+      nhưng vì hoàn cảnh hoặc nỗi sợ tổn thương,
+      dòng cảm xúc ấy đã bị kìm lại hoặc chưa được nuôi dưỡng trọn vẹn.
+
+    reversed: >
+      Ở vị trí quá khứ, lá bài ngược phản ánh một giai đoạn bạn
+      từng đóng lòng, né tránh cảm xúc hoặc không cho phép mình
+      bộc lộ nhu cầu tình cảm thật sự.
+      Một sự thất vọng cũ có thể vẫn còn ảnh hưởng đến bạn hiện tại.
+
+  present:
+    upright: >
+      Ở hiện tại, Ace of Cups cho thấy trái tim bạn đang mềm ra.
+      Bạn bắt đầu cho phép mình cảm nhận nhiều hơn,
+      kết nối với cảm xúc và trực giác
+      thay vì cố gắng kiểm soát hay lý trí hóa mọi thứ.
+
+    reversed: >
+      Khi xuất hiện ngược ở hiện tại, lá bài cho thấy bạn
+      đang cảm thấy trống rỗng, tê liệt cảm xúc
+      hoặc chưa sẵn sàng mở lòng.
+      Có thể bạn đang sợ nếu cảm nhận quá nhiều
+      thì mình sẽ bị tổn thương lần nữa.
+
+  future:
+    upright: >
+      Ở hướng đi phía trước, Ace of Cups gợi ý rằng
+      một dòng cảm xúc mới đang chờ được đón nhận.
+      Chỉ cần bạn thành thật với cảm nhận của mình,
+      sự chữa lành và kết nối sẽ diễn ra tự nhiên.
+
+    reversed: >
+      Với vị trí hướng đi ở trạng thái ngược,
+      lá bài khuyên bạn cần chú ý đến việc
+      không tự đóng lòng mình thêm lần nữa.
+      Nếu tiếp tục né tránh cảm xúc,
+      bạn có thể bỏ lỡ cơ hội chữa lành
+      hoặc một kết nối ý nghĩa.
 ---
 
 ## Tổng quan về lá Ace of Cups

@@ -29,6 +29,60 @@ guidance:
   - không cần chứng minh, chỉ cần làm chủ
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/strength.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Strength cho thấy
+      bạn từng học cách đối diện khó khăn
+      bằng sự kiên nhẫn và lòng trắc ẩn.
+      Thay vì cưỡng ép,
+      bạn đã chọn cách
+      điều phục bản năng bằng hiểu biết.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng nghi ngờ
+      sức mạnh nội tâm của mình.
+      Việc tự trách hoặc kìm nén
+      khiến năng lượng bị hao mòn.
+
+  present:
+    upright: >
+      Ở hiện tại, Strength cho thấy
+      bạn đang sở hữu sức mạnh yên lặng.
+      Lá bài nhắc rằng
+      can đảm không phải gồng lên,
+      mà là giữ nhịp đều
+      trước áp lực.
+      Dịu dàng với chính mình
+      là sức mạnh thật.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang cạn năng lượng
+      vì cố tỏ ra mạnh.
+      Lá bài nhắc bạn
+      cho phép mình yếu
+      để hồi phục nội lực.
+
+  future:
+    upright: >
+      Về hướng đi, Strength gợi ý rằng
+      khi bạn tiếp tục nuôi dưỡng nội lực,
+      thử thách sẽ không còn
+      làm bạn chao đảo.
+      Sự bền bỉ
+      tạo ra chiến thắng dài hạn.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu không chăm sóc nội tâm,
+      áp lực tích tụ
+      sẽ bào mòn ý chí.
+      Nghỉ ngơi có ý thức
+      là điều cần thiết.
+
 ---
 
 ## Tổng quan về lá Strength

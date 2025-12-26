@@ -25,37 +25,45 @@ guidance:
   - trân trọng khoảnh khắc hiện tại
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/three-of-cups.webp"
 
----
----
-title: "Three of Cups – Chia Sẻ Niềm Vui"
-slug: "three-of-cups"
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Three of Cups phản ánh một giai đoạn
+      bạn từng cảm thấy được thuộc về,
+      được chia sẻ niềm vui và sự nâng đỡ từ cộng đồng
+      hoặc những mối quan hệ thân thiết.
 
-arcana: "minor"
-number: 3
-suit: "cups"
+    reversed: >
+      Ở trạng thái ngược, lá bài cho thấy
+      những trải nghiệm xã hội từng khiến bạn thất vọng,
+      cảm giác bị đứng ngoài,
+      hoặc niềm vui bề ngoài nhưng thiếu sự kết nối thật sự.
 
-summary: "Niềm vui tập thể và sự ăn mừng."
-keywords:
-  - three of cups
-  - lá bài three of cups
-  - tarot cups
-  - ăn mừng
-  - tình bạn
-  - cộng đồng
-  - chia sẻ
-  - niềm vui
+  present:
+    upright: >
+      Ở hiện tại, Three of Cups mang năng lượng của sự sẻ chia,
+      niềm vui chung và cảm giác được là chính mình
+      khi ở bên những người đồng điệu.
+      Đây là thời điểm tốt để mở lòng với sự kết nối tích cực.
 
-emotion:
-  - hân hoan
-  - vui vẻ
-  - gắn kết
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang tham gia vào những mối quan hệ
+      mang tính xã giao nhiều hơn là nuôi dưỡng.
+      Có khả năng bạn đang cười cùng người khác
+      nhưng lại cảm thấy trống rỗng bên trong.
 
-guidance:
-  - kết nối với người xung quanh
-  - chia sẻ niềm vui
-  - trân trọng khoảnh khắc hiện tại
+  future:
+    upright: >
+      Về hướng đi, Three of Cups gợi ý rằng
+      niềm vui và sự gắn kết sẽ đến khi bạn cho phép mình
+      kết nối với những người thực sự hiểu và trân trọng bạn.
 
-image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/three-of-cups.webp"
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn cần chọn lọc
+      những mối quan hệ mà mình dành thời gian và năng lượng.
+      Không phải mọi cuộc vui đều mang lại sự nuôi dưỡng lâu dài.
+
 ---
 
 ## Tổng quan về lá Three of Cups

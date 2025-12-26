@@ -51,28 +51,40 @@
 
         <div class="tarot-selected-cards" id="tarotSelected">
 
-          <div class="tarot-slot">
-            <img
-              src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp"
-              alt="Lá bài Tarot – Mặt sau"
-              loading="lazy"
-            />
+          <!-- ===== LÁ 1 ===== -->
+          <div class="tarot-slot-wrap">
+            <div class="tarot-slot-label">LÁ 1 · QUÁ KHỨ</div>
+            <div class="tarot-slot">
+              <img
+                src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp"
+                alt="Lá bài Tarot – Mặt sau"
+                loading="lazy"
+              />
+            </div>
           </div>
 
-          <div class="tarot-slot">
-            <img
-              src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp"
-              alt="Lá bài Tarot – Mặt sau"
-              loading="lazy"
-            />
+          <!-- ===== LÁ 2 ===== -->
+          <div class="tarot-slot-wrap">
+            <div class="tarot-slot-label">LÁ 2 · HIỆN TẠI</div>
+            <div class="tarot-slot">
+              <img
+                src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp"
+                alt="Lá bài Tarot – Mặt sau"
+                loading="lazy"
+              />
+            </div>
           </div>
 
-          <div class="tarot-slot">
-            <img
-              src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp"
-              alt="Lá bài Tarot – Mặt sau"
-              loading="lazy"
-            />
+          <!-- ===== LÁ 3 ===== -->
+          <div class="tarot-slot-wrap">
+            <div class="tarot-slot-label">LÁ 3 · HƯỚNG ĐI</div>
+            <div class="tarot-slot">
+              <img
+                src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp"
+                alt="Lá bài Tarot – Mặt sau"
+                loading="lazy"
+              />
+            </div>
           </div>
 
         </div>
@@ -150,6 +162,7 @@
 
 </div>
 </body>
+
 {{ $js := resources.Get "js/tarot/draw-one.js" | resources.Minify }}
 <script defer src="{{ $js.RelPermalink }}"></script>
 

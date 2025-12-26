@@ -2,8 +2,15 @@ document.addEventListener("DOMContentLoaded", () => {
   const dataEl = document.getElementById("tarot-data");
   if (!dataEl) return;
 
-  let cards = JSON.parse(dataEl.textContent);
-  if (typeof cards === "string") cards = JSON.parse(cards);
+  let cards;
+  try {
+    cards = JSON.parse(dataEl.textContent);
+    if (typeof cards === "string") cards = JSON.parse(cards);
+  } catch (e) {
+    console.error("Invalid tarot-data JSON", e);
+    return;
+  }
+
   if (!Array.isArray(cards) || cards.length === 0) return;
 
   /* ===============================
@@ -11,6 +18,8 @@ document.addEventListener("DOMContentLoaded", () => {
      =============================== */
   const BACK_IMAGE =
     "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp";
+  const REVERSED_RATE = 0.5;
+  const POSITIONS = ["past", "present", "future"];
 
   /* ===============================
      ELEMENTS
@@ -29,22 +38,73 @@ document.addEventListener("DOMContentLoaded", () => {
   if (slots.length !== 3) return;
 
   /* ===============================
-     STATE
+     HELPERS: decode double-stringify
      =============================== */
-  let remainingIndexes = cards.map((_, i) => i);
-  let selectedCards = [];
+  function unwrapQuotedString(v) {
+    if (typeof v !== "string") return v;
+    // Trường hợp v = '"https://..."' hoặc '"Ace..."'
+    const s = v.trim();
+    if (s.length >= 2 && s[0] === '"' && s[s.length - 1] === '"') {
+      return s.slice(1, -1);
+    }
+    return s;
+  }
 
-  /* ===============================
-     HELPERS
-     =============================== */
-  function randomIndex() {
+  function parseMaybeJSON(v) {
+    if (v == null) return v;
+
+    if (typeof v === "string") {
+      let s = v.trim();
+
+      // nếu là string có bọc ngoặc kép kiểu '"...""'
+      s = unwrapQuotedString(s);
+
+      // nếu trông giống JSON (array/object) thì parse
+      if ((s.startsWith("{") && s.endsWith("}")) || (s.startsWith("[") && s.endsWith("]"))) {
+        try {
+          return JSON.parse(s);
+        } catch (_) {
+          return s;
+        }
+      }
+      return s;
+    }
+
+    return v;
+  }
+
+  function normalizeCard(raw) {
+    const card = { ...raw };
+
+    // fix các field bị stringify 2 lần
+    card.title = unwrapQuotedString(parseMaybeJSON(card.title));
+    card.slug = unwrapQuotedString(parseMaybeJSON(card.slug));
+    card.image = unwrapQuotedString(parseMaybeJSON(card.image));
+    card.summary = unwrapQuotedString(parseMaybeJSON(card.summary));
+
+    card.emotion = parseMaybeJSON(card.emotion);
+    card.guidance = parseMaybeJSON(card.guidance);
+    card.reading = parseMaybeJSON(card.reading);
+
+    return card;
+  }
+
+  // normalize toàn bộ data 1 lần
+  cards = cards.map(normalizeCard);
+
+  function randomIndex(remainingIndexes) {
     const r = Math.floor(Math.random() * remainingIndexes.length);
     return remainingIndexes.splice(r, 1)[0];
   }
 
-  function createFlipCard(frontSrc) {
+  function randomReversed() {
+    return Math.random() < REVERSED_RATE;
+  }
+
+  function createFlipCard(frontSrc, isReversed = false) {
     const wrapper = document.createElement("div");
     wrapper.className = "tarot-card";
+    if (isReversed) wrapper.classList.add("is-reversed");
 
     const back = document.createElement("div");
     back.className = "tarot-face back";
@@ -59,13 +119,40 @@ document.addEventListener("DOMContentLoaded", () => {
     return wrapper;
   }
 
+  function toText(v) {
+    // emotion/guidance có thể là array → join cho đẹp
+    if (Array.isArray(v)) return v.join(", ");
+    if (v == null) return "";
+    return String(v);
+  }
+
+  function pickReading(card, isReversed, position, fallbackKey) {
+    // reading có thể là object chuẩn {past:{upright,reversed},...}
+    const reading = card?.reading;
+
+    const block = reading?.[position];
+    if (block && typeof block === "object") {
+      const txt = isReversed
+        ? block.reversed || block.upright || ""
+        : block.upright || block.reversed || "";
+      if (txt) return String(txt).trim();
+    }
+
+    // fallback
+    const fb = card?.[fallbackKey] ?? card?.summary ?? "";
+    return toText(fb).trim();
+  }
+
   /* ===============================
-     INIT SLOTS (3 LÁ ÚP)
+     STATE
      =============================== */
+  let remainingIndexes = cards.map((_, i) => i);
+  let selectedCards = [];
+
+  // init
   slots.forEach((slot) => {
     slot.innerHTML = "";
-    const flip = createFlipCard(BACK_IMAGE);
-    slot.appendChild(flip);
+    slot.appendChild(createFlipCard(BACK_IMAGE));
   });
 
   /* ===============================
@@ -74,22 +161,24 @@ document.addEventListener("DOMContentLoaded", () => {
   slots.forEach((slot, slotIndex) => {
     slot.addEventListener("click", () => {
       if (selectedCards[slotIndex]) return;
-      if (remainingIndexes.length === 0) return;
+      if (!remainingIndexes.length) return;
 
-      const index = randomIndex();
-      const cardData = cards[index];
+      const idx = randomIndex(remainingIndexes);
+      const raw = cards[idx];
+      const isReversed = randomReversed();
+
+      const cardData = { ...raw, isReversed };
       selectedCards[slotIndex] = cardData;
 
-      const flip = slot.querySelector(".tarot-card");
-      const frontImg = flip.querySelector(".tarot-face.front img");
+      const frontSrc = (cardData.image && String(cardData.image).trim())
+        ? String(cardData.image).trim()
+        : BACK_IMAGE;
 
-      frontImg.src =
-        cardData.image && cardData.image.trim()
-          ? cardData.image
-          : BACK_IMAGE;
+      slot.innerHTML = "";
+      slot.appendChild(createFlipCard(frontSrc, isReversed));
 
       requestAnimationFrame(() => {
-        flip.classList.add("is-flipped");
+        slot.querySelector(".tarot-card")?.classList.add("is-flipped");
       });
 
       if (selectedCards.filter(Boolean).length === 3) {
@@ -102,26 +191,38 @@ document.addEventListener("DOMContentLoaded", () => {
      REVEAL READING
      =============================== */
   revealBtn.addEventListener("click", () => {
-    if (selectedCards.length !== 3) return;
+    if (selectedCards.filter(Boolean).length !== 3) return;
 
-    overlay && (overlay.hidden = false);
+    if (overlay) overlay.hidden = false;
 
     setTimeout(() => {
       document.body.classList.remove("tarot-before");
       document.body.classList.add("tarot-after");
       panel?.classList.add("is-active");
 
-      reading1.textContent =
-        selectedCards[0].summary || selectedCards[0].guidance || "";
+      reading1.textContent = pickReading(
+        selectedCards[0],
+        selectedCards[0].isReversed,
+        POSITIONS[0],
+        "summary"
+      );
 
-      reading2.textContent =
-        selectedCards[1].summary || selectedCards[1].emotion || "";
+      reading2.textContent = pickReading(
+        selectedCards[1],
+        selectedCards[1].isReversed,
+        POSITIONS[1],
+        "emotion"
+      );
 
-      reading3.textContent =
-        selectedCards[2].guidance || selectedCards[2].summary || "";
+      reading3.textContent = pickReading(
+        selectedCards[2],
+        selectedCards[2].isReversed,
+        POSITIONS[2],
+        "guidance"
+      );
 
       readingBox.hidden = false;
-      overlay.hidden = true;
+      if (overlay) overlay.hidden = true;
 
       readingBox.scrollIntoView({ behavior: "smooth", block: "start" });
     }, 1200);

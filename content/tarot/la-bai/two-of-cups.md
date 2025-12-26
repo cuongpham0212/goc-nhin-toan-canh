@@ -28,6 +28,47 @@ guidance:
   - nuôi dưỡng mối quan hệ
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/two-of-cups.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Two of Cups cho thấy đã từng tồn tại
+      một mối liên kết chân thành và cân bằng.
+      Đó có thể là tình yêu, sự đồng cảm,
+      hoặc một mối quan hệ mà hai bên thực sự nhìn thấy nhau.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh một mối quan hệ
+      từng thiếu sự tương xứng hoặc bị lệch nhịp cảm xúc.
+      Có thể bạn đã cho đi nhiều hơn nhận lại,
+      hoặc từng thất vọng vì sự không rõ ràng từ đối phương.
+
+  present:
+    upright: >
+      Ở hiện tại, Two of Cups cho thấy bạn đang đứng trước
+      cơ hội kết nối dựa trên sự tôn trọng và cảm xúc tương hỗ.
+      Đây là thời điểm thuận lợi để xây dựng mối quan hệ
+      từ sự chân thành thay vì kỳ vọng.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy sự mất cân bằng
+      trong kết nối hiện tại.
+      Có thể hai người đang không nói cùng một ngôn ngữ cảm xúc,
+      hoặc bạn đang nghi ngờ liệu mối quan hệ này
+      có thực sự đáp lại nhu cầu bên trong mình hay không.
+
+  future:
+    upright: >
+      Về hướng đi, Two of Cups gợi ý rằng
+      một sự kết nối hài hòa có thể hình thành hoặc được hàn gắn,
+      miễn là cả hai sẵn sàng gặp nhau ở sự chân thật.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài khuyên bạn cần nhìn rõ
+      đâu là mối quan hệ nên tiếp tục,
+      đâu là nơi bạn đang cố níu giữ
+      chỉ vì sợ cảm giác một mình.
+
 ---
 
 ## Tổng quan về lá Two of Cups

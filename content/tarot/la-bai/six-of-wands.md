@@ -28,6 +28,60 @@ guidance:
   - giữ khiêm tốn để đi tiếp đường dài
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/six-of-wands.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Six of Wands cho thấy
+      bạn từng được ghi nhận
+      sau khi vượt qua thử thách.
+      Dù chiến thắng đó
+      có thể nhỏ,
+      nó đã củng cố
+      niềm tin vào khả năng của bạn.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một lần bạn đạt kết quả
+      nhưng không được công nhận xứng đáng.
+      Điều này có thể khiến bạn
+      hoài nghi giá trị bản thân.
+
+  present:
+    upright: >
+      Ở hiện tại, Six of Wands cho thấy
+      nỗ lực của bạn
+      đang được nhìn thấy.
+      Đây là thời điểm
+      bạn có thể tự tin bước lên,
+      đón nhận sự công nhận
+      và lan tỏa cảm hứng cho người khác.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang phụ thuộc
+      quá nhiều vào sự tán dương bên ngoài.
+      Lá bài nhắc rằng
+      sự công nhận thật sự
+      bắt đầu từ bên trong.
+
+  future:
+    upright: >
+      Về hướng đi, Six of Wands gợi ý rằng
+      thành quả sẽ đến
+      khi bạn tiếp tục giữ vững niềm tin
+      và dẫn dắt bằng hành động.
+      Sự công nhận là hệ quả,
+      không phải mục tiêu duy nhất.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu chỉ chạy theo danh tiếng,
+      bạn có thể mất đi
+      động lực ban đầu.
+      Hãy quay về
+      với lý do khiến bạn bắt đầu.
+
 ---
 
 ## Tổng quan về lá Six of Wands

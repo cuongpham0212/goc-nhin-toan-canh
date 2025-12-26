@@ -28,6 +28,56 @@ guidance:
   - dùng nỗi đau để thức tỉnh thay vì tự hủy
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/three-of-swords.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Three of Swords cho thấy
+      bạn từng trải qua một nỗi đau rõ ràng:
+      bị phản bội, hiểu lầm, chia ly
+      hoặc sự thật khiến tim bạn tổn thương.
+      Đây là vết cắt sâu,
+      nhưng cũng là khoảnh khắc
+      bạn không còn tự lừa dối mình.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một nỗi đau từng bị kìm nén hoặc né tránh.
+      Có thể bạn đã cố quên đi,
+      nhưng cảm xúc chưa được xử lý
+      vẫn còn âm ỉ bên trong.
+
+  present:
+    upright: >
+      Ở hiện tại, Three of Swords cho thấy
+      bạn đang đối diện với sự thật khó chịu.
+      Dù đau, lá bài nhắc rằng
+      việc nhìn thẳng vào cảm xúc
+      là bước đầu tiên để chữa lành.
+      Phủ nhận chỉ khiến vết thương sâu hơn.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang bắt đầu quá trình chữa lành.
+      Nỗi đau không còn sắc bén như trước,
+      và bạn dần cho phép mình
+      buông bỏ oán trách hoặc tự trách.
+
+  future:
+    upright: >
+      Về hướng đi, Three of Swords gợi ý rằng
+      nỗi đau này không vô nghĩa.
+      Khi bạn chấp nhận cảm xúc
+      thay vì chống lại nó,
+      bạn sẽ học được bài học quan trọng
+      về sự thật và ranh giới.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      vết thương đang có cơ hội lành lại.
+      Tha thứ – cho người khác hoặc cho chính mình –
+      sẽ mở ra giai đoạn nhẹ lòng hơn.
+
 ---
 
 ## Tổng quan về lá Three of Swords

@@ -28,6 +28,59 @@ guidance:
   - không bỏ cuộc chỉ vì áp lực tăng lên
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/seven-of-wands.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Seven of Wands cho thấy
+      bạn từng phải bảo vệ vị trí của mình
+      trước sự cạnh tranh hoặc hoài nghi.
+      Dù áp lực lớn,
+      bạn đã học cách đứng vững
+      và không lùi bước trước thử thách.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng cảm thấy
+      quá tải vì phải liên tục chứng minh.
+      Việc buông bỏ một cuộc chiến
+      khi đó giúp bạn giữ lại năng lượng.
+
+  present:
+    upright: >
+      Ở hiện tại, Seven of Wands cho thấy
+      bạn đang ở thế phòng thủ chủ động.
+      Lá bài nhắc rằng
+      không phải ai cũng hiểu con đường của bạn,
+      nhưng bạn có quyền bảo vệ
+      những gì mình đã xây dựng.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang nghi ngờ
+      chính lập trường của mình.
+      Áp lực bên ngoài
+      dễ khiến bạn chùn bước
+      nếu thiếu niềm tin nội tại.
+
+  future:
+    upright: >
+      Về hướng đi, Seven of Wands gợi ý rằng
+      bạn sẽ tiếp tục phải đối mặt
+      với sự thử thách.
+      Khi bạn giữ vững niềm tin,
+      vị trí của bạn
+      sẽ ngày càng được củng cố.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu tiếp tục phòng thủ quá mức,
+      bạn có thể bỏ lỡ
+      cơ hội phát triển.
+      Đôi khi,
+      việc chọn buông
+      cũng là một chiến lược.
+
 ---
 
 ## Tổng quan về lá Seven of Wands

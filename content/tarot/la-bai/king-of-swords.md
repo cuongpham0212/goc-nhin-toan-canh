@@ -28,6 +28,62 @@ guidance:
   - dùng trí tuệ để dẫn dắt thay vì áp đặt
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/king-of-swords.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, King of Swords cho thấy
+      bạn từng phải đưa ra
+      những quyết định khó khăn
+      dựa trên lý trí hơn là cảm xúc.
+      Những trải nghiệm này
+      đã rèn cho bạn khả năng
+      nhìn vấn đề một cách khách quan.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng sử dụng
+      lý trí như vũ khí:
+      quá lạnh lùng, phán xét
+      hoặc cắt bỏ cảm xúc cần thiết.
+      Điều này có thể gây tổn thương
+      trong các mối quan hệ.
+
+  present:
+    upright: >
+      Ở hiện tại, King of Swords cho thấy
+      bạn đang ở vị trí cần sự minh bạch.
+      Đây là lúc nói sự thật,
+      đặt ranh giới rõ ràng
+      và ra quyết định dựa trên logic.
+      Sự rõ ràng của bạn
+      sẽ dẫn dắt người khác.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang rối trí
+      hoặc bị chi phối bởi định kiến.
+      Lá bài nhắc bạn cần tạm dừng,
+      kiểm tra lại thông tin
+      trước khi đưa ra phán xét.
+
+  future:
+    upright: >
+      Về hướng đi, King of Swords gợi ý rằng
+      trí tuệ và sự công tâm
+      sẽ giúp bạn vượt qua
+      những tình huống phức tạp.
+      Khi bạn giữ được đầu óc tỉnh táo,
+      quyết định của bạn sẽ mang tính dẫn đường.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu tiếp tục né tránh sự thật
+      hoặc sử dụng quyền lực trí tuệ sai cách,
+      mâu thuẫn có thể leo thang.
+      Sự minh bạch và trách nhiệm lời nói
+      là điều cần thiết để tiến lên.
+
 ---
 
 ## Tổng quan về lá King of Swords

@@ -28,6 +28,55 @@ guidance:
   - biến ý tưởng thành hành động cụ thể
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/page-of-pentacles.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Page of Pentacles cho thấy
+      bạn từng bắt đầu một hành trình mới
+      với tâm thế học hỏi nghiêm túc.
+      Dù còn non kinh nghiệm,
+      bạn đã sẵn sàng đầu tư thời gian
+      để xây nền tảng vững chắc.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn thiếu tập trung
+      hoặc chưa thật sự cam kết với việc học hỏi.
+      Những khởi đầu dang dở
+      có thể đã khiến bạn mất phương hướng.
+
+  present:
+    upright: >
+      Ở hiện tại, Page of Pentacles cho thấy
+      bạn đang đứng trước cơ hội học một kỹ năng,
+      bắt đầu một công việc
+      hoặc xây dựng giá trị mới.
+      Đây là lúc phù hợp để đặt câu hỏi,
+      học từ căn bản và kiên nhẫn tiến từng bước.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang trì hoãn việc bắt đầu
+      vì sợ mình chưa đủ giỏi.
+      Lá bài nhắc rằng
+      mọi nền tảng đều bắt đầu từ sự vụng về.
+
+  future:
+    upright: >
+      Về hướng đi, Page of Pentacles gợi ý rằng
+      sự tiến bộ sẽ đến nếu bạn giữ được
+      tinh thần ham học và kỷ luật.
+      Những gì bạn đang gieo hôm nay
+      sẽ trở thành giá trị thực tế trong tương lai.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu thiếu kiên trì hoặc định hướng rõ ràng,
+      bạn có thể bỏ lỡ cơ hội phát triển dài hạn.
+      Việc cam kết với con đường đã chọn
+      là điều cần thiết.
+
 ---
 
 ## Tổng quan về lá Page of Pentacles

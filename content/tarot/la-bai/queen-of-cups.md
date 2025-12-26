@@ -28,6 +28,60 @@ guidance:
   - giữ ranh giới cảm xúc lành mạnh
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/queen-of-cups.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Queen of Cups cho thấy
+      bạn từng là người nhạy cảm,
+      giàu sự thấu cảm
+      hoặc đã học cách lắng nghe cảm xúc
+      của người khác rất sâu sắc.
+      Trải nghiệm này giúp bạn hiểu
+      rằng cảm xúc cần được tôn trọng.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng để cảm xúc
+      của người khác lấn át nhu cầu của mình.
+      Sự hy sinh cảm xúc kéo dài
+      có thể đã khiến bạn mệt mỏi.
+
+  present:
+    upright: >
+      Ở hiện tại, Queen of Cups cho thấy
+      bạn đang ở trạng thái
+      thấu hiểu và kết nối sâu với nội tâm.
+      Trực giác của bạn rất mạnh,
+      và bạn có khả năng tạo ra
+      không gian an toàn cho cảm xúc – của mình và người khác.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang bị quá tải cảm xúc.
+      Việc hấp thụ quá nhiều năng lượng
+      từ môi trường xung quanh
+      khiến bạn khó phân biệt
+      đâu là cảm xúc của mình,
+      đâu là của người khác.
+
+  future:
+    upright: >
+      Về hướng đi, Queen of Cups gợi ý rằng
+      con đường phía trước đòi hỏi
+      sự cân bằng giữa cho đi và giữ lại.
+      Khi bạn biết chăm sóc cảm xúc của mình
+      như cách bạn từng chăm sóc người khác,
+      sự bình an sẽ trở nên bền vững hơn.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      đã đến lúc thiết lập ranh giới cảm xúc.
+      Không phải mọi nỗi buồn
+      đều cần bạn gánh thay.
+      Việc giữ không gian cho chính mình
+      là điều cần thiết để không cạn kiệt.
+
 ---
 
 ## Tổng quan về lá Queen of Cups

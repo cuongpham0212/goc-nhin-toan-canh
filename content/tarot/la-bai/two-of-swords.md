@@ -28,6 +28,55 @@ guidance:
   - chấp nhận rằng không quyết cũng là một quyết định
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/two-of-swords.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Two of Swords cho thấy
+      bạn từng đứng giữa hai lựa chọn
+      mà không sẵn sàng quyết định.
+      Việc giữ cân bằng bằng cách không chọn
+      có thể đã giúp bạn tránh xung đột tạm thời,
+      nhưng cũng kéo dài sự bế tắc.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      thời điểm bạn buộc phải nhìn vào sự thật.
+      Một quyết định đã được đưa ra,
+      dù nó có thể gây khó chịu
+      hoặc phá vỡ trạng thái cân bằng cũ.
+
+  present:
+    upright: >
+      Ở hiện tại, Two of Swords cho thấy
+      bạn đang cố giữ cảm xúc ở ngoài
+      để không bị tổn thương.
+      Tuy nhiên, việc bịt mắt trước sự thật
+      chỉ khiến lựa chọn trở nên khó khăn hơn.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      sự bế tắc đang dần được tháo gỡ.
+      Bạn bắt đầu chấp nhận rằng
+      không lựa chọn cũng là một lựa chọn,
+      và đã đến lúc đối diện.
+
+  future:
+    upright: >
+      Về hướng đi, Two of Swords gợi ý rằng
+      bạn sẽ sớm phải đưa ra quyết định.
+      Việc cân nhắc kỹ lưỡng là cần thiết,
+      nhưng đừng để nỗi sợ xung đột
+      ngăn bạn tiến lên.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      khi bạn dám tháo bỏ lớp phòng vệ,
+      sự thật sẽ dẫn đường.
+      Quyết định được đưa ra
+      có thể khó khăn,
+      nhưng sẽ mang lại sự nhẹ nhõm lâu dài.
+
 ---
 
 ## Tổng quan về lá Two of Swords

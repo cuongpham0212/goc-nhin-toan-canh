@@ -28,6 +28,57 @@ guidance:
   - tập trung vào chất lượng hơn tốc độ
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/eight-of-pentacles.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Eight of Pentacles cho thấy
+      bạn từng dành nhiều thời gian
+      để học hỏi và trau dồi kỹ năng.
+      Sự tập trung và kỷ luật
+      đã giúp bạn xây dựng năng lực
+      một cách vững chắc.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng làm việc
+      thiếu tập trung hoặc theo thói quen.
+      Việc lặp lại mà không cải thiện
+      có thể khiến bạn chán nản.
+
+  present:
+    upright: >
+      Ở hiện tại, Eight of Pentacles cho thấy
+      bạn đang ở trạng thái làm việc nghiêm túc
+      và chú tâm vào việc hoàn thiện tay nghề.
+      Những bước tiến nhỏ mỗi ngày
+      đang góp phần tạo nên giá trị lớn.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang cảm thấy
+      bị mắc kẹt trong sự đơn điệu.
+      Lá bài nhắc bạn cần xem lại
+      liệu mình đang học hỏi và tiến bộ,
+      hay chỉ đang làm cho xong việc.
+
+  future:
+    upright: >
+      Về hướng đi, Eight of Pentacles gợi ý rằng
+      sự thành thạo và ổn định
+      sẽ đến thông qua kỷ luật bền bỉ.
+      Khi bạn tiếp tục rèn nghề,
+      giá trị bạn tạo ra
+      sẽ được công nhận theo thời gian.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu thiếu mục tiêu rõ ràng,
+      sự chăm chỉ có thể trở thành lãng phí.
+      Việc nâng cấp kỹ năng
+      và làm mới cách tiếp cận
+      sẽ giúp bạn tiến xa hơn.
+
 ---
 
 ## Tổng quan về lá Eight of Pentacles

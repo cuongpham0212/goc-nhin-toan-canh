@@ -28,6 +28,57 @@ guidance:
   - giữ sự công bằng trong trao đổi
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/six-of-pentacles.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Six of Pentacles cho thấy
+      đã từng có sự hỗ trợ, sẻ chia
+      hoặc một bài học về cho và nhận.
+      Bạn có thể từng được giúp đúng lúc,
+      hoặc từng là người nâng đỡ người khác
+      khi họ khó khăn.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một trải nghiệm mất cân bằng:
+      cho đi quá nhiều, nhận quá ít,
+      hoặc nhận sự giúp đỡ kèm điều kiện.
+      Điều này có thể làm bạn dè dặt
+      khi đặt niềm tin vào sự sẻ chia.
+
+  present:
+    upright: >
+      Ở hiện tại, Six of Pentacles cho thấy
+      bạn đang bước vào giai đoạn cần cân bằng:
+      biết nhận khi cần, biết cho khi có thể.
+      Đây là lúc phù hợp để đàm phán,
+      điều chỉnh sự công bằng,
+      hoặc mở lòng với sự hỗ trợ lành mạnh.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      sự trao đổi đang lệch:
+      bạn có thể đang bị phụ thuộc,
+      hoặc đang cho đi để đổi lấy sự công nhận.
+      Lá bài nhắc bạn nhìn lại
+      động cơ và ranh giới của mình.
+
+  future:
+    upright: >
+      Về hướng đi, Six of Pentacles gợi ý rằng
+      khi bạn giữ được sự cân bằng giữa cho và nhận,
+      bạn sẽ xây lại được cảm giác đủ đầy.
+      Sự ổn định không chỉ đến từ tiền bạc,
+      mà còn từ các mối quan hệ có tính nâng đỡ.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu tiếp tục duy trì sự mất cân bằng,
+      bạn sẽ dễ kiệt sức hoặc hụt hẫng.
+      Hãy học cách nói “đủ”,
+      và chọn sự công bằng thay vì gồng gánh.
+
 ---
 
 ## Tổng quan về lá Six of Pentacles

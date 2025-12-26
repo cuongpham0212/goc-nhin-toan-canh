@@ -28,6 +28,58 @@ guidance:
   - nói và sống đúng với nhận thức của mình
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/ace-of-swords.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Ace of Swords cho thấy
+      đã từng có một khoảnh khắc bạn “nhìn ra” sự thật.
+      Có thể đó là lúc bạn nhận ra
+      điều gì đúng – điều gì sai,
+      hoặc dám đối diện với một sự thật
+      mà trước đây bạn né tránh.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng bị che mờ nhận thức:
+      hiểu lầm, thông tin sai lệch
+      hoặc tự dối mình để tránh đối diện.
+      Điều này khiến quyết định khi đó
+      thiếu sự rõ ràng.
+
+  present:
+    upright: >
+      Ở hiện tại, Ace of Swords cho thấy
+      bạn đang bước vào giai đoạn tỉnh táo hơn.
+      Đây là lúc phù hợp để nói thật,
+      nghĩ thẳng và cắt bỏ điều không còn đúng.
+      Sự rõ ràng trong tư duy
+      chính là sức mạnh lớn nhất của bạn lúc này.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      đầu óc bạn có thể đang rối
+      vì quá nhiều luồng suy nghĩ trái chiều.
+      Lá bài nhắc bạn cần tạm dừng,
+      lọc thông tin
+      trước khi đưa ra kết luận.
+
+  future:
+    upright: >
+      Về hướng đi, Ace of Swords gợi ý rằng
+      sự thật sẽ được phơi bày.
+      Khi bạn dám nhìn thẳng
+      và gọi tên vấn đề,
+      con đường phía trước
+      sẽ trở nên rõ ràng hơn.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu tiếp tục né tránh sự thật
+      hoặc dùng lý trí để tự biện hộ,
+      mâu thuẫn sẽ kéo dài.
+      Sự minh bạch là điều không thể trì hoãn.
+
 ---
 
 ## Tổng quan về lá Ace of Swords

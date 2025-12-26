@@ -28,6 +28,59 @@ guidance:
   - chữa lành trước khi tiếp tục
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/four-of-swords.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Four of Swords cho thấy
+      đã có lúc bạn buộc phải dừng lại
+      sau một giai đoạn căng thẳng tinh thần.
+      Khoảng nghỉ này giúp bạn
+      tránh kiệt sức và sụp đổ hoàn toàn.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một thời điểm bạn từng không cho phép
+      mình nghỉ ngơi.
+      Việc tiếp tục gồng gánh
+      có thể đã khiến tinh thần
+      mệt mỏi kéo dài.
+
+  present:
+    upright: >
+      Ở hiện tại, Four of Swords cho thấy
+      bạn cần sự tĩnh lặng.
+      Đây không phải là trốn tránh,
+      mà là nghỉ ngơi có ý thức
+      để phục hồi tâm trí.
+      Im lặng lúc này là chữa lành.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang quá tải
+      nhưng vẫn chưa chịu dừng lại.
+      Lá bài cảnh báo rằng
+      nếu không nghỉ ngơi kịp thời,
+      cơ thể và tinh thần sẽ lên tiếng mạnh hơn.
+
+  future:
+    upright: >
+      Về hướng đi, Four of Swords gợi ý rằng
+      sau khi nghỉ đủ,
+      bạn sẽ quay lại với sự tỉnh táo
+      và sáng suốt hơn.
+      Sự hồi phục này
+      giúp bạn chuẩn bị
+      cho quyết định tiếp theo.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      việc trì hoãn nghỉ ngơi
+      sẽ làm chậm quá trình hồi phục.
+      Cho phép bản thân dừng lại
+      là điều cần thiết,
+      không phải yếu đuối.
+
 ---
 
 ## Tổng quan về lá Four of Swords

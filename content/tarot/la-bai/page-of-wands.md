@@ -28,6 +28,60 @@ guidance:
   - đi theo điều khiến bạn thấy sống lại
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/page-of-wands.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Page of Wands cho thấy
+      bạn từng cảm thấy tò mò và háo hức
+      trước một ý tưởng hay hướng đi mới.
+      Dù chưa rõ mình sẽ đi đến đâu,
+      bạn đã sẵn sàng thử
+      và học từ trải nghiệm.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng thiếu tự tin
+      hoặc sợ bị đánh giá khi bắt đầu điều mới.
+      Sự do dự đã khiến
+      ngọn lửa khám phá
+      chưa kịp bùng lên.
+
+  present:
+    upright: >
+      Ở hiện tại, Page of Wands cho thấy
+      bạn đang trong tâm thế khám phá.
+      Có cảm hứng,
+      có mong muốn trải nghiệm,
+      và sẵn sàng bước ra
+      khỏi vùng quen thuộc.
+      Đây là lúc thử nghiệm,
+      không cần hoàn hảo.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang phân tán năng lượng
+      vì quá nhiều ý tưởng.
+      Lá bài nhắc bạn
+      cần chọn một hướng
+      để ngọn lửa không tắt giữa chừng.
+
+  future:
+    upright: >
+      Về hướng đi, Page of Wands gợi ý rằng
+      sự dấn thân sẽ mang lại
+      trải nghiệm quý giá.
+      Khi bạn giữ được tinh thần học hỏi,
+      lửa sẽ lớn dần theo thời gian.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu chỉ dừng ở tò mò
+      mà không hành động,
+      cảm hứng sẽ nhanh nguội.
+      Một bước nhỏ
+      là điều cần thiết.
+
 ---
 
 ## Tổng quan về lá Page of Wands

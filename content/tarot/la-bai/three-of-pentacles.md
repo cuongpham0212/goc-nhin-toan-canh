@@ -28,6 +28,53 @@ guidance:
   - xây dựng trên nền tảng chung
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/three-of-pentacles.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Three of Pentacles cho thấy
+      bạn từng tham gia vào một quá trình xây dựng
+      có sự hợp tác và học hỏi lẫn nhau.
+      Đó có thể là công việc, dự án hoặc môi trường
+      nơi nỗ lực cá nhân của bạn được công nhận.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn thiếu sự phối hợp.
+      Có thể bạn đã làm việc trong môi trường
+      không đánh giá đúng đóng góp của bạn,
+      hoặc gặp khó khăn khi làm việc nhóm.
+
+  present:
+    upright: >
+      Ở hiện tại, Three of Pentacles cho thấy
+      bạn đang ở vị trí học hỏi và phát triển.
+      Việc chia sẻ kiến thức, nhận phản hồi
+      và hợp tác đúng người
+      sẽ giúp bạn xây dựng nền tảng vững chắc hơn.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      sự thiếu đồng bộ trong quá trình làm việc.
+      Có thể bạn đang cố gắng tự làm mọi thứ
+      hoặc chưa tìm được tiếng nói chung
+      với những người liên quan.
+
+  future:
+    upright: >
+      Về hướng đi, Three of Pentacles gợi ý rằng
+      thành công sẽ đến thông qua sự phối hợp
+      và tôn trọng chuyên môn của nhau.
+      Khi bạn xây dựng cùng người phù hợp,
+      kết quả sẽ bền vững hơn.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu thiếu giao tiếp và hợp tác,
+      quá trình xây dựng có thể bị chậm lại.
+      Việc điều chỉnh cách làm việc chung
+      là điều cần thiết.
+
 ---
 
 ## Tổng quan về lá Three of Pentacles

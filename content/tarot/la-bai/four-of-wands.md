@@ -28,6 +28,62 @@ guidance:
   - cho phép mình nghỉ và ăn mừng
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/four-of-wands.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Four of Wands cho thấy
+      bạn từng đạt được
+      một cột mốc ổn định:
+      hoàn thành giai đoạn đầu,
+      có chỗ đứng,
+      hoặc cảm nhận được
+      sự công nhận từ môi trường xung quanh.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn nền tảng
+      chưa thật sự vững.
+      Có thể bạn từng ăn mừng quá sớm
+      hoặc xây dựng trên cơ sở
+      chưa đủ chắc chắn.
+
+  present:
+    upright: >
+      Ở hiện tại, Four of Wands cho thấy
+      bạn đang có một nền tảng an toàn
+      để tiếp tục phát triển.
+      Đây là lúc tạm dừng,
+      nhìn lại thành quả,
+      và cho phép mình
+      cảm nhận niềm vui chính đáng.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang thiếu cảm giác ổn định
+      dù đã đi được một đoạn.
+      Lá bài nhắc rằng
+      nền móng cần được củng cố,
+      không chỉ dựa vào cảm xúc hưng phấn.
+
+  future:
+    upright: >
+      Về hướng đi, Four of Wands gợi ý rằng
+      sự ổn định sẽ tiếp tục hình thành
+      khi bạn biết giữ nhịp
+      và xây dựng từng bước.
+      Đây là điểm tựa
+      cho những hành động lớn hơn sau này.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu bỏ qua việc xây nền,
+      hành trình phía trước
+      có thể thiếu chỗ dựa.
+      Việc quay lại
+      để củng cố căn bản
+      là điều cần thiết.
+
 ---
 
 ## Tổng quan về lá Four of Wands

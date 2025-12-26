@@ -29,6 +29,68 @@ guidance:
   - dám bắt đầu mà không ngây thơ
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/the-fool.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, The Fool cho thấy
+      bạn từng bắt đầu một hành trình
+      với tâm thế rất trong trẻo.
+      Ít toan tính,
+      ít sợ hãi,
+      bạn dám bước
+      dù chưa biết kết quả sẽ ra sao.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một lần bạn từng hành động
+      quá vội vàng
+      hoặc thiếu chuẩn bị.
+      Sự ngây thơ khi đó
+      khiến bạn học bài học
+      bằng trải nghiệm đau.
+
+  present:
+    upright: >
+      Ở hiện tại, The Fool cho thấy
+      bạn đang đứng trước
+      một khởi đầu mới.
+      Lá bài nhắc rằng
+      không phải mọi thứ
+      đều cần chắc chắn
+      trước khi bắt đầu.
+      Tin tưởng và bước đi
+      là điều cần thiết lúc này.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang sợ sai
+      hoặc quá thận trọng.
+      Lá bài nhắc rằng
+      né tránh rủi ro hoàn toàn
+      cũng là một cách
+      bỏ lỡ cuộc sống.
+
+  future:
+    upright: >
+      Về hướng đi, The Fool gợi ý rằng
+      khi bạn dám mở lòng
+      với điều chưa biết,
+      cuộc sống sẽ dẫn bạn
+      đến những trải nghiệm
+      vượt ngoài dự đoán.
+      Hành trình bắt đầu
+      từ niềm tin.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu bước đi
+      mà thiếu ý thức,
+      bạn sẽ dễ lặp lại
+      bài học cũ.
+      Tự do cần đi cùng
+      với nhận thức.
+
 ---
 
 ## Tổng quan về lá The Fool

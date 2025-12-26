@@ -29,6 +29,59 @@ guidance:
   - đi chậm để lành sâu
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/temperance.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Temperance cho thấy
+      bạn từng học cách làm dịu
+      những xung đột nội tâm.
+      Sau biến động,
+      bạn bắt đầu tìm kiếm sự cân bằng
+      thay vì cực đoan hay đối đầu.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng mất cân bằng,
+      dễ dao động giữa các thái cực.
+      Việc thiếu kiên nhẫn
+      khiến quá trình chữa lành bị gián đoạn.
+
+  present:
+    upright: >
+      Ở hiện tại, Temperance cho thấy
+      bạn đang trong quá trình điều hòa.
+      Lá bài nhắc rằng
+      chữa lành không phải là xóa bỏ vết thương,
+      mà là học cách sống hài hòa
+      với những gì đã xảy ra.
+      Mọi thứ đang dần vào nhịp.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang cố ép mình “ổn”
+      quá sớm.
+      Lá bài nhắc rằng
+      chữa lành cần thời gian
+      và sự thành thật với cảm xúc.
+
+  future:
+    upright: >
+      Về hướng đi, Temperance gợi ý rằng
+      khi bạn tiếp tục giữ nhịp sống điều độ,
+      sự bình an sẽ lan tỏa
+      sang các khía cạnh khác.
+      Sự hòa hợp bên trong
+      tạo nền cho ổn định lâu dài.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu bỏ qua tín hiệu mất cân bằng,
+      những mâu thuẫn nhỏ
+      có thể tích tụ.
+      Điều chỉnh sớm
+      giúp tránh lệch nhịp về sau.
+
 ---
 
 ## Tổng quan về lá Temperance

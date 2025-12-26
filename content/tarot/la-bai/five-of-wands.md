@@ -28,6 +28,60 @@ guidance:
   - biến xung đột thành động lực phát triển
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/five-of-wands.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Five of Wands cho thấy
+      bạn từng ở trong môi trường
+      nhiều cạnh tranh hoặc ý kiến trái chiều.
+      Những va chạm này
+      buộc bạn phải học cách
+      khẳng định bản thân và giữ lập trường.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng né tránh xung đột
+      hoặc cảm thấy mệt mỏi
+      vì cạnh tranh không cần thiết.
+      Việc rút lui khi đó
+      giúp bạn bảo toàn năng lượng.
+
+  present:
+    upright: >
+      Ở hiện tại, Five of Wands cho thấy
+      bạn đang phải đối mặt
+      với sự so sánh hoặc tranh giành.
+      Lá bài nhắc rằng
+      không phải cuộc cạnh tranh nào
+      cũng nhằm hạ bệ,
+      đôi khi nó giúp bạn
+      nhận ra sức mạnh của mình.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang tìm cách
+      thoát khỏi vòng xoáy hơn thua.
+      Đây là lúc chọn lọc
+      những cuộc đấu
+      thật sự xứng đáng.
+
+  future:
+    upright: >
+      Về hướng đi, Five of Wands gợi ý rằng
+      cạnh tranh sẽ tiếp tục xuất hiện,
+      nhưng đó là cơ hội để bạn
+      mài sắc kỹ năng và bản lĩnh.
+      Ai đứng vững
+      sẽ tiến lên mạnh mẽ hơn.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      khi bạn không còn cần
+      chứng minh giá trị,
+      nhiều xung đột
+      sẽ tự động tan biến.
+
 ---
 
 ## Tổng quan về lá Five of Wands

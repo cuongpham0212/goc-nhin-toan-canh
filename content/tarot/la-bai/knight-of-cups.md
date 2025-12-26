@@ -28,6 +28,56 @@ guidance:
   - cân bằng giữa mơ mộng và thực tế
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/knight-of-cups.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Knight of Cups cho thấy
+      bạn từng hành động dựa trên cảm xúc và lý tưởng.
+      Có thể bạn đã theo đuổi tình yêu,
+      ước mơ hoặc một điều gì đó rất đẹp,
+      dù biết rằng nó không hoàn toàn chắc chắn.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng mơ mộng quá nhiều
+      mà thiếu sự neo giữ thực tế.
+      Những kỳ vọng cảm xúc không được đáp lại
+      có thể đã khiến bạn thất vọng.
+
+  present:
+    upright: >
+      Ở hiện tại, Knight of Cups cho thấy
+      bạn đang được thôi thúc hành động
+      theo tiếng gọi của trái tim.
+      Đây là lúc cảm xúc trở thành động lực,
+      thúc đẩy bạn bày tỏ, theo đuổi
+      hoặc dấn thân vào một trải nghiệm ý nghĩa.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang do dự giữa mơ mộng và thực tế.
+      Bạn sợ rằng nếu tin vào cảm xúc,
+      mình sẽ lại thất vọng,
+      nên lựa chọn đứng yên hoặc né tránh.
+
+  future:
+    upright: >
+      Về hướng đi, Knight of Cups gợi ý rằng
+      hành trình phía trước cần sự can đảm
+      để sống thật với cảm xúc.
+      Khi bạn hành động từ trái tim,
+      trải nghiệm có thể không hoàn hảo,
+      nhưng sẽ chân thật và đáng giá.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu tiếp tục theo đuổi lý tưởng
+      mà không có nền tảng vững chắc,
+      bạn có thể lặp lại vòng thất vọng cũ.
+      Sự cân bằng giữa mơ ước và thực tế
+      là điều cần được xem xét.
+
 ---
 
 ## Tổng quan về lá Knight of Cups

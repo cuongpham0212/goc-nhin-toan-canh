@@ -29,6 +29,60 @@ guidance:
   - sống đúng thay vì sống dễ
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/justice.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Justice cho thấy
+      bạn từng đối diện
+      với hậu quả của lựa chọn mình đã đưa ra.
+      Những trải nghiệm này
+      dạy bạn rằng
+      mọi hành động đều để lại dấu vết,
+      dù tốt hay xấu.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng cảm thấy
+      bất công hoặc không được đối xử đúng mực.
+      Có thể sự thật khi đó
+      chưa được nhìn nhận đầy đủ.
+
+  present:
+    upright: >
+      Ở hiện tại, Justice cho thấy
+      bạn đang được yêu cầu
+      nhìn sự việc một cách khách quan.
+      Đây là lúc nói thật,
+      minh bạch
+      và chịu trách nhiệm cho quyết định của mình.
+      Sự cân bằng sẽ được lập lại
+      khi bạn sống đúng.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang tự biện hộ
+      hoặc né tránh trách nhiệm.
+      Lá bài nhắc rằng
+      sự thật không biến mất
+      chỉ vì bạn không muốn nhìn.
+
+  future:
+    upright: >
+      Về hướng đi, Justice gợi ý rằng
+      khi bạn hành động chính trực,
+      kết quả sẽ phản ánh đúng nỗ lực của bạn.
+      Nhân quả vận hành
+      không nhanh hay chậm,
+      mà chính xác.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu tiếp tục sống lệch với giá trị thật,
+      sự mất cân bằng sẽ ngày càng rõ.
+      Việc điều chỉnh sớm
+      giúp tránh cái giá lớn hơn về sau.
+
 ---
 
 ## Tổng quan về lá Justice

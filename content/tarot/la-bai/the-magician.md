@@ -29,6 +29,62 @@ guidance:
   - bắt đầu tạo ra thay vì chờ đợi
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/the-magician.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, The Magician cho thấy
+      bạn từng nhận ra
+      sức mạnh nằm trong tay mình.
+      Khi bạn dám bắt đầu,
+      kỹ năng và nguồn lực
+      đã dần xuất hiện theo.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một lần bạn từng nghi ngờ
+      khả năng của bản thân
+      hoặc dùng năng lượng sai mục đích.
+      Thiếu tập trung
+      làm sức mạnh bị phân tán.
+
+  present:
+    upright: >
+      Ở hiện tại, The Magician cho thấy
+      bạn đang ở vị trí khởi tạo.
+      Ý tưởng đã có,
+      công cụ sẵn sàng,
+      và trách nhiệm thuộc về bạn.
+      Lá bài nhắc rằng
+      hành động nhỏ, đúng lúc
+      tạo ra khác biệt lớn.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang trì hoãn
+      hoặc thiếu niềm tin
+      vào năng lực của mình.
+      Lá bài nhắc rằng
+      sức mạnh chỉ hiện ra
+      khi bạn bắt đầu dùng nó.
+
+  future:
+    upright: >
+      Về hướng đi, The Magician gợi ý rằng
+      khi bạn tập trung và chủ động,
+      bạn sẽ biến ý tưởng
+      thành kết quả cụ thể.
+      Sự sáng tạo đi cùng kỷ luật
+      mở ra con đường mới.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu tiếp tục phân tán
+      hoặc thao túng tình huống,
+      kết quả sẽ không bền.
+      Sự thành thật với mục tiêu
+      là chìa khóa để tiến xa.
+
 ---
 
 ## Tổng quan về lá The Magician

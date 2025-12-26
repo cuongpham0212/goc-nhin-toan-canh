@@ -29,6 +29,60 @@ guidance:
   - bước vào đời bằng sự hợp nhất
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/the-world.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, The World cho thấy
+      bạn từng chạm đến cảm giác trọn vẹn:
+      một chu kỳ hoàn tất,
+      một bài học được tích hợp.
+      Không còn phải tìm kiếm bên ngoài,
+      bạn nhận ra mình đã đi đủ xa
+      để hiểu chính mình.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn gần hoàn tất
+      nhưng còn thiếu sự khép lại.
+      Một chi tiết chưa được giải quyết
+      khiến bạn chưa thật sự an tâm.
+
+  present:
+    upright: >
+      Ở hiện tại, The World cho thấy
+      bạn đang đứng trong trạng thái hợp nhất.
+      Lá bài nhắc rằng
+      bạn không cần trở thành ai khác —
+      bạn đã là phiên bản đủ đầy
+      của chính mình.
+      Sự bình an đến từ việc chấp nhận trọn vẹn.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang tự nghi ngờ
+      thành quả mình đã đạt được.
+      Lá bài nhắc rằng
+      việc công nhận chính mình
+      là bước cuối để hoàn tất.
+
+  future:
+    upright: >
+      Về hướng đi, The World gợi ý rằng
+      khi bạn khép lại chu kỳ này
+      với sự biết ơn,
+      bạn sẽ bước sang giai đoạn mới
+      với nền tảng vững vàng hơn.
+      Hoàn tất là tiền đề cho tự do.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu không khép vòng cho trọn,
+      bạn sẽ mang theo dư âm cũ
+      sang hành trình mới.
+      Hãy cho mình
+      một kết thúc có ý thức.
+
 ---
 
 ## Tổng quan về lá The World

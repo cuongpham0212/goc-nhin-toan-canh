@@ -28,6 +28,61 @@ guidance:
   - học cách dừng lại trước khi lao quá xa
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/knight-of-wands.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Knight of Wands cho thấy
+      bạn từng hành động rất nhanh
+      vì đam mê và hứng khởi.
+      Những quyết định táo bạo
+      mang lại trải nghiệm mạnh mẽ,
+      dù không phải lúc nào
+      cũng bền lâu.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng hành động
+      thiếu kế hoạch.
+      Sự bốc đồng
+      có thể đã khiến
+      bạn phải quay lại từ đầu.
+
+  present:
+    upright: >
+      Ở hiện tại, Knight of Wands cho thấy
+      bạn đang tràn đầy năng lượng
+      và muốn lao vào hành động.
+      Lá bài nhắc rằng
+      sự can đảm là điểm mạnh,
+      nhưng thiếu kiên nhẫn
+      có thể gây rủi ro.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang nhận ra
+      cái giá của việc chạy theo hứng thú.
+      Đây là lúc cần chậm lại,
+      kiểm tra hướng đi
+      trước khi tiếp tục.
+
+  future:
+    upright: >
+      Về hướng đi, Knight of Wands gợi ý rằng
+      nếu bạn biết dẫn hướng cho ngọn lửa,
+      hành động của bạn
+      sẽ tạo ra đột phá.
+      Đam mê kết hợp định hướng
+      sẽ mang lại kết quả mạnh mẽ.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu tiếp tục thay đổi liên tục
+      hoặc bỏ dở giữa chừng,
+      bạn sẽ khó tích lũy thành quả.
+      Lửa cần được giữ,
+      không chỉ được đốt.
+
 ---
 
 ## Tổng quan về lá Knight of Wands

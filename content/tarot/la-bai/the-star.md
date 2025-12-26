@@ -29,6 +29,61 @@ guidance:
   - tin vào con đường phía trước
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/the-star.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, The Star cho thấy
+      bạn từng tìm thấy ánh sáng
+      sau một giai đoạn rất tối.
+      Dù mong manh,
+      niềm tin đó
+      đã giúp bạn tiếp tục sống
+      và hồi phục dần.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một thời điểm bạn từng mất niềm tin,
+      cảm thấy trống rỗng
+      sau biến cố.
+      Việc chưa sẵn sàng tin lại
+      là điều dễ hiểu.
+
+  present:
+    upright: >
+      Ở hiện tại, The Star cho thấy
+      bạn đang bước vào
+      giai đoạn chữa lành thật sự.
+      Lá bài mang thông điệp:
+      bạn an toàn để hy vọng.
+      Ánh sáng không chói,
+      nhưng đủ dẫn đường.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang nghi ngờ
+      khả năng hồi phục của mình.
+      Lá bài nhắc rằng
+      hy vọng không cần lớn —
+      chỉ cần thật.
+
+  future:
+    upright: >
+      Về hướng đi, The Star gợi ý rằng
+      khi bạn tiếp tục nuôi dưỡng niềm tin,
+      sự bình an sẽ quay lại.
+      Con đường phía trước
+      không còn tối như trước,
+      vì bạn đã thấy ánh sao.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu bạn khép lòng
+      vì sợ tổn thương lần nữa,
+      quá trình chữa lành sẽ chậm lại.
+      Tin tưởng từng bước nhỏ
+      là đủ.
+
 ---
 
 ## Tổng quan về lá The Star

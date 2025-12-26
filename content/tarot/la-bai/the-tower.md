@@ -29,6 +29,65 @@ guidance:
   - để sự sụp đổ mở đường cho tái sinh
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/the-tower.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, The Tower cho thấy
+      bạn từng trải qua một cú sốc lớn:
+      biến cố, đổ vỡ,
+      hoặc sự thật bất ngờ
+      làm lung lay nền tảng cũ.
+      Dù đau,
+      khoảnh khắc này
+      đã phá vỡ ảo tưởng
+      mà bạn không còn cần nữa.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng cố tránh
+      sự sụp đổ tất yếu.
+      Việc níu giữ
+      khiến căng thẳng kéo dài
+      trước khi thay đổi xảy ra.
+
+  present:
+    upright: >
+      Ở hiện tại, The Tower cho thấy
+      sự thật đang lộ diện
+      theo cách không thể né tránh.
+      Lá bài không nhằm trừng phạt,
+      mà để giải phóng bạn
+      khỏi cấu trúc sai lệch.
+      Điều sụp đổ
+      là thứ không bền.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang nhận ra
+      điều cần phá bỏ
+      nhưng còn chần chừ.
+      Sự trì hoãn
+      chỉ làm cú sập
+      trở nên dữ dội hơn.
+
+  future:
+    upright: >
+      Về hướng đi, The Tower gợi ý rằng
+      sau khi cấu trúc cũ sụp xuống,
+      bạn sẽ có cơ hội
+      xây lại từ nền thật.
+      Mất mát mở đường
+      cho tự do.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu không chủ động thay đổi,
+      sự sụp đổ sẽ đến
+      theo cách bạn không mong muốn.
+      Can đảm nhìn thẳng
+      giúp giảm đau đớn.
+
 ---
 
 ## Tổng quan về lá The Tower

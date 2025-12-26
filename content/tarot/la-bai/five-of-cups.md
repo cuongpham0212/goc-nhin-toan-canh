@@ -28,6 +28,56 @@ guidance:
   - học cách buông bỏ quá khứ
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/five-of-cups.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Five of Cups cho thấy
+      một mất mát hoặc thất vọng cảm xúc
+      đã để lại dấu ấn sâu sắc.
+      Bạn có thể từng tập trung quá nhiều
+      vào điều đã mất mà quên nhìn thấy
+      những gì vẫn còn hiện diện.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn bắt đầu học cách
+      bước ra khỏi nỗi tiếc nuối cũ.
+      Dù vết thương chưa lành hẳn,
+      nhưng bạn đã không còn hoàn toàn mắc kẹt trong nó.
+
+  present:
+    upright: >
+      Ở hiện tại, Five of Cups cho thấy
+      bạn đang đối diện với cảm giác buồn bã,
+      hụt hẫng hoặc hối tiếc.
+      Có thể bạn đang nhìn cuộc sống
+      qua lăng kính của những điều không như ý,
+      khiến niềm hy vọng trở nên mờ nhạt.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang dần lấy lại góc nhìn cân bằng hơn.
+      Bạn bắt đầu nhận ra rằng
+      không phải mọi thứ đều mất đi,
+      và vẫn còn những nguồn lực cảm xúc
+      có thể nâng đỡ bạn.
+
+  future:
+    upright: >
+      Về hướng đi, Five of Cups nhắc bạn rằng
+      việc đau buồn là một phần cần thiết của chữa lành.
+      Khi bạn cho phép mình cảm nhận trọn vẹn nỗi buồn,
+      bạn cũng đang mở đường cho sự chấp nhận
+      và phục hồi dần dần.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài gợi ý rằng
+      bạn có khả năng bước tiếp với sự trưởng thành hơn.
+      Khi không còn bị trói buộc bởi quá khứ,
+      bạn sẽ thấy những cơ hội mới
+      đang chờ được nhìn nhận.
+
 ---
 
 ## Tổng quan về lá Five of Cups

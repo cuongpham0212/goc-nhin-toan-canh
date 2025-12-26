@@ -28,6 +28,53 @@ guidance:
   - bắt đầu từ những điều nhỏ nhưng thực tế
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/ace-of-pentacles.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Ace of Pentacles cho thấy
+      bạn từng đứng trước một cơ hội thực tế rõ ràng:
+      công việc, tài chính, sức khỏe hoặc một nền tảng mới.
+      Dù nhỏ, cơ hội đó mang tính bền vững
+      và có thể đặt viên gạch đầu tiên cho tương lai.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một cơ hội từng bị bỏ lỡ hoặc không được nắm bắt
+      vì thiếu chuẩn bị, tự tin hoặc điều kiện phù hợp.
+      Điều này có thể khiến bạn chậm khởi động
+      con đường ổn định hơn.
+
+  present:
+    upright: >
+      Ở hiện tại, Ace of Pentacles cho thấy
+      một khởi đầu thực tế đang mở ra.
+      Đây là lúc thích hợp để gieo hạt:
+      bắt đầu dự án, xây thói quen mới,
+      hoặc đầu tư vào sức khỏe và kỹ năng.
+      Giá trị của nó nằm ở tính lâu dài.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang do dự trước cơ hội
+      vì sợ rủi ro hoặc thiếu nguồn lực.
+      Hãy xem lại liệu bạn có đang đánh giá thấp
+      những bước đi nhỏ nhưng chắc chắn hay không.
+
+  future:
+    upright: >
+      Về hướng đi, Ace of Pentacles gợi ý rằng
+      sự ổn định sẽ đến từ những lựa chọn thực tế.
+      Khi bạn kiên nhẫn xây nền,
+      thành quả sẽ dần hình thành theo thời gian.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu không hành động hoặc trì hoãn quá lâu,
+      cơ hội có thể trôi qua.
+      Việc thiếu nền tảng ngay từ đầu
+      sẽ khiến con đường ph
+
 ---
 
 ## Tổng quan về lá Ace of Pentacles

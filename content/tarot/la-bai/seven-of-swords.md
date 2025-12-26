@@ -28,6 +28,60 @@ guidance:
   - đối diện thay vì lẩn trốn
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/seven-of-swords.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Seven of Swords cho thấy
+      bạn từng chọn cách né tránh
+      thay vì đối diện trực tiếp.
+      Có thể bạn đã giấu cảm xúc,
+      giấu ý định
+      hoặc rời đi mà không nói hết sự thật,
+      như một cơ chế tự bảo vệ.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một thời điểm bạn từng bị lộ sự thật
+      hoặc buộc phải đối diện
+      với điều mình cố che giấu.
+      Đây là lúc các chiến lược né tránh
+      không còn hiệu quả.
+
+  present:
+    upright: >
+      Ở hiện tại, Seven of Swords cho thấy
+      bạn đang dùng trí óc
+      để tránh một sự thật khó chịu.
+      Có thể bạn đang “đi đường vòng”,
+      giữ khoảng cách,
+      hoặc không nói hết điều mình nghĩ
+      vì sợ hậu quả.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang mệt mỏi
+      với việc phải che giấu hoặc tính toán.
+      Một phần trong bạn
+      muốn được sống thẳng thắn hơn,
+      dù điều đó không dễ.
+
+  future:
+    upright: >
+      Về hướng đi, Seven of Swords cảnh báo rằng
+      nếu tiếp tục né tránh,
+      bạn sẽ phải duy trì lớp phòng vệ
+      ngày càng phức tạp.
+      Điều này tiêu hao năng lượng
+      và làm bạn xa chính mình.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài gợi ý rằng
+      việc nói thật hoặc sống thật hơn
+      sẽ giúp bạn nhẹ gánh.
+      Dù có thể mất đi một số lợi thế,
+      bạn sẽ lấy lại sự tự do nội tâm.
+
 ---
 
 ## Tổng quan về lá Seven of Swords

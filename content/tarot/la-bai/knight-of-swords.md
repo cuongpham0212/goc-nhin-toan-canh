@@ -28,6 +28,59 @@ guidance:
   - phân biệt giữa đúng và khôn
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/knight-of-swords.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Knight of Swords cho thấy
+      bạn từng hành động rất nhanh
+      dựa trên niềm tin rằng
+      mình đã nắm được sự thật.
+      Sự quyết liệt giúp bạn tiến lên,
+      nhưng cũng có thể gây va chạm.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng nói hoặc làm
+      quá vội vàng.
+      Những quyết định thiếu suy xét
+      có thể đã để lại hậu quả
+      ngoài mong muốn.
+
+  present:
+    upright: >
+      Ở hiện tại, Knight of Swords cho thấy
+      bạn đang tràn đầy năng lượng tinh thần
+      và muốn hành động ngay lập tức.
+      Lá bài nhắc rằng
+      sự rõ ràng là sức mạnh,
+      nhưng thiếu chậm lại
+      có thể làm bạn tự gây áp lực.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang bắt đầu nhận ra
+      cái giá của sự vội vã.
+      Đây là lời nhắc
+      cần kiểm soát tốc độ suy nghĩ
+      trước khi lao vào hành động.
+
+  future:
+    upright: >
+      Về hướng đi, Knight of Swords gợi ý rằng
+      bạn sẽ có cơ hội nói ra sự thật
+      và bảo vệ quan điểm của mình.
+      Tuy nhiên, thành công phụ thuộc vào
+      việc bạn có biết dừng lại đúng lúc hay không.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu tiếp tục hành động
+      mà không cân nhắc hậu quả,
+      xung đột sẽ dễ tái diễn.
+      Sự khôn ngoan đến từ việc
+      kết hợp trí tuệ với sự điềm tĩnh.
+
 ---
 
 ## Tổng quan về lá Knight of Swords

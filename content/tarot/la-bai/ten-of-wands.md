@@ -28,6 +28,64 @@ guidance:
   - giảm tải để tiếp tục hành trình dài
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/ten-of-wands.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Ten of Wands cho thấy
+      bạn từng ôm quá nhiều trách nhiệm.
+      Dù xuất phát từ nhiệt huyết,
+      việc gánh vác một mình
+      đã khiến bạn kiệt sức
+      trước khi kịp tận hưởng thành quả.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một lần bạn từng nhận ra
+      mình không thể làm tất cả.
+      Việc buông bớt gánh nặng
+      khi đó là bước đầu
+      để lấy lại cân bằng.
+
+  present:
+    upright: >
+      Ở hiện tại, Ten of Wands cho thấy
+      bạn đang mang quá nhiều trên vai.
+      Lá bài không phủ nhận
+      sức mạnh của bạn,
+      nhưng nhắc rằng
+      hành trình này
+      đã đến lúc cần khép lại
+      hoặc tái cấu trúc.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang chuẩn bị
+      đặt xuống những gánh nặng không cần thiết.
+      Việc hoàn tất
+      không nhất thiết phải đau đớn —
+      đôi khi chỉ cần
+      dừng đúng lúc.
+
+  future:
+    upright: >
+      Về hướng đi, Ten of Wands gợi ý rằng
+      một chu kỳ sẽ kết thúc
+      để nhường chỗ
+      cho giai đoạn nhẹ hơn.
+      Khi bạn hoàn tất
+      và biết dừng,
+      ngọn lửa mới
+      sẽ có không gian để bùng lên.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu không chủ động buông,
+      gánh nặng sẽ tự kéo bạn dừng lại.
+      Kết thúc có ý thức
+      là món quà
+      bạn dành cho chính mình.
+
 ---
 
 ## Tổng quan về lá Ten of Wands

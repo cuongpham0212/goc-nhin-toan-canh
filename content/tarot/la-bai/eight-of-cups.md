@@ -28,6 +28,55 @@ guidance:
   - tin vào hành trình phía trước
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/eight-of-cups.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Eight of Cups cho thấy
+      bạn từng đưa ra một quyết định rời bỏ
+      điều gì đó dù vẫn còn gắn bó về mặt cảm xúc.
+      Đó có thể là một mối quan hệ, môi trường
+      hoặc trạng thái không còn nuôi dưỡng bạn,
+      dù việc rời đi không hề dễ dàng.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng do dự,
+      biết rõ mình nên buông bỏ
+      nhưng vẫn chần chừ vì sợ mất mát.
+      Có thể bạn đã ở lại quá lâu
+      trong một hoàn cảnh không còn phù hợp.
+
+  present:
+    upright: >
+      Ở hiện tại, Eight of Cups cho thấy
+      bạn đang cảm nhận rõ sự trống rỗng
+      từ những gì từng làm mình gắn bó.
+      Đây là lúc bạn cần lắng nghe tiếng gọi bên trong
+      và thành thật với nhu cầu trưởng thành cảm xúc.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang giằng co giữa việc ở lại và rời đi.
+      Có thể bạn sợ rằng nếu bước đi,
+      mình sẽ không tìm được điều gì tốt hơn,
+      dù hiện tại đã không còn làm bạn thỏa mãn.
+
+  future:
+    upright: >
+      Về hướng đi, Eight of Cups gợi ý rằng
+      sự nhẹ nhõm sẽ đến khi bạn dám rời bỏ
+      những gì không còn nuôi dưỡng mình.
+      Con đường phía trước có thể chưa rõ ràng,
+      nhưng nó trung thực hơn với con người bạn đang trở thành.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu tiếp tục né tránh quyết định cần thiết,
+      sự trì trệ cảm xúc sẽ kéo dài.
+      Chỉ khi bạn dám đối diện với nỗi sợ mất mát,
+      quá trình trưởng thành mới thực sự bắt đầu.
+
 ---
 
 ## Tổng quan về lá Eight of Cups

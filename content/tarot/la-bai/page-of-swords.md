@@ -28,6 +28,57 @@ guidance:
   - đặt câu hỏi thay vì khẳng định vội vàng
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/page-of-swords.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Page of Swords cho thấy
+      bạn từng bắt đầu nhìn thế giới
+      bằng một góc nhìn mới.
+      Dù còn thiếu kinh nghiệm,
+      bạn đã có mong muốn hiểu rõ sự thật
+      và học cách đặt câu hỏi.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng tiếp nhận thông tin
+      một cách vội vàng.
+      Việc hiểu chưa đủ sâu
+      có thể đã dẫn đến hiểu lầm
+      hoặc phán đoán sai.
+
+  present:
+    upright: >
+      Ở hiện tại, Page of Swords cho thấy
+      bạn đang trong trạng thái tỉnh táo hơn,
+      quan sát nhiều hơn và nói ít hơn.
+      Đây là lúc học hỏi,
+      lắng nghe và kiểm chứng,
+      thay vì vội kết luận.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      tâm trí bạn có thể đang quá kích thích
+      bởi quá nhiều thông tin.
+      Lá bài nhắc bạn cần chọn lọc,
+      nếu không sự tò mò
+      sẽ biến thành nhiễu loạn.
+
+  future:
+    upright: >
+      Về hướng đi, Page of Swords gợi ý rằng
+      nhận thức của bạn sẽ tiếp tục mở rộng.
+      Khi bạn giữ được tinh thần học hỏi
+      mà không vội thể hiện,
+      sự hiểu biết sẽ dần chín muồi.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu tiếp tục nói trước khi hiểu đủ,
+      bạn có thể tạo ra hiểu lầm không cần thiết.
+      Kiên nhẫn trong tư duy
+      là bài học quan trọng lúc này.
+
 ---
 
 ## Tổng quan về lá Page of Swords

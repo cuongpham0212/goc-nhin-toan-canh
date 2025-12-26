@@ -28,6 +28,59 @@ guidance:
   - dám nhìn lại khả năng lựa chọn của mình
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/eight-of-swords.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Eight of Swords cho thấy
+      bạn từng rơi vào trạng thái
+      cảm thấy không có lối thoát.
+      Dù hoàn cảnh có thể không hoàn toàn bế tắc,
+      niềm tin giới hạn
+      đã khiến bạn tự trói mình lại.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một khoảnh khắc bạn từng nhận ra rằng
+      xiềng xích không chặt như bạn nghĩ.
+      Ý thức này là bước đầu
+      để thoát khỏi vòng lặp tâm trí.
+
+  present:
+    upright: >
+      Ở hiện tại, Eight of Swords cho thấy
+      bạn đang bị kẹt trong suy nghĩ của chính mình.
+      Sợ sai, sợ hậu quả, sợ bị phán xét
+      khiến bạn không dám hành động.
+      Lá bài nhắc rằng
+      rào cản lớn nhất lúc này
+      nằm trong đầu bạn.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang dần tháo gỡ
+      những niềm tin giới hạn.
+      Dù còn lo lắng,
+      bạn bắt đầu nhìn thấy
+      những lựa chọn mà trước đây
+      bạn không cho phép mình thấy.
+
+  future:
+    upright: >
+      Về hướng đi, Eight of Swords cảnh báo rằng
+      nếu bạn tiếp tục tin rằng
+      mình không có quyền lựa chọn,
+      sự bế tắc sẽ kéo dài.
+      Thay đổi bắt đầu từ nhận thức.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài gợi ý rằng
+      tự do sẽ đến
+      khi bạn dám đặt câu hỏi
+      về những nỗi sợ lâu nay.
+      Một bước nhỏ thay đổi suy nghĩ
+      có thể mở ra lối thoát lớn.
+
 ---
 
 ## Tổng quan về lá Eight of Swords

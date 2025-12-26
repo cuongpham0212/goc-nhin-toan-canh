@@ -28,6 +28,61 @@ guidance:
   - tìm sự hỗ trợ khi cần thiết
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/nine-of-swords.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Nine of Swords cho thấy
+      bạn từng trải qua giai đoạn
+      lo âu và dằn vặt kéo dài.
+      Những suy nghĩ tiêu cực,
+      hối tiếc hoặc sợ hãi
+      đã khiến tâm trí bạn
+      không được nghỉ ngơi thực sự.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một thời điểm bạn bắt đầu
+      nhận ra tác hại của việc
+      tự hành hạ tinh thần.
+      Dù chưa thoát hẳn,
+      bạn đã có ý thức
+      cần tìm cách chữa lành.
+
+  present:
+    upright: >
+      Ở hiện tại, Nine of Swords cho thấy
+      bạn đang bị quá tải tinh thần.
+      Nỗi sợ có thể lớn hơn thực tế,
+      nhưng cảm giác đau đớn thì rất thật.
+      Lá bài nhắc rằng
+      việc chia sẻ và nhìn thẳng
+      vào nỗi lo là điều cần thiết.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang dần thoát khỏi vòng lặp lo âu.
+      Dù vẫn còn ám ảnh,
+      bạn bắt đầu học cách
+      đối diện thay vì trốn tránh.
+
+  future:
+    upright: >
+      Về hướng đi, Nine of Swords cảnh báo rằng
+      nếu tiếp tục giữ mọi thứ trong lòng,
+      khủng hoảng tinh thần
+      có thể trầm trọng hơn.
+      Việc tìm sự hỗ trợ
+      là bước đi can đảm, không phải yếu đuối.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài gợi ý rằng
+      ánh sáng sẽ xuất hiện
+      khi bạn cho phép mình
+      được giúp đỡ và nghỉ ngơi.
+      Sự chữa lành bắt đầu
+      từ việc giảm bớt tự trách.
+
 ---
 
 ## Tổng quan về lá Nine of Swords

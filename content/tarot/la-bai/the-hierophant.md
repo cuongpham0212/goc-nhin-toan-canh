@@ -29,6 +29,66 @@ guidance:
   - hiểu luật chơi trước khi phá luật
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/the-hierophant.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, The Hierophant cho thấy
+      bạn từng được dẫn dắt
+      bởi niềm tin, quy tắc
+      hoặc hệ giá trị tập thể.
+      Những khuôn khổ này
+      giúp bạn hiểu
+      điều gì là đúng – sai
+      trong giai đoạn đó.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một lần bạn từng cảm thấy
+      bị bó buộc
+      bởi truyền thống hoặc kỳ vọng.
+      Việc nghi ngờ khuôn mẫu
+      là bước đầu của trưởng thành.
+
+  present:
+    upright: >
+      Ở hiện tại, The Hierophant cho thấy
+      bạn đang được mời gọi
+      học hỏi từ kinh nghiệm đã có:
+      thầy, hệ thống,
+      hoặc giá trị lâu đời.
+      Sự ổn định lúc này
+      đến từ việc hiểu và chọn lọc truyền thống.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang chất vấn
+      những niềm tin cũ.
+      Lá bài nhắc rằng
+      không phải khuôn mẫu nào
+      cũng cần giữ lại.
+      Chọn lọc giúp bạn
+      sống thật hơn.
+
+  future:
+    upright: >
+      Về hướng đi, The Hierophant gợi ý rằng
+      khi bạn tích hợp
+      giá trị chung với hiểu biết cá nhân,
+      bạn sẽ trở thành
+      người truyền đạt,
+      không chỉ người học.
+      Trí tuệ được chia sẻ
+      làm cộng đồng mạnh hơn.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu tiếp tục sống
+      theo khuôn không còn phù hợp,
+      bạn sẽ cảm thấy lệch nhịp.
+      Can đảm xây hệ giá trị riêng
+      là bước tiếp theo.
+
 ---
 
 ## Tổng quan về lá The Hierophant

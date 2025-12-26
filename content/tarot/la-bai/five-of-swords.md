@@ -28,6 +28,58 @@ guidance:
   - hiểu rằng không phải chiến thắng nào cũng đáng giá
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/five-of-swords.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Five of Swords cho thấy
+      bạn từng vướng vào một cuộc xung đột
+      nơi không ai thật sự thắng.
+      Dù có thể bạn giữ được lập trường,
+      cái giá phải trả là sự tổn thương,
+      mất mát niềm tin hoặc đổ vỡ mối quan hệ.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng cố tránh
+      những cuộc đối đầu không cần thiết.
+      Có thể bạn đã học được rằng
+      không phải trận chiến nào
+      cũng đáng để tham gia.
+
+  present:
+    upright: >
+      Ở hiện tại, Five of Swords cho thấy
+      bạn đang đứng trước nguy cơ
+      “thắng nhưng không vui”.
+      Lá bài nhắc bạn xem lại:
+      điều bạn đang bảo vệ là sự thật,
+      hay chỉ là cái tôi và nhu cầu hơn thua?
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang muốn chấm dứt
+      vòng lặp xung đột.
+      Đây là lúc phù hợp để hạ vũ khí,
+      nói lời hòa giải
+      hoặc đơn giản là không tiếp tục tranh cãi.
+
+  future:
+    upright: >
+      Về hướng đi, Five of Swords cảnh báo rằng
+      nếu tiếp tục theo đuổi thắng thua,
+      bạn có thể mất nhiều hơn được.
+      Việc chọn chiến đấu
+      cần được cân nhắc rất kỹ.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài gợi ý rằng
+      buông bỏ một cuộc xung đột
+      sẽ giúp bạn giữ lại năng lượng
+      và sự tự trọng.
+      Không phải lùi bước nào
+      cũng là thất bại.
+
 ---
 
 ## Tổng quan về lá Five of Swords

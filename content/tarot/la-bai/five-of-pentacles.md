@@ -28,6 +28,58 @@ guidance:
   - tin rằng khó khăn không kéo dài mãi
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/five-of-pentacles.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Five of Pentacles cho thấy
+      bạn từng trải qua giai đoạn thiếu thốn
+      về tiền bạc, sức khỏe hoặc sự nâng đỡ tinh thần.
+      Cảm giác bị bỏ lại phía sau
+      có thể đã hình thành nỗi sợ mất an toàn
+      trong cách bạn nhìn về cuộc sống.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      việc bạn từng bước ra khỏi giai đoạn khó khăn,
+      hoặc đã có lúc bạn nhận ra
+      mình không thật sự đơn độc như đã nghĩ.
+      Một cánh cửa hỗ trợ đã từng mở ra,
+      chỉ là bạn chưa sẵn sàng bước vào.
+
+  present:
+    upright: >
+      Ở hiện tại, Five of Pentacles cho thấy
+      bạn có thể đang cảm thấy thiếu hụt:
+      thiếu tiền, thiếu sức, thiếu niềm tin,
+      hoặc thiếu cảm giác được nâng đỡ.
+      Lá bài nhắc rằng nỗi đau lớn nhất đôi khi
+      không phải là thiếu vật chất,
+      mà là cảm giác “không có ai”.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang trong quá trình hồi phục.
+      Dù vẫn còn khó khăn,
+      nhưng bạn bắt đầu nhìn thấy nguồn lực,
+      cơ hội hoặc sự giúp đỡ
+      mà trước đó mình bỏ qua.
+
+  future:
+    upright: >
+      Về hướng đi, Five of Pentacles nhắc bạn rằng
+      nếu tiếp tục chịu đựng một mình,
+      gánh nặng sẽ càng nặng hơn.
+      Việc tìm kiếm sự hỗ trợ đúng chỗ
+      là một bước thực tế và cần thiết.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài gợi ý rằng
+      sự cải thiện sẽ đến khi bạn cho phép mình
+      nhận sự giúp đỡ hoặc chủ động bước ra
+      khỏi vòng lặp thiếu hụt.
+      Một cơ hội phục hồi đang gần hơn bạn nghĩ.
+
 ---
 
 ## Tổng quan về lá Five of Pentacles

@@ -28,6 +28,51 @@ guidance:
   - đừng ôm đồm quá sức
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/two-of-pentacles.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Two of Pentacles cho thấy
+      bạn từng phải xoay xở giữa nhiều trách nhiệm.
+      Có thể bạn đã học cách linh hoạt,
+      giữ nhịp cân bằng giữa công việc, tài chính
+      và đời sống cá nhân.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn quá tải,
+      khi bạn cố gắng ôm đồm quá nhiều
+      mà không có hệ thống rõ ràng.
+      Điều này có thể dẫn đến mệt mỏi kéo dài.
+
+  present:
+    upright: >
+      Ở hiện tại, Two of Pentacles cho thấy
+      bạn đang quản lý nhiều ưu tiên cùng lúc.
+      Sự linh hoạt là lợi thế của bạn lúc này,
+      miễn là bạn không đánh mất
+      nhịp nghỉ ngơi và ranh giới cần thiết.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      sự mất cân bằng đang lộ rõ.
+      Có thể bạn đang cố giữ mọi thứ ổn định
+      nhưng thực chất cần sắp xếp lại thứ tự ưu tiên.
+
+  future:
+    upright: >
+      Về hướng đi, Two of Pentacles gợi ý rằng
+      khả năng thích nghi sẽ giúp bạn vượt qua giai đoạn bận rộn.
+      Khi bạn biết điều chỉnh nhịp độ,
+      sự ổn định sẽ trở lại.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu tiếp tục duy trì nhịp xoay xở quá lâu,
+      bạn có thể kiệt sức.
+      Đã đến lúc đơn giản hóa
+      và tập trung vào những gì thật sự quan trọng.
+
 ---
 
 ## Tổng quan về lá Two of Pentacles

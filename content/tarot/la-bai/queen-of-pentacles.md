@@ -28,6 +28,56 @@ guidance:
   - nuôi dưỡng bằng sự hiện diện và kiên nhẫn
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/queen-of-pentacles.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Queen of Pentacles cho thấy
+      bạn từng là người chăm lo cho sự ổn định:
+      gia đình, công việc hoặc những người xung quanh.
+      Bạn học được cách tạo cảm giác an toàn
+      thông qua sự tận tâm và thực tế.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng cho đi quá nhiều
+      mà quên chăm sóc bản thân.
+      Sự hy sinh không cân bằng
+      có thể đã khiến bạn mệt mỏi.
+
+  present:
+    upright: >
+      Ở hiện tại, Queen of Pentacles cho thấy
+      bạn đang ở trạng thái ổn định và đủ đầy
+      để nuôi dưỡng cả vật chất lẫn tinh thần.
+      Bạn biết cách chăm sóc bản thân,
+      tạo không gian an toàn
+      và duy trì chất lượng sống bền vững.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang quá chú trọng
+      vào trách nhiệm mà quên nhu cầu cá nhân.
+      Lá bài nhắc bạn rằng
+      sự ổn định thật sự cần bắt đầu từ chính mình.
+
+  future:
+    upright: >
+      Về hướng đi, Queen of Pentacles gợi ý rằng
+      bạn sẽ xây dựng được cuộc sống
+      vừa vững vàng vừa ấm áp.
+      Khi bạn biết trân trọng giá trị thực
+      và chăm sóc đúng cách,
+      sự đủ đầy sẽ lan tỏa sang người khác.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu tiếp tục gồng gánh quá mức,
+      sự ổn định có thể trở thành áp lực.
+      Việc học cách nhận lại,
+      thay vì chỉ cho đi,
+      sẽ giúp bạn bền vững lâu dài.
+
 ---
 
 ## Tổng quan về lá Queen of Pentacles

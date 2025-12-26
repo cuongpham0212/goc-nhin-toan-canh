@@ -11,13 +11,17 @@ media_folder: ""
 public_folder: ""
 
 collections:
-  - name: "posts"
-    label: "Bài viết"
-    label_singular: "Bài viết"
-    folder: "content/posts"
+
+  # =========================
+  # GÓC NHÌN
+  # =========================
+  - name: "goc-nhin"
+    label: "Góc nhìn"
+    label_singular: "Bài góc nhìn"
+    folder: "content/goc-nhin"
     create: true
     slug: "{{slug}}"
-    preview_path: "posts/{{slug}}"
+    preview_path: "goc-nhin/{{slug}}"
 
     fields:
       - label: "Tiêu đề"
@@ -29,21 +33,40 @@ collections:
         widget: "text"
         required: true
 
-      - label: "Đường dẫn (slug)"
-        name: "slug"
+      - label: "Ảnh đại diện (URL)"
+        name: "image"
         widget: "string"
         required: false
-        hint: "Tự sinh từ tiêu đề, có thể chỉnh lại cho gọn"
 
-      - label: "Chuyên mục"
-        name: "section"
-        widget: "select"
+      - label: "Ngày đăng"
+        name: "date"
+        widget: "datetime"
+
+      - label: "Nội dung bài viết"
+        name: "body"
+        widget: "markdown"
+
+
+  # =========================
+  # PHÂN TÍCH
+  # =========================
+  - name: "phan-tich"
+    label: "Phân tích"
+    label_singular: "Bài phân tích"
+    folder: "content/phan-tich"
+    create: true
+    slug: "{{slug}}"
+    preview_path: "phan-tich/{{slug}}"
+
+    fields:
+      - label: "Tiêu đề"
+        name: "title"
+        widget: "string"
+
+      - label: "Mô tả (SEO description)"
+        name: "description"
+        widget: "text"
         required: true
-        options:
-          - { label: "Góc nhìn đời sống", value: "doi-song" }
-          - { label: "Tâm lý – nội tâm", value: "tam-ly" }
-          - { label: "Tiền bạc – đầu tư", value: "tien-bac" }
-          - { label: "Xã hội – thời cuộc", value: "xa-hoi" }
 
       - label: "Ảnh đại diện (URL)"
         name: "image"
@@ -55,5 +78,77 @@ collections:
         widget: "datetime"
 
       - label: "Nội dung bài viết"
+        name: "body"
+        widget: "markdown"
+
+
+  # =========================
+  # CHUYỆN ĐỜI
+  # =========================
+  - name: "chuyen-doi"
+    label: "Chuyện đời"
+    label_singular: "Bài chuyện đời"
+    folder: "content/chuyen-doi"
+    create: true
+    slug: "{{slug}}"
+    preview_path: "chuyen-doi/{{slug}}"
+
+    fields:
+      - label: "Tiêu đề"
+        name: "title"
+        widget: "string"
+
+      - label: "Mô tả (SEO description)"
+        name: "description"
+        widget: "text"
+        required: true
+
+      - label: "Ảnh đại diện (URL)"
+        name: "image"
+        widget: "string"
+        required: false
+
+      - label: "Ngày đăng"
+        name: "date"
+        widget: "datetime"
+
+      - label: "Nội dung bài viết"
+        name: "body"
+        widget: "markdown"
+
+
+  # =========================
+  # TAROT (NESTED – ĐÚNG CẤU TRÚC ANH ĐANG DÙNG)
+  # =========================
+  - name: "tarot"
+    label: "Tarot"
+    label_singular: "Nội dung Tarot"
+    folder: "content/tarot"
+    create: false
+    nested:
+      depth: 2
+    slug: "{{slug}}"
+    preview_path: "tarot/{{slug}}"
+
+    fields:
+      - label: "Tiêu đề"
+        name: "title"
+        widget: "string"
+
+      - label: "Mô tả (SEO description)"
+        name: "description"
+        widget: "text"
+        required: false
+
+      - label: "Ảnh đại diện (URL)"
+        name: "image"
+        widget: "string"
+        required: false
+
+      - label: "Ngày đăng"
+        name: "date"
+        widget: "datetime"
+
+      - label: "Nội dung"
         name: "body"
         widget: "markdown"

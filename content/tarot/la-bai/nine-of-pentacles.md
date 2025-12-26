@@ -28,6 +28,55 @@ guidance:
   - giữ sự độc lập và tự chủ
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/nine-of-pentacles.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Nine of Pentacles cho thấy
+      bạn từng xây dựng được sự độc lập
+      thông qua nỗ lực và kỷ luật cá nhân.
+      Có thể bạn đã học cách đứng vững một mình,
+      trân trọng thành quả do chính mình tạo ra.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng cảm thấy
+      phụ thuộc hoặc thiếu tự tin vào giá trị của mình.
+      Việc so sánh với người khác
+      có thể đã làm bạn chùn bước.
+
+  present:
+    upright: >
+      Ở hiện tại, Nine of Pentacles cho thấy
+      bạn đang ở trạng thái khá đủ đầy:
+      tự chủ, biết tận hưởng thành quả,
+      và cảm thấy an toàn với nền tảng mình có.
+      Đây là lúc trân trọng nỗ lực cá nhân
+      và chất lượng cuộc sống bạn đã xây dựng.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang đánh đổi quá nhiều
+      để duy trì hình ảnh “đủ đầy”.
+      Sự sung túc bên ngoài
+      chưa chắc phản ánh cảm giác an toàn bên trong.
+
+  future:
+    upright: >
+      Về hướng đi, Nine of Pentacles gợi ý rằng
+      sự ổn định cá nhân sẽ tiếp tục lớn mạnh
+      khi bạn giữ được kỷ luật và tự trọng.
+      Giá trị bền vững đến từ việc
+      biết đủ và biết tận hưởng đúng cách.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu quá tập trung vào vật chất
+      mà bỏ quên sự kết nối,
+      cảm giác cô lập có thể xuất hiện.
+      Việc cân bằng giữa tự chủ và sẻ chia
+      sẽ giúp bạn bền vững hơn.
+
 ---
 
 ## Tổng quan về lá Nine of Pentacles

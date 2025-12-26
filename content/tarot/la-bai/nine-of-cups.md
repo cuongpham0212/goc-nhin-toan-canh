@@ -28,6 +28,55 @@ guidance:
   - hiểu rõ điều gì thực sự khiến mình hạnh phúc
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/nine-of-cups.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Nine of Cups cho thấy
+      bạn từng đạt được một trạng thái
+      khá thỏa mãn về mặt cảm xúc.
+      Có thể bạn đã cảm thấy mình “đủ”
+      và tạm hài lòng với những gì đang có.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng đạt được điều mình muốn,
+      nhưng cảm giác thỏa mãn lại không kéo dài.
+      Điều này có thể khiến bạn nhận ra
+      rằng sự đủ đầy bên ngoài
+      chưa chắc đáp ứng được nhu cầu bên trong.
+
+  present:
+    upright: >
+      Ở hiện tại, Nine of Cups cho thấy
+      bạn đang ở trạng thái khá ổn định về cảm xúc.
+      Bạn có thể cảm thấy hài lòng với bản thân,
+      với những gì mình đã đạt được,
+      và tận hưởng cảm giác an toàn nội tâm.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang tự thuyết phục mình rằng
+      “mọi thứ đều ổn” trong khi bên trong
+      vẫn còn những khoảng trống chưa được nhìn nhận.
+      Sự tự mãn nhẹ có thể che lấp
+      những nhu cầu sâu hơn.
+
+  future:
+    upright: >
+      Về hướng đi, Nine of Cups gợi ý rằng
+      bạn có khả năng đạt đến sự hài lòng chân thật,
+      nếu bạn biết trân trọng những gì mình có
+      mà không khép lòng trước sự phát triển tiếp theo.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu quá bám vào cảm giác “đủ rồi”,
+      bạn có thể vô tình chặn đứng
+      những bước trưởng thành cảm xúc tiếp theo.
+      Đôi khi, sự không trọn vẹn
+      lại là lời mời để bạn đi xa hơn.
+
 ---
 
 ## Tổng quan về lá Nine of Cups

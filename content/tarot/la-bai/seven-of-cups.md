@@ -28,6 +28,53 @@ guidance:
   - chọn lọc trước khi hành động
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/seven-of-cups.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Seven of Cups cho thấy
+      bạn từng đối mặt với quá nhiều lựa chọn
+      hoặc kỳ vọng không rõ ràng.
+      Điều này có thể đã khiến bạn
+      cảm thấy bối rối và khó đưa ra quyết định đúng đắn.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn bắt đầu nhận ra
+      đâu là ảo tưởng, đâu là thực tế.
+      Có thể bạn đã từng vỡ mộng,
+      nhưng từ đó học được bài học quan trọng.
+
+  present:
+    upright: >
+      Ở hiện tại, Seven of Cups cho thấy
+      bạn đang đứng giữa nhiều khả năng,
+      nhưng không phải lựa chọn nào
+      cũng thực sự phù hợp với bạn.
+      Cảm xúc, ham muốn hoặc nỗi sợ
+      có thể đang làm mờ sự rõ ràng cần thiết.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang dần lấy lại sự tỉnh táo.
+      Bạn bắt đầu phân biệt được
+      điều gì là mong muốn nhất thời
+      và điều gì thực sự có giá trị lâu dài.
+
+  future:
+    upright: >
+      Về hướng đi, Seven of Cups nhắc bạn
+      cần chọn lựa dựa trên sự rõ ràng,
+      không phải dựa trên ảo ảnh
+      hay lời hứa thiếu nền tảng.
+      Sự tập trung sẽ giúp bạn tránh lạc hướng.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài gợi ý rằng
+      khi bạn dám loại bỏ những lựa chọn không cần thiết,
+      con đường phù hợp sẽ hiện ra rõ ràng hơn,
+      mang lại cảm giác nhẹ nhõm và chủ động.
+
 ---
 
 ## Tổng quan về lá Seven of Cups

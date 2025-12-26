@@ -28,6 +28,53 @@ guidance:
   - sống chậm và giản dị hơn
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/six-of-cups.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Six of Cups cho thấy
+      những ký ức ấm áp hoặc mối liên kết thuần khiết
+      từng là điểm tựa cảm xúc quan trọng với bạn.
+      Đó có thể là thời thơ ấu, một mối quan hệ cũ,
+      hoặc giai đoạn bạn cảm thấy an toàn và được là chính mình.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      việc bạn từng bị mắc kẹt trong hoài niệm.
+      Có thể bạn đã nhìn quá khứ bằng lăng kính lý tưởng,
+      khiến hiện tại trở nên nặng nề hoặc khó chấp nhận.
+
+  present:
+    upright: >
+      Ở hiện tại, Six of Cups cho thấy
+      bạn đang được mời gọi kết nối lại
+      với phần trong trẻo bên trong mình.
+      Đây là thời điểm phù hợp để chữa lành,
+      tha thứ hoặc quay về những giá trị
+      từng khiến bạn cảm thấy an toàn.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang tránh né hiện tại
+      bằng cách quay về quá khứ.
+      Có khả năng bạn đang cần học cách
+      trân trọng ký ức mà không để nó
+      cản trở sự trưởng thành của mình.
+
+  future:
+    upright: >
+      Về hướng đi, Six of Cups gợi ý rằng
+      sự chữa lành sẽ đến thông qua
+      việc kết nối lại với những gì chân thật,
+      giản dị và mang lại cảm giác thuộc về.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      đã đến lúc buông bỏ những ràng buộc cũ.
+      Khi bạn cho phép mình lớn lên
+      mà không phủ nhận quá khứ,
+      con đường phía trước sẽ nhẹ nhàng hơn.
+
 ---
 
 ## Tổng quan về lá Six of Cups

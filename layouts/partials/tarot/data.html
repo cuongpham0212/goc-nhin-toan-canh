@@ -1,3 +1,20 @@
 <script type="application/json" id="tarot-data">
-{{ .cards | jsonify }}
+[
+{{- $pages := where site.RegularPages "Section" "tarot" -}}
+{{- range $i, $p := $pages -}}
+  {{- if not (hasPrefix $p.RelPermalink "/tarot/la-bai/") -}}
+    {{- continue -}}
+  {{- end -}}
+  {{- if $i }},{{ end }}
+  {
+    "title": {{ $p.Title | jsonify }},
+    "slug": {{ $p.Slug | jsonify }},
+    "image": {{ $p.Params.image | jsonify }},
+    "summary": {{ $p.Params.summary | jsonify }},
+    "emotion": {{ $p.Params.emotion | jsonify }},
+    "guidance": {{ $p.Params.guidance | jsonify }},
+    "reading": {{ $p.Params.reading | jsonify }}
+  }
+{{- end }}
+]
 </script>

@@ -29,6 +29,57 @@ guidance:
   - hành động đúng thời điểm
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/wheel-of-fortune.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Wheel of Fortune cho thấy
+      bạn từng trải qua những bước ngoặt
+      không hoàn toàn do mình kiểm soát.
+      Những biến động đó
+      dạy bạn cách thích nghi
+      và nhận ra vai trò của thời điểm.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng cảm thấy
+      vận may không đứng về phía mình.
+      Việc chống lại dòng chảy
+      khiến bài học kéo dài hơn.
+
+  present:
+    upright: >
+      Ở hiện tại, Wheel of Fortune cho thấy
+      bánh xe đang xoay.
+      Cơ hội và thay đổi
+      xuất hiện đúng lúc.
+      Lá bài nhắc rằng
+      khi thời điểm chín,
+      mọi thứ chuyển động tự nhiên.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang lệch nhịp
+      với chu kỳ hiện tại.
+      Đây là lúc quan sát,
+      điều chỉnh,
+      thay vì cố ép tiến trình.
+
+  future:
+    upright: >
+      Về hướng đi, Wheel of Fortune gợi ý rằng
+      một vòng mới đang mở.
+      Khi bạn đón nhận thay đổi
+      với tâm thế linh hoạt,
+      vận hội sẽ tự tìm đến.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu lặp lại mô thức cũ,
+      bánh xe sẽ quay về điểm quen.
+      Ý thức thay đổi
+      giúp bạn bước sang vòng mới.
+
 ---
 
 ## Tổng quan về lá Wheel of Fortune

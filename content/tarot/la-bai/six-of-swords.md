@@ -28,6 +28,56 @@ guidance:
   - cho phép mình đi tiếp dù chưa thấy rõ điểm đến
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/six-of-swords.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Six of Swords cho thấy
+      bạn từng rời khỏi một giai đoạn khó khăn
+      để tìm sự bình yên hơn.
+      Dù quyết định này không dễ,
+      nó đã giúp bạn thoát khỏi
+      môi trường đầy căng thẳng.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một lần bạn muốn rời đi
+      nhưng chưa đủ điều kiện hoặc can đảm.
+      Việc bị níu lại
+      có thể khiến bạn cảm thấy bế tắc kéo dài.
+
+  present:
+    upright: >
+      Ở hiện tại, Six of Swords cho thấy
+      bạn đang trong quá trình chuyển dịch.
+      Không phải là chạy trốn,
+      mà là chọn rời khỏi điều gây tổn thương
+      để bảo vệ sức khỏe tinh thần.
+      Đây là hành trình cần thời gian.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang do dự trước việc buông bỏ.
+      Một phần bạn muốn tiến lên,
+      nhưng một phần vẫn bị níu
+      bởi ký ức, trách nhiệm hoặc nỗi sợ.
+
+  future:
+    upright: >
+      Về hướng đi, Six of Swords gợi ý rằng
+      sự bình yên sẽ đến
+      khi bạn chấp nhận thay đổi hoàn cảnh.
+      Dù chưa hoàn toàn nhẹ nhõm,
+      bạn đang đi đúng hướng.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu không dứt khoát rời khỏi
+      môi trường độc hại,
+      bạn sẽ khó tìm được sự yên ổn.
+      Việc chuyển cảnh
+      đôi khi là điều bắt buộc để chữa lành.
+
 ---
 
 ## Tổng quan về lá Six of Swords

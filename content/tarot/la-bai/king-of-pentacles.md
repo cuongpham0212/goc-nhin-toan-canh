@@ -28,6 +28,60 @@ guidance:
   - giữ vững nền tảng cho tập thể
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/king-of-pentacles.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, King of Pentacles cho thấy
+      bạn từng học được bài học về trách nhiệm
+      và giá trị của sự bền bỉ.
+      Có thể bạn đã chứng kiến
+      hoặc chịu ảnh hưởng từ một hình mẫu
+      đề cao sự ổn định và thực tế.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng đặt nặng
+      an toàn vật chất đến mức
+      trở nên cứng nhắc hoặc sợ mất mát.
+      Điều này có thể khiến bạn
+      khó thích nghi khi hoàn cảnh thay đổi.
+
+  present:
+    upright: >
+      Ở hiện tại, King of Pentacles cho thấy
+      bạn đang ở vị thế làm chủ:
+      biết quản lý nguồn lực,
+      đưa ra quyết định thực tế
+      và xây dựng nền tảng vững chắc.
+      Bạn không cần chứng minh nhiều,
+      sự ổn định tự nói lên giá trị của bạn.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang bị mắc kẹt
+      trong vùng an toàn.
+      Việc bám chặt vào cái đã có
+      có thể ngăn bạn phát triển
+      theo cách linh hoạt hơn.
+
+  future:
+    upright: >
+      Về hướng đi, King of Pentacles gợi ý rằng
+      thành quả bạn xây dựng
+      sẽ mang tính lâu dài và đáng tin cậy.
+      Khi bạn tiếp tục giữ kỷ luật
+      và tầm nhìn thực tế,
+      sự thịnh vượng sẽ được duy trì.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu quá chú trọng kiểm soát,
+      bạn có thể đánh mất
+      niềm vui và sự sáng tạo.
+      Việc cho phép thay đổi có chọn lọc
+      sẽ giúp bạn giữ được ổn định thật sự.
+
 ---
 
 ## Tổng quan về lá King of Pentacles

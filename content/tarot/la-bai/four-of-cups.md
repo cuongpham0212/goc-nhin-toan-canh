@@ -28,6 +28,50 @@ guidance:
   - mở lòng với góc nhìn mới
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/four-of-cups.webp"
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Four of Cups cho thấy bạn từng rơi vào
+      trạng thái bão hòa cảm xúc.
+      Dù xung quanh vẫn có cơ hội hoặc sự quan tâm,
+      bạn lại không đủ năng lượng để đón nhận,
+      có thể vì mệt mỏi hoặc thất vọng kéo dài.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh một giai đoạn
+      bạn từng nhận ra mình đã khép lòng quá lâu.
+      Có thể đã có khoảnh khắc bạn tự hỏi
+      liệu mình có đang bỏ lỡ điều gì quan trọng
+      chỉ vì sợ cảm xúc quay trở lại.
+
+  present:
+    upright: >
+      Ở hiện tại, Four of Cups cho thấy bạn đang
+      tách mình khỏi dòng cảm xúc xung quanh.
+      Bạn có thể cảm thấy trống rỗng, chán nản,
+      hoặc không còn hứng thú với những gì từng khiến bạn rung động.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang bắt đầu nhận ra sự khép kín của mình.
+      Dù chưa sẵn sàng mở lòng hoàn toàn,
+      nhưng đã có một tia nhận thức rằng
+      việc tiếp tục thờ ơ có thể khiến bạn cô lập hơn.
+
+  future:
+    upright: >
+      Về hướng đi, Four of Cups nhắc bạn cần
+      dành thời gian lắng nghe cảm xúc thật,
+      thay vì ép mình phải cảm thấy tích cực.
+      Sự rõ ràng sẽ đến khi bạn chấp nhận
+      rằng mình đang mệt, và cho phép bản thân nghỉ ngơi.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài gợi ý rằng
+      bạn có cơ hội thoát khỏi vòng lặp thờ ơ.
+      Nếu bạn dám mở mắt và nhìn lại,
+      một lời mời cảm xúc mới có thể đang ở rất gần.
+
 ---
 
 ## Tổng quan về lá Four of Cups

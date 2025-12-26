@@ -28,6 +28,57 @@ guidance:
   - dùng trí tuệ đi cùng lòng chính trực
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/queen-of-swords.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Queen of Swords cho thấy
+      bạn từng phải học cách trở nên tỉnh táo
+      sau những tổn thương tinh thần.
+      Trải nghiệm đó rèn cho bạn
+      khả năng nhìn thẳng sự thật
+      mà không còn ảo tưởng.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng dùng lý trí
+      như tấm khiên để che chắn nỗi đau.
+      Sự lạnh lùng có thể đã giúp bạn sống sót,
+      nhưng cũng tạo ra khoảng cách cảm xúc.
+
+  present:
+    upright: >
+      Ở hiện tại, Queen of Swords cho thấy
+      bạn đang nhìn mọi việc với sự rõ ràng.
+      Bạn biết lắng nghe,
+      biết đặt câu hỏi đúng,
+      và không dễ bị chi phối bởi cảm xúc.
+      Đây là trí tuệ của người đã trải qua.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang quá khắt khe
+      với bản thân hoặc người khác.
+      Lá bài nhắc rằng
+      sự thật không cần phải sắc bén
+      đến mức làm tổn thương.
+
+  future:
+    upright: >
+      Về hướng đi, Queen of Swords gợi ý rằng
+      trí tuệ điềm tĩnh sẽ giúp bạn
+      đưa ra những quyết định sáng suốt.
+      Khi bạn giữ được sự công bằng
+      và ranh giới rõ ràng,
+      lời nói của bạn sẽ có trọng lượng.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu tiếp tục khép chặt cảm xúc,
+      bạn có thể tự cô lập mình.
+      Trí tuệ thực sự
+      biết khi nào cần mềm lại.
+
 ---
 
 ## Tổng quan về lá Queen of Swords

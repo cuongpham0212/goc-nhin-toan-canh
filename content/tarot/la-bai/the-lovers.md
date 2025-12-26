@@ -29,6 +29,59 @@ guidance:
   - chịu trách nhiệm với quyết định của mình
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/the-lovers.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, The Lovers cho thấy
+      bạn từng đứng trước
+      một lựa chọn quan trọng
+      liên quan đến giá trị cốt lõi.
+      Quyết định khi đó
+      định hình cách bạn kết nối
+      với người khác và với chính mình.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một lần bạn từng chọn
+      vì sợ hãi hoặc phụ thuộc.
+      Sự lệch giá trị
+      khiến kết nối trở nên mong manh.
+
+  present:
+    upright: >
+      Ở hiện tại, The Lovers cho thấy
+      bạn đang được mời gọi
+      chọn lựa bằng sự chân thật.
+      Đây không chỉ là tình cảm,
+      mà là sự hòa hợp
+      giữa hành động và giá trị sống.
+      Cam kết bắt đầu từ sự rõ ràng.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang do dự
+      hoặc xung đột nội tâm.
+      Lá bài nhắc rằng
+      không chọn cũng là một lựa chọn,
+      và nó có hệ quả.
+
+  future:
+    upright: >
+      Về hướng đi, The Lovers gợi ý rằng
+      khi bạn chọn đúng giá trị,
+      mối quan hệ và con đường
+      sẽ trở nên đồng điệu.
+      Kết nối bền
+      đến từ sự tự nguyện.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu tiếp tục né tránh
+      sự thật về nhu cầu của mình,
+      mối liên kết sẽ khó sâu.
+      Thành thật là nền của yêu thương.
+
 ---
 
 ## Tổng quan về lá The Lovers

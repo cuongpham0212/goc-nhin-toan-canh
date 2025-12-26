@@ -28,6 +28,57 @@ guidance:
   - giữ tâm thế cởi mở và chân thành
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/page-of-cups.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Page of Cups cho thấy
+      bạn từng trải qua một giai đoạn
+      cảm xúc còn non trẻ nhưng rất chân thật.
+      Đó có thể là lần đầu bạn dám bộc lộ
+      sự nhạy cảm, mơ mộng
+      hoặc tin vào cảm xúc của mình.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng coi nhẹ
+      cảm xúc của bản thân,
+      xem chúng là trẻ con hoặc không quan trọng.
+      Điều này có thể khiến bạn
+      học cách kìm nén cảm xúc từ sớm.
+
+  present:
+    upright: >
+      Ở hiện tại, Page of Cups cho thấy
+      một lời mời cảm xúc mới đang xuất hiện.
+      Đó có thể là sự rung động nhẹ,
+      một trực giác bất ngờ,
+      hoặc mong muốn được kết nối
+      theo cách chân thành hơn.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang nghi ngờ cảm xúc của chính mình.
+      Bạn sợ rằng nếu mở lòng,
+      mình sẽ trở nên yếu đuối
+      hoặc không được nghiêm túc nhìn nhận.
+
+  future:
+    upright: >
+      Về hướng đi, Page of Cups gợi ý rằng
+      sự phát triển cảm xúc sẽ bắt đầu
+      từ việc cho phép mình tò mò,
+      thử nghiệm và cảm nhận
+      mà không tự phán xét.
+      Đây là khởi đầu của một chu kỳ cảm xúc mới.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu tiếp tục phủ nhận cảm xúc non trẻ bên trong,
+      bạn có thể bỏ lỡ cơ hội
+      học cách kết nối với chính mình
+      theo cách nhẹ nhàng hơn.
+
 ---
 
 ## Tổng quan về lá Page of Cups

@@ -28,6 +28,52 @@ guidance:
   - cân bằng giữa giữ gìn và chia sẻ
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/four-of-pentacles.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, Four of Pentacles cho thấy
+      bạn từng cố gắng giữ chặt những gì mình có.
+      Đó có thể là tiền bạc, vị trí hoặc cảm giác an toàn
+      sau một giai đoạn bất ổn.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng nhận ra
+      việc bám chặt quá mức
+      đã khiến mình căng thẳng và khép kín.
+
+  present:
+    upright: >
+      Ở hiện tại, Four of Pentacles cho thấy
+      bạn đang ưu tiên sự ổn định và kiểm soát.
+      Điều này giúp bạn cảm thấy an toàn,
+      nhưng cũng có thể khiến bạn
+      ngại thay đổi hoặc chia sẻ nguồn lực.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn đang học cách nới lỏng sự kiểm soát.
+      Có thể bạn bắt đầu nhận ra
+      rằng việc giữ chặt không phải lúc nào
+      cũng mang lại cảm giác an toàn thật sự.
+
+  future:
+    upright: >
+      Về hướng đi, Four of Pentacles gợi ý rằng
+      bạn cần cân nhắc giữa việc bảo vệ
+      những gì mình đã xây dựng
+      và việc cho phép dòng chảy tiếp tục.
+      Sự an toàn quá mức
+      có thể cản trở tăng trưởng.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      khi bạn dám buông bớt nỗi sợ mất mát,
+      nguồn lực mới sẽ có không gian để đi vào.
+      Sự linh hoạt sẽ giúp bạn
+      duy trì ổn định lâu dài hơn.
+
 ---
 
 ## Tổng quan về lá Four of Pentacles

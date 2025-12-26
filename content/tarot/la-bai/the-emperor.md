@@ -29,6 +29,57 @@ guidance:
   - chịu trách nhiệm cho vai trò của mình
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/the-emperor.webp"
+
+reading:
+  past:
+    upright: >
+      Trong quá khứ, The Emperor cho thấy
+      bạn từng phải thiết lập trật tự
+      và đứng ra chịu trách nhiệm.
+      Việc xây dựng cấu trúc
+      giúp bạn có nền tảng vững
+      để tiến lên.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài phản ánh
+      một giai đoạn bạn từng bị kiểm soát
+      hoặc thiếu ranh giới rõ ràng.
+      Sự lỏng lẻo khi đó
+      khiến bạn khó giữ ổn định.
+
+  present:
+    upright: >
+      Ở hiện tại, The Emperor cho thấy
+      đã đến lúc bạn cần
+      định hình ranh giới và luật chơi.
+      Lãnh đạo ở đây
+      không phải áp đặt,
+      mà là chịu trách nhiệm
+      cho lựa chọn và hậu quả.
+
+    reversed: >
+      Khi xuất hiện ngược, lá bài cho thấy
+      bạn có thể đang né tránh trách nhiệm
+      hoặc kiểm soát quá mức.
+      Lá bài nhắc rằng
+      quyền lực là để bảo vệ,
+      không phải để áp chế.
+
+  future:
+    upright: >
+      Về hướng đi, The Emperor gợi ý rằng
+      khi bạn xây được cấu trúc bền,
+      mọi thứ sẽ vận hành ổn định hơn.
+      Ranh giới rõ
+      tạo ra tự do lâu dài.
+
+    reversed: >
+      Ở trạng thái ngược, lá bài nhắc bạn rằng
+      nếu không thiết lập trật tự,
+      sự hỗn loạn sẽ quay lại.
+      Kỷ luật có ý thức
+      là chìa khóa cho bền vững.
+
 ---
 
 ## Tổng quan về lá The Emperor
