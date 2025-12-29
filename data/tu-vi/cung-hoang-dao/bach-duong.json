@@ -1,0 +1,11 @@
+{
+  "ten": "Bạch Dương",
+  "ky_hieu": "♈",
+  "nguyen_to": "Lửa",
+  "tinh_cach": {
+    "diem_manh": ["Nhiệt huyết", "Quyết đoán", "Dám hành động"],
+    "diem_yeu": ["Nóng vội", "Thiếu kiên nhẫn"]
+  },
+  "tu_khoa": ["tử vi bạch dương", "bạch dương tuần này"],
+  "mau_may_man": "Đỏ"
+}

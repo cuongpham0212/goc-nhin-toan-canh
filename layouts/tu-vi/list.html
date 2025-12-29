@@ -1,0 +1,55 @@
+{{ define "main" }}
+
+<section class="tu-vi-list container">
+
+  <!-- ===============================
+       HEADER
+       =============================== -->
+  <header class="tu-vi-list-header">
+    <h1 class="tu-vi-list-title">
+      {{ .Title }}
+    </h1>
+
+    {{ with .Params.description }}
+      <p class="tu-vi-list-description">
+        {{ . }}
+      </p>
+    {{ end }}
+  </header>
+
+  <!-- ===============================
+       DANH SÁCH 12 CUNG HOÀNG ĐẠO
+       =============================== -->
+  <div class="tu-vi-zodiac-grid">
+
+    {{ $cungData := index site.Data "tu-vi" "cung-hoang-dao" }}
+
+    {{ range $key, $cung := $cungData }}
+
+      <article class="zodiac-card">
+
+        <a href="/tu-vi/cung-hoang-dao/{{ $key }}/" class="zodiac-card-link">
+
+          <div class="zodiac-symbol">
+            {{ $cung.ky_hieu }}
+          </div>
+
+          <h2 class="zodiac-name">
+            {{ $cung.ten }}
+          </h2>
+
+          <div class="zodiac-element">
+            Nguyên tố: {{ $cung.nguyen_to }}
+          </div>
+
+        </a>
+
+      </article>
+
+    {{ end }}
+
+  </div>
+
+</section>
+
+{{ end }}

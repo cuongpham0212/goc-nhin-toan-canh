@@ -226,3 +226,44 @@ guidance:
 
 image: "https://cdn.example.com/tarot/major/the-fool.jpg"
 ---
+
+******* cáu trúc trang bói tuần
+
+content/
+└── tu-vi/
+    ├── _index.md               # Trang list 12 cung
+    └── cung-hoang-dao/
+        ├── bach-duong.md
+        ├── kim-nguu.md
+        ├── song-tu.md
+        ├── cu-giai.md
+        ├── su-tu.md
+        ├── xu-nu.md
+        ├── thien-binh.md
+        ├── bo-cap.md
+        ├── nhan-ma.md
+        ├── ma-ket.md
+        ├── bao-binh.md
+        └── song-ngu.md
+layouts/
+└── tu-vi/
+    ├── list.html               # Trang hiển thị 12 cung
+    └── single.html             # Trang bài viết từng cung
+data/
+└── tu-vi/
+    ├── thong-tin-tuan.json          # meta tuần
+    ├── kich-ban-viet.json           # intro / outro / CTA
+    ├── chu-de-tuan.json             # công việc / tình cảm / tài chính
+    └── cung-hoang-dao/
+        ├── bach-duong.json
+        ├── kim-nguu.json
+        ├── song-tu.json
+        ├── cu-giai.json
+        ├── su-tu.json
+        ├── xu-nu.json
+        ├── thien-binh.json
+        ├── bo-cap.json
+        ├── nhan-ma.json
+        ├── ma-ket.json
+        ├── bao-binh.json
+        └── song-ngu.json

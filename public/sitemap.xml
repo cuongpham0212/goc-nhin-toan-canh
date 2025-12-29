@@ -1,1 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://gocnhintoancanh.netlify.app/tarot/</loc><lastmod>2025-12-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://gocnhintoancanh.netlify.app/phan-tich/</loc><lastmod>2025-12-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://gocnhintoancanh.netlify.app/chuyen-doi/</loc><lastmod>2025-01-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://gocnhintoancanh.netlify.app/goc-nhin/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://gocnhintoancanh.netlify.app/mua-sam/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://gocnhintoancanh.netlify.app/gioi-thieu/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://gocnhintoancanh.netlify.app/tarot/</loc>
+    <lastmod>2025-12-26T00:32:00+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gocnhintoancanh.netlify.app/phan-tich/</loc>
+    <lastmod>2025-12-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gocnhintoancanh.netlify.app/chuyen-doi/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gocnhintoancanh.netlify.app/goc-nhin/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gocnhintoancanh.netlify.app/mua-sam/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gocnhintoancanh.netlify.app/gioi-thieu/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gocnhintoancanh.netlify.app/tu-vi/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

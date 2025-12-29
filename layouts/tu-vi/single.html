@@ -1,0 +1,117 @@
+{{ define "main" }}
+
+{{/* ==================================================
+     LOAD DATA
+     ================================================== */}}
+
+{{ $tuvi := index site.Data "tu-vi" }}
+{{ $tuan := index $tuvi "thong-tin-tuan" }}
+{{ $kichban := index $tuvi "kich-ban-viet" }}
+{{ $chude := index $tuvi "chu-de-tuan" }}
+
+{{/* ==================================================
+     XÁC ĐỊNH KEY CUNG (AN TOÀN)
+     ================================================== */}}
+
+{{ $cungKey := .Params.cung | default .File.TranslationBaseName }}
+{{ $cungData := index $tuvi "cung-hoang-dao" }}
+{{ $cung := index $cungData $cungKey }}
+
+<section class="tu-vi-single container">
+
+  <!-- ===============================
+       HEADER
+       =============================== -->
+  <header class="tu-vi-header">
+
+    <h1 class="tu-vi-title">{{ .Title }}</h1>
+
+    <div class="tu-vi-meta">
+      <span class="tu-vi-week">{{ $tuan.tuan }}</span>
+      ·
+      <span class="tu-vi-date">{{ $tuan.tu_ngay }} → {{ $tuan.den_ngay }}</span>
+    </div>
+
+  </header>
+
+  <!-- ===============================
+       GIỚI THIỆU
+       =============================== -->
+  <div class="tu-vi-intro">
+    {{ $intro := index $kichban.mo_bai (mod (now.Unix) (len $kichban.mo_bai)) }}
+    {{ replace $intro "{{ten_cung}}" $cung.ten }}
+  </div>
+
+  <!-- ===============================
+       TỔNG QUAN CUNG
+       =============================== -->
+  <section class="tu-vi-overview">
+
+    <h2>Tổng quan {{ $cung.ten }}</h2>
+
+    <ul class="tu-vi-traits">
+
+      {{ with $cung.nguyen_to }}
+        <li><strong>Nguyên tố:</strong> {{ . }}</li>
+      {{ end }}
+
+      {{ with $cung.tinh_cach.diem_manh }}
+        <li><strong>Điểm mạnh:</strong> {{ delimit . ", " }}</li>
+      {{ end }}
+
+      {{ with $cung.tinh_cach.diem_yeu }}
+        <li><strong>Điểm yếu:</strong> {{ delimit . ", " }}</li>
+      {{ end }}
+
+      {{ with $cung.mau_may_man }}
+        <li><strong>Màu may mắn:</strong> {{ . }}</li>
+      {{ end }}
+
+    </ul>
+
+  </section>
+
+  <!-- ===============================
+       DỰ ĐOÁN TUẦN
+       =============================== -->
+  <section class="tu-vi-forecast">
+
+    <h2>Dự đoán tuần này</h2>
+
+    <!-- Công việc -->
+    {{ with $chude.cong_viec }}
+      <div class="tu-vi-block">
+        <h3>Công việc</h3>
+        <p>{{ index . (mod (now.Unix) (len .)) }}</p>
+      </div>
+    {{ end }}
+
+    <!-- Tình cảm -->
+    {{ with $chude.tinh_cam }}
+      <div class="tu-vi-block">
+        <h3>Tình cảm</h3>
+        <p>{{ index . (mod (add (now.Unix) 3) (len .)) }}</p>
+      </div>
+    {{ end }}
+
+    <!-- Tài chính -->
+    {{ with $chude.tai_chinh }}
+      <div class="tu-vi-block">
+        <h3>Tài chính</h3>
+        <p>{{ index . (mod (add (now.Unix) 7) (len .)) }}</p>
+      </div>
+    {{ end }}
+
+  </section>
+
+  <!-- ===============================
+       KẾT BÀI
+       =============================== -->
+  <footer class="tu-vi-outro">
+    {{ $outro := index $kichban.ket_bai (mod (add (now.Unix) 11) (len $kichban.ket_bai)) }}
+    {{ replace $outro "{{ten_cung}}" $cung.ten }}
+  </footer>
+
+</section>
+
+{{ end }}
