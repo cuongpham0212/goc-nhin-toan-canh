@@ -16,7 +16,7 @@
       <a href="/chuyen-doi/">Chuyện đời</a>
 
       <!-- TAROT -->
-      <div class="nav-item {{ if hasPrefix .RelPermalink "/tarot/" }}active{{ end }}">
+      <div class="nav-item {{ if or (hasPrefix .RelPermalink "/tarot/") (hasPrefix .RelPermalink "/tu-vi/") }}active{{ end }}">
 
         <div class="nav-row">
           <a href="/tarot/" class="nav-parent">Tarot</a>
@@ -24,8 +24,27 @@
         </div>
 
         <ul class="nav-submenu">
-          <li><a href="/tarot/xem-tarot-online/">🔮 Xem Tarot Online – Rút 1 Lá</a></li>
-          <li><a href="/tarot/la-bai/">📖 Ý nghĩa 78 lá Tarot</a></li>
+          <li>
+            <a href="/tarot/xem-tarot-online/">
+              🔮 Xem Tarot Online – Rút 1 Lá
+            </a>
+          </li>
+
+          <li>
+            <a href="/tarot/la-bai/">
+              📖 Ý nghĩa 78 lá Tarot
+            </a>
+          </li>
+
+          <!-- DIVIDER -->
+          <li class="nav-divider"></li>
+
+          <!-- TU VI -->
+          <li>
+            <a href="/tu-vi/">
+              ✨ Tử vi tuần 12 cung hoàng đạo
+            </a>
+          </li>
         </ul>
       </div>
 
