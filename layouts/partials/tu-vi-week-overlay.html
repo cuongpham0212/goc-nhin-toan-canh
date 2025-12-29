@@ -1,6 +1,6 @@
 {{/* =====================================================
      TỬ VI – WEEK ARCHIVE OVERLAY
-     Chỉ hiển thị các tuần đã qua
+     Chỉ hiển thị các tuần đã qua (tu_vi_archive)
 ===================================================== */}}
 
 <!-- ===== TOGGLE BUTTON ===== -->
@@ -20,26 +20,25 @@
 
   <nav class="tuvi-week-content">
 
-    <!-- ===== ARCHIVE WEEKS (ẨN MẶC ĐỊNH) ===== -->
+    <!-- ===== ARCHIVE WEEKS ===== -->
     <ul class="tuvi-week-group past-weeks">
 
-      {{/* 
-        DỰ KIẾN RENDER:
-        range .Params.tu_vi_archive
-      */}}
-
-      <!-- placeholder ví dụ -->
-      <!--
-      <li>
-        <button data-week="2025-w48">
-          Tuần 48 · 25/11 → 01/12
-        </button>
-      </li>
-      -->
-
-      <li class="tuvi-week-empty">
-        Chưa có dữ liệu các tuần trước
-      </li>
+      {{ with .Params.tu_vi_archive }}
+        {{ range . }}
+          <li>
+            <button
+              type="button"
+              data-week="{{ .week_id }}"
+              title="{{ .summary }}">
+              Tuần {{ .tu_ngay }} → {{ .den_ngay }}
+            </button>
+          </li>
+        {{ end }}
+      {{ else }}
+        <li class="tuvi-week-empty">
+          Chưa có dữ liệu các tuần trước
+        </li>
+      {{ end }}
 
     </ul>
 
@@ -206,4 +205,30 @@ document.addEventListener("DOMContentLoaded", function () {
 
   autoDim();
 });
+
+document.addEventListener("DOMContentLoaded", function () {
+  const panel = document.getElementById("tuvi-week-panel");
+
+  if (!panel) return;
+
+  panel.querySelectorAll("button[data-week]").forEach(btn => {
+    btn.addEventListener("click", () => {
+      let summary = btn.getAttribute("data-summary") || btn.getAttribute("title");
+      if (!summary) return;
+
+      let existing = btn.parentElement.querySelector(".tuvi-week-summary");
+
+      // Toggle summary
+      if (existing) {
+        existing.remove();
+      } else {
+        let div = document.createElement("div");
+        div.className = "tuvi-week-summary";
+        div.textContent = summary;
+        btn.parentElement.appendChild(div);
+      }
+    });
+  });
+});
 </script>
+

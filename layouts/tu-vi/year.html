@@ -1,0 +1,136 @@
+{{ define "main" }}
+
+<!-- Gọi lại CSS article dùng chung -->
+<link rel="stylesheet" href="/css/module/tarot.article.css">
+
+{{/* ===== AUTO DETECT NĂM TỬ VI MỚI NHẤT ===== */}}
+{{ $year := "" }}
+{{ range where .Site.RegularPages "Section" "tu-vi" }}
+  {{ if findRE `^/tu-vi/nam-[0-9]{4}/` .RelPermalink }}
+    {{ $y := replaceRE `^/tu-vi/nam-([0-9]{4})/.*` "$1" .RelPermalink }}
+    {{ if or (eq $year "") (gt $y $year) }}
+      {{ $year = $y }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+<article class="tarot-article tuvi-article container">
+
+  <!-- ===== TOC OVERLAY (nếu có) ===== -->
+  {{ partial "article-toc-overlay.html" . }}
+
+  <!-- ===== HEADER ===== -->
+  <header class="tarot-header">
+
+    <h1 class="tarot-title">{{ .Title }}</h1>
+
+    {{ with .Params.image }}
+      <figure class="tarot-figure">
+        <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" />
+      </figure>
+    {{ end }}
+
+    {{ with .Params.summary }}
+      <p class="tarot-summary">{{ . }}</p>
+    {{ end }}
+
+  </header>
+
+  <!-- ===== CONTENT ===== -->
+  <section class="tarot-content">
+    {{ .Content }}
+  </section>
+
+  <!-- ===== 🔮 DANH SÁCH 12 CUNG (AUTO THEO NĂM) ===== -->
+  {{ if $year }}
+  <section class="tu-vi-year-zodiac-list">
+    <h2>Tử vi năm {{ $year }} theo 12 cung hoàng đạo</h2>
+
+    <ul class="zodiac-grid">
+      <li><a href="/tu-vi/nam-{{ $year }}/bach-duong/">♈ Bạch Dương</a></li>
+      <li><a href="/tu-vi/nam-{{ $year }}/kim-nguu/">♉ Kim Ngưu</a></li>
+      <li><a href="/tu-vi/nam-{{ $year }}/song-tu/">♊ Song Tử</a></li>
+      <li><a href="/tu-vi/nam-{{ $year }}/cu-giai/">♋ Cự Giải</a></li>
+      <li><a href="/tu-vi/nam-{{ $year }}/su-tu/">♌ Sư Tử</a></li>
+      <li><a href="/tu-vi/nam-{{ $year }}/xu-nu/">♍ Xử Nữ</a></li>
+      <li><a href="/tu-vi/nam-{{ $year }}/thien-binh/">♎ Thiên Bình</a></li>
+      <li><a href="/tu-vi/nam-{{ $year }}/bo-cap/">♏ Bọ Cạp</a></li>
+      <li><a href="/tu-vi/nam-{{ $year }}/nhan-ma/">♐ Nhân Mã</a></li>
+      <li><a href="/tu-vi/nam-{{ $year }}/ma-ket/">♑ Ma Kết</a></li>
+      <li><a href="/tu-vi/nam-{{ $year }}/bao-binh/">♒ Bảo Bình</a></li>
+      <li><a href="/tu-vi/nam-{{ $year }}/song-ngu/">♓ Song Ngư</a></li>
+    </ul>
+  </section>
+  {{ end }}
+
+  <!-- ===== CONTEMPLATION / GUIDANCE (OPTIONAL) ===== -->
+  {{ with .Params.guidance }}
+  <aside class="tarot-contemplation">
+    <h2>Gợi ý chiêm nghiệm</h2>
+    <ul>
+      {{ range . }}
+        <li>{{ . }}</li>
+      {{ end }}
+    </ul>
+  </aside>
+  {{ end }}
+
+  <!-- ===== NAVIGATION (TRONG CÙNG YEAR) ===== -->
+  <nav class="tarot-nav">
+
+    {{ with .PrevInSection }}
+      <a class="tarot-prev" href="{{ .RelPermalink }}">
+        ← {{ .Title }}
+      </a>
+    {{ end }}
+
+    {{ with .NextInSection }}
+      <a class="tarot-next" href="{{ .RelPermalink }}">
+        {{ .Title }} →
+      </a>
+    {{ end }}
+
+  </nav>
+
+  <!-- ===== FOOTER ===== -->
+  {{ if $year }}
+  <footer class="tarot-footer">
+    <a class="tarot-backlink" href="{{ printf "/tu-vi/nam-%s/" $year | relURL }}">
+      ← Quay lại Tử vi năm {{ $year }}
+    </a>
+  </footer>
+  {{ end }}
+
+</article>
+
+<!-- ===== CSS NHẸ CHO LIST 12 CUNG ===== -->
+<style>
+.tu-vi-year-zodiac-list {
+  margin: 40px 0;
+}
+
+.zodiac-grid {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 10px;
+}
+
+.zodiac-grid a {
+  display: block;
+  padding: 10px 12px;
+  background: rgba(0,0,0,.04);
+  border-radius: 8px;
+  text-decoration: none;
+  color: #111;
+  font-weight: 500;
+}
+
+.zodiac-grid a:hover {
+  background: rgba(196,0,0,.08);
+  color: #c40000;
+}
+</style>
+
+{{ end }}

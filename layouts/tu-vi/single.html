@@ -1,13 +1,23 @@
 {{ define "main" }}
 
 {{ $tuvi := index site.Data "tu-vi" }}
-{{ $tuan := index $tuvi "thong-tin-tuan" }}
 {{ $kichban := index $tuvi "kich-ban-viet" }}
 {{ $chude := index $tuvi "chu-de-tuan" }}
 
 {{ $cungKey := .Params.cung | default .File.TranslationBaseName }}
 {{ $cungData := index $tuvi "cung-hoang-dao" }}
 {{ $cung := index $cungData $cungKey }}
+
+{{/* ===== TỰ DÒ NĂM TỬ VI MỚI NHẤT ===== */}}
+{{ $year := "" }}
+{{ range where .Site.RegularPages "Section" "tu-vi" }}
+  {{ if findRE `^/tu-vi/nam-[0-9]{4}/` .RelPermalink }}
+    {{ $y := replaceRE `^/tu-vi/nam-([0-9]{4})/.*` "$1" .RelPermalink }}
+    {{ if or (eq $year "") (gt $y $year) }}
+      {{ $year = $y }}
+    {{ end }}
+  {{ end }}
+{{ end }}
 
 <article class="tarot-article tu-vi-article">
 
@@ -16,11 +26,13 @@
 
     <h1 class="tarot-title">{{ .Title }}</h1>
 
+    {{ with .Params.tu_vi_tuan }}
     <div class="tu-vi-meta">
       <button class="tu-vi-week-toggle" aria-expanded="false">
-        Tuần {{ $tuan.tu_ngay }} → {{ $tuan.den_ngay }}
+        Tuần {{ .tu_ngay }} → {{ .den_ngay }}
       </button>
     </div>
+    {{ end }}
 
     {{ with .Params.image }}
       <figure class="tarot-figure">
@@ -37,9 +49,10 @@
 
   <!-- ===== CONTENT ===== -->
   <div class="tarot-content">
-    
-{{ partial "tu-vi-week-overlay.html" . }}
 
+    {{ partial "tu-vi-week-overlay.html" . }}
+
+    <!-- ===== TỔNG QUAN ===== -->
     <h2>Tổng quan {{ $cung.ten }}</h2>
     <ul>
       {{ with $cung.nguyen_to }}<li><strong>Nguyên tố:</strong> {{ . }}</li>{{ end }}
@@ -48,28 +61,53 @@
       {{ with $cung.mau_may_man }}<li><strong>Màu may mắn:</strong> {{ . }}</li>{{ end }}
     </ul>
 
-    <h2>Dự đoán tuần này</h2>
+    <!-- ===== TUẦN HIỆN TẠI ===== -->
+    {{ with .Params.tu_vi_tuan }}
+    <section class="tu-vi-week current-week">
+      <h2>🔮 Dự đoán tuần này ({{ .tu_ngay }} → {{ .den_ngay }})</h2>
 
-    {{ with $chude.cong_viec }}
-      <h3>Công việc</h3>
-      <p>{{ index . (mod (now.Unix) (len .)) }}</p>
+      {{ with $chude.cong_viec }}
+        <h3>Công việc</h3>
+        <p>{{ index . (mod (now.Unix) (len .)) }}</p>
+      {{ end }}
+
+      {{ with $chude.tinh_cam }}
+        <h3>Tình cảm</h3>
+        <p>{{ index . (mod (add (now.Unix) 3) (len .)) }}</p>
+      {{ end }}
+
+      {{ with $chude.tai_chinh }}
+        <h3>Tài chính</h3>
+        <p>{{ index . (mod (add (now.Unix) 7) (len .)) }}</p>
+      {{ end }}
+    </section>
     {{ end }}
 
-    {{ with $chude.tinh_cam }}
-      <h3>Tình cảm</h3>
-      <p>{{ index . (mod (add (now.Unix) 3) (len .)) }}</p>
+    <!-- ===== 🔗 GỢI Ý XEM TỬ VI NĂM (CHỈ HIỆN KHI CÓ DATA) ===== -->
+    {{ if $year }}
+    <section class="tu-vi-year-suggest">
+      <p>
+        👉 Ngoài diễn biến theo tuần, tử vi năm sẽ giúp bạn thấy bức tranh dài hạn rõ hơn.
+        Xem chi tiết tại
+        <a href="/tu-vi/nam-{{ $year }}/{{ $cungKey }}/">
+          <strong>Tử vi năm {{ $year }} cung {{ $cung.ten }}</strong>
+        </a>.
+      </p>
+    </section>
     {{ end }}
 
-    {{ with $chude.tai_chinh }}
-      <h3>Tài chính</h3>
-      <p>{{ index . (mod (add (now.Unix) 7) (len .)) }}</p>
+    <!-- ===== TUẦN KẾ TIẾP ===== -->
+    {{ with .Params.tu_vi_next }}
+    <section class="tu-vi-week next-week">
+      <h2>📅 Tuần kế tiếp ({{ .tu_ngay }} → {{ .den_ngay }})</h2>
+
+      <p class="tu-vi-next-note">
+        Đây là xu hướng tổng quan cho tuần kế tiếp.
+        Nội dung chi tiết sẽ được cập nhật khi bước sang tuần mới.
+      </p>
+    </section>
     {{ end }}
 
-  </div>
-
-  <!-- ===== TUẦN CŨ (ẨN) ===== -->
-  <div class="tu-vi-old-weeks" hidden>
-    <!-- để trống, sau này mở rộng -->
   </div>
 
   <!-- ===== FOOTER ===== -->
@@ -80,18 +118,25 @@
 
 </article>
 
-<!-- ===== TOGGLE TUẦN ===== -->
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-  const btn = document.querySelector('.tu-vi-week-toggle');
-  const old = document.querySelector('.tu-vi-old-weeks');
-  if (!btn || !old) return;
-  btn.addEventListener('click', () => {
-    const open = btn.getAttribute('aria-expanded') === 'true';
-    btn.setAttribute('aria-expanded', !open);
-    old.hidden = open;
-  });
-});
-</script>
+<!-- ===== CSS NHẸ CHO GỢI Ý TỬ VI NĂM ===== -->
+<style>
+.tu-vi-year-suggest {
+  margin: 28px 0;
+  padding: 14px 18px;
+  border-left: 4px solid #c40000;
+  background: rgba(196, 0, 0, 0.06);
+  border-radius: 6px;
+  font-size: 15px;
+}
+
+.tu-vi-year-suggest a {
+  color: #c40000;
+  text-decoration: none;
+}
+
+.tu-vi-year-suggest a:hover {
+  text-decoration: underline;
+}
+</style>
 
 {{ end }}

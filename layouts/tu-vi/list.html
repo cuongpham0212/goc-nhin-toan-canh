@@ -1,55 +1,122 @@
 {{ define "main" }}
 
-<section class="tu-vi-list container">
+<link rel="stylesheet" href="/css/module/tarot.list.css">
 
-  <!-- ===============================
-       HEADER
-       =============================== -->
-  <header class="tu-vi-list-header">
-    <h1 class="tu-vi-list-title">
-      {{ .Title }}
-    </h1>
+<section class="tarot-list-page container tu-vi-list-page">
+
+  <!-- ===== PAGE TITLE ===== -->
+  <header class="tarot-list-header">
+    <h1 class="tarot-list-title">{{ .Title }}</h1>
 
     {{ with .Params.description }}
-      <p class="tu-vi-list-description">
-        {{ . }}
-      </p>
+      <p class="tarot-list-lead">{{ . }}</p>
     {{ end }}
   </header>
 
-  <!-- ===============================
-       DANH SÁCH 12 CUNG HOÀNG ĐẠO
-       =============================== -->
-  <div class="tu-vi-zodiac-grid">
+  <!-- ===== GỢI Ý TỬ VI NĂM (TEXT – KHÔNG CARD) ===== -->
+  <section class="tu-vi-year-intro">
+    <p>
+      🔮 Bạn muốn nhìn bức tranh dài hạn?
+      <a href="/tu-vi/nam-2026/">
+        Xem <strong>Tử vi năm 2026 – Tổng quan 12 cung hoàng đạo</strong>
+      </a>
+      để hiểu rõ xu hướng, nền móng và định hướng cả năm.
+    </p>
+  </section>
 
-    {{ $cungData := index site.Data "tu-vi" "cung-hoang-dao" }}
+  <!-- ===== GRID WRAPPER (CÓ THỤT LỀ) ===== -->
+  <div class="tu-vi-grid-wrapper">
 
-    {{ range $key, $cung := $cungData }}
+    <section class="tarot-suit-group tu-vi-zodiac-group">
 
-      <article class="zodiac-card">
+      <h2 class="tarot-suit-title">
+        Tử vi tuần 12 cung hoàng đạo
+      </h2>
 
-        <a href="/tu-vi/cung-hoang-dao/{{ $key }}/" class="zodiac-card-link">
+      <p class="tarot-suit-desc">
+        Chọn cung hoàng đạo của bạn để xem dự đoán tuần mới nhất
+        về công việc, tài chính và tình cảm.
+      </p>
 
-          <div class="zodiac-symbol">
-            {{ $cung.ky_hieu }}
-          </div>
+      <div class="tarot-grid-wrap">
+        <div class="tarot-grid">
 
-          <h2 class="zodiac-name">
-            {{ $cung.ten }}
-          </h2>
+          {{ range .Pages.ByWeight }}
+            {{ $page := . }}
 
-          <div class="zodiac-element">
-            Nguyên tố: {{ $cung.nguyen_to }}
-          </div>
+            {{ if eq $page.Params.loai "cung" }}
+              {{ $element := lower ($page.Params.nguyen_to | default "") }}
 
-        </a>
+              <article class="tarot-card-item tu-vi-card"
+                       data-element="{{ $element }}">
 
-      </article>
+                <a href="{{ $page.RelPermalink }}" class="tarot-card-link">
 
-    {{ end }}
+                  {{ with $page.Params.image }}
+                    <img src="{{ . }}" alt="{{ $page.Title }}" loading="lazy">
+                  {{ end }}
+
+                  <h3 class="tarot-card-title">
+                    {{ $page.Title }}
+                  </h3>
+
+                </a>
+              </article>
+            {{ end }}
+
+          {{ end }}
+
+        </div>
+      </div>
+
+    </section>
 
   </div>
 
 </section>
+
+<!-- ===== CSS FIX CÂN LỀ + HOVER THEO NGUYÊN TỐ ===== -->
+<style>
+/* ===== THỤT LỀ ĐỀU 2 BÊN ===== */
+.tu-vi-grid-wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* ===== GỢI Ý NĂM ===== */
+.tu-vi-year-intro {
+  margin: 24px auto 36px;
+  max-width: 720px;
+  text-align: center;
+  font-size: 1rem;
+  color: #374151;
+}
+
+.tu-vi-year-intro a {
+  color: #c40000;
+  text-decoration: none;
+}
+
+.tu-vi-year-intro a:hover {
+  text-decoration: underline;
+}
+
+/* ===== HOVER THEO NGUYÊN TỐ ===== */
+.tu-vi-card[data-element="lua"] .tarot-card-link:hover img {
+  box-shadow: 0 16px 36px rgba(220,38,38,.45);
+}
+
+.tu-vi-card[data-element="dat"] .tarot-card-link:hover img {
+  box-shadow: 0 16px 36px rgba(146,64,14,.45);
+}
+
+.tu-vi-card[data-element="khi"] .tarot-card-link:hover img {
+  box-shadow: 0 16px 36px rgba(37,99,235,.45);
+}
+
+.tu-vi-card[data-element="nuoc"] .tarot-card-link:hover img {
+  box-shadow: 0 16px 36px rgba(15,118,110,.45);
+}
+</style>
 
 {{ end }}
