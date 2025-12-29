@@ -4,7 +4,7 @@ description: "Xem tử vi tuần Nhân Mã về công việc, tình cảm và t�
 date: 2025-12-29
 lastmod: 2025-12-29
 author: "Góc Nhìn Toàn Cảnh"
-image: "/images/og-default.jpg"
+image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/cung-hoang-dao-nhan-ma.webp"
 pillar: false
 topic: "tu-vi-nhan-ma"
 related: []

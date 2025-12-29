@@ -4,7 +4,7 @@ description: "Tử vi tuần Xử Nữ giúp bạn nhìn rõ công việc, tình
 date: 2025-12-29
 lastmod: 2025-12-29
 author: "Góc Nhìn Toàn Cảnh"
-image: "/images/og-default.jpg"
+image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/cung-hoang-dao-xu-nu.webp"
 pillar: false
 topic: "tu-vi-xu-nu"
 related: []

@@ -4,7 +4,7 @@ description: "Tử vi tuần Kim Ngưu giúp bạn hiểu rõ xu hướng công 
 date: 2025-12-29
 lastmod: 2025-12-29
 author: "Góc Nhìn Toàn Cảnh"
-image: "/images/og-default.jpg"
+image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/cung-hoang-dao-kim-nguu.webp"
 pillar: false
 topic: "tu-vi-kim-nguu"
 related: []
