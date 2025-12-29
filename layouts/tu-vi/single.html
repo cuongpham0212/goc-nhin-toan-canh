@@ -1,218 +1,97 @@
 {{ define "main" }}
 
-{{/* ==================================================
-     LOAD DATA
-     ================================================== */}}
-
 {{ $tuvi := index site.Data "tu-vi" }}
 {{ $tuan := index $tuvi "thong-tin-tuan" }}
 {{ $kichban := index $tuvi "kich-ban-viet" }}
 {{ $chude := index $tuvi "chu-de-tuan" }}
 
-{{/* ==================================================
-     XÁC ĐỊNH KEY CUNG (AN TOÀN)
-     ================================================== */}}
-
 {{ $cungKey := .Params.cung | default .File.TranslationBaseName }}
 {{ $cungData := index $tuvi "cung-hoang-dao" }}
 {{ $cung := index $cungData $cungKey }}
 
-<section class="tu-vi-single container">
+<article class="tarot-article tu-vi-article">
 
-  <!-- ===============================
-       HEADER
-       =============================== -->
-  <header class="tu-vi-header">
+  <!-- ===== HEADER ===== -->
+  <header class="tarot-header">
 
-    <!-- ===============================
-     BREADCRUMB
-     =============================== -->
-    <nav class="tu-vi-breadcrumb" aria-label="Breadcrumb">
-      <ol>
-
-        <li>
-          <a href="/">Trang chủ</a>
-        </li>
-
-        <li>
-          <a href="/tarot/">Tarot</a>
-        </li>
-
-        <li>
-          <a href="/tu-vi/">Tử vi</a>
-        </li>
-
-        <li aria-current="page">
-            {{ $cung.ten }}
-        </li>
-
-      </ol>
-    </nav>
-
-
-    <h1 class="tu-vi-title">{{ .Title }}</h1>
+    <h1 class="tarot-title">{{ .Title }}</h1>
 
     <div class="tu-vi-meta">
-      <span class="tu-vi-week">{{ $tuan.tuan }}</span>
-      ·
-      <span class="tu-vi-date">{{ $tuan.tu_ngay }} → {{ $tuan.den_ngay }}</span>
+      <button class="tu-vi-week-toggle" aria-expanded="false">
+        Tuần {{ $tuan.tu_ngay }} → {{ $tuan.den_ngay }}
+      </button>
+    </div>
+
+    {{ with .Params.image }}
+      <figure class="tarot-figure">
+        <img src="{{ . }}" alt="Cung {{ $cung.ten }}">
+      </figure>
+    {{ end }}
+
+    <div class="tarot-summary">
+      {{ $intro := index $kichban.mo_bai (mod (now.Unix) (len $kichban.mo_bai)) }}
+      {{ replace $intro "{{ten_cung}}" $cung.ten }}
     </div>
 
   </header>
 
-  <!-- ===============================
-       GIỚI THIỆU
-       =============================== -->
-  <div class="tu-vi-intro">
-    {{ $intro := index $kichban.mo_bai (mod (now.Unix) (len $kichban.mo_bai)) }}
-    {{ replace $intro "{{ten_cung}}" $cung.ten }}
-  </div>
-
-  <!-- ===============================
-       TỔNG QUAN CUNG
-       =============================== -->
-  <section class="tu-vi-overview">
+  <!-- ===== CONTENT ===== -->
+  <div class="tarot-content">
+    
+{{ partial "tu-vi-week-overlay.html" . }}
 
     <h2>Tổng quan {{ $cung.ten }}</h2>
-
-    <ul class="tu-vi-traits">
-
-      {{ with $cung.nguyen_to }}
-        <li><strong>Nguyên tố:</strong> {{ . }}</li>
-      {{ end }}
-
-      {{ with $cung.tinh_cach.diem_manh }}
-        <li><strong>Điểm mạnh:</strong> {{ delimit . ", " }}</li>
-      {{ end }}
-
-      {{ with $cung.tinh_cach.diem_yeu }}
-        <li><strong>Điểm yếu:</strong> {{ delimit . ", " }}</li>
-      {{ end }}
-
-      {{ with $cung.mau_may_man }}
-        <li><strong>Màu may mắn:</strong> {{ . }}</li>
-      {{ end }}
-
+    <ul>
+      {{ with $cung.nguyen_to }}<li><strong>Nguyên tố:</strong> {{ . }}</li>{{ end }}
+      {{ with $cung.tinh_cach.diem_manh }}<li><strong>Điểm mạnh:</strong> {{ delimit . ", " }}</li>{{ end }}
+      {{ with $cung.tinh_cach.diem_yeu }}<li><strong>Điểm yếu:</strong> {{ delimit . ", " }}</li>{{ end }}
+      {{ with $cung.mau_may_man }}<li><strong>Màu may mắn:</strong> {{ . }}</li>{{ end }}
     </ul>
-
-  </section>
-
-  <!-- ===============================
-       DỰ ĐOÁN TUẦN
-       =============================== -->
-  <section class="tu-vi-forecast">
 
     <h2>Dự đoán tuần này</h2>
 
-    <!-- Công việc -->
     {{ with $chude.cong_viec }}
-      <div class="tu-vi-block">
-        <h3>Công việc</h3>
-        <p>{{ index . (mod (now.Unix) (len .)) }}</p>
-      </div>
+      <h3>Công việc</h3>
+      <p>{{ index . (mod (now.Unix) (len .)) }}</p>
     {{ end }}
 
-    <!-- Tình cảm -->
     {{ with $chude.tinh_cam }}
-      <div class="tu-vi-block">
-        <h3>Tình cảm</h3>
-        <p>{{ index . (mod (add (now.Unix) 3) (len .)) }}</p>
-      </div>
+      <h3>Tình cảm</h3>
+      <p>{{ index . (mod (add (now.Unix) 3) (len .)) }}</p>
     {{ end }}
 
-    <!-- Tài chính -->
     {{ with $chude.tai_chinh }}
-      <div class="tu-vi-block">
-        <h3>Tài chính</h3>
-        <p>{{ index . (mod (add (now.Unix) 7) (len .)) }}</p>
-      </div>
+      <h3>Tài chính</h3>
+      <p>{{ index . (mod (add (now.Unix) 7) (len .)) }}</p>
     {{ end }}
 
-  </section>
+  </div>
 
-  <!-- ===============================
-       KẾT BÀI
-       =============================== -->
-  <footer class="tu-vi-outro">
+  <!-- ===== TUẦN CŨ (ẨN) ===== -->
+  <div class="tu-vi-old-weeks" hidden>
+    <!-- để trống, sau này mở rộng -->
+  </div>
+
+  <!-- ===== FOOTER ===== -->
+  <footer class="tarot-footer">
     {{ $outro := index $kichban.ket_bai (mod (add (now.Unix) 11) (len $kichban.ket_bai)) }}
     {{ replace $outro "{{ten_cung}}" $cung.ten }}
   </footer>
 
-  <!-- ===============================
-     TAROT ↔ TỬ VI – GỢI MỞ NHẸ
-     =============================== -->
-<section class="tu-vi-tarot-link">
+</article>
 
-  <p class="tu-vi-tarot-text">
-    ✨ Nếu bạn muốn hiểu sâu hơn về <strong>năng lượng cá nhân</strong> trong tuần này,
-    hãy thử <a href="/tarot/xem-tarot-online/">rút 1 lá Tarot</a>
-    để lắng nghe thông điệp dành riêng cho bạn.
-  </p>
-
-</section>
-
-  <!-- ===============================
-     INTERNAL LINK – 12 CUNG
-     =============================== -->
-<section class="tu-vi-internal-links">
-
-  <h2 class="tu-vi-internal-title">
-    🔗 Tử vi tuần của 12 cung hoàng đạo
-  </h2>
-
-  <ul class="tu-vi-internal-list">
-
-    <li><a href="/tu-vi/cung-hoang-dao/bach-duong/">Bạch Dương</a></li>
-    <li><a href="/tu-vi/cung-hoang-dao/kim-nguu/">Kim Ngưu</a></li>
-    <li><a href="/tu-vi/cung-hoang-dao/song-tu/">Song Tử</a></li>
-    <li><a href="/tu-vi/cung-hoang-dao/cu-giai/">Cự Giải</a></li>
-    <li><a href="/tu-vi/cung-hoang-dao/su-tu/">Sư Tử</a></li>
-    <li><a href="/tu-vi/cung-hoang-dao/xu-nu/">Xử Nữ</a></li>
-    <li><a href="/tu-vi/cung-hoang-dao/thien-binh/">Thiên Bình</a></li>
-    <li><a href="/tu-vi/cung-hoang-dao/bo-cap/">Bọ Cạp</a></li>
-    <li><a href="/tu-vi/cung-hoang-dao/nhan-ma/">Nhân Mã</a></li>
-    <li><a href="/tu-vi/cung-hoang-dao/ma-ket/">Ma Kết</a></li>
-    <li><a href="/tu-vi/cung-hoang-dao/bao-binh/">Bảo Bình</a></li>
-    <li><a href="/tu-vi/cung-hoang-dao/song-ngu/">Song Ngư</a></li>
-
-  </ul>
-
-</section>
-
-<!-- ===============================
-     FAQ SCHEMA – TỬ VI TUẦN
-     =============================== -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Tuần này {{ $cung.ten }} có thuận lợi về công việc không?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "{{ index $chude.cong_viec (mod (now.Unix) (len $chude.cong_viec)) }}"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Tình cảm của {{ $cung.ten }} trong tuần này ra sao?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "{{ index $chude.tinh_cam (mod (add (now.Unix) 3) (len $chude.tinh_cam)) }}"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "{{ $cung.ten }} có nên chi tiêu hay đầu tư trong tuần này không?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "{{ index $chude.tai_chinh (mod (add (now.Unix) 7) (len $chude.tai_chinh)) }}"
-      }
-    }
-  ]
-}
+<!-- ===== TOGGLE TUẦN ===== -->
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const btn = document.querySelector('.tu-vi-week-toggle');
+  const old = document.querySelector('.tu-vi-old-weeks');
+  if (!btn || !old) return;
+  btn.addEventListener('click', () => {
+    const open = btn.getAttribute('aria-expanded') === 'true';
+    btn.setAttribute('aria-expanded', !open);
+    old.hidden = open;
+  });
+});
 </script>
 
 {{ end }}
