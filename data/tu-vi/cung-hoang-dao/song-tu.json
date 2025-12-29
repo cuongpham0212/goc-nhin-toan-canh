@@ -1,0 +1,25 @@
+{
+  "ten": "Song Tử",
+  "ky_hieu": "♊",
+  "nguyen_to": "Khí",
+  "hanh_tinh_chu_quan": "Sao Thủy",
+  "tinh_cach": {
+    "diem_manh": [
+      "Giao tiếp tốt",
+      "Linh hoạt",
+      "Thông minh",
+      "Ham học hỏi"
+    ],
+    "diem_yeu": [
+      "Dễ phân tâm",
+      "Thiếu kiên định",
+      "Hay thay đổi ý kiến"
+    ]
+  },
+  "tu_khoa_seo": [
+    "tử vi song tử",
+    "tử vi tuần song tử",
+    "song tử tuần này",
+    "tính cách song tử"
+  ]
+}

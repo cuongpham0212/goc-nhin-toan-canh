@@ -1,16 +1,13 @@
 ---
-title: ""
-description: ""
-date: 2025-12-29
-lastmod: 2025-12-29
+title: "Tử vi tuần Bảo Bình – Đổi mới, tự do và góc nhìn khác"
+description: "Xem tử vi tuần Bảo Bình về công việc, tình cảm và tài chính. Những điều Bảo Bình nên chú ý trong tuần này."
+date: 2025-12-28
+lastmod: 2025-12-28
 author: "Góc Nhìn Toàn Cảnh"
 image: "/images/og-default.jpg"
-
-type: "article"
 pillar: false
-topic: ""
+topic: "tu-vi-bao-binh"
 related: []
 
-draft: true
+draft: false
 ---
-

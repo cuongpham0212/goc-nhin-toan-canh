@@ -1,16 +1,12 @@
 ---
-title: ""
-description: ""
+title: "Tử vi tuần Xử Nữ – Trật tự, điều chỉnh và hiệu quả"
+description: "Tử vi tuần Xử Nữ giúp bạn nhìn rõ công việc, tình cảm và tài chính. Lời khuyên thực tế dành cho Xử Nữ trong tuần này."
 date: 2025-12-29
 lastmod: 2025-12-29
 author: "Góc Nhìn Toàn Cảnh"
 image: "/images/og-default.jpg"
-
-type: "article"
 pillar: false
-topic: ""
+topic: "tu-vi-xu-nu"
 related: []
-
-draft: true
+draft: false
 ---
-

@@ -69,3 +69,72 @@ article.article-body img {
     padding-right: 1rem;
   }
 }
+/* ===============================
+   BREADCRUMB – TỬ VI
+   =============================== */
+
+.tu-vi-breadcrumb,
+.tu-vi-breadcrumb ol {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.tu-vi-breadcrumb ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  gap: 0.35rem;
+}
+
+.tu-vi-breadcrumb li {
+  display: flex;
+  align-items: center;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.tu-vi-breadcrumb li::after {
+  content: "›";
+  margin: 0 0.35rem;
+  color: #999;
+}
+
+.tu-vi-breadcrumb li:last-child::after {
+  content: "";
+}
+
+.tu-vi-breadcrumb a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.tu-vi-breadcrumb a:hover {
+  text-decoration: underline;
+}
+/* ===============================
+   TAROT ↔ TỬ VI – CROSS LINK
+   =============================== */
+
+.tu-vi-tarot-link {
+  margin: 2.5rem 0 1.5rem;
+  padding: 1.25rem 1.5rem;
+  background: #f9fafb;
+  border-left: 4px solid #c084fc;
+}
+
+.tu-vi-tarot-text {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #374151;
+}
+
+.tu-vi-tarot-text a {
+  color: #7c3aed;
+  text-decoration: underline;
+}
+
+.tu-vi-tarot-text a:hover {
+  color: #5b21b6;
+}

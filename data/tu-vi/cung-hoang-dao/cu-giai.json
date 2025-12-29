@@ -1,0 +1,25 @@
+{
+  "ten": "Cự Giải",
+  "ky_hieu": "♋",
+  "nguyen_to": "Nước",
+  "hanh_tinh_chu_quan": "Mặt Trăng",
+  "tinh_cach": {
+    "diem_manh": [
+      "Nhạy cảm",
+      "Quan tâm gia đình",
+      "Giàu cảm xúc",
+      "Biết lắng nghe"
+    ],
+    "diem_yeu": [
+      "Dễ bị cảm xúc chi phối",
+      "Hay lo lắng",
+      "Khó buông bỏ quá khứ"
+    ]
+  },
+  "tu_khoa_seo": [
+    "tử vi cự giải",
+    "tử vi tuần cự giải",
+    "cự giải tuần này",
+    "tính cách cự giải"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "ten": "Bảo Bình",
+  "ky_hieu": "♒",
+  "nguyen_to": "Khí",
+  "hanh_tinh_chu_quan": "Sao Thiên Vương",
+  "tinh_cach": {
+    "diem_manh": [
+      "Độc lập",
+      "Sáng tạo",
+      "Nhân văn",
+      "Tư duy khác biệt"
+    ],
+    "diem_yeu": [
+      "Khó đoán",
+      "Xa cách cảm xúc",
+      "Không thích bị kiểm soát"
+    ]
+  },
+  "tu_khoa_seo": [
+    "tử vi bảo bình",
+    "tử vi tuần bảo bình",
+    "bảo bình tuần này",
+    "tính cách bảo bình"
+  ]
+}

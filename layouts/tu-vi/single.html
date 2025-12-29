@@ -24,6 +24,32 @@
        =============================== -->
   <header class="tu-vi-header">
 
+    <!-- ===============================
+     BREADCRUMB
+     =============================== -->
+    <nav class="tu-vi-breadcrumb" aria-label="Breadcrumb">
+      <ol>
+
+        <li>
+          <a href="/">Trang chủ</a>
+        </li>
+
+        <li>
+          <a href="/tarot/">Tarot</a>
+        </li>
+
+        <li>
+          <a href="/tu-vi/">Tử vi</a>
+        </li>
+
+        <li aria-current="page">
+            {{ $cung.ten }}
+        </li>
+
+      </ol>
+    </nav>
+
+
     <h1 class="tu-vi-title">{{ .Title }}</h1>
 
     <div class="tu-vi-meta">
@@ -112,6 +138,81 @@
     {{ replace $outro "{{ten_cung}}" $cung.ten }}
   </footer>
 
+  <!-- ===============================
+     TAROT ↔ TỬ VI – GỢI MỞ NHẸ
+     =============================== -->
+<section class="tu-vi-tarot-link">
+
+  <p class="tu-vi-tarot-text">
+    ✨ Nếu bạn muốn hiểu sâu hơn về <strong>năng lượng cá nhân</strong> trong tuần này,
+    hãy thử <a href="/tarot/xem-tarot-online/">rút 1 lá Tarot</a>
+    để lắng nghe thông điệp dành riêng cho bạn.
+  </p>
+
 </section>
+
+  <!-- ===============================
+     INTERNAL LINK – 12 CUNG
+     =============================== -->
+<section class="tu-vi-internal-links">
+
+  <h2 class="tu-vi-internal-title">
+    🔗 Tử vi tuần của 12 cung hoàng đạo
+  </h2>
+
+  <ul class="tu-vi-internal-list">
+
+    <li><a href="/tu-vi/cung-hoang-dao/bach-duong/">Bạch Dương</a></li>
+    <li><a href="/tu-vi/cung-hoang-dao/kim-nguu/">Kim Ngưu</a></li>
+    <li><a href="/tu-vi/cung-hoang-dao/song-tu/">Song Tử</a></li>
+    <li><a href="/tu-vi/cung-hoang-dao/cu-giai/">Cự Giải</a></li>
+    <li><a href="/tu-vi/cung-hoang-dao/su-tu/">Sư Tử</a></li>
+    <li><a href="/tu-vi/cung-hoang-dao/xu-nu/">Xử Nữ</a></li>
+    <li><a href="/tu-vi/cung-hoang-dao/thien-binh/">Thiên Bình</a></li>
+    <li><a href="/tu-vi/cung-hoang-dao/bo-cap/">Bọ Cạp</a></li>
+    <li><a href="/tu-vi/cung-hoang-dao/nhan-ma/">Nhân Mã</a></li>
+    <li><a href="/tu-vi/cung-hoang-dao/ma-ket/">Ma Kết</a></li>
+    <li><a href="/tu-vi/cung-hoang-dao/bao-binh/">Bảo Bình</a></li>
+    <li><a href="/tu-vi/cung-hoang-dao/song-ngu/">Song Ngư</a></li>
+
+  </ul>
+
+</section>
+
+<!-- ===============================
+     FAQ SCHEMA – TỬ VI TUẦN
+     =============================== -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Tuần này {{ $cung.ten }} có thuận lợi về công việc không?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ index $chude.cong_viec (mod (now.Unix) (len $chude.cong_viec)) }}"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Tình cảm của {{ $cung.ten }} trong tuần này ra sao?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ index $chude.tinh_cam (mod (add (now.Unix) 3) (len $chude.tinh_cam)) }}"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "{{ $cung.ten }} có nên chi tiêu hay đầu tư trong tuần này không?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ index $chude.tai_chinh (mod (add (now.Unix) 7) (len $chude.tai_chinh)) }}"
+      }
+    }
+  ]
+}
+</script>
 
 {{ end }}

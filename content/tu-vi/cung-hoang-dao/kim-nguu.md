@@ -1,16 +1,12 @@
 ---
-title: ""
-description: ""
+title: "Tử vi tuần Kim Ngưu – Ổn định, cảm xúc và tiền bạc"
+description: "Tử vi tuần Kim Ngưu giúp bạn hiểu rõ xu hướng công việc, tình cảm và tài chính. Lời khuyên dành cho Kim Ngưu trong tuần này."
 date: 2025-12-29
 lastmod: 2025-12-29
 author: "Góc Nhìn Toàn Cảnh"
 image: "/images/og-default.jpg"
-
-type: "article"
 pillar: false
-topic: ""
+topic: "tu-vi-kim-nguu"
 related: []
-
-draft: true
+draft: false
 ---
-

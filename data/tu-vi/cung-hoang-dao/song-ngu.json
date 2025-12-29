@@ -1,0 +1,25 @@
+{
+  "ten": "Song Ngư",
+  "ky_hieu": "♓",
+  "nguyen_to": "Nước",
+  "hanh_tinh_chu_quan": "Sao Hải Vương",
+  "tinh_cach": {
+    "diem_manh": [
+      "Nhạy cảm",
+      "Giàu lòng trắc ẩn",
+      "Sáng tạo",
+      "Trực giác mạnh"
+    ],
+    "diem_yeu": [
+      "Dễ mơ mộng",
+      "Thiếu ranh giới",
+      "Dễ bị ảnh hưởng bởi môi trường"
+    ]
+  },
+  "tu_khoa_seo": [
+    "tử vi song ngư",
+    "tử vi tuần song ngư",
+    "song ngư tuần này",
+    "tính cách song ngư"
+  ]
+}

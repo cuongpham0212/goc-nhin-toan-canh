@@ -1,0 +1,25 @@
+{
+  "ten": "Nhân Mã",
+  "ky_hieu": "♐",
+  "nguyen_to": "Lửa",
+  "hanh_tinh_chu_quan": "Sao Mộc",
+  "tinh_cach": {
+    "diem_manh": [
+      "Lạc quan",
+      "Yêu tự do",
+      "Thẳng thắn",
+      "Ham khám phá"
+    ],
+    "diem_yeu": [
+      "Thiếu kiên nhẫn",
+      "Nói thẳng dễ làm người khác tổn thương",
+      "Ngại ràng buộc"
+    ]
+  },
+  "tu_khoa_seo": [
+    "tử vi nhân mã",
+    "tử vi tuần nhân mã",
+    "nhân mã tuần này",
+    "tính cách nhân mã"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "ten": "Sư Tử",
+  "ky_hieu": "♌",
+  "nguyen_to": "Lửa",
+  "hanh_tinh_chu_quan": "Mặt Trời",
+  "tinh_cach": {
+    "diem_manh": [
+      "Tự tin",
+      "Lãnh đạo",
+      "Hào phóng",
+      "Sáng tạo"
+    ],
+    "diem_yeu": [
+      "Cái tôi cao",
+      "Dễ tự ái",
+      "Thích được chú ý"
+    ]
+  },
+  "tu_khoa_seo": [
+    "tử vi sư tử",
+    "tử vi tuần sư tử",
+    "sư tử tuần này",
+    "tính cách sư tử"
+  ]
+}

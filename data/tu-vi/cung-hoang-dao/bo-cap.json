@@ -1,0 +1,25 @@
+{
+  "ten": "Bọ Cạp",
+  "ky_hieu": "♏",
+  "nguyen_to": "Nước",
+  "hanh_tinh_chu_quan": "Sao Diêm Vương",
+  "tinh_cach": {
+    "diem_manh": [
+      "Sâu sắc",
+      "Quyết liệt",
+      "Trung thành",
+      "Trực giác mạnh"
+    ],
+    "diem_yeu": [
+      "Ghen tuông",
+      "Khó tin người",
+      "Cực đoan khi tổn thương"
+    ]
+  },
+  "tu_khoa_seo": [
+    "tử vi bọ cạp",
+    "tử vi tuần bọ cạp",
+    "bọ cạp tuần này",
+    "tính cách bọ cạp"
+  ]
+}

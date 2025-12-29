@@ -1,0 +1,25 @@
+{
+  "ten": "Kim Ngưu",
+  "ky_hieu": "♉",
+  "nguyen_to": "Đất",
+  "hanh_tinh_chu_quan": "Sao Kim",
+  "tinh_cach": {
+    "diem_manh": [
+      "Ổn định",
+      "Kiên nhẫn",
+      "Đáng tin cậy",
+      "Thực tế"
+    ],
+    "diem_yeu": [
+      "Bướng bỉnh",
+      "Ngại thay đổi",
+      "Dễ cố chấp khi đã quyết"
+    ]
+  },
+  "tu_khoa_seo": [
+    "tử vi kim ngưu",
+    "tử vi tuần kim ngưu",
+    "kim ngưu tuần này",
+    "tính cách kim ngưu"
+  ]
+}

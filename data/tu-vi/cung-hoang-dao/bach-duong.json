@@ -2,10 +2,24 @@
   "ten": "Bạch Dương",
   "ky_hieu": "♈",
   "nguyen_to": "Lửa",
+  "hanh_tinh_chu_quan": "Sao Hỏa",
   "tinh_cach": {
-    "diem_manh": ["Nhiệt huyết", "Quyết đoán", "Dám hành động"],
-    "diem_yeu": ["Nóng vội", "Thiếu kiên nhẫn"]
+    "diem_manh": [
+      "Chủ động",
+      "Nhiệt huyết",
+      "Dám nghĩ dám làm",
+      "Quyết đoán"
+    ],
+    "diem_yeu": [
+      "Nóng vội",
+      "Thiếu kiên nhẫn",
+      "Dễ hành động theo cảm xúc"
+    ]
   },
-  "tu_khoa": ["tử vi bạch dương", "bạch dương tuần này"],
-  "mau_may_man": "Đỏ"
+  "tu_khoa_seo": [
+    "tử vi bạch dương",
+    "tử vi tuần bạch dương",
+    "bạch dương tuần này",
+    "tính cách bạch dương"
+  ]
 }

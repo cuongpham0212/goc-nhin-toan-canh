@@ -1,0 +1,25 @@
+{
+  "ten": "Ma Kết",
+  "ky_hieu": "♑",
+  "nguyen_to": "Đất",
+  "hanh_tinh_chu_quan": "Sao Thổ",
+  "tinh_cach": {
+    "diem_manh": [
+      "Kỷ luật",
+      "Tham vọng",
+      "Bền bỉ",
+      "Có trách nhiệm"
+    ],
+    "diem_yeu": [
+      "Khô khan",
+      "Quá nghiêm khắc",
+      "Khó bộc lộ cảm xúc"
+    ]
+  },
+  "tu_khoa_seo": [
+    "tử vi ma kết",
+    "tử vi tuần ma kết",
+    "ma kết tuần này",
+    "tính cách ma kết"
+  ]
+}

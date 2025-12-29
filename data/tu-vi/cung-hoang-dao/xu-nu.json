@@ -1,0 +1,25 @@
+{
+  "ten": "Xử Nữ",
+  "ky_hieu": "♍",
+  "nguyen_to": "Đất",
+  "hanh_tinh_chu_quan": "Sao Thủy",
+  "tinh_cach": {
+    "diem_manh": [
+      "Tỉ mỉ",
+      "Cẩn thận",
+      "Trách nhiệm",
+      "Phân tích tốt"
+    ],
+    "diem_yeu": [
+      "Cầu toàn",
+      "Hay lo xa",
+      "Khó hài lòng"
+    ]
+  },
+  "tu_khoa_seo": [
+    "tử vi xử nữ",
+    "tử vi tuần xử nữ",
+    "xử nữ tuần này",
+    "tính cách xử nữ"
+  ]
+}
