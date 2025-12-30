@@ -3,6 +3,12 @@
   "ky_hieu": "♉",
   "nguyen_to": "Đất",
   "hanh_tinh_chu_quan": "Sao Kim",
+
+  "ngay_sinh": {
+  "tu": "20/04",
+  "den": "20/05"
+},
+
   "tinh_cach": {
     "diem_manh": [
       "Ổn định",

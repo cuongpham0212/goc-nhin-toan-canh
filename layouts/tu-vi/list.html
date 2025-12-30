@@ -11,6 +11,10 @@
     {{ with .Params.description }}
       <p class="tarot-list-lead">{{ . }}</p>
     {{ end }}
+
+     <!-- ===== BOX TÌM CUNG THEO NGÀY SINH ===== -->
+  {{ partial "tu-vi-find-zodiac.html" . }}
+
   </header>
 
   <!-- ===== GỢI Ý TỬ VI NĂM (TEXT – KHÔNG CARD) ===== -->
@@ -117,6 +121,66 @@
 .tu-vi-card[data-element="nuoc"] .tarot-card-link:hover img {
   box-shadow: 0 16px 36px rgba(15,118,110,.45);
 }
+
+/* ===== HEADER FLEX ===== */
+.tu-vi-header-flex {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 32px;
+  margin-bottom: 40px;
+}
+
+/* Text bên trái */
+.tu-vi-header-text {
+  max-width: 640px;
+}
+
+/* ===== BOX TÌM CUNG ===== */
+.tu-vi-find-zodiac {
+  min-width: 280px;
+  padding: 16px 18px;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0,0,0,.08);
+  font-size: 0.95rem;
+}
+
+.tu-vi-find-zodiac h3 {
+  margin: 0 0 10px;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.tu-vi-find-form {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.tu-vi-find-form select,
+.tu-vi-find-form button {
+  padding: 6px 8px;
+  font-size: 0.9rem;
+}
+
+.tu-vi-find-result {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+/* ===== MOBILE ===== */
+@media (max-width: 900px) {
+  .tu-vi-header-flex {
+    flex-direction: column;
+  }
+
+  .tu-vi-find-zodiac {
+    width: 100%;
+    max-width: 420px;
+  }
+}
+
 </style>
 
 {{ end }}

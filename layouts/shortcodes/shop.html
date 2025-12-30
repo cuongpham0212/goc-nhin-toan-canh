@@ -1,0 +1,117 @@
+{{/* ===============================
+   SHOP SHORTCODE – ALL IN ONE
+   HTML + CSS + JS
+   =============================== */}}
+
+{{/* Inject CSS + JS ONLY ONCE */}}
+{{ if not (.Page.Scratch.Get "shop_assets_loaded") }}
+  {{ .Page.Scratch.Set "shop_assets_loaded" true }}
+
+<style>
+/* ===== SHOP GRID ===== */
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px,1fr));
+  gap: 16px;
+  margin: 20px 0;
+}
+
+/* ===== PRODUCT CARD ===== */
+.product-card {
+  border: 1px solid #eee;
+  padding: 10px;
+  border-radius: 10px;
+  background: #fff;
+  text-align: center;
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+
+.product-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0,0,0,.08);
+}
+
+.product-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.product-card h3 {
+  font-size: 14px;
+  margin: 8px 0 0;
+  line-height: 1.4;
+}
+
+/* ===== MOBILE FIX ===== */
+@media (max-width: 480px) {
+  .product-card h3 {
+    font-size: 13px;
+  }
+}
+</style>
+
+<script>
+/* SHOP JS – placeholder cho sau này
+   (tracking, lazy enhance, click log…) */
+document.addEventListener("DOMContentLoaded", function () {
+  // console.log("Shop shortcode loaded");
+});
+</script>
+
+{{ end }}
+
+{{/* ===============================
+   SHORTCODE LOGIC
+   =============================== */}}
+
+{{ $type := .Get "type" }}
+
+{{/* GRID START */}}
+{{ if eq $type "grid-start" }}
+
+<div class="product-grid">
+
+{{/* GRID END */}}
+{{ else if eq $type "grid-end" }}
+
+</div>
+
+{{/* PRODUCT ITEM */}}
+{{ else if eq $type "product" }}
+
+<div class="product-card"
+     itemscope
+     itemtype="https://schema.org/Product">
+
+  <a href="{{ .Get "link" }}"
+     target="_blank"
+     rel="nofollow sponsored"
+     itemprop="url">
+
+    <img
+      src="{{ .Get "image" }}"
+      alt="{{ .Get "title" }}"
+      loading="lazy"
+      itemprop="image">
+
+    <h3 itemprop="name">
+      {{ .Get "title" }}
+    </h3>
+
+  </a>
+
+  {{ with .Get "price" }}
+  <meta itemprop="offers"
+        itemscope
+        itemtype="https://schema.org/Offer">
+    <meta itemprop="priceCurrency" content="VND">
+    <meta itemprop="price" content="{{ . }}">
+    <link itemprop="availability"
+          href="https://schema.org/InStock">
+  </meta>
+  {{ end }}
+
+</div>
+
+{{ end }}

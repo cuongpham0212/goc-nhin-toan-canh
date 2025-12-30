@@ -3,6 +3,12 @@
   "ky_hieu": "♌",
   "nguyen_to": "Lửa",
   "hanh_tinh_chu_quan": "Mặt Trời",
+
+  "ngay_sinh": {
+  "tu": "23/07",
+  "den": "22/08"
+},
+
   "tinh_cach": {
     "diem_manh": [
       "Tự tin",

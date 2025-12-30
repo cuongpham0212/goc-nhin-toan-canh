@@ -3,6 +3,12 @@
   "ky_hieu": "♓",
   "nguyen_to": "Nước",
   "hanh_tinh_chu_quan": "Sao Hải Vương",
+
+  "ngay_sinh": {
+  "tu": "19/02",
+  "den": "20/03"
+},
+
   "tinh_cach": {
     "diem_manh": [
       "Nhạy cảm",

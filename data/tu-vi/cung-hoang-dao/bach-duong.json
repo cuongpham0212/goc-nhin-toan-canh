@@ -3,6 +3,12 @@
   "ky_hieu": "♈",
   "nguyen_to": "Lửa",
   "hanh_tinh_chu_quan": "Sao Hỏa",
+
+  "ngay_sinh": {
+    "tu": "21/03",
+    "den": "19/04"
+  },
+
   "tinh_cach": {
     "diem_manh": [
       "Chủ động",
@@ -16,6 +22,7 @@
       "Dễ hành động theo cảm xúc"
     ]
   },
+
   "tu_khoa_seo": [
     "tử vi bạch dương",
     "tử vi tuần bạch dương",

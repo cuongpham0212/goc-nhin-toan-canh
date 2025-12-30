@@ -3,6 +3,12 @@
   "ky_hieu": "♒",
   "nguyen_to": "Khí",
   "hanh_tinh_chu_quan": "Sao Thiên Vương",
+
+  "ngay_sinh": {
+  "tu": "20/01",
+  "den": "18/02"
+},
+
   "tinh_cach": {
     "diem_manh": [
       "Độc lập",

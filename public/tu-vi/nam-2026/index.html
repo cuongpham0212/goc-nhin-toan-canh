@@ -608,11 +608,274 @@ document.addEventListener("DOMContentLoaded", function () {
   <header class="tarot-header">
 
     <h1 class="tarot-title">Tử vi năm 2026 – Tổng quan 12 cung hoàng đạo</h1>
+    
+      <div class="tu-vi-find-container">
+
+  
+  <button class="tu-vi-find-toggle"
+          type="button"
+          onclick="toggleZodiacBox()">
+    🔍 Xác định cung hoàng đạo
+  </button>
+
+  
+  <div class="tu-vi-find-zodiac-box" id="zodiac-box">
+
+    <div class="tu-vi-find-header">
+      <h3>Xác định cung hoàng đạo</h3>
+      <p class="tu-vi-find-note">
+        Công cụ này chỉ giúp bạn biết mình thuộc cung nào theo ngày sinh.
+      </p>
+    </div>
+
+    <div class="tu-vi-find-form">
+
+      
+      <div class="picker-wrapper">
+        <button type="button" class="picker-btn" onclick="togglePicker('day')">
+          <span id="day-label">Ngày</span>
+        </button>
+        <div class="picker-grid day-grid" id="day-picker"></div>
+      </div>
+
+      
+      <div class="picker-wrapper">
+        <button type="button" class="picker-btn" onclick="togglePicker('month')">
+          <span id="month-label">Tháng</span>
+        </button>
+        <div class="picker-grid month-grid" id="month-picker"></div>
+      </div>
+
+      <button type="button" onclick="findZodiac()">Xác định cung</button>
+    </div>
+
+    <p id="zodiac-result" class="tu-vi-find-result"></p>
+
+  </div>
+</div>
+
+<script>
+ 
+function toggleZodiacBox() {
+  document.getElementById("zodiac-box")
+    .classList.toggle("is-open");
+}
+
+let selectedDay = null;
+let selectedMonth = null;
+
+ 
+const zodiac = [
+  { key:"ma-ket", ten:"Ma Kết", from:[22,12], to:[19,1], element:"Đất" },
+  { key:"bao-binh", ten:"Bảo Bình", from:[20,1], to:[18,2], element:"Khí" },
+  { key:"song-ngu", ten:"Song Ngư", from:[19,2], to:[20,3], element:"Nước" },
+  { key:"bach-duong", ten:"Bạch Dương", from:[21,3], to:[19,4], element:"Lửa" },
+  { key:"kim-nguu", ten:"Kim Ngưu", from:[20,4], to:[20,5], element:"Đất" },
+  { key:"song-tu", ten:"Song Tử", from:[21,5], to:[20,6], element:"Khí" },
+  { key:"cu-giai", ten:"Cự Giải", from:[21,6], to:[22,7], element:"Nước" },
+  { key:"su-tu", ten:"Sư Tử", from:[23,7], to:[22,8], element:"Lửa" },
+  { key:"xu-nu", ten:"Xử Nữ", from:[23,8], to:[22,9], element:"Đất" },
+  { key:"thien-binh", ten:"Thiên Bình", from:[23,9], to:[22,10], element:"Khí" },
+  { key:"bo-cap", ten:"Bọ Cạp", from:[23,10], to:[21,11], element:"Nước" },
+  { key:"nhan-ma", ten:"Nhân Mã", from:[22,11], to:[21,12], element:"Lửa" }
+];
+
+function detectZodiac(day, month) {
+  return zodiac.find(z =>
+    (month === z.from[1] && day >= z.from[0]) ||
+    (month === z.to[1] && day <= z.to[0])
+  );
+}
+
+ 
+function togglePicker(type) {
+  document.getElementById(type + "-picker").classList.toggle("open");
+}
+
+function selectDay(day) {
+  selectedDay = day;
+  document.getElementById("day-label").textContent = day;
+  document.getElementById("day-picker").classList.remove("open");
+}
+
+function selectMonth(month) {
+  selectedMonth = month;
+  document.getElementById("month-label").textContent = "Tháng " + month;
+  document.getElementById("month-picker").classList.remove("open");
+}
+
+ 
+function findZodiac() {
+  const result = document.getElementById("zodiac-result");
+
+  if (!selectedDay || !selectedMonth) {
+    result.textContent = "Vui lòng chọn ngày và tháng sinh.";
+    return;
+  }
+
+  const z = detectZodiac(selectedDay, selectedMonth);
+  if (z) {
+    result.innerHTML = `
+      Bạn thuộc cung <strong>${z.ten}</strong> (${z.element})<br>
+      <a class="tu-vi-find-cta"
+         href="/tu-vi/cung-hoang-dao/${z.key}/">
+        👉 Xem cung này nói gì về bạn →
+      </a>
+    `;
+  }
+}
+
+ 
+const dayGrid = document.getElementById("day-picker");
+for (let i = 1; i <= 31; i++) {
+  dayGrid.innerHTML += `<button onclick="selectDay(${i})">${i}</button>`;
+}
+
+const monthGrid = document.getElementById("month-picker");
+for (let i = 1; i <= 12; i++) {
+  monthGrid.innerHTML += `<button onclick="selectMonth(${i})">${i}</button>`;
+}
+
+document.addEventListener("click", function (e) {
+  const box = document.getElementById("zodiac-box");
+  const toggle = document.querySelector(".tu-vi-find-toggle");
+
+  if (!box || !toggle) return;
+
+  const clickedInsideBox = box.contains(e.target);
+  const clickedToggle = toggle.contains(e.target);
+
+  if (!clickedInsideBox && !clickedToggle) {
+    box.classList.remove("is-open");
+  }
+});
+
+</script>
+
+<style>
+ 
+.tu-vi-find-container {
+  position: relative;
+  display: inline-block;
+  margin: 16px auto 28px;
+}
+
+ 
+.tu-vi-find-toggle {
+  padding: 6px 14px;
+  font-size: .9rem;
+  border-radius: 999px;
+  background: #111827;
+  color: #fff;
+  cursor: pointer;
+}
+
+ 
+.tu-vi-find-zodiac-box {
+  position: absolute;
+  top: 115%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-6px);
+
+  width: 360px;
+  padding: 16px 18px;
+  background: #ffffff;
+  border-radius: 14px;
+  box-shadow: 0 18px 40px rgba(0,0,0,.18);
+
+  opacity: 0;
+  pointer-events: none;
+  transition: all .25s ease;
+  z-index: 30;
+}
+
+ 
+.tu-vi-find-zodiac-box.is-open {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateX(-50%) translateY(0);
+}
+
+ 
+.tu-vi-find-form {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  align-items: center;
+}
+
+ 
+.picker-wrapper {
+  position: relative;
+}
+
+.picker-btn {
+  padding: 6px 10px;
+  font-size: .85rem;
+  border-radius: 6px;
+  background: #f3f4f6;
+  cursor: pointer;
+}
+
+.picker-grid {
+  position: absolute;
+  top: 110%;
+  left: 0;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.15);
+  padding: 8px;
+  display: none;
+  gap: 6px;
+  z-index: 40;
+}
+
+.picker-grid.open {
+  display: grid;
+}
+
+.day-grid {
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.month-grid {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.picker-grid button {
+  padding: 6px;
+  font-size: .8rem;
+  border-radius: 6px;
+  background: #f9fafb;
+  cursor: pointer;
+}
+
+.picker-grid button:hover {
+  background: #111827;
+  color: #fff;
+}
+
+ 
+.tu-vi-find-zodiac-box {
+  will-change: opacity, transform;
+}
+
+</style>
 
     
 
     
 
+    
+
+    
+
+
+
+
+
+
+    
   </header>
 
   

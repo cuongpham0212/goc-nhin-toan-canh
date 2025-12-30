@@ -3,6 +3,12 @@
   "ky_hieu": "♎",
   "nguyen_to": "Khí",
   "hanh_tinh_chu_quan": "Sao Kim",
+
+  "ngay_sinh": {
+  "tu": "23/09",
+  "den": "22/10"
+},
+
   "tinh_cach": {
     "diem_manh": [
       "Cân bằng",

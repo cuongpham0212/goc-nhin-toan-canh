@@ -3,6 +3,12 @@
   "ky_hieu": "♐",
   "nguyen_to": "Lửa",
   "hanh_tinh_chu_quan": "Sao Mộc",
+
+  "ngay_sinh": {
+  "tu": "22/11",
+  "den": "21/12"
+},
+
   "tinh_cach": {
     "diem_manh": [
       "Lạc quan",

@@ -3,6 +3,12 @@
   "ky_hieu": "♊",
   "nguyen_to": "Khí",
   "hanh_tinh_chu_quan": "Sao Thủy",
+
+  "ngay_sinh": {
+  "tu": "21/05",
+  "den": "20/06"
+},
+
   "tinh_cach": {
     "diem_manh": [
       "Giao tiếp tốt",

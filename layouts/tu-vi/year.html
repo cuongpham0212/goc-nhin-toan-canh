@@ -23,6 +23,9 @@
   <header class="tarot-header">
 
     <h1 class="tarot-title">{{ .Title }}</h1>
+    {{ if .IsSection }}
+      {{ partial "tu-vi-find-zodiac.html" . }}
+    {{ end }}
 
     {{ with .Params.image }}
       <figure class="tarot-figure">
@@ -34,6 +37,8 @@
       <p class="tarot-summary">{{ . }}</p>
     {{ end }}
 
+    {{ partial "tu-vi-cung-date.html" . }}
+    
   </header>
 
   <!-- ===== CONTENT ===== -->

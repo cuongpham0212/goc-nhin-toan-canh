@@ -3,6 +3,12 @@
   "ky_hieu": "♍",
   "nguyen_to": "Đất",
   "hanh_tinh_chu_quan": "Sao Thủy",
+  
+  "ngay_sinh": {
+  "tu": "23/08",
+  "den": "22/09"
+},
+
   "tinh_cach": {
     "diem_manh": [
       "Tỉ mỉ",

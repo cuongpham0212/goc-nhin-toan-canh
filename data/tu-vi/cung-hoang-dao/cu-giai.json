@@ -3,6 +3,12 @@
   "ky_hieu": "♋",
   "nguyen_to": "Nước",
   "hanh_tinh_chu_quan": "Mặt Trăng",
+
+  "ngay_sinh": {
+  "tu": "21/06",
+  "den": "22/07"
+},
+
   "tinh_cach": {
     "diem_manh": [
       "Nhạy cảm",

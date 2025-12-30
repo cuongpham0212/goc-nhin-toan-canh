@@ -1,0 +1,17 @@
+{{ $key := .Params.cung | default .File.TranslationBaseName }}
+
+{{ $tuvi := index site.Data "tu-vi" }}
+{{ $cungData := index $tuvi "cung-hoang-dao" }}
+{{ $cung := index $cungData $key }}
+
+{{ if and $cung (isset $cung "ngay_sinh") }}
+<div class="tu-vi-cung-date">
+  <strong>{{ index $cung "ten" }}</strong>
+  <span class="tu-vi-cung-range">
+    (Có ngày sinh từ {{ index (index $cung "ngay_sinh") "tu" }} - {{ index (index $cung "ngay_sinh") "den" }})
+  </span>
+  <span class="tu-vi-cung-element">
+    · Nguyên tố {{ index $cung "nguyen_to" }}
+  </span>
+</div>
+{{ end }}
