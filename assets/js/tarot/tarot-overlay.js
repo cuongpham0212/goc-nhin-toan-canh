@@ -24,15 +24,46 @@ function initStarsCanvas() {
     canvas.height = window.innerHeight
   }
 
-  const STAR_COUNT = window.innerWidth < 768 ? 70 : 140
+  const STAR_COUNT = window.innerWidth < 768 ? 170 : 340
 
-  stars = Array.from({ length: STAR_COUNT }, () => ({
-    x: Math.random() * canvas.width,
-    y: Math.random() * canvas.height,
-    r: Math.random() * 1.4 + 0.6,      // ⭐ to hơn chút cho dễ thấy
-    o: Math.random() * 0.6 + 0.4,      // ⭐ opacity nền cao hơn
-    d: Math.random() * 0.01 + 0.004
-  }))
+  stars = Array.from({ length: STAR_COUNT }, () => {
+    const layer = Math.random()
+
+    if (layer < 0.75) {
+      // 🌑 sao nền xa
+      return {
+        x: Math.random() * canvas.width,
+        y: Math.random() * canvas.height,
+        r: Math.random() * 0.8 + 0.3,
+        o: Math.random() * 0.35 + 0.15,
+        d: Math.random() * 0.002 + 0.001,
+        glow: 0
+      }
+    }
+
+    if (layer < 0.9) {
+      // 🌌 sao trung
+      return {
+        x: Math.random() * canvas.width,
+        y: Math.random() * canvas.height,
+        r: Math.random() * 1.2 + 0.6,
+        o: Math.random() * 0.6 + 0.3,
+        d: Math.random() * 0.006 + 0.003,
+        glow: 6
+      }
+    }
+
+      // ✨ sao linh
+    return {
+      x: Math.random() * canvas.width,
+      y: Math.random() * canvas.height,
+      r: Math.random() * 1.8 + 1.2,
+      o: Math.random() * 0.8 + 0.6,
+      d: Math.random() * 0.004 + 0.002,
+      glow: 14
+    }
+  })
+
 
   // mở overlay (phù hợp với draw-one.js hiện tại)
   overlayEl.hidden = false
@@ -63,11 +94,17 @@ function animateStars() {
 
     // ✨ SAO PHÁT SÁNG – CHẮC CHẮN THẤY
     ctx.fillStyle = `rgba(255,255,255,${s.o})`
-    ctx.shadowBlur = 10
-    ctx.shadowColor = "rgba(180,200,255,0.95)"
+
+    if (s.glow > 0) {
+      ctx.shadowBlur = s.glow
+      ctx.shadowColor = "rgba(160,180,255,0.9)"
+    } else {
+      ctx.shadowBlur = 0
+    }
 
     ctx.fill()
-  })
+
+    })
 
   // reset shadow để tránh ảnh hưởng frame sau
   ctx.shadowBlur = 0
