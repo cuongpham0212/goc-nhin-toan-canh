@@ -33,58 +33,86 @@ reading:
   past:
     upright: >
       Trong quá khứ, Ten of Wands cho thấy
-      bạn từng ôm quá nhiều trách nhiệm.
-      Dù xuất phát từ nhiệt huyết,
-      việc gánh vác một mình
-      đã khiến bạn kiệt sức
-      trước khi kịp tận hưởng thành quả.
+      đã từng có một giai đoạn
+      bạn gánh vác quá nhiều trách nhiệm.
+      Sau khi cố gắng không ngừng,
+      bạn mang trên vai
+      cả những nghĩa vụ
+      không hoàn toàn thuộc về mình.
+      Trải nghiệm này khiến bạn
+      hiểu rõ cảm giác
+      kiệt sức đến từ đâu,
+      và bắt đầu nhận ra
+      giới hạn thật sự của bản thân.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một lần bạn từng nhận ra
-      mình không thể làm tất cả.
-      Việc buông bớt gánh nặng
-      khi đó là bước đầu
-      để lấy lại cân bằng.
+      Khi Ten of Wands xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn đã từng
+      buông bớt một phần gánh nặng.
+      Có thể bạn nhận ra
+      rằng không phải trách nhiệm nào
+      cũng cần mình gánh,
+      và việc học cách từ chối
+      đã giúp bạn nhẹ nhõm hơn
+      trong một giai đoạn nhất định.
 
   present:
     upright: >
-      Ở hiện tại, Ten of Wands cho thấy
-      bạn đang mang quá nhiều trên vai.
-      Lá bài không phủ nhận
-      sức mạnh của bạn,
-      nhưng nhắc rằng
-      hành trình này
-      đã đến lúc cần khép lại
-      hoặc tái cấu trúc.
+      Ở hiện tại, Ten of Wands phản ánh
+      trạng thái quá tải rõ rệt.
+      Bạn có thể đang cố gắng
+      hoàn thành mọi thứ,
+      gánh trách nhiệm cho nhiều người,
+      hoặc đặt quá nhiều áp lực
+      lên chính mình.
+      Dù mục tiêu đã ở rất gần,
+      bạn lại cảm thấy
+      mệt mỏi hơn bao giờ hết.
+      Trải bài này nhắc bạn
+      rằng không phải cứ gồng thêm
+      là sẽ đi nhanh hơn.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn đang chuẩn bị
-      đặt xuống những gánh nặng không cần thiết.
-      Việc hoàn tất
-      không nhất thiết phải đau đớn —
-      đôi khi chỉ cần
-      dừng đúng lúc.
+      Khi Ten of Wands ngược xuất hiện ở hiện tại,
+      bạn bắt đầu ý thức
+      rằng mình không thể tiếp tục như vậy.
+      Có thể bạn đang tìm cách
+      phân chia lại trách nhiệm,
+      hoặc cho phép bản thân
+      dừng lại và thở.
+      Đây là dấu hiệu cho thấy
+      quá trình giải phóng gánh nặng
+      đã bắt đầu.
 
   future:
     upright: >
-      Về hướng đi, Ten of Wands gợi ý rằng
-      một chu kỳ sẽ kết thúc
-      để nhường chỗ
-      cho giai đoạn nhẹ hơn.
-      Khi bạn hoàn tất
-      và biết dừng,
-      ngọn lửa mới
-      sẽ có không gian để bùng lên.
+      Nhìn về phía trước, Ten of Wands cho thấy
+      nếu bạn tiếp tục ôm đồm,
+      sự kiệt sức có thể
+      che mờ cả thành quả đạt được.
+      Dù đích đến rất gần,
+      việc mang quá nhiều
+      có thể khiến bạn
+      không còn đủ sức
+      để tận hưởng kết quả.
+      Hướng đi này khuyên bạn
+      hãy xem lại
+      điều gì thật sự cần thiết
+      để tiếp tục.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu không chủ động buông,
-      gánh nặng sẽ tự kéo bạn dừng lại.
-      Kết thúc có ý thức
-      là món quà
-      bạn dành cho chính mình.
+      Ở hướng đi phía trước, Ten of Wands ngược mở ra
+      khả năng bạn sẽ
+      buông bỏ phần gánh nặng
+      không còn cần thiết.
+      Khi bạn học cách
+      chia sẻ và đặt giới hạn,
+      hành trình sẽ trở nên
+      nhẹ hơn và bền vững hơn.
+      Đây là bước chuyển
+      từ việc chỉ cố gắng hoàn thành
+      sang việc hoàn thành
+      mà không tự làm mình kiệt quệ.
 
 ---
 

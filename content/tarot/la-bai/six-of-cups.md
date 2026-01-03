@@ -32,214 +32,280 @@ image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/six-of-cups
 reading:
   past:
     upright: >
-      Trong quá khứ, Six of Cups cho thấy
-      những ký ức ấm áp hoặc mối liên kết thuần khiết
-      từng là điểm tựa cảm xúc quan trọng với bạn.
-      Đó có thể là thời thơ ấu, một mối quan hệ cũ,
-      hoặc giai đoạn bạn cảm thấy an toàn và được là chính mình.
+      Trong quá khứ, Six of Cups cho thấy đã từng có
+      một giai đoạn bạn tìm lại được
+      cảm giác an toàn và quen thuộc về mặt cảm xúc.
+      Sau những mất mát hoặc thất vọng,
+      bạn có thể đã quay về
+      với những ký ức đẹp,
+      những mối quan hệ cũ
+      hoặc những giá trị thuần khiết
+      từng khiến bạn cảm thấy được là chính mình.
+      Giai đoạn này giúp bạn
+      hàn gắn phần nào
+      những tổn thương đã trải qua.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      việc bạn từng bị mắc kẹt trong hoài niệm.
-      Có thể bạn đã nhìn quá khứ bằng lăng kính lý tưởng,
-      khiến hiện tại trở nên nặng nề hoặc khó chấp nhận.
+      Khi Six of Cups xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      bám víu quá nhiều vào quá khứ.
+      Việc tìm kiếm sự an toàn
+      trong những điều đã qua
+      khiến bạn khó bước tiếp,
+      và đôi khi bỏ lỡ
+      những cơ hội chữa lành
+      ở hiện tại.
 
   present:
     upright: >
-      Ở hiện tại, Six of Cups cho thấy
-      bạn đang được mời gọi kết nối lại
-      với phần trong trẻo bên trong mình.
-      Đây là thời điểm phù hợp để chữa lành,
-      tha thứ hoặc quay về những giá trị
-      từng khiến bạn cảm thấy an toàn.
+      Ở hiện tại, Six of Cups phản ánh
+      nhu cầu được chữa lành
+      và tìm lại sự nhẹ nhàng trong cảm xúc.
+      Bạn có thể đang cảm thấy
+      dễ mở lòng hơn,
+      hoặc sẵn sàng tha thứ
+      cho bản thân và người khác.
+      Đây là giai đoạn
+      cảm xúc trở nên dịu lại,
+      không còn quá nặng nề
+      như những gì bạn vừa trải qua.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang tránh né hiện tại
-      bằng cách quay về quá khứ.
-      Có khả năng bạn đang cần học cách
-      trân trọng ký ức mà không để nó
-      cản trở sự trưởng thành của mình.
+      Khi Six of Cups ngược xuất hiện ở hiện tại,
+      bạn có thể đang phân vân
+      giữa việc buông bỏ quá khứ
+      hay tiếp tục giữ lấy nó.
+      Dù mong muốn được chữa lành,
+      bạn vẫn còn chút do dự
+      khi phải rời xa
+      những gì từng quen thuộc.
+      Trạng thái này phản ánh
+      quá trình hồi phục
+      vẫn đang diễn ra,
+      nhưng chưa hoàn toàn trọn vẹn.
 
   future:
     upright: >
-      Về hướng đi, Six of Cups gợi ý rằng
-      sự chữa lành sẽ đến thông qua
-      việc kết nối lại với những gì chân thật,
-      giản dị và mang lại cảm giác thuộc về.
+      Nhìn về phía trước, Six of Cups mở ra
+      một giai đoạn cảm xúc nhẹ nhàng hơn.
+      Khi bạn cho phép mình
+      đón nhận sự tử tế,
+      sự quan tâm chân thành,
+      bạn sẽ cảm thấy
+      trái tim mình dần được làm dịu.
+      Đây là bước chuyển
+      từ việc chỉ tồn tại sau tổn thương
+      sang việc thật sự sống lại
+      với cảm xúc thuần khiết hơn.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      đã đến lúc buông bỏ những ràng buộc cũ.
-      Khi bạn cho phép mình lớn lên
-      mà không phủ nhận quá khứ,
-      con đường phía trước sẽ nhẹ nhàng hơn.
+      Ở hướng đi phía trước, Six of Cups ngược nhắc bạn
+      rằng quá trình chữa lành
+      cần đi kèm với việc trưởng thành.
+      Nếu bạn tiếp tục
+      chỉ tìm kiếm sự an toàn
+      trong những điều cũ,
+      bạn có thể tự giới hạn mình.
+      Hướng đi này khuyên bạn
+      hãy mang theo bài học của quá khứ,
+      nhưng đừng để nó
+      giữ chân bạn lại.
+
+---
+
+## Six of Cups là gì?
+
+**Six of Cups** là lá bài đại diện cho **ký ức, hồi tưởng và sự chữa lành thông qua cảm xúc trong trẻo**, khi con người quay về với những điều giản dị đã từng mang lại cảm giác an toàn và ấm áp.
+
+Nếu Five of Cups là nỗi buồn vì mất mát chưa được buông,  
+thì Six of Cups là khoảnh khắc **nỗi buồn dịu xuống**,  
+để ta có thể chạm lại những ký ức không còn làm đau nữa.
+
+> Khi ta nhớ về quá khứ  
+> không để tiếc nuối, mà để **nhắc mình rằng mình đã từng được yêu thương**.
 
 ---
 
 ## Tổng quan về lá Six of Cups
 
-**Six of Cups** xuất hiện sau giai đoạn đau buồn và tiếc nuối của **Five of Cups**.  
-Nếu Five of Cups là lúc ta nhìn thẳng vào nỗi mất mát, thì Six of Cups là khoảnh khắc **trái tim được dịu lại**.
+**Six of Cups** thuộc nhóm **Cups** trong Tarot – đại diện cho **cảm xúc, ký ức và sự kết nối tinh thần**.  
+Trong hệ **Minor Arcana**, số **6** mang ý nghĩa của **hài hòa – cân bằng – hồi phục** sau giai đoạn xáo trộn.
 
-Đây là lá bài của:
-- Ký ức
-- Hoài niệm
-- Sự ấm áp đến từ những điều quen thuộc
+Six of Cups không nói về việc quay lại quá khứ để sống lại ở đó,  
+mà nói về:
+- Việc cho phép ký ức xuất hiện
+- Nhìn lại những điều tốt đẹp đã từng có
+- Và sử dụng ký ức như **nguồn lực chữa lành**
 
-Six of Cups không kéo ta quay lại quá khứ để mắc kẹt, mà mời ta **chạm vào quá khứ để chữa lành hiện tại**.
+Nếu:
+- Four of Cups là khép lại vì quá tải  
+- Five of Cups là đau buồn vì mất mát  
+
+thì Six of Cups là:  
+**“Ký ức không còn làm ta tổn thương, mà giúp ta đứng vững hơn.”**
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Biểu tượng và hình ảnh cốt lõi
 
-Hình ảnh quen thuộc của Six of Cups thường là:
-- Hai đứa trẻ
-- Những chiếc cốc chứa hoa
-- Không gian yên bình, giản dị
+Hình ảnh quen thuộc của Six of Cups thường bao gồm:
+- **Hai đứa trẻ** – sự ngây thơ và trong sáng
+- **Những chiếc cốc chứa hoa** – ký ức đẹp được nâng niu
+- **Không gian yên bình** – an toàn để cảm xúc quay về
 
-Biểu tượng này gợi nhắc:
-👉 Sự ngây thơ, chân thành và an toàn về mặt cảm xúc.
+Điểm then chốt của lá bài này là:  
+**Quá khứ được nhìn bằng đôi mắt đã trưởng thành.**
 
-Khác với nỗi buồn của Five of Cups, Six of Cups mang năng lượng:
-- Nhẹ
-- Chậm
-- Và rất con người
+Six of Cups không phủ nhận tổn thương đã từng xảy ra,  
+nhưng nhấn mạnh rằng **không phải mọi ký ức đều mang nỗi đau**.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Six of Cups
+
+Six of Cups mang năng lượng của **Mặt Trời (Sun)** trong **cung Bọ Cạp (Scorpio)** – biểu trưng cho **sự chiếu sáng ký ức sâu bên trong và quá trình chữa lành thông qua việc đối diện quá khứ**.
+
+Năng lượng Mặt Trời trong Bọ Cạp thể hiện qua:
+- Khả năng soi sáng những ký ức từng bị chôn sâu
+- Chuyển hóa nỗi đau thành sự thấu hiểu
+- Hồi phục cảm xúc bằng sự chân thành với chính mình
+
+Six of Cups cho thấy:  
+**Ký ức không còn là bóng tối – nó được mang ra ánh sáng để chữa lành.**
+
+Nếu bạn quan tâm đến sự vận hành cảm xúc sâu và các mối quan hệ mang tính chuyển hóa của cung này theo dòng thời gian, có thể tham khảo thêm:  
+**[Tử vi cung Bọ Cạp năm 2026](/tu-vi/nam-2026/bo-cap/)**
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Six of Cups
 
-### 🌼 Hoài niệm và ký ức đẹp
+### Ký ức và hồi tưởng
 
 Six of Cups xuôi cho thấy:
-- Nhớ về quá khứ với cảm xúc êm dịu
-- Những kỷ niệm mang tính nuôi dưỡng
-- Sự kết nối với “phiên bản cũ” của chính mình
+- Nhớ về quá khứ với sự dịu dàng
+- Kết nối lại với những cảm xúc trong trẻo
+- Cảm giác an toàn khi được là chính mình
 
-Đây có thể là:
-- Ký ức tuổi thơ
-- Một mối quan hệ cũ
-- Hoặc một giai đoạn đơn giản nhưng chân thật
+Đây là giai đoạn:
+**ký ức không còn gây tổn thương, mà mang tính nâng đỡ.**
 
 ---
 
-### 🧸 Chữa lành đứa trẻ bên trong
+### Chữa lành bằng sự trong trẻo
 
-Lá bài này thường xuất hiện khi:
-- Ta đã trải qua mất mát
-- Đã đủ mệt mỏi với phòng vệ
-- Và cần sự dịu dàng hơn là lý trí
+Lá bài này xuất hiện khi:
+- Bạn cần quay lại những giá trị cốt lõi
+- Tìm sự chữa lành qua những điều giản dị
+- Hoặc kết nối với “đứa trẻ bên trong” đã từng bị bỏ quên
 
-Six of Cups nhắc:
-> *Không phải mọi chữa lành đều cần đào sâu đau đớn.  
-Đôi khi, chỉ cần được an toàn là đủ.*
+Six of Cups nhắc rằng:  
+👉 Đôi khi, chữa lành không cần phân tích –  
+chỉ cần **cho phép mình cảm thấy an toàn trở lại**.
 
 ---
 
-### 🌿 Sự giản dị và chân thành
+### Sự tử tế và chân thành
 
-Six of Cups cũng là lời mời:
-- Quay về những giá trị đơn giản
-- Tạm rời xa phức tạp cảm xúc
-- Sống chậm lại
-
-Niềm vui nhỏ, quen thuộc có thể là liều thuốc mạnh mẽ.
+Six of Cups cũng nói về:
+- Lòng tốt không vụ lợi
+- Sự cho đi xuất phát từ ký ức đẹp
+- Những kết nối không đòi hỏi trao đổi
 
 ---
 
 ## Six of Cups trong các khía cạnh đời sống
 
-### 🔹 Trong tình cảm
+### Trong tình cảm
+Six of Cups phản ánh sự gắn bó dựa trên ký ức chung, cảm giác quen thuộc và an toàn. Đây có thể là sự kết nối sâu sắc, nơi hai người cảm thấy được là chính mình mà không cần phòng vệ.
 
-- Kết nối dựa trên sự quen thuộc
-- Cảm giác an toàn khi ở bên ai đó
-- Có thể là người cũ quay lại, hoặc cảm xúc cũ trỗi dậy
-
-Six of Cups không nói về đam mê mãnh liệt, mà nói về:
-👉 *Sự ấm áp khiến ta được là chính mình.*
+### Trong công việc & cuộc sống
+Trong công việc, lá bài cho thấy việc quay lại những giá trị cốt lõi, cách làm đơn giản hoặc những điều từng mang lại ý nghĩa. Đây là thời điểm tốt để làm việc bằng sự chân thành thay vì áp lực thành tích.
 
 ---
 
-### 🔹 Trong công việc & đời sống
+## Six of Cups (Ngược) – Khi quá khứ níu kéo hiện tại
 
-- Quay lại cách làm cũ hiệu quả
-- Nhớ về lý do ban đầu mình bắt đầu
-- Áp dụng giá trị cốt lõi đã từng đúng
+Khi **Six of Cups xuất hiện ở vị trí ngược**, lá bài cho thấy **sự mắc kẹt trong ký ức**.
 
-Đôi khi, tiến lên bằng cách **nhớ lại điều đã từng nuôi dưỡng ta**.
+### Ý nghĩa chính
 
----
+Six of Cups ngược thường biểu hiện:
+- Lý tưởng hóa quá khứ
+- So sánh hiện tại với những điều đã qua
+- Khó sống trọn vẹn với hiện tại
 
-### 🔹 Trong đời sống nội tâm
-
-Six of Cups xuất hiện khi:
-- Ta cần sự an ủi
-- Hoặc cần kết nối lại với phần trong trẻo bên trong
-
-Đây là giai đoạn **tái tạo cảm xúc**, không phải trốn tránh.
+Đây là dấu hiệu cho thấy:
+**ký ức cần được đặt đúng vị trí, không phải nơi để trốn tránh.**
 
 ---
 
-## Six of Cups (Ngược) – Khi quá khứ níu giữ
+### Góc nhìn tâm lý
 
-Khi **Six of Cups xuất hiện ở vị trí ngược**, năng lượng hoài niệm trở nên **nặng nề**.
+Ở trạng thái ngược, Six of Cups phản ánh:
+- Nỗi sợ trưởng thành
+- Sự bám víu vào cảm giác an toàn cũ
+- Tránh đối diện với hiện thực
 
-### ⚠️ Ý nghĩa chính
-
-Six of Cups ngược cho thấy:
-- Bám víu quá khứ
-- Lý tưởng hóa những gì đã qua
-- Khó sống trọn với hiện tại
-
-Ký ức khi đó không còn chữa lành, mà trở thành **gánh nặng**.
+Lá bài nhắc:
+**Ký ức chỉ chữa lành khi ta không sống thay cho hiện tại.**
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Lời khuyên khi Six of Cups ngược xuất hiện
 
-Ở trạng thái ngược, lá bài phản ánh:
-- Sợ thay đổi
-- Sợ trưởng thành về mặt cảm xúc
-- Hoặc né tránh thực tại bằng hoài niệm
-
-Câu hỏi được đặt ra là:
-> *Mình đang nhớ để chữa lành, hay để trốn tránh?*
+- Trân trọng quá khứ, nhưng đừng để nó giữ bạn lại
+- Nhận ra bạn đã không còn là con người của ngày xưa
+- Cho phép hiện tại có cơ hội tạo ký ức mới
 
 ---
 
-### 🧭 Lời khuyên khi Six of Cups ngược xuất hiện
+## 👉 Xem toàn bộ mạch cảm xúc
 
-- Trân trọng quá khứ, nhưng đừng sống trong đó
-- Mang sự dịu dàng cũ vào hiện tại
-- Cho phép mình lớn lên, không đánh mất sự trong trẻo
-
-Chữa lành là **mang ký ức đi tiếp**, không phải quay đầu lại.
-
----
-
-## 🔗Để hiểu đầy đủ tiến trình cảm xúc trong Tarot, bạn có thể đọc thêm:
-
-- **[Four of Cups – Sự Thờ Ơ Cảm Xúc](/tarot/la-bai/four-of-cups/)**  
-- **[Five of Cups – Mất Mát Và Tiếc Nuối](/tarot/la-bai/five-of-cups/)**  
-- **[Two of Cups – Kết Nối Cân Bằng](/tarot/la-bai/two-of-cups/)**  
-- **[Knight of Cups – Lời Mời Của Cảm Xúc](/tarot/la-bai/knight-of-cups/)**  
+**[Suit of Cups – Hành Trình Cảm Xúc](/tarot/suit-of-cups/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Six of Cups
 
 **Xuôi:**
-- 🌼 Hoài niệm – ký ức đẹp
-- 🧸 Chữa lành đứa trẻ bên trong
-- 🌿 Dịu dàng – giản dị
+- Ký ức  
+- Hồi tưởng  
+- Chữa lành trong trẻo  
 
 **Ngược:**
-- ⚠️ Mắc kẹt trong quá khứ
-- 🧠 Trốn tránh hiện tại
-- 🧭 Cần mang ký ức đi tiếp, không quay đầu
+- Mắc kẹt quá khứ  
+- Lý tưởng hóa ký ức  
+- Khó sống với hiện tại  
 
 Six of Cups nhắc ta rằng:  
-**Có những ký ức không để quay về, mà để nhắc ta rằng mình đã từng được yêu thương như thế nào.**
+**Quá khứ không phải nơi để quay lại,  
+mà là nơi để lấy lại sự dịu dàng cho hành trình phía trước.**
 
-👉 Xem toàn bộ mạch cảm xúc: **[Suit of Cups – Hành Trình Cảm Xúc](/tarot/la-bai/suit-of-cups/)**
+---
+
+## 🔗 Để hiểu sâu hơn hành trình cảm xúc trong Tarot, bạn có thể tham khảo thêm:
+
+- **[Ace of Cups – Khởi đầu cảm xúc](/tarot/la-bai/ace-of-cups/)**
+- **[Two of Cups – Sự kết nối hai chiều](/tarot/la-bai/two-of-cups/)**
+- **[Three of Cups – Cộng hưởng & niềm vui chia sẻ](/tarot/la-bai/three-of-cups/)**
+- **[Four of Cups – Thờ ơ & quá tải cảm xúc](/tarot/la-bai/four-of-cups/)**
+- **[Five of Cups – Mất mát & tiếc nuối](/tarot/la-bai/five-of-cups/)**
+- **[Bộ Ẩn Phụ – Suit of Cups](/tarot/suit-of-cups/)**
+
+--- 
+
+## Các câu hỏi thường gặp khi trải bài với lá Six of Cups
+
+**Six of Cups có phải là lá bài hoài niệm không?**  
+Có, nhưng là hoài niệm mang tính chữa lành, không phải để trốn tránh hiện tại.
+
+**Six of Cups trong tình yêu có ý nghĩa gì?**  
+Đại diện cho sự an toàn cảm xúc, gắn bó sâu và cảm giác quen thuộc.
+
+**Six of Cups ngược cảnh báo điều gì?**  
+Cảnh báo việc sống quá nhiều trong quá khứ và bỏ lỡ hiện tại.
+
+**Six of Cups có liên quan đến chữa lành không?**  
+Có. Đây là lá bài quan trọng trong giai đoạn hồi phục cảm xúc.

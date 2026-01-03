@@ -34,60 +34,95 @@ reading:
   past:
     upright: >
       Trong quá khứ, The Hierophant cho thấy
-      bạn từng được dẫn dắt
-      bởi niềm tin, quy tắc
-      hoặc hệ giá trị tập thể.
-      Những khuôn khổ này
-      giúp bạn hiểu
-      điều gì là đúng – sai
-      trong giai đoạn đó.
+      đã từng có một giai đoạn
+      bạn tìm kiếm
+      ý nghĩa và định hướng
+      từ truyền thống,
+      niềm tin,
+      hoặc người thầy.
+      Trải nghiệm này giúp bạn
+      hiểu được
+      vai trò của chuẩn mực
+      trong việc
+      định hình nhân cách
+      và hành động.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một lần bạn từng cảm thấy
-      bị bó buộc
-      bởi truyền thống hoặc kỳ vọng.
-      Việc nghi ngờ khuôn mẫu
-      là bước đầu của trưởng thành.
+      Khi The Hierophant xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      cảm thấy
+      không thuộc về
+      một hệ giá trị nào đó.
+      Việc nghi ngờ
+      truyền thống cũ
+      khiến bạn bắt đầu
+      tìm con đường riêng.
+      Trải nghiệm này để lại bài học
+      rằng niềm tin
+      cần được chọn lọc,
+      không phải kế thừa mù quáng.
 
   present:
     upright: >
-      Ở hiện tại, The Hierophant cho thấy
-      bạn đang được mời gọi
-      học hỏi từ kinh nghiệm đã có:
-      thầy, hệ thống,
-      hoặc giá trị lâu đời.
-      Sự ổn định lúc này
-      đến từ việc hiểu và chọn lọc truyền thống.
+      Ở hiện tại, The Hierophant phản ánh
+      trạng thái bạn đang
+      đối chiếu cuộc sống
+      với giá trị cốt lõi.
+      Bạn có thể đang
+      tìm kiếm sự hướng dẫn,
+      hoặc củng cố
+      niềm tin tinh thần.
+      Đây là giai đoạn
+      bạn cần đảm bảo
+      rằng những gì mình làm
+      phù hợp với
+      điều mình tin tưởng.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn đang chất vấn
-      những niềm tin cũ.
-      Lá bài nhắc rằng
-      không phải khuôn mẫu nào
-      cũng cần giữ lại.
-      Chọn lọc giúp bạn
-      sống thật hơn.
+      Khi The Hierophant ngược xuất hiện ở hiện tại,
+      bạn có thể đang
+      cảm thấy xung đột
+      với chuẩn mực xung quanh.
+      Có thể bạn đang
+      đặt câu hỏi
+      về niềm tin cũ
+      và mong muốn
+      sống khác đi.
+      Trạng thái này phản ánh
+      nhu cầu xây dựng
+      hệ giá trị cá nhân,
+      thay vì chỉ làm theo
+      khuôn mẫu sẵn có.
 
   future:
     upright: >
-      Về hướng đi, The Hierophant gợi ý rằng
-      khi bạn tích hợp
-      giá trị chung với hiểu biết cá nhân,
-      bạn sẽ trở thành
-      người truyền đạt,
-      không chỉ người học.
-      Trí tuệ được chia sẻ
-      làm cộng đồng mạnh hơn.
+      Nhìn về phía trước, The Hierophant mở ra
+      một giai đoạn
+      nơi giá trị và niềm tin
+      sẽ đóng vai trò dẫn đường.
+      Khi bạn sống
+      phù hợp với hệ giá trị
+      đã được chọn lọc,
+      bạn sẽ cảm thấy
+      vững vàng và có định hướng.
+      Đây là bước tiến
+      từ việc làm đúng
+      sang việc làm đúng
+      với chính mình.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu tiếp tục sống
-      theo khuôn không còn phù hợp,
-      bạn sẽ cảm thấy lệch nhịp.
-      Can đảm xây hệ giá trị riêng
-      là bước tiếp theo.
+      Ở hướng đi phía trước, The Hierophant ngược nhắc bạn
+      rằng nếu bạn
+      tiếp tục sống
+      trái với niềm tin cá nhân,
+      sự bất ổn nội tâm
+      có thể gia tăng.
+      Hướng đi này khuyên bạn
+      hãy dám định nghĩa
+      lại điều thiêng liêng
+      và ý nghĩa,
+      theo cách
+      phù hợp với con người hiện tại.
 
 ---
 

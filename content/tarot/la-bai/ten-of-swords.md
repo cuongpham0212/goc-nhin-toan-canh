@@ -33,54 +33,87 @@ reading:
   past:
     upright: >
       Trong quá khứ, Ten of Swords cho thấy
-      bạn từng trải qua một kết thúc
-      rất đau đớn hoặc mang tính quyết định.
-      Dù cảm giác như bị đâm sau lưng,
-      đây là điểm mà
-      một chu kỳ cũ buộc phải khép lại.
+      đã từng có một giai đoạn
+      bạn trải qua sự sụp đổ hoàn toàn
+      về mặt tinh thần.
+      Có thể đó là sự phản bội,
+      thất bại,
+      hoặc cảm giác bị dồn đến giới hạn cuối cùng.
+      Trải nghiệm này rất đau,
+      nhưng nó cũng đánh dấu
+      khoảnh khắc không còn gì để mất.
+      Chính từ đáy này,
+      bạn buộc phải nhìn thẳng
+      vào sự thật
+      và bắt đầu lại từ con số không.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng níu kéo
-      điều đã kết thúc.
-      Việc không chấp nhận thực tế
-      có thể khiến nỗi đau kéo dài.
+      Khi Ten of Swords xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn đã từng
+      bước ra khỏi một giai đoạn đen tối.
+      Dù vết thương chưa hoàn toàn lành,
+      nhưng sự sụp đổ đó
+      không còn định nghĩa bạn.
+      Trải nghiệm này để lại bài học
+      rằng có những kết thúc
+      đau đớn nhưng cần thiết
+      để bạn có thể sống tiếp.
 
   present:
     upright: >
-      Ở hiện tại, Ten of Swords cho thấy
-      bạn đang ở điểm chạm đáy.
-      Không còn gì để mất,
-      và chính điều đó
-      mở ra khả năng buông bỏ hoàn toàn.
-      Đây là khoảnh khắc đau,
-      nhưng cũng là khoảnh khắc giải thoát.
+      Ở hiện tại, Ten of Swords phản ánh
+      cảm giác kiệt quệ tinh thần.
+      Bạn có thể đang cảm thấy
+      mình đã cố gắng hết sức,
+      nhưng vẫn không thể tiếp tục
+      trong hoàn cảnh hiện tại.
+      Trải bài này không phủ nhận nỗi đau,
+      mà khẳng định rằng
+      đây là điểm kết thúc thật sự.
+      Khi mọi thứ đã rõ ràng là không thể cứu vãn,
+      việc buông bỏ
+      trở thành hành động cần thiết
+      để bảo vệ bản thân.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn đang đứng giữa ranh giới
-      của việc buông hay níu.
-      Lá bài nhắc rằng
-      quá trình hồi phục
-      cần sự dứt khoát,
-      không phải kéo dài đau đớn.
+      Khi Ten of Swords ngược xuất hiện ở hiện tại,
+      bạn đang trong quá trình
+      hồi phục sau cú sụp đổ.
+      Có thể bạn vẫn còn mệt mỏi,
+      nhưng ánh sáng
+      đã bắt đầu xuất hiện.
+      Đây là dấu hiệu cho thấy
+      điều tồi tệ nhất
+      đã qua,
+      và bạn đang từ từ
+      đứng dậy trở lại.
 
   future:
     upright: >
-      Về hướng đi, Ten of Swords gợi ý rằng
-      sau khi chạm đáy,
-      không còn con đường nào
-      ngoài việc đứng dậy.
-      Bình minh chỉ đến
-      khi đêm đã qua điểm tối nhất.
+      Nhìn về phía trước, Ten of Swords cho thấy
+      một kết thúc không thể tránh.
+      Dù bạn có muốn níu kéo,
+      một chu kỳ đã đến lúc
+      phải khép lại.
+      Hướng đi này nhắc rằng
+      kéo dài sự đau đớn
+      chỉ khiến vết thương sâu hơn.
+      Khi bạn chấp nhận kết thúc,
+      con đường tái sinh
+      mới thật sự mở ra.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu bạn không cho phép
-      một kết thúc thực sự xảy ra,
-      bạn sẽ khó bước sang chu kỳ mới.
-      Việc chấp nhận kết thúc
-      chính là khởi đầu cho hồi sinh.
+      Ở hướng đi phía trước, Ten of Swords ngược mở ra
+      khả năng chữa lành sâu sắc.
+      Khi bạn cho phép
+      giai đoạn cũ kết thúc trọn vẹn,
+      tâm trí sẽ dần
+      lấy lại sức sống.
+      Đây là bước chuyển
+      từ đổ nát
+      sang sự hồi sinh,
+      dù cần thời gian
+      và sự kiên nhẫn.
 
 ---
 

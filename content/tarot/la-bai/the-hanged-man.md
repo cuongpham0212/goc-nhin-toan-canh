@@ -34,53 +34,91 @@ reading:
   past:
     upright: >
       Trong quá khứ, The Hanged Man cho thấy
-      bạn từng rơi vào giai đoạn bị “treo lại”:
-      kế hoạch đình trệ,
-      con đường không tiến triển như mong đợi.
-      Dù khó chịu,
-      khoảng dừng này buộc bạn
-      nhìn mọi thứ từ góc khác.
+      đã từng có một giai đoạn
+      bạn buộc phải dừng lại.
+      Kế hoạch không tiến triển,
+      hoặc hoàn cảnh
+      khiến bạn
+      không thể hành động như ý.
+      Trải nghiệm này giúp bạn
+      nhìn mọi thứ
+      từ một góc độ khác,
+      và hiểu rằng
+      không phải lúc nào
+      tiến lên cũng là giải pháp.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một lần bạn từng chống lại việc dừng lại.
-      Càng cố vùng vẫy,
-      bạn càng cảm thấy bế tắc
-      vì chưa sẵn sàng buông kiểm soát.
+      Khi The Hanged Man xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      kháng cự
+      việc dừng lại.
+      Việc không chịu buông
+      khiến bạn
+      mắc kẹt lâu hơn cần thiết.
+      Trải nghiệm này để lại bài học
+      rằng sự hy sinh đúng lúc
+      có thể
+      giải phóng nhiều hơn
+      là mất mát.
 
   present:
     upright: >
-      Ở hiện tại, The Hanged Man cho thấy
-      bạn đang được yêu cầu dừng lại có ý thức.
-      Đây không phải là thất bại,
-      mà là khoảng lặng cần thiết
-      để thay đổi góc nhìn.
-      Buông lúc này
-      là một hành động can đảm.
+      Ở hiện tại, The Hanged Man phản ánh
+      trạng thái tạm treo.
+      Bạn có thể đang
+      cảm thấy
+      mọi thứ chậm lại,
+      hoặc chưa thể
+      đưa ra quyết định.
+      Trải bài này không coi đó
+      là thất bại,
+      mà là lời mời
+      nhìn lại,
+      buông bỏ kỳ vọng cũ,
+      và cho phép
+      nhận thức mới xuất hiện.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn đang mắc kẹt vì không chịu buông
-      những gì đã không còn phù hợp.
-      Lá bài nhắc rằng
-      sự hy sinh cần thiết
-      không thể tránh né mãi.
+      Khi The Hanged Man ngược xuất hiện ở hiện tại,
+      bạn có thể đang
+      cảm thấy bế tắc.
+      Có thể bạn
+      đã dừng quá lâu
+      mà không có
+      sự thay đổi trong góc nhìn.
+      Trạng thái này phản ánh
+      nhu cầu hành động,
+      sau khi đã đủ
+      chiêm nghiệm.
 
   future:
     upright: >
-      Về hướng đi, The Hanged Man gợi ý rằng
-      sự sáng tỏ sẽ đến
-      khi bạn chấp nhận dừng
-      và nhìn sâu vào bên trong.
-      Hiểu biết mới
-      sẽ thay đổi toàn bộ cách bạn tiếp cận cuộc sống.
+      Nhìn về phía trước, The Hanged Man mở ra
+      một giai đoạn
+      chuyển hóa nhận thức.
+      Khi bạn sẵn sàng
+      buông bỏ
+      cách nhìn cũ,
+      con đường mới
+      sẽ dần lộ diện.
+      Đây là bước chuẩn bị
+      cần thiết,
+      giúp bạn bước tiếp
+      với sự hiểu biết sâu sắc hơn.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu tiếp tục trì hoãn việc buông bỏ,
-      bạn sẽ kéo dài trạng thái treo lơ lửng.
-      Quyết định buông
-      là chìa khóa để chuyển động trở lại.
+      Ở hướng đi phía trước, The Hanged Man ngược nhắc bạn
+      rằng nếu bạn
+      không chịu thay đổi
+      góc nhìn,
+      sự trì trệ
+      có thể kéo dài.
+      Hướng đi này khuyên bạn
+      hãy cân bằng
+      giữa dừng lại
+      và tiến lên,
+      để hành trình
+      không bị mắc kẹt.
 
 ---
 

@@ -33,53 +33,89 @@ reading:
   past:
     upright: >
       Trong quá khứ, Ten of Pentacles cho thấy
-      bạn từng lớn lên hoặc chịu ảnh hưởng
-      từ những giá trị về gia đình,
-      truyền thống hoặc sự ổn định lâu dài.
-      Những nền tảng này đã định hình
-      cách bạn nhìn nhận về an toàn và thành công.
+      đã từng có một giai đoạn
+      bạn trải nghiệm
+      cảm giác an toàn và đủ đầy lâu dài.
+      Có thể đó là gia đình,
+      nền tảng vật chất,
+      hoặc một hệ giá trị
+      được xây dựng qua nhiều năm.
+      Trải nghiệm này giúp bạn hiểu
+      rằng sự ổn định thật sự
+      không đến từ may mắn,
+      mà từ sự tích lũy
+      và cam kết bền bỉ.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      những đứt gãy trong hệ giá trị gia đình
-      hoặc cảm giác thiếu sự nâng đỡ dài hạn.
-      Có thể bạn đã phải tự xây nền
-      thay vì thừa hưởng sẵn.
+      Khi Ten of Pentacles xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy
+      nền tảng từng tưởng là vững chắc
+      đã có lúc lung lay.
+      Có thể những giá trị cũ
+      không còn phù hợp,
+      buộc bạn phải xem lại
+      điều gì là an toàn thật sự.
+      Trải nghiệm này để lại bài học
+      rằng sự bền vững
+      cần được cập nhật theo thời gian.
 
   present:
     upright: >
-      Ở hiện tại, Ten of Pentacles cho thấy
-      bạn đang hướng tới sự ổn định bền vững,
-      không chỉ cho bản thân
-      mà còn cho những người xung quanh.
-      Đây là lúc suy nghĩ về
-      nền móng lâu dài, hệ thống,
-      và các giá trị có thể duy trì theo thời gian.
+      Ở hiện tại, Ten of Pentacles phản ánh
+      trạng thái ổn định và an tâm.
+      Bạn có thể đang đứng
+      trên một nền móng vững vàng,
+      nơi các giá trị vật chất
+      và tinh thần
+      hỗ trợ lẫn nhau.
+      Đây là giai đoạn
+      bạn hưởng thành quả
+      của những nỗ lực dài hạn,
+      và cảm nhận
+      sự yên tâm
+      đến từ tính bền vững.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang bị ràng buộc
-      bởi kỳ vọng gia đình hoặc chuẩn mực cũ.
-      Sự ổn định thật sự cần được xây dựng
-      dựa trên giá trị phù hợp với bạn,
-      không chỉ vì truyền thống.
+      Khi Ten of Pentacles ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      sự ổn định xung quanh
+      không còn chắc chắn như trước.
+      Có thể bạn đang tự hỏi
+      liệu những gì mình xây dựng
+      có còn phù hợp
+      với con người hiện tại hay không.
+      Trạng thái này phản ánh
+      nhu cầu tái định nghĩa
+      khái niệm an toàn
+      theo cách của riêng bạn.
 
   future:
     upright: >
-      Về hướng đi, Ten of Pentacles gợi ý rằng
-      thành quả bạn tạo ra có khả năng
-      trở thành di sản lâu dài.
-      Khi bạn xây dựng với tầm nhìn rộng,
-      sự bền vững sẽ vượt qua giới hạn cá nhân
-      và lan tỏa sang các thế hệ tiếp theo.
+      Nhìn về phía trước, Ten of Pentacles mở ra
+      một giai đoạn ổn định lâu dài.
+      Khi bạn tiếp tục
+      đầu tư vào những giá trị cốt lõi,
+      nền móng bạn xây dựng
+      sẽ không chỉ phục vụ hiện tại,
+      mà còn mang ý nghĩa
+      cho tương lai.
+      Đây là sự kết thúc viên mãn
+      của một hành trình xây dựng,
+      nơi thành quả
+      gắn liền với trách nhiệm.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu thiếu kế hoạch dài hạn,
-      sự ổn định có thể chỉ mang tính tạm thời.
-      Việc rà soát lại cấu trúc, giá trị
-      và cách phân bổ nguồn lực
-      là cần thiết để tránh đổ vỡ về sau.
+      Ở hướng đi phía trước, Ten of Pentacles ngược nhắc bạn
+      rằng nếu bạn cố bám vào
+      những khuôn mẫu an toàn cũ,
+      sự ổn định có thể trở thành
+      lực cản cho sự phát triển.
+      Hướng đi này khuyên bạn
+      hãy linh hoạt
+      trong cách xây dựng nền tảng,
+      để sự bền vững
+      không đồng nghĩa
+      với sự đóng khung.
 
 ---
 

@@ -33,49 +33,77 @@ reading:
   past:
     upright: >
       Trong quá khứ, Two of Swords cho thấy
-      bạn từng đứng giữa hai lựa chọn
-      mà không sẵn sàng quyết định.
-      Việc giữ cân bằng bằng cách không chọn
-      có thể đã giúp bạn tránh xung đột tạm thời,
-      nhưng cũng kéo dài sự bế tắc.
+      đã từng có một giai đoạn
+      bạn đứng giữa hai lựa chọn
+      nhưng không sẵn sàng quyết định.
+      Có thể bạn cố giữ mọi thứ cân bằng,
+      tránh đối diện với sự thật
+      vì sợ cảm xúc bị xáo trộn.
+      Trạng thái này giúp bạn
+      tạm thời bảo vệ bản thân,
+      nhưng cũng khiến
+      nhiều vấn đề bị treo lơ lửng.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      thời điểm bạn buộc phải nhìn vào sự thật.
-      Một quyết định đã được đưa ra,
-      dù nó có thể gây khó chịu
-      hoặc phá vỡ trạng thái cân bằng cũ.
+      Khi Two of Swords xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn đã từng
+      buộc phải nhìn thẳng
+      vào điều mình né tránh.
+      Dù quyết định đó không dễ,
+      nhưng nó mở ra
+      sự rõ ràng cần thiết,
+      giúp bạn thoát khỏi
+      trạng thái giằng co kéo dài.
 
   present:
     upright: >
-      Ở hiện tại, Two of Swords cho thấy
-      bạn đang cố giữ cảm xúc ở ngoài
-      để không bị tổn thương.
-      Tuy nhiên, việc bịt mắt trước sự thật
-      chỉ khiến lựa chọn trở nên khó khăn hơn.
+      Ở hiện tại, Two of Swords phản ánh
+      trạng thái do dự về mặt tinh thần.
+      Bạn có thể đang cố
+      không nghĩ quá sâu,
+      không nghe theo cảm xúc,
+      để giữ cho mình
+      cảm giác bình yên giả tạm.
+      Trải bài này không phán xét,
+      mà nhắc bạn rằng
+      sự im lặng kéo dài
+      cũng là một lựa chọn
+      cần được cân nhắc.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      sự bế tắc đang dần được tháo gỡ.
-      Bạn bắt đầu chấp nhận rằng
-      không lựa chọn cũng là một lựa chọn,
-      và đã đến lúc đối diện.
+      Khi Two of Swords ngược xuất hiện ở hiện tại,
+      bạn bắt đầu cảm thấy
+      không thể tiếp tục né tránh.
+      Những suy nghĩ bị dồn nén
+      đang tìm cách
+      được nhìn nhận.
+      Đây là dấu hiệu cho thấy
+      sự thật đang dần lộ diện,
+      dù bạn chưa hoàn toàn
+      sẵn sàng tiếp nhận.
 
   future:
     upright: >
-      Về hướng đi, Two of Swords gợi ý rằng
-      bạn sẽ sớm phải đưa ra quyết định.
-      Việc cân nhắc kỹ lưỡng là cần thiết,
-      nhưng đừng để nỗi sợ xung đột
-      ngăn bạn tiến lên.
+      Nhìn về phía trước, Two of Swords cho thấy
+      bạn có thể tiếp tục
+      trì hoãn quyết định,
+      nếu nỗi sợ đối diện
+      vẫn còn quá lớn.
+      Hướng đi này khuyên bạn
+      hãy cho mình thời gian,
+      nhưng đừng dùng im lặng
+      để chối bỏ
+      điều mình đã biết rõ bên trong.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      khi bạn dám tháo bỏ lớp phòng vệ,
-      sự thật sẽ dẫn đường.
-      Quyết định được đưa ra
-      có thể khó khăn,
-      nhưng sẽ mang lại sự nhẹ nhõm lâu dài.
+      Ở hướng đi phía trước, Two of Swords ngược mở ra
+      khả năng bạn sẽ
+      đưa ra quyết định dứt khoát.
+      Khi bạn dám tháo bỏ
+      lớp phòng vệ tinh thần,
+      sự rõ ràng sẽ đến,
+      dù cái giá phải trả
+      là cảm xúc không dễ chịu.
 
 ---
 

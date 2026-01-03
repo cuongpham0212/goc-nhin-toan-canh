@@ -34,55 +34,99 @@ reading:
   past:
     upright: >
       Trong quá khứ, The Star cho thấy
-      bạn từng tìm thấy ánh sáng
-      sau một giai đoạn rất tối.
-      Dù mong manh,
-      niềm tin đó
-      đã giúp bạn tiếp tục sống
-      và hồi phục dần.
+      đã từng có một giai đoạn
+      bạn tìm lại được
+      niềm tin
+      sau tổn thương.
+      Dù không phải
+      niềm vui lớn,
+      nhưng đó là
+      cảm giác nhẹ nhõm,
+      cho phép bạn
+      tiếp tục sống
+      và chữa lành.
+      Trải nghiệm này giúp bạn
+      hiểu rằng hy vọng
+      không ồn ào,
+      mà rất dịu dàng.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một thời điểm bạn từng mất niềm tin,
-      cảm thấy trống rỗng
-      sau biến cố.
-      Việc chưa sẵn sàng tin lại
-      là điều dễ hiểu.
+      Khi The Star xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      mất niềm tin
+      sau cú sốc.
+      Việc chưa kịp hồi phục
+      khiến bạn
+      hoài nghi tương lai.
+      Trải nghiệm này để lại bài học
+      rằng hy vọng
+      cần được nuôi dưỡng,
+      không thể ép buộc
+      xuất hiện ngay.
 
   present:
     upright: >
-      Ở hiện tại, The Star cho thấy
-      bạn đang bước vào
-      giai đoạn chữa lành thật sự.
-      Lá bài mang thông điệp:
-      bạn an toàn để hy vọng.
-      Ánh sáng không chói,
-      nhưng đủ dẫn đường.
+      Ở hiện tại, The Star phản ánh
+      trạng thái chữa lành.
+      Sau những biến động,
+      bạn bắt đầu
+      kết nối lại
+      với chính mình.
+      Đây là giai đoạn
+      bạn không cần
+      phải mạnh mẽ,
+      chỉ cần
+      thành thật
+      với những vết thương.
+      Hy vọng lúc này
+      không phải là lời hứa,
+      mà là cảm giác
+      “mọi thứ rồi sẽ ổn hơn”.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang nghi ngờ
-      khả năng hồi phục của mình.
-      Lá bài nhắc rằng
-      hy vọng không cần lớn —
-      chỉ cần thật.
+      Khi The Star ngược xuất hiện ở hiện tại,
+      bạn có thể đang
+      cảm thấy trống rỗng
+      hoặc thiếu niềm tin.
+      Có thể bạn
+      chưa nhìn thấy ánh sáng,
+      dù cơn bão đã qua.
+      Trạng thái này phản ánh
+      nhu cầu chăm sóc
+      tinh thần nhẹ nhàng hơn,
+      thay vì ép mình
+      phải lạc quan.
 
   future:
     upright: >
-      Về hướng đi, The Star gợi ý rằng
-      khi bạn tiếp tục nuôi dưỡng niềm tin,
-      sự bình an sẽ quay lại.
-      Con đường phía trước
-      không còn tối như trước,
-      vì bạn đã thấy ánh sao.
+      Nhìn về phía trước, The Star mở ra
+      một giai đoạn
+      hồi phục sâu sắc.
+      Khi bạn cho phép
+      thời gian và sự dịu dàng
+      làm phần việc của nó,
+      niềm tin
+      sẽ dần quay trở lại.
+      Đây là bước tái sinh
+      không vội vàng,
+      nơi bạn học cách
+      tin vào cuộc sống
+      một lần nữa.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu bạn khép lòng
-      vì sợ tổn thương lần nữa,
-      quá trình chữa lành sẽ chậm lại.
-      Tin tưởng từng bước nhỏ
-      là đủ.
+      Ở hướng đi phía trước, The Star ngược nhắc bạn
+      rằng nếu bạn
+      bỏ quên việc
+      chăm sóc tinh thần,
+      cảm giác cạn kiệt
+      có thể kéo dài.
+      Hướng đi này khuyên bạn
+      hãy tìm lại
+      những điều nhỏ bé
+      mang lại hy vọng,
+      để ánh sáng
+      không bị tắt
+      trong im lặng.
 
 ---
 

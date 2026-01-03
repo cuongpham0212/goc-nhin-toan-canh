@@ -33,52 +33,92 @@ reading:
   past:
     upright: >
       Trong quá khứ, Five of Swords cho thấy
-      bạn từng vướng vào một cuộc xung đột
-      nơi không ai thật sự thắng.
-      Dù có thể bạn giữ được lập trường,
-      cái giá phải trả là sự tổn thương,
-      mất mát niềm tin hoặc đổ vỡ mối quan hệ.
+      đã từng có một giai đoạn
+      bạn tham gia vào
+      những cuộc xung đột
+      mang tính thắng–thua.
+      Dù bạn có thể
+      đạt được phần thắng,
+      nhưng cái giá phải trả
+      là sự rạn nứt
+      trong các mối quan hệ.
+      Trải nghiệm này giúp bạn
+      nhận ra rằng
+      không phải chiến thắng nào
+      cũng mang lại
+      cảm giác trọn vẹn.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng cố tránh
+      Khi Five of Swords xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn đã từng
+      rút ra khỏi
       những cuộc đối đầu không cần thiết.
-      Có thể bạn đã học được rằng
-      không phải trận chiến nào
-      cũng đáng để tham gia.
+      Việc chọn hòa giải
+      hoặc buông bỏ
+      giúp bạn tránh
+      những tổn thất lâu dài.
+      Trải nghiệm này để lại bài học
+      về giá trị của
+      sự khôn ngoan hơn là hiếu thắng.
 
   present:
     upright: >
-      Ở hiện tại, Five of Swords cho thấy
-      bạn đang đứng trước nguy cơ
-      “thắng nhưng không vui”.
-      Lá bài nhắc bạn xem lại:
-      điều bạn đang bảo vệ là sự thật,
-      hay chỉ là cái tôi và nhu cầu hơn thua?
+      Ở hiện tại, Five of Swords phản ánh
+      trạng thái căng thẳng
+      trong giao tiếp hoặc tranh luận.
+      Bạn có thể đang
+      cố chứng minh mình đúng,
+      hoặc cảm thấy
+      mình đang bị tấn công.
+      Trải bài này nhắc bạn
+      hãy tự hỏi:
+      “Chiến thắng này
+      có đáng không?”,
+      trước khi tiếp tục
+      leo thang xung đột.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn đang muốn chấm dứt
-      vòng lặp xung đột.
-      Đây là lúc phù hợp để hạ vũ khí,
-      nói lời hòa giải
-      hoặc đơn giản là không tiếp tục tranh cãi.
+      Khi Five of Swords ngược xuất hiện ở hiện tại,
+      bạn bắt đầu nhận ra
+      rằng việc tiếp tục đối đầu
+      chỉ khiến mọi thứ
+      thêm tổn thương.
+      Có thể bạn đang
+      cân nhắc việc buông bỏ
+      hoặc tìm cách
+      hàn gắn.
+      Đây là dấu hiệu cho thấy
+      sự trưởng thành trong cách
+      xử lý xung đột.
 
   future:
     upright: >
-      Về hướng đi, Five of Swords cảnh báo rằng
-      nếu tiếp tục theo đuổi thắng thua,
-      bạn có thể mất nhiều hơn được.
-      Việc chọn chiến đấu
-      cần được cân nhắc rất kỹ.
+      Nhìn về phía trước, Five of Swords cho thấy
+      những xung đột
+      có thể tiếp diễn,
+      nếu mỗi bên
+      chỉ tập trung
+      vào việc thắng.
+      Hướng đi này khuyên bạn
+      hãy cân nhắc kỹ
+      cái giá của việc
+      bảo vệ cái tôi,
+      để tránh những
+      tổn thất không cần thiết.
 
     reversed: >
-      Ở trạng thái ngược, lá bài gợi ý rằng
-      buông bỏ một cuộc xung đột
-      sẽ giúp bạn giữ lại năng lượng
-      và sự tự trọng.
-      Không phải lùi bước nào
-      cũng là thất bại.
+      Ở hướng đi phía trước, Five of Swords ngược mở ra
+      khả năng hòa giải
+      hoặc rút lui khỏi
+      cuộc chiến không còn ý nghĩa.
+      Khi bạn chọn
+      giữ sự tôn trọng
+      thay vì hơn thua,
+      tâm trí sẽ trở nên
+      nhẹ nhõm hơn.
+      Đây là bước chuyển
+      từ xung đột
+      sang sự khôn ngoan.
 
 ---
 

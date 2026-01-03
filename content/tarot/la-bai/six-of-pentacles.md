@@ -33,51 +33,87 @@ reading:
   past:
     upright: >
       Trong quá khứ, Six of Pentacles cho thấy
-      đã từng có sự hỗ trợ, sẻ chia
-      hoặc một bài học về cho và nhận.
-      Bạn có thể từng được giúp đúng lúc,
-      hoặc từng là người nâng đỡ người khác
-      khi họ khó khăn.
+      đã từng có một giai đoạn
+      bạn trải nghiệm
+      sự hỗ trợ và chia sẻ.
+      Sau những thời điểm thiếu hụt,
+      bạn nhận ra giá trị
+      của việc cho đi
+      và biết cách nhận lại
+      khi cần thiết.
+      Trải nghiệm này giúp bạn
+      hiểu rằng sự cân bằng
+      không đến từ việc
+      giữ hết cho mình,
+      mà từ dòng chảy lành mạnh
+      của nguồn lực.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một trải nghiệm mất cân bằng:
-      cho đi quá nhiều, nhận quá ít,
-      hoặc nhận sự giúp đỡ kèm điều kiện.
-      Điều này có thể làm bạn dè dặt
-      khi đặt niềm tin vào sự sẻ chia.
+      Khi Six of Pentacles xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      ở trong mối quan hệ
+      cho – nhận thiếu cân bằng.
+      Có thể bạn cho đi quá nhiều
+      hoặc nhận quá ít.
+      Trải nghiệm này để lại bài học
+      về việc đặt ranh giới rõ ràng
+      trong sự hỗ trợ.
 
   present:
     upright: >
-      Ở hiện tại, Six of Pentacles cho thấy
-      bạn đang bước vào giai đoạn cần cân bằng:
-      biết nhận khi cần, biết cho khi có thể.
-      Đây là lúc phù hợp để đàm phán,
-      điều chỉnh sự công bằng,
-      hoặc mở lòng với sự hỗ trợ lành mạnh.
+      Ở hiện tại, Six of Pentacles phản ánh
+      trạng thái trao đổi lành mạnh.
+      Bạn có thể đang
+      nhận được sự giúp đỡ đúng lúc,
+      hoặc ở vị trí
+      có thể hỗ trợ người khác.
+      Trải bài này nhắc bạn
+      hãy chú ý
+      đến sự công bằng
+      trong việc cho và nhận,
+      để dòng chảy
+      luôn được duy trì.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      sự trao đổi đang lệch:
-      bạn có thể đang bị phụ thuộc,
-      hoặc đang cho đi để đổi lấy sự công nhận.
-      Lá bài nhắc bạn nhìn lại
-      động cơ và ranh giới của mình.
+      Khi Six of Pentacles ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      sự hỗ trợ mình nhận được
+      không tương xứng.
+      Hoặc bạn đang
+      cho đi vì nghĩa vụ,
+      chứ không phải từ sự đủ đầy.
+      Trạng thái này phản ánh
+      nhu cầu xem lại
+      cách bạn trao đổi
+      năng lượng và nguồn lực.
 
   future:
     upright: >
-      Về hướng đi, Six of Pentacles gợi ý rằng
-      khi bạn giữ được sự cân bằng giữa cho và nhận,
-      bạn sẽ xây lại được cảm giác đủ đầy.
-      Sự ổn định không chỉ đến từ tiền bạc,
-      mà còn từ các mối quan hệ có tính nâng đỡ.
+      Nhìn về phía trước, Six of Pentacles mở ra
+      cơ hội tái lập
+      sự cân bằng.
+      Khi bạn cho đi
+      một cách có ý thức
+      và biết đón nhận,
+      các mối quan hệ
+      và nguồn lực
+      sẽ trở nên hài hòa hơn.
+      Đây là bước chuyển
+      từ thiếu hụt
+      sang sự ổn định mang tính tương hỗ.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu tiếp tục duy trì sự mất cân bằng,
-      bạn sẽ dễ kiệt sức hoặc hụt hẫng.
-      Hãy học cách nói “đủ”,
-      và chọn sự công bằng thay vì gồng gánh.
+      Ở hướng đi phía trước, Six of Pentacles ngược nhắc bạn
+      rằng nếu sự cho – nhận
+      tiếp tục lệch,
+      cảm giác bất công
+      có thể gia tăng.
+      Hướng đi này khuyên bạn
+      hãy điều chỉnh
+      lại ranh giới,
+      để sự hỗ trợ
+      không trở thành
+      gánh nặng hay sự lệ thuộc.
 
 ---
 

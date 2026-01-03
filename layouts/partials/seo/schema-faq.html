@@ -1,0 +1,87 @@
+{{- if .IsPage -}}
+
+{{- $raw := .RawContent -}}
+
+{{/* Chỉ chạy khi có dấu hiệu FAQ để tránh quét toàn bài */}}
+{{- $rawLower := lower $raw -}}
+{{- if or (in $rawLower "các câu hỏi thường gặp") (in $rawLower "faq") -}}
+
+  {{- $lines := split $raw "\n" -}}
+  {{- $faqs := slice -}}
+  {{- $currentQ := "" -}}
+  {{- $currentA := slice -}}
+  {{- $inFAQ := false -}}
+
+  {{- range $lines -}}
+    {{- $line := trim . " " -}}
+    {{- $lineLower := lower $line -}}
+
+    {{/* Bắt đầu vùng FAQ khi gặp heading/đoạn tiêu đề FAQ */}}
+    {{- if and (not $inFAQ) (or (in $lineLower "các câu hỏi thường gặp") (eq $lineLower "faq") (hasPrefix $lineLower "## faq") (hasPrefix $lineLower "### faq")) -}}
+      {{- $inFAQ = true -}}
+      {{- continue -}}
+    {{- end -}}
+
+    {{- if $inFAQ -}}
+
+      {{/* Nếu sang heading mới sau FAQ thì dừng */}}
+      {{- if and (hasPrefix $line "#") (not (in $lineLower "các câu hỏi thường gặp")) (not (in $lineLower "faq")) -}}
+        {{- break -}}
+      {{- end -}}
+
+      {{/* Nhận diện câu hỏi theo pattern **...** (giữ nguyên cách anh viết) */}}
+      {{- if and (hasPrefix $line "**") (hasSuffix $line "**") -}}
+
+        {{/* flush Q/A trước đó */}}
+        {{- if and $currentQ (gt (len $currentA) 0) -}}
+          {{- $faqs = $faqs | append (dict
+                "q" (trim $currentQ "* ")
+                "a" (delimit $currentA " " | plainify)
+          ) -}}
+        {{- end -}}
+
+        {{- $currentQ = $line -}}
+        {{- $currentA = slice -}}
+        {{- continue -}}
+      {{- end -}}
+
+      {{/* Gom các dòng trả lời (bỏ dòng trống) */}}
+      {{- if and $currentQ (ne $line "") -}}
+        {{- $currentA = $currentA | append $line -}}
+      {{- end -}}
+
+    {{- end -}}
+  {{- end -}}
+
+  {{/* flush cuối */}}
+  {{- if and $currentQ (gt (len $currentA) 0) -}}
+    {{- $faqs = $faqs | append (dict
+          "q" (trim $currentQ "* ")
+          "a" (delimit $currentA " " | plainify)
+    ) -}}
+  {{- end -}}
+
+  {{- if gt (len $faqs) 0 -}}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {{- range $i, $f := $faqs -}}
+      {{- if $i }},{{ end }}
+      {
+        "@type": "Question",
+        "name": {{ $f.q | jsonify }},
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": {{ $f.a | jsonify }}
+        }
+      }
+      {{- end -}}
+    ]
+  }
+  </script>
+  {{- end -}}
+
+{{- end -}}
+{{- end -}}

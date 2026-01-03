@@ -34,51 +34,87 @@ reading:
   past:
     upright: >
       Trong quá khứ, The Emperor cho thấy
-      bạn từng phải thiết lập trật tự
-      và đứng ra chịu trách nhiệm.
-      Việc xây dựng cấu trúc
-      giúp bạn có nền tảng vững
-      để tiến lên.
+      đã từng có một giai đoạn
+      bạn học cách
+      đứng vào vị trí chịu trách nhiệm.
+      Bạn xây dựng ranh giới,
+      kỷ luật,
+      và cấu trúc rõ ràng
+      để kiểm soát cuộc sống.
+      Trải nghiệm này giúp bạn
+      hiểu rằng sự ổn định
+      không tự nhiên xuất hiện,
+      mà cần được
+      thiết lập có chủ đích.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng bị kiểm soát
-      hoặc thiếu ranh giới rõ ràng.
-      Sự lỏng lẻo khi đó
-      khiến bạn khó giữ ổn định.
+      Khi The Emperor xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      gặp vấn đề với quyền lực
+      hoặc sự kiểm soát.
+      Có thể bạn quá cứng nhắc,
+      hoặc ngược lại,
+      thiếu ranh giới rõ ràng.
+      Trải nghiệm này để lại bài học
+      về việc quyền lực
+      cần đi cùng
+      sự linh hoạt và ý thức.
 
   present:
     upright: >
-      Ở hiện tại, The Emperor cho thấy
-      đã đến lúc bạn cần
-      định hình ranh giới và luật chơi.
-      Lãnh đạo ở đây
-      không phải áp đặt,
-      mà là chịu trách nhiệm
-      cho lựa chọn và hậu quả.
+      Ở hiện tại, The Emperor phản ánh
+      trạng thái bạn đang
+      nắm quyền chủ động.
+      Bạn có thể đang
+      thiết lập trật tự,
+      đưa ra quyết định dứt khoát,
+      và xây dựng nền móng
+      cho tương lai.
+      Đây là giai đoạn
+      bạn cần
+      lãnh đạo cuộc sống của mình,
+      không né tránh
+      trách nhiệm đi kèm.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang né tránh trách nhiệm
-      hoặc kiểm soát quá mức.
-      Lá bài nhắc rằng
-      quyền lực là để bảo vệ,
-      không phải để áp chế.
+      Khi The Emperor ngược xuất hiện ở hiện tại,
+      bạn có thể đang
+      cảm thấy mất kiểm soát
+      hoặc bị kiểm soát quá mức.
+      Có thể cấu trúc hiện tại
+      quá cứng,
+      hoặc quá lỏng.
+      Trạng thái này phản ánh
+      nhu cầu điều chỉnh
+      cách bạn sử dụng
+      quyền lực cá nhân.
 
   future:
     upright: >
-      Về hướng đi, The Emperor gợi ý rằng
-      khi bạn xây được cấu trúc bền,
-      mọi thứ sẽ vận hành ổn định hơn.
-      Ranh giới rõ
-      tạo ra tự do lâu dài.
+      Nhìn về phía trước, The Emperor mở ra
+      một giai đoạn
+      ổn định và rõ ràng.
+      Khi bạn tiếp tục
+      xây dựng cấu trúc vững chắc,
+      bạn sẽ có nền tảng
+      để bảo vệ
+      những gì quan trọng.
+      Đây là bước tiến
+      từ cảm hứng
+      sang hệ thống bền vững.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu không thiết lập trật tự,
-      sự hỗn loạn sẽ quay lại.
-      Kỷ luật có ý thức
-      là chìa khóa cho bền vững.
+      Ở hướng đi phía trước, The Emperor ngược nhắc bạn
+      rằng nếu bạn
+      quá cứng nhắc
+      hoặc lạm dụng kiểm soát,
+      cấu trúc bạn dựng lên
+      có thể trở thành
+      nhà tù tinh thần.
+      Hướng đi này khuyên bạn
+      hãy lãnh đạo
+      bằng sự vững vàng,
+      không phải bằng nỗi sợ.
 
 ---
 

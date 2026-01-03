@@ -33,52 +33,94 @@ reading:
   past:
     upright: >
       Trong quá khứ, Five of Pentacles cho thấy
-      bạn từng trải qua giai đoạn thiếu thốn
-      về tiền bạc, sức khỏe hoặc sự nâng đỡ tinh thần.
-      Cảm giác bị bỏ lại phía sau
-      có thể đã hình thành nỗi sợ mất an toàn
-      trong cách bạn nhìn về cuộc sống.
+      đã từng có một giai đoạn
+      bạn cảm thấy
+      thiếu thốn hoặc bị bỏ rơi.
+      Có thể đó là
+      khó khăn tài chính,
+      sức khỏe,
+      hoặc cảm giác
+      không được hỗ trợ.
+      Trải nghiệm này để lại
+      dấu ấn sâu sắc,
+      khiến bạn nhạy cảm hơn
+      với vấn đề an toàn
+      và giá trị bản thân.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      việc bạn từng bước ra khỏi giai đoạn khó khăn,
-      hoặc đã có lúc bạn nhận ra
-      mình không thật sự đơn độc như đã nghĩ.
-      Một cánh cửa hỗ trợ đã từng mở ra,
-      chỉ là bạn chưa sẵn sàng bước vào.
+      Khi Five of Pentacles xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn đã từng
+      bắt đầu vượt qua
+      cảm giác thiếu hụt.
+      Có thể sự hỗ trợ
+      xuất hiện muộn,
+      nhưng đủ để
+      giúp bạn không
+      gục ngã hoàn toàn.
+      Trải nghiệm này để lại bài học
+      rằng sự giúp đỡ
+      không phải lúc nào
+      cũng dễ nhận ra ngay.
 
   present:
     upright: >
-      Ở hiện tại, Five of Pentacles cho thấy
-      bạn có thể đang cảm thấy thiếu hụt:
-      thiếu tiền, thiếu sức, thiếu niềm tin,
-      hoặc thiếu cảm giác được nâng đỡ.
-      Lá bài nhắc rằng nỗi đau lớn nhất đôi khi
-      không phải là thiếu vật chất,
-      mà là cảm giác “không có ai”.
+      Ở hiện tại, Five of Pentacles phản ánh
+      cảm giác bất an rõ rệt.
+      Bạn có thể đang
+      lo lắng về tài chính,
+      công việc,
+      hoặc cảm thấy
+      mình đơn độc
+      trong một tình huống khó khăn.
+      Trải bài này không phủ nhận nỗi lo,
+      mà nhắc bạn rằng
+      bạn không thực sự
+      bị bỏ lại,
+      dù cảm giác đó
+      đang rất mạnh.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn đang trong quá trình hồi phục.
-      Dù vẫn còn khó khăn,
-      nhưng bạn bắt đầu nhìn thấy nguồn lực,
-      cơ hội hoặc sự giúp đỡ
-      mà trước đó mình bỏ qua.
+      Khi Five of Pentacles ngược xuất hiện ở hiện tại,
+      bạn bắt đầu nhận ra
+      rằng sự hỗ trợ
+      vẫn tồn tại quanh mình.
+      Có thể bạn đang
+      dần mở lòng
+      để nhận giúp đỡ,
+      hoặc tìm thấy
+      giải pháp thực tế
+      cho vấn đề trước mắt.
+      Đây là dấu hiệu cho thấy
+      ánh sáng
+      đã bắt đầu xuất hiện.
 
   future:
     upright: >
-      Về hướng đi, Five of Pentacles nhắc bạn rằng
-      nếu tiếp tục chịu đựng một mình,
-      gánh nặng sẽ càng nặng hơn.
-      Việc tìm kiếm sự hỗ trợ đúng chỗ
-      là một bước thực tế và cần thiết.
+      Nhìn về phía trước, Five of Pentacles cho thấy
+      những thử thách về an toàn
+      có thể tiếp diễn,
+      nếu bạn tiếp tục
+      tự cô lập mình.
+      Hướng đi này khuyên bạn
+      hãy tìm kiếm
+      sự hỗ trợ phù hợp,
+      để không phải
+      đối mặt với khó khăn
+      một mình.
 
     reversed: >
-      Ở trạng thái ngược, lá bài gợi ý rằng
-      sự cải thiện sẽ đến khi bạn cho phép mình
-      nhận sự giúp đỡ hoặc chủ động bước ra
-      khỏi vòng lặp thiếu hụt.
-      Một cơ hội phục hồi đang gần hơn bạn nghĩ.
+      Ở hướng đi phía trước, Five of Pentacles ngược mở ra
+      khả năng phục hồi.
+      Khi bạn cho phép
+      sự giúp đỡ đi vào,
+      cảm giác thiếu hụt
+      sẽ dần được thay thế
+      bằng niềm tin
+      và sự nâng đỡ.
+      Đây là bước chuyển
+      từ bất an
+      sang cảm giác
+      được kết nối lại.
 
 ---
 

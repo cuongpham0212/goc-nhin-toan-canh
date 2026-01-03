@@ -33,46 +33,91 @@ reading:
   past:
     upright: >
       Trong quá khứ, Four of Pentacles cho thấy
-      bạn từng cố gắng giữ chặt những gì mình có.
-      Đó có thể là tiền bạc, vị trí hoặc cảm giác an toàn
-      sau một giai đoạn bất ổn.
+      đã từng có một giai đoạn
+      bạn tập trung giữ chặt
+      những gì mình đã có.
+      Sau khi bắt đầu xây dựng nền móng mới,
+      bạn chọn sự an toàn,
+      tránh rủi ro
+      và hạn chế thay đổi.
+      Trải nghiệm này giúp bạn
+      tạo ra cảm giác ổn định,
+      nhưng cũng cho thấy
+      cái giá của việc
+      quá dè dặt.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng nhận ra
-      việc bám chặt quá mức
-      đã khiến mình căng thẳng và khép kín.
+      Khi Four of Pentacles xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn đã từng
+      học cách buông lỏng
+      sự kiểm soát.
+      Việc không giữ quá chặt
+      giúp dòng chảy tài nguyên
+      và năng lượng
+      được lưu thông tốt hơn.
+      Trải nghiệm này để lại bài học
+      về việc an toàn
+      không đồng nghĩa
+      với nắm giữ.
 
   present:
     upright: >
-      Ở hiện tại, Four of Pentacles cho thấy
-      bạn đang ưu tiên sự ổn định và kiểm soát.
-      Điều này giúp bạn cảm thấy an toàn,
-      nhưng cũng có thể khiến bạn
-      ngại thay đổi hoặc chia sẻ nguồn lực.
+      Ở hiện tại, Four of Pentacles phản ánh
+      trạng thái bạn đang
+      ưu tiên sự an toàn.
+      Bạn có thể đang
+      giữ chặt tiền bạc,
+      thời gian,
+      hoặc vị trí của mình
+      vì sợ mất đi
+      những gì đã vất vả xây dựng.
+      Trải bài này không phán xét,
+      mà nhắc bạn
+      hãy quan sát xem
+      việc giữ chặt này
+      đang bảo vệ
+      hay đang giới hạn bạn.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn đang học cách nới lỏng sự kiểm soát.
-      Có thể bạn bắt đầu nhận ra
-      rằng việc giữ chặt không phải lúc nào
-      cũng mang lại cảm giác an toàn thật sự.
+      Khi Four of Pentacles ngược xuất hiện ở hiện tại,
+      bạn bắt đầu cảm thấy
+      nhu cầu mở ra.
+      Có thể bạn nhận ra
+      rằng sự khép kín
+      đang làm bạn căng thẳng.
+      Trạng thái này phản ánh
+      mong muốn
+      chia sẻ,
+      đầu tư,
+      hoặc cho phép
+      sự linh hoạt quay trở lại.
 
   future:
     upright: >
-      Về hướng đi, Four of Pentacles gợi ý rằng
-      bạn cần cân nhắc giữa việc bảo vệ
-      những gì mình đã xây dựng
-      và việc cho phép dòng chảy tiếp tục.
-      Sự an toàn quá mức
-      có thể cản trở tăng trưởng.
+      Nhìn về phía trước, Four of Pentacles cho thấy
+      bạn sẽ cần
+      xác định ranh giới rõ ràng
+      trong việc bảo vệ
+      nguồn lực của mình.
+      Hướng đi này nhắc rằng
+      sự ổn định
+      là cần thiết,
+      nhưng chỉ khi
+      nó không làm
+      bạn đứng yên quá lâu.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      khi bạn dám buông bớt nỗi sợ mất mát,
-      nguồn lực mới sẽ có không gian để đi vào.
-      Sự linh hoạt sẽ giúp bạn
-      duy trì ổn định lâu dài hơn.
+      Ở hướng đi phía trước, Four of Pentacles ngược mở ra
+      khả năng bạn sẽ
+      học cách buông bỏ
+      nỗi sợ mất mát.
+      Khi bạn cho phép
+      dòng chảy được lưu thông,
+      sự an toàn
+      sẽ đến từ
+      niềm tin,
+      chứ không chỉ
+      từ việc nắm giữ.
 
 ---
 

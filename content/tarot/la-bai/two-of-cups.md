@@ -32,213 +32,251 @@ image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/two-of-cups
 reading:
   past:
     upright: >
-      Trong quá khứ, Two of Cups cho thấy đã từng tồn tại
-      một mối liên kết chân thành và cân bằng.
-      Đó có thể là tình yêu, sự đồng cảm,
-      hoặc một mối quan hệ mà hai bên thực sự nhìn thấy nhau.
+      Trong quá khứ, Two of Cups cho thấy đã từng có
+      một sự kết nối mang tính hai chiều trong đời bạn.
+      Không chỉ là cảm xúc xuất phát từ một phía,
+      mà là khoảnh khắc bạn cảm nhận được
+      sự đồng điệu, tôn trọng và thấu hiểu lẫn nhau.
+      Có thể đó là một mối quan hệ,
+      hoặc một khoảng thời gian bạn cảm thấy
+      mình được nhìn nhận đúng với con người thật.
+      Trải nghiệm này đã đặt ra một tiêu chuẩn cảm xúc,
+      để sau này bạn khó có thể chấp nhận
+      những kết nối hời hợt hay thiếu cân bằng.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh một mối quan hệ
-      từng thiếu sự tương xứng hoặc bị lệch nhịp cảm xúc.
-      Có thể bạn đã cho đi nhiều hơn nhận lại,
-      hoặc từng thất vọng vì sự không rõ ràng từ đối phương.
+      Khi Two of Cups xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy đã từng có
+      một sự lệch nhịp trong kết nối.
+      Có thể cảm xúc không đến từ cả hai phía,
+      hoặc sự kỳ vọng và thực tế không trùng khớp.
+      Trải nghiệm này khiến bạn nhận ra
+      rằng không phải mọi mối quan hệ bắt đầu đẹp
+      đều có thể duy trì sự cân bằng lâu dài.
 
   present:
     upright: >
-      Ở hiện tại, Two of Cups cho thấy bạn đang đứng trước
-      cơ hội kết nối dựa trên sự tôn trọng và cảm xúc tương hỗ.
-      Đây là thời điểm thuận lợi để xây dựng mối quan hệ
-      từ sự chân thành thay vì kỳ vọng.
+      Ở hiện tại, Two of Cups cho thấy
+      bạn đang ở thời điểm sẵn sàng cho
+      một sự kết nối chân thành và bình đẳng hơn.
+      Sau khi đã hiểu rõ cảm xúc của chính mình,
+      bạn bắt đầu mở lòng để đón nhận người khác
+      mà không đánh mất bản thân.
+      Đây có thể là lúc một mối quan hệ mới hình thành,
+      hoặc một mối quan hệ cũ bước sang giai đoạn
+      sâu sắc và rõ ràng hơn.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy sự mất cân bằng
-      trong kết nối hiện tại.
-      Có thể hai người đang không nói cùng một ngôn ngữ cảm xúc,
-      hoặc bạn đang nghi ngờ liệu mối quan hệ này
-      có thực sự đáp lại nhu cầu bên trong mình hay không.
+      Khi Two of Cups ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy khó kết nối thật sự.
+      Có thể bạn vẫn còn mong muốn sự gần gũi,
+      nhưng lại lo sợ việc cho đi quá nhiều.
+      Trạng thái này phản ánh sự do dự:
+      vừa muốn gắn kết,
+      vừa sợ mất đi sự an toàn cảm xúc của mình.
 
   future:
     upright: >
-      Về hướng đi, Two of Cups gợi ý rằng
-      một sự kết nối hài hòa có thể hình thành hoặc được hàn gắn,
-      miễn là cả hai sẵn sàng gặp nhau ở sự chân thật.
+      Nhìn về phía trước, Two of Cups mở ra
+      khả năng hình thành một mối quan hệ
+      dựa trên sự tôn trọng và thấu hiểu lẫn nhau.
+      Khi bạn giữ được sự cân bằng
+      giữa cho đi và đón nhận,
+      kết nối này có thể phát triển
+      một cách tự nhiên và bền vững.
+      Đây là bước tiến từ cảm xúc cá nhân
+      sang sự đồng hành cùng người khác.
 
     reversed: >
-      Ở trạng thái ngược, lá bài khuyên bạn cần nhìn rõ
-      đâu là mối quan hệ nên tiếp tục,
-      đâu là nơi bạn đang cố níu giữ
-      chỉ vì sợ cảm giác một mình.
+      Ở hướng đi phía trước, Two of Cups ngược nhắc bạn
+      cần chú ý đến sự mất cân bằng trong các mối quan hệ.
+      Nếu một kết nối không còn mang lại
+      cảm giác an toàn và tôn trọng,
+      có thể bạn cần xem lại
+      mình đang cố gắng vì điều gì
+      và vì ai.
+
+---
+## Two of Cups là gì?
+
+**Two of Cups** là lá bài đại diện cho **sự kết nối hai chiều**, nơi cảm xúc không chỉ xuất hiện từ một phía mà **được nhìn nhận, đáp lại và tôn trọng lẫn nhau**.  
+Nếu Ace of Cups là khoảnh khắc cảm xúc bắt đầu nảy sinh bên trong, thì Two of Cups là lúc **hai thế giới nội tâm gặp nhau**.
+
+Đây không phải là lá bài của đam mê bùng nổ, mà là của **sự đồng thuận cảm xúc**.
+
+> Khi không còn phải hỏi:  
+> *“Mình có đang cảm thấy một mình không?”*
 
 ---
 
 ## Tổng quan về lá Two of Cups
 
-**Two of Cups** là bước tiếp theo sau **Ace of Cups** trong hành trình cảm xúc của Tarot.  
-Nếu Ace of Cups nói về **sự khởi sinh cảm xúc**, thì Two of Cups đại diện cho **sự gặp gỡ** – khi cảm xúc đó **được đáp lại**.
+**Two of Cups** thuộc nhóm **Cups** trong Tarot – đại diện cho **cảm xúc, tình yêu, sự gắn kết và đời sống nội tâm**.  
+Trong hệ **Minor Arcana**, số **2** mang ý nghĩa của **song hành – tương tác – phản chiếu**.
 
-Đây là lá bài của:
-- Kết nối hai chiều
-- Sự đồng thuận cảm xúc
-- Mối quan hệ dựa trên tôn trọng và cân bằng
+Vì vậy, Two of Cups không nói về “một người”, mà nói về **một mối quan hệ** –  
+nơi cảm xúc **được nhìn thấy và được đáp lại**.
 
-Two of Cups không nói về đam mê nhất thời, mà nói về **sự nhìn nhận lẫn nhau như hai con người ngang hàng**.
+Nếu Ace of Cups là “mình bắt đầu cảm nhận”,  
+thì Two of Cups là:  
+**“Mình và bạn đang cảm nhận cùng một điều.”**
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Biểu tượng và hình ảnh cốt lõi
 
-Hình ảnh quen thuộc của Two of Cups thường bao gồm:
-- **Hai người đối diện nhau**
-- **Mỗi người cầm một chiếc cốc**
-- **Cử chỉ trao đổi, không chiếm hữu**
+Hình ảnh đặc trưng của Two of Cups thường bao gồm:
+- **Hai người đối diện nhau** – sự hiện diện bình đẳng
+- **Hai chiếc cốc được nâng lên** – trao đổi cảm xúc
+- **Cử chỉ tự nguyện** – không ép buộc, không hơn thua
 
-Điểm cốt lõi của hình ảnh này là:
-👉 *Không ai cho nhiều hơn, không ai nhận nhiều hơn.*
+Điểm cốt lõi của lá bài này là:  
+**Không ai rót cho ai – mỗi người tự mang cốc của mình đến.**
 
-Mối quan hệ trong Two of Cups chỉ tồn tại khi:
-- Hai bên cùng hiện diện
-- Cùng sẵn sàng
-- Và cùng tôn trọng ranh giới của nhau
+Kết nối thật sự không đến từ thiếu hụt, mà từ **sự đủ đầy sẵn có ở cả hai phía**.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Two of Cups
+
+Two of Cups mang năng lượng mạnh mẽ của **Sao Kim (Venus)** – hành tinh đại diện cho **tình yêu, sự hòa hợp và khả năng xây dựng mối quan hệ cân bằng**.
+
+Về mặt chiêm tinh, lá bài này thường được liên kết với **cung Thiên Bình (Libra)** – biểu trưng cho sự công bằng, tôn trọng và mong muốn kết nối hài hòa giữa hai cá thể.
+
+Năng lượng của Thiên Bình trong Two of Cups không nằm ở sự lãng mạn bề nổi, mà ở **khả năng lắng nghe, thấu hiểu và đặt mình ngang hàng với người đối diện**.
+
+Nếu bạn quan tâm đến sự vận hành các mối quan hệ của cung này theo dòng thời gian, có thể tham khảo thêm:  
+**[Tử vi cung Thiên Bình năm 2026](/tu-vi/nam-2026/thien-binh/)**
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Two of Cups
 
-### 🤝 Kết nối cân bằng
+### Sự kết nối hai chiều
 
 Two of Cups xuôi cho thấy:
-- Một mối quan hệ có sự đáp lại
-- Cảm xúc được công nhận từ cả hai phía
-- Sự hòa hợp về mặt tinh thần hoặc cảm xúc
+- Cảm xúc được đáp lại
+- Sự đồng thuận trong mối quan hệ
+- Hai người nhìn nhau với cùng một mức độ hiện diện
 
 Đây có thể là:
-- Tình yêu đôi lứa
-- Quan hệ đối tác
-- Tình bạn sâu sắc
-- Hoặc một sự thấu hiểu hiếm hoi giữa hai con người
+- Một mối quan hệ tình cảm cân bằng
+- Một sự hợp tác dựa trên tôn trọng
+- Hoặc cảm giác **“mình được nhìn thấy đúng như mình là”**
 
 ---
 
-### 💬 Giao tiếp và thấu hiểu
+### Tình yêu trưởng thành
 
-Khác với Ace of Cups (cảm xúc đơn hướng), Two of Cups nhấn mạnh:
-- Lắng nghe
-- Chia sẻ
-- Và phản hồi trung thực
+Không phải yêu vì cần,  
+mà yêu vì **muốn chia sẻ**.
 
-Mối quan hệ này không dựa trên hy sinh mù quáng, mà dựa trên:
-> *“Tôi là tôi – bạn là bạn – và chúng ta chọn gặp nhau.”*
+Two of Cups không mang năng lượng chiếm hữu, mà là:
+- Tự nguyện
+- Bình đẳng
+- Không đánh mất bản thân để giữ mối quan hệ
 
 ---
 
-### ⚖️ Cân bằng và tôn trọng
+### Phản chiếu cảm xúc
 
-Two of Cups nhắc ta rằng:
-- Không có ai “cao hơn”
-- Không ai phải gồng gánh thay ai
-- Không ai bị hòa tan vào mối quan hệ
-
-Đây là nền tảng của **mối quan hệ lành mạnh**, dù trong tình cảm hay hợp tác.
+Lá bài này cũng nhắc rằng:
+- Ta thường bị thu hút bởi người phản chiếu đúng trạng thái nội tâm của mình
+- Mối quan hệ là tấm gương soi rõ cách ta yêu và được yêu
 
 ---
 
 ## Two of Cups trong các khía cạnh đời sống
 
-### 🔹 Trong tình cảm
+### Trong tình cảm
+Two of Cups là một trong những lá bài tích cực nhất về tình yêu. Nó đại diện cho sự đồng điệu, cam kết và kết nối cảm xúc lành mạnh. Đây là thời điểm thích hợp để xây dựng hoặc củng cố một mối quan hệ dựa trên sự tôn trọng và chân thành.
 
-Two of Cups thường được xem là lá bài:
-- Tình yêu song phương
-- Mối quan hệ bắt đầu trên nền tảng đồng cảm
-- Hai người chọn nhau, không ép buộc
-
-Nếu Ace of Cups là rung động đầu tiên, thì Two of Cups là:
-👉 *“Tôi thấy bạn – và bạn cũng thấy tôi.”*
+### Trong công việc và hợp tác
+Trong công việc, Two of Cups cho thấy sự hợp tác hiệu quả, nơi các bên hiểu rõ vai trò của nhau. Mối quan hệ đồng nghiệp hoặc đối tác có thể phát triển bền vững nếu dựa trên sự minh bạch và tin cậy.
 
 ---
 
-### 🔹 Trong công việc & hợp tác
+## Two of Cups (Ngược) – Khi sự kết nối mất cân bằng
 
-- Quan hệ đối tác cân bằng
-- Làm việc dựa trên tin cậy
-- Hợp tác win–win
+Khi **Two of Cups xuất hiện ở vị trí ngược**, lá bài không nói rằng mối quan hệ “xấu”, mà cho thấy **sự lệch nhịp**.
 
-Two of Cups cho thấy:
-- Hai bên có tiếng nói
-- Không bên nào lấn át
-- Giao tiếp rõ ràng, minh bạch
+### Ý nghĩa chính
 
----
+Two of Cups ngược thường phản ánh:
+- Cảm xúc không còn đồng đều
+- Một bên cho nhiều hơn bên còn lại
+- Hiểu lầm hoặc thiếu giao tiếp
 
-### 🔹 Trong phát triển nội tâm
-
-Two of Cups cũng phản ánh:
-- Sự hòa hợp giữa lý trí và cảm xúc
-- Khả năng chấp nhận chính mình
-- Kết nối lành mạnh với nội tâm
-
-Khi ta ngừng tự đối đầu với bản thân, Two of Cups bắt đầu xuất hiện.
+Đây không phải là kết thúc, mà là **dấu hiệu cần điều chỉnh**.
 
 ---
 
-## Two of Cups (Ngược) – Khi kết nối mất cân bằng
+### Góc nhìn tâm lý
 
-Khi **Two of Cups xuất hiện ở vị trí ngược**, lá bài không phủ nhận mối quan hệ, mà chỉ ra **sự lệch pha**.
+Ở trạng thái ngược, Two of Cups có thể cho thấy:
+- Sự phụ thuộc cảm xúc
+- Mong đợi không được nói ra
+- Hoặc nỗi sợ mất kết nối khiến ta im lặng
 
-### ⚠️ Ý nghĩa chính
-
-Two of Cups ngược thường cho thấy:
-- Một bên cho nhiều hơn bên kia
-- Kết nối không còn đồng đều
-- Giao tiếp bị gián đoạn
-
-Có thể vẫn còn cảm xúc, nhưng **sự cân bằng đã bị phá vỡ**.
+Lá bài nhắc:
+**Kết nối chỉ bền khi cả hai vẫn còn là chính mình.**
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Lời khuyên khi Two of Cups ngược xuất hiện
 
-Ở trạng thái ngược, Two of Cups phản ánh:
-- Nhu cầu được công nhận không được đáp lại
-- Sợ mất nên cố giữ
-- Hoặc tự đánh mất mình để duy trì mối quan hệ
+- Hãy tự hỏi: *“Mối quan hệ này còn cân bằng không?”*
+- Thành thật với cảm xúc của mình
+- Đừng duy trì kết nối chỉ vì sợ cô đơn
 
-Lá bài đặt câu hỏi:
-> *“Mối quan hệ này có còn là hai người, hay chỉ còn một người cố gắng?”*
-
----
-
-### 🧭 Lời khuyên khi Two of Cups ngược xuất hiện
-
-- Kiểm tra lại ranh giới cá nhân
-- Giao tiếp rõ ràng thay vì im lặng chịu đựng
-- Nhìn thẳng vào sự thật, dù không dễ chịu
-
-Two of Cups ngược không yêu cầu chấm dứt, mà yêu cầu **điều chỉnh lại sự cân bằng**.
+Đôi khi, điều cần chữa lành không phải mối quan hệ –  
+mà là **cách ta bước vào nó**.
 
 ---
 
-## 🔗Để hiểu đầy đủ tiến trình cảm xúc trong Tarot, bạn có thể đọc thêm:
+## 👉 Xem toàn bộ mạch cảm xúc
 
-- **[Ace of Cups – Dòng Cảm Xúc Mới](/tarot/la-bai/ace-of-cups/)**  
-- **[Three of Cups – Niềm Vui Chia Sẻ](/tarot/la-bai/three-of-cups/)**  
-- **[Page of Cups – Thông Điệp Từ Cảm Xúc](/tarot/la-bai/page-of-cups/)**  
-- **[Bộ Ẩn Phụ – Suit of Cups](/tarot/suit/cups/)**  
+**[Suit of Cups – Hành Trình Cảm Xúc](/tarot/la-bai/suit-of-cups/)**
+
+---
+
+## Đọc tiếp các lá trong mạch Cups
+
+- **[Ace of Cups – Khởi đầu cảm xúc](/tarot/la-bai/ace-of-cups/)**
+- **[Three of Cups – Cộng hưởng và niềm vui chia sẻ](/tarot/la-bai/three-of-cups/)**
+- **[Page of Cups – Thông điệp từ cảm xúc](/tarot/la-bai/page-of-cups/)**
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Two of Cups
 
 **Xuôi:**
-- 🤝 Kết nối hai chiều
-- 💞 Tình yêu và thấu hiểu
-- ⚖️ Cân bằng – tôn trọng
+- Kết nối hai chiều  
+- Tình yêu cân bằng  
+- Đồng cảm và phản chiếu  
 
 **Ngược:**
-- ⚠️ Lệch pha cảm xúc
-- 💬 Giao tiếp gián đoạn
-- 🧭 Cần điều chỉnh lại mối quan hệ
+- Mất cân bằng cảm xúc  
+- Thiếu giao tiếp  
+- Cần nhìn lại cách kết nối  
 
 Two of Cups nhắc ta rằng:  
-**Một mối quan hệ chỉ thực sự tồn tại khi cả hai cùng hiện diện – không hơn, không kém.**
+**Một mối quan hệ đẹp không phải là nơi ta đánh mất mình,  
+mà là nơi cả hai cùng hiện diện trọn vẹn.**
 
-👉 Xem toàn bộ mạch cảm xúc: **[Suit of Cups – Hành Trình Cảm Xúc](/tarot/la-bai/suit-of-cups/)**
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Two of Cups
+
+**Two of Cups có phải là lá bài tình yêu không?**  
+Có, nhưng là tình yêu mang tính cân bằng và trưởng thành, không chỉ là cảm xúc lãng mạn nhất thời.
+
+**Two of Cups khác gì Ace of Cups?**  
+Ace of Cups nói về cảm xúc khởi sinh bên trong, còn Two of Cups nói về sự kết nối cảm xúc giữa hai người.
+
+**Two of Cups ngược có phải chia tay không?**  
+Không nhất thiết. Lá bài phản ánh sự lệch nhịp và cần đối thoại, không mặc định là kết thúc.
+
+**Two of Cups trong công việc có ý nghĩa gì?**  
+Nó đại diện cho sự hợp tác hài hòa, đôi bên cùng có lợi và tôn trọng lẫn nhau.

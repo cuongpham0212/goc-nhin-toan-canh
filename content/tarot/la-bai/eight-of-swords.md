@@ -33,53 +33,81 @@ reading:
   past:
     upright: >
       Trong quá khứ, Eight of Swords cho thấy
-      bạn từng rơi vào trạng thái
-      cảm thấy không có lối thoát.
-      Dù hoàn cảnh có thể không hoàn toàn bế tắc,
-      niềm tin giới hạn
-      đã khiến bạn tự trói mình lại.
+      đã từng có một giai đoạn
+      bạn cảm thấy mình bị mắc kẹt.
+      Không hẳn vì hoàn cảnh,
+      mà vì những suy nghĩ lặp đi lặp lại
+      khiến bạn tin rằng
+      mình không có lựa chọn nào khác.
+      Trải nghiệm này giúp bạn
+      nhận ra sức mạnh của tư duy,
+      rằng chính niềm tin giới hạn
+      mới là điều trói buộc mạnh nhất.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một khoảnh khắc bạn từng nhận ra rằng
-      xiềng xích không chặt như bạn nghĩ.
-      Ý thức này là bước đầu
-      để thoát khỏi vòng lặp tâm trí.
+      Khi Eight of Swords xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn đã từng
+      dần thoát ra
+      khỏi trạng thái tự giam mình.
+      Có thể bạn nhận ra
+      rằng một số rào cản
+      không thực sự tồn tại,
+      và bắt đầu thử
+      nhìn vấn đề
+      từ một góc độ khác.
 
   present:
     upright: >
-      Ở hiện tại, Eight of Swords cho thấy
-      bạn đang bị kẹt trong suy nghĩ của chính mình.
-      Sợ sai, sợ hậu quả, sợ bị phán xét
-      khiến bạn không dám hành động.
-      Lá bài nhắc rằng
-      rào cản lớn nhất lúc này
-      nằm trong đầu bạn.
+      Ở hiện tại, Eight of Swords phản ánh
+      cảm giác bị hạn chế về mặt tinh thần.
+      Bạn có thể đang nghĩ rằng
+      mình không thể thay đổi tình huống,
+      hoặc mọi lựa chọn
+      đều dẫn đến kết quả tiêu cực.
+      Trải bài này nhắc bạn
+      rằng dù cảm giác bị trói là thật,
+      nhưng sợi dây
+      phần lớn đến từ
+      cách bạn nhìn nhận vấn đề.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn đang dần tháo gỡ
-      những niềm tin giới hạn.
-      Dù còn lo lắng,
-      bạn bắt đầu nhìn thấy
-      những lựa chọn mà trước đây
-      bạn không cho phép mình thấy.
+      Khi Eight of Swords ngược xuất hiện ở hiện tại,
+      bạn bắt đầu nhận ra
+      rằng mình có nhiều lựa chọn hơn
+      so với những gì đã nghĩ.
+      Có thể bạn đang dần
+      tháo bỏ những niềm tin giới hạn,
+      và cho phép bản thân
+      bước ra khỏi
+      chiếc lồng tinh thần
+      đã tồn tại quá lâu.
 
   future:
     upright: >
-      Về hướng đi, Eight of Swords cảnh báo rằng
-      nếu bạn tiếp tục tin rằng
-      mình không có quyền lựa chọn,
-      sự bế tắc sẽ kéo dài.
-      Thay đổi bắt đầu từ nhận thức.
+      Nhìn về phía trước, Eight of Swords cho thấy
+      nếu bạn tiếp tục
+      tin vào những suy nghĩ giới hạn,
+      cảm giác mắc kẹt
+      có thể kéo dài.
+      Hướng đi này khuyên bạn
+      hãy đặt câu hỏi
+      cho chính niềm tin của mình,
+      để tìm ra
+      đâu là rào cản thật,
+      đâu là rào cản do sợ hãi tạo nên.
 
     reversed: >
-      Ở trạng thái ngược, lá bài gợi ý rằng
-      tự do sẽ đến
-      khi bạn dám đặt câu hỏi
-      về những nỗi sợ lâu nay.
-      Một bước nhỏ thay đổi suy nghĩ
-      có thể mở ra lối thoát lớn.
+      Ở hướng đi phía trước, Eight of Swords ngược mở ra
+      khả năng giải phóng tinh thần.
+      Khi bạn dám
+      thay đổi góc nhìn
+      và hành động nhỏ đầu tiên,
+      những sợi dây trói
+      sẽ dần lỏng ra.
+      Đây là bước chuyển
+      từ việc bị giam cầm
+      sang việc
+      tự giải thoát mình.
 
 ---
 

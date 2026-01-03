@@ -33,54 +33,79 @@ reading:
   past:
     upright: >
       Trong quá khứ, Five of Wands cho thấy
-      bạn từng ở trong môi trường
-      nhiều cạnh tranh hoặc ý kiến trái chiều.
-      Những va chạm này
-      buộc bạn phải học cách
-      khẳng định bản thân và giữ lập trường.
+      đã từng có một giai đoạn
+      bạn phải đối diện
+      với sự cạnh tranh hoặc mâu thuẫn.
+      Sau khi có chỗ đứng nhất định,
+      những khác biệt bắt đầu lộ rõ,
+      khiến bạn phải đấu tranh
+      để bảo vệ quan điểm hoặc vị trí của mình.
+      Trải nghiệm này giúp bạn nhận ra
+      rằng không phải ai cũng
+      nhìn vấn đề theo cùng một cách,
+      và xung đột đôi khi
+      là điều không thể tránh khỏi.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng né tránh xung đột
-      hoặc cảm thấy mệt mỏi
-      vì cạnh tranh không cần thiết.
-      Việc rút lui khi đó
-      giúp bạn bảo toàn năng lượng.
+      Khi Five of Wands xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn đã từng
+      né tránh xung đột
+      hoặc rút lui khỏi những cuộc va chạm.
+      Có thể bạn chọn hòa hoãn
+      để giữ yên ổn,
+      nhưng điều đó cũng khiến
+      những căng thẳng ngầm
+      chưa được giải quyết triệt để.
 
   present:
     upright: >
-      Ở hiện tại, Five of Wands cho thấy
-      bạn đang phải đối mặt
-      với sự so sánh hoặc tranh giành.
-      Lá bài nhắc rằng
-      không phải cuộc cạnh tranh nào
-      cũng nhằm hạ bệ,
-      đôi khi nó giúp bạn
-      nhận ra sức mạnh của mình.
+      Ở hiện tại, Five of Wands phản ánh
+      trạng thái nhiều ý kiến trái chiều
+      đang diễn ra xung quanh bạn.
+      Bạn có thể cảm thấy
+      mình phải cạnh tranh,
+      phải lên tiếng,
+      hoặc phải khẳng định bản thân
+      giữa những quan điểm khác nhau.
+      Dù mệt mỏi,
+      nhưng giai đoạn này cũng giúp bạn
+      nhìn rõ hơn
+      đâu là điều bạn thật sự muốn bảo vệ.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn đang tìm cách
-      thoát khỏi vòng xoáy hơn thua.
-      Đây là lúc chọn lọc
-      những cuộc đấu
-      thật sự xứng đáng.
+      Khi Five of Wands ngược xuất hiện ở hiện tại,
+      bạn có thể đang cố gắng
+      tránh xa những xung đột không cần thiết.
+      Có thể bạn đã mệt mỏi
+      với việc phải tranh cãi,
+      và mong muốn tìm
+      một cách tiếp cận nhẹ nhàng hơn.
+      Trạng thái này phản ánh
+      nhu cầu tìm lại sự hài hòa,
+      thay vì tiếp tục đối đầu.
 
   future:
     upright: >
-      Về hướng đi, Five of Wands gợi ý rằng
-      cạnh tranh sẽ tiếp tục xuất hiện,
-      nhưng đó là cơ hội để bạn
-      mài sắc kỹ năng và bản lĩnh.
-      Ai đứng vững
-      sẽ tiến lên mạnh mẽ hơn.
+      Nhìn về phía trước, Five of Wands cho thấy
+      những thử thách vẫn có thể tiếp diễn,
+      đặc biệt khi bạn bước vào
+      những môi trường mới.
+      Tuy nhiên, nếu bạn xem xung đột
+      như một cơ hội để rèn luyện,
+      bạn sẽ học được
+      cách khẳng định mình
+      mà không cần phải triệt tiêu người khác.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      khi bạn không còn cần
-      chứng minh giá trị,
-      nhiều xung đột
-      sẽ tự động tan biến.
+      Ở hướng đi phía trước, Five of Wands ngược mở ra
+      khả năng các mâu thuẫn
+      sẽ dần được hóa giải.
+      Khi bạn học cách chọn lọc
+      cuộc chiến nào đáng tham gia,
+      năng lượng của bạn
+      sẽ được sử dụng hiệu quả hơn,
+      và sự cân bằng
+      sẽ dần quay trở lại.
 
 ---
 

@@ -33,54 +33,83 @@ reading:
   past:
     upright: >
       Trong quá khứ, Nine of Wands cho thấy
-      bạn từng đi qua nhiều thử thách liên tiếp.
-      Dù mệt mỏi và hoài nghi,
-      bạn vẫn không bỏ cuộc
-      vì biết mình đã đi quá xa để quay đầu.
+      đã từng có một giai đoạn
+      bạn phải kiên trì
+      dù đã rất mệt mỏi.
+      Sau khi mọi thứ tăng tốc,
+      bạn liên tục đối diện
+      với thử thách,
+      buộc phải giữ vững lập trường
+      để không bỏ cuộc giữa chừng.
+      Trải nghiệm này giúp bạn
+      nhận ra sức chịu đựng của mình
+      lớn hơn bạn tưởng.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng kiệt sức
-      vì phải liên tục phòng thủ.
-      Việc không cho phép mình nghỉ
-      có thể đã làm tổn thương
-      cả thể chất lẫn tinh thần.
+      Khi Nine of Wands xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      cạn kiệt năng lượng
+      và muốn buông xuôi.
+      Việc phải gồng mình quá lâu
+      khiến bạn nghi ngờ
+      liệu nỗ lực đó
+      có còn xứng đáng hay không.
 
   present:
     upright: >
-      Ở hiện tại, Nine of Wands cho thấy
-      bạn đang ở sát vạch đích.
-      Dù mệt,
-      bạn vẫn còn đủ ý chí
-      để đứng vững thêm một chút.
-      Lá bài nhắc rằng
-      bạn không yếu đuối —
-      bạn chỉ đang rất mệt.
+      Ở hiện tại, Nine of Wands phản ánh
+      trạng thái cảnh giác và phòng thủ.
+      Bạn có thể đang rất gần đích,
+      nhưng cũng đồng thời
+      cảm thấy kiệt sức.
+      Dù vậy, bạn vẫn chưa sẵn sàng
+      bỏ cuộc,
+      bởi bạn biết
+      mình đã đi quá xa
+      để có thể quay đầu.
+      Đây là giai đoạn
+      đòi hỏi sự bền bỉ cuối cùng.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang muốn buông
-      vì quá tải.
-      Lá bài nhắc bạn xem lại:
-      điều gì thật sự cần giữ,
-      điều gì có thể hạ xuống
-      để tiếp tục đi.
+      Khi Nine of Wands ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      mình không còn đủ sức
+      để tiếp tục phòng thủ.
+      Có thể bạn đang tự hỏi
+      liệu việc cố gắng thêm
+      có còn cần thiết.
+      Trạng thái này phản ánh
+      nhu cầu được nghỉ ngơi,
+      thay vì tiếp tục gồng mình
+      trong im lặng.
 
   future:
     upright: >
-      Về hướng đi, Nine of Wands gợi ý rằng
-      nếu bạn kiên trì thêm một đoạn ngắn,
-      bạn sẽ vượt qua giai đoạn khó nhất.
-      Sức mạnh lúc này
-      đến từ kinh nghiệm đã tích lũy.
+      Nhìn về phía trước, Nine of Wands mở ra
+      giai đoạn thử thách cuối cùng
+      trước khi mọi thứ khép lại.
+      Khi bạn giữ vững ranh giới
+      và không bỏ cuộc quá sớm,
+      bạn sẽ vượt qua
+      giai đoạn mệt mỏi này.
+      Đây là bước tiến
+      từ sự chịu đựng
+      sang cảm giác
+      mình đã thực sự mạnh mẽ hơn.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      tiếp tục gồng gánh
-      mà không điều chỉnh
-      sẽ dẫn đến sụp đổ.
-      Nghỉ ngơi có chọn lọc
-      là điều cần thiết.
+      Ở hướng đi phía trước, Nine of Wands ngược nhắc bạn
+      rằng việc bảo vệ bản thân
+      không đồng nghĩa
+      với việc phải chịu đựng mãi.
+      Nếu bạn tiếp tục ép mình
+      vượt quá giới hạn,
+      sự kiệt sức có thể trở thành
+      rào cản lớn nhất.
+      Hướng đi này khuyên bạn
+      hãy chọn cách
+      giữ sức cho chặng cuối,
+      thay vì cố gắng bằng mọi giá.
 
 ---
 

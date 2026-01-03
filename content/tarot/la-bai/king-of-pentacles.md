@@ -33,54 +33,88 @@ reading:
   past:
     upright: >
       Trong quá khứ, King of Pentacles cho thấy
-      bạn từng học được bài học về trách nhiệm
-      và giá trị của sự bền bỉ.
-      Có thể bạn đã chứng kiến
-      hoặc chịu ảnh hưởng từ một hình mẫu
-      đề cao sự ổn định và thực tế.
+      đã từng có một giai đoạn
+      bạn tập trung xây dựng
+      nền tảng vững chắc cho cuộc sống.
+      Sau nhiều thử nghiệm và biến động,
+      bạn học cách đi chậm,
+      tích lũy từng bước,
+      và chịu trách nhiệm
+      cho những lựa chọn dài hạn.
+      Trải nghiệm này giúp bạn
+      hiểu giá trị của sự bền bỉ
+      và tính nhất quán.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng đặt nặng
-      an toàn vật chất đến mức
-      trở nên cứng nhắc hoặc sợ mất mát.
-      Điều này có thể khiến bạn
-      khó thích nghi khi hoàn cảnh thay đổi.
+      Khi King of Pentacles xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      đặt nặng sự an toàn vật chất
+      đến mức bỏ qua
+      những nhu cầu khác của bản thân.
+      Việc quá chú trọng vào ổn định
+      khiến bạn cảm thấy
+      cuộc sống thiếu linh hoạt.
+      Trải nghiệm này để lại bài học
+      về việc cân bằng
+      giữa an toàn và sự sống động.
 
   present:
     upright: >
-      Ở hiện tại, King of Pentacles cho thấy
-      bạn đang ở vị thế làm chủ:
-      biết quản lý nguồn lực,
-      đưa ra quyết định thực tế
-      và xây dựng nền tảng vững chắc.
-      Bạn không cần chứng minh nhiều,
-      sự ổn định tự nói lên giá trị của bạn.
+      Ở hiện tại, King of Pentacles phản ánh
+      trạng thái ổn định và đáng tin cậy.
+      Bạn có khả năng
+      quản lý tốt nguồn lực,
+      đưa ra quyết định thực tế,
+      và trở thành chỗ dựa
+      cho người khác.
+      Đây là giai đoạn
+      bạn xây dựng giá trị
+      không bằng lời nói,
+      mà bằng hành động
+      và sự hiện diện bền bỉ.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang bị mắc kẹt
-      trong vùng an toàn.
-      Việc bám chặt vào cái đã có
-      có thể ngăn bạn phát triển
-      theo cách linh hoạt hơn.
+      Khi King of Pentacles ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      mình bị mắc kẹt
+      trong những trách nhiệm quen thuộc.
+      Có thể bạn đang giữ chặt
+      sự ổn định
+      vì sợ thay đổi.
+      Trạng thái này phản ánh
+      nhu cầu xem lại
+      điều gì thực sự
+      mang lại cảm giác an tâm,
+      chứ không chỉ là thói quen.
 
   future:
     upright: >
-      Về hướng đi, King of Pentacles gợi ý rằng
-      thành quả bạn xây dựng
-      sẽ mang tính lâu dài và đáng tin cậy.
-      Khi bạn tiếp tục giữ kỷ luật
-      và tầm nhìn thực tế,
-      sự thịnh vượng sẽ được duy trì.
+      Nhìn về phía trước, King of Pentacles mở ra
+      một vai trò lãnh đạo
+      dựa trên sự bền vững.
+      Khi bạn tiếp tục
+      xây dựng và bảo vệ
+      những giá trị dài hạn,
+      bạn sẽ tạo ra
+      ảnh hưởng ổn định
+      cho cả bản thân
+      và những người xung quanh.
+      Đây là đỉnh cao
+      của hành trình vật chất,
+      nơi sự thành công
+      gắn liền với trách nhiệm.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu quá chú trọng kiểm soát,
-      bạn có thể đánh mất
-      niềm vui và sự sáng tạo.
-      Việc cho phép thay đổi có chọn lọc
-      sẽ giúp bạn giữ được ổn định thật sự.
+      Ở hướng đi phía trước, King of Pentacles ngược nhắc bạn
+      rằng nếu bạn quá sợ mất ổn định,
+      bạn có thể tự giới hạn
+      khả năng phát triển của mình.
+      Hướng đi này khuyên bạn
+      hãy cho phép
+      sự linh hoạt xuất hiện,
+      để nền tảng bạn xây dựng
+      không trở thành
+      chiếc lồng an toàn.
 
 ---
 

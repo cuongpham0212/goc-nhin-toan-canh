@@ -33,209 +33,287 @@ reading:
   past:
     upright: >
       Trong quá khứ, Eight of Cups cho thấy
-      bạn từng đưa ra một quyết định rời bỏ
-      điều gì đó dù vẫn còn gắn bó về mặt cảm xúc.
-      Đó có thể là một mối quan hệ, môi trường
-      hoặc trạng thái không còn nuôi dưỡng bạn,
-      dù việc rời đi không hề dễ dàng.
+      đã từng có một giai đoạn
+      bạn quyết định rời bỏ
+      một điều gì đó từng rất quan trọng.
+      Có thể đó là một mối quan hệ,
+      một môi trường,
+      hoặc một cảm xúc đã không còn
+      mang lại sự trọn vẹn.
+      Quyết định này không dễ dàng,
+      bởi bạn đã đầu tư nhiều cảm xúc,
+      nhưng nó xuất phát từ
+      nhận thức rằng mình cần
+      điều sâu sắc và phù hợp hơn.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng do dự,
-      biết rõ mình nên buông bỏ
-      nhưng vẫn chần chừ vì sợ mất mát.
-      Có thể bạn đã ở lại quá lâu
-      trong một hoàn cảnh không còn phù hợp.
+      Khi Eight of Cups xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      muốn rời đi,
+      nhưng lại chưa đủ dứt khoát.
+      Việc níu giữ những điều
+      không còn nuôi dưỡng
+      khiến bạn cảm thấy
+      lưng chừng và mệt mỏi,
+      như thể mình đã biết
+      cần thay đổi,
+      nhưng vẫn chưa sẵn sàng bước đi.
 
   present:
     upright: >
-      Ở hiện tại, Eight of Cups cho thấy
-      bạn đang cảm nhận rõ sự trống rỗng
-      từ những gì từng làm mình gắn bó.
-      Đây là lúc bạn cần lắng nghe tiếng gọi bên trong
-      và thành thật với nhu cầu trưởng thành cảm xúc.
+      Ở hiện tại, Eight of Cups phản ánh
+      một quyết định quan trọng
+      đang hình thành bên trong bạn.
+      Bạn bắt đầu nhận ra
+      rằng dù bề ngoài có vẻ ổn,
+      nhưng sâu bên trong
+      bạn không còn cảm thấy đủ đầy.
+      Trải bài này cho thấy
+      bạn đang chuẩn bị
+      rời khỏi những điều quen thuộc
+      để tìm kiếm ý nghĩa sâu sắc hơn,
+      ngay cả khi con đường phía trước
+      chưa hoàn toàn rõ ràng.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn đang giằng co giữa việc ở lại và rời đi.
-      Có thể bạn sợ rằng nếu bước đi,
-      mình sẽ không tìm được điều gì tốt hơn,
-      dù hiện tại đã không còn làm bạn thỏa mãn.
+      Khi Eight of Cups ngược xuất hiện ở hiện tại,
+      bạn có thể đang giằng co
+      giữa việc ở lại và ra đi.
+      Có thể bạn sợ mất mát,
+      sợ sự trống trải,
+      hoặc lo rằng mình đang đòi hỏi quá nhiều.
+      Trạng thái này phản ánh
+      nhu cầu cần thành thật
+      với cảm xúc của mình,
+      thay vì tiếp tục tự thuyết phục
+      rằng mọi thứ vẫn ổn.
 
   future:
     upright: >
-      Về hướng đi, Eight of Cups gợi ý rằng
-      sự nhẹ nhõm sẽ đến khi bạn dám rời bỏ
-      những gì không còn nuôi dưỡng mình.
-      Con đường phía trước có thể chưa rõ ràng,
-      nhưng nó trung thực hơn với con người bạn đang trở thành.
+      Nhìn về phía trước, Eight of Cups mở ra
+      một hành trình mới
+      sau khi bạn dám buông bỏ.
+      Khi bạn rời đi
+      không phải vì chối bỏ,
+      mà vì tôn trọng nhu cầu bên trong,
+      bạn sẽ dần tìm thấy
+      con đường phù hợp hơn với mình.
+      Đây là bước chuyển
+      từ việc chịu đựng
+      sang việc chủ động
+      tìm kiếm sự trọn vẹn cảm xúc.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu tiếp tục né tránh quyết định cần thiết,
-      sự trì trệ cảm xúc sẽ kéo dài.
-      Chỉ khi bạn dám đối diện với nỗi sợ mất mát,
-      quá trình trưởng thành mới thực sự bắt đầu.
+      Ở hướng đi phía trước, Eight of Cups ngược nhắc bạn
+      rằng nếu tiếp tục trì hoãn
+      quyết định cần thiết,
+      cảm giác không trọn vẹn
+      có thể kéo dài.
+      Hướng đi này không ép bạn
+      phải rời bỏ ngay lập tức,
+      nhưng khuyên bạn
+      hãy lắng nghe
+      tiếng nói bên trong
+      trước khi nó trở nên quá nặng nề.
+
+---
+## Eight of Cups là gì?
+
+**Eight of Cups** là lá bài đại diện cho **sự buông bỏ có ý thức**, khi con người nhận ra rằng dù vẫn còn thứ để níu giữ, **nhưng ở lại không còn mang lại ý nghĩa thật sự**.
+
+Nếu Seven of Cups là trạng thái nhiễu loạn vì quá nhiều ảo ảnh và lựa chọn,  
+thì Eight of Cups là khoảnh khắc **tỉnh ra và quay lưng lại với những gì không còn nuôi dưỡng mình**.
+
+> Khi ta rời đi  
+> không phải vì thiếu,  
+> mà vì **đã hiểu rằng mình cần điều sâu hơn**.
 
 ---
 
 ## Tổng quan về lá Eight of Cups
 
-**Eight of Cups** xuất hiện sau giai đoạn **nhiễu loạn và phân vân của Seven of Cups**.  
-Khi các lựa chọn đã quá nhiều, ảo tưởng đã quá dày, lá bài này không yêu cầu chọn thêm — mà yêu cầu **bước ra khỏi tất cả**.
+**Eight of Cups** thuộc nhóm **Cups** trong Tarot – đại diện cho **cảm xúc, hành trình nội tâm và sự trưởng thành tinh thần**.  
+Trong hệ **Minor Arcana**, số **8** mang ý nghĩa của **chuyển động – tái cấu trúc – bước sang giai đoạn mới**.
 
-Đây là lá bài của:
-- Sự rời bỏ có ý thức
-- Bước đi trong im lặng
-- Tìm kiếm ý nghĩa sâu hơn cho cuộc sống
+Eight of Cups không nói về thất bại,  
+mà nói về:
+- Sự chín muồi trong nhận thức
+- Quyết định rời bỏ những cảm xúc quen thuộc
+- Và lựa chọn con đường ít an toàn hơn, nhưng chân thật hơn
 
-Eight of Cups không nói về trốn chạy, mà nói về **can đảm rời đi khi biết rằng ở lại không còn đúng nữa**.
+Nếu:
+- Six of Cups là chữa lành bằng ký ức  
+- Seven of Cups là nhiễu loạn bởi ảo ảnh  
+
+thì Eight of Cups là:  
+**“Ta rời đi vì đã hiểu mình không còn thuộc về nơi đó.”**
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Biểu tượng và hình ảnh cốt lõi
 
-Hình ảnh quen thuộc của Eight of Cups thường là:
-- Một người quay lưng
-- Tám chiếc cốc được xếp lại phía sau
-- Con đường dẫn lên núi, dưới ánh trăng
+Hình ảnh quen thuộc của Eight of Cups thường bao gồm:
+- **Nhân vật quay lưng rời đi** – hành động có chủ ý
+- **Tám chiếc cốc xếp đủ** – không phải bỏ vì thiếu
+- **Con đường trong đêm** – hành trình chưa rõ kết quả
 
-Biểu tượng này cho thấy:
-👉 Không phải thiếu thốn, mà là **đã đủ — nhưng chưa trọn**.
+Điểm then chốt của lá bài này là:  
+**Sự rời đi diễn ra khi mọi thứ vẫn còn đủ.**
 
-Người trong lá bài không rời đi vì ghét bỏ, mà vì **trái tim khao khát điều có ý nghĩa hơn**.
+Eight of Cups cho thấy:
+- Không phải mọi kết thúc đều đến từ đổ vỡ
+- Có những lần rời đi chỉ vì **linh hồn đã lớn hơn hoàn cảnh**
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Eight of Cups
+
+Eight of Cups mang năng lượng của **Sao Thổ (Saturn)** trong **cung Song Ngư (Pisces)** – biểu trưng cho **sự từ bỏ có kỷ luật, buông bỏ cảm xúc cũ và trưởng thành tinh thần thông qua mất mát tự nguyện**.
+
+Năng lượng Sao Thổ trong Song Ngư thể hiện qua:
+- Việc đặt ranh giới với cảm xúc
+- Từ bỏ sự gắn bó dù vẫn còn yêu quý
+- Chấp nhận nỗi trống rỗng tạm thời để đi tìm ý nghĩa sâu hơn
+
+Eight of Cups không nói về trốn chạy,  
+mà nói về **trách nhiệm với hành trình nội tâm của chính mình**.
+
+Nếu bạn quan tâm đến sự trưởng thành cảm xúc, buông bỏ và tái định hướng cuộc sống của cung này theo dòng thời gian, có thể tham khảo thêm:  
+**[Tử vi cung Song Ngư năm 2026](/tu-vi/nam-2026/song-ngu/)**
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Eight of Cups
 
-### 🚶‍♂️ Rời bỏ điều không còn nuôi dưỡng
+### Buông bỏ và rời đi có ý thức
 
-Eight of Cups xuôi phản ánh:
-- Rời một mối quan hệ
-- Buông một công việc
-- Từ bỏ một lối sống cũ
+Eight of Cups xuôi cho thấy:
+- Quyết định rời bỏ mối quan hệ, công việc hoặc trạng thái cảm xúc cũ
+- Không còn tìm thấy ý nghĩa trong những gì từng quen thuộc
+- Sẵn sàng bước vào hành trình mới, dù chưa chắc chắn
 
-Không phải vì nơi đó xấu, mà vì:
-> *Nó không còn phù hợp với con người ta đang trở thành.*
-
----
-
-### 🌑 Hành trình nội tâm
-
-Lá bài này mang năng lượng:
-- Cô đơn
-- Trầm lắng
-- Nhưng rất tỉnh táo
-
-Eight of Cups thường xuất hiện khi:
-- Ta đã thử đủ
-- Đã cho đủ
-- Và nhận ra mình cần **đi sâu hơn, không phải rộng hơn**
+Đây là giai đoạn:
+**chọn sự thật hơn là sự thoải mái**.
 
 ---
 
-### 🔍 Tìm kiếm ý nghĩa thật sự
+### Trưởng thành cảm xúc
 
-Không còn mơ mộng như Seven of Cups.  
-Không còn hoài niệm như Six of Cups.  
+Lá bài này xuất hiện khi:
+- Bạn đã học đủ bài học ở một nơi
+- Ở lại chỉ vì thói quen hoặc sợ hãi
+- Nhưng bên trong đã sẵn sàng bước tiếp
 
-Eight of Cups là:
-👉 *“Mình cần một điều gì đó thật hơn.”*
+Eight of Cups nhắc rằng:  
+👉 Trưởng thành đôi khi không phải là có thêm,  
+mà là **dám rời đi đúng lúc**.
+
+---
+
+### Hành trình nội tâm
+
+Eight of Cups không phải hành trình hướng ngoại,  
+mà là chuyến đi:
+- Vào bên trong
+- Để tìm lại giá trị cốt lõi
+- Và kết nối với tiếng gọi sâu thẳm hơn
 
 ---
 
 ## Eight of Cups trong các khía cạnh đời sống
 
-### 🔹 Trong tình cảm
+### Trong tình cảm
+Eight of Cups phản ánh quyết định rời khỏi một mối quan hệ không còn đáp ứng nhu cầu tinh thần, dù vẫn còn tình cảm. Đây là lựa chọn khó khăn nhưng cần thiết để không phản bội chính mình.
 
-- Rời bỏ mối quan hệ không còn kết nối cảm xúc
-- Dù vẫn còn kỷ niệm, vẫn còn gắn bó
-
-Eight of Cups cho thấy:
-👉 *Ở lại vì sợ cô đơn còn đau hơn rời đi một mình.*
-
----
-
-### 🔹 Trong công việc & con đường sống
-
-- Rời một hướng đi quen thuộc
-- Dù đã đầu tư nhiều năm
-
-Lá bài này không hứa hẹn thành công ngay, chỉ nói rằng:
-👉 *Đi đúng hướng quan trọng hơn đi nhanh.*
-
----
-
-### 🔹 Trong đời sống nội tâm
-
-Eight of Cups là dấu hiệu:
-- Ta không còn thỏa mãn với bề nổi
-- Ta cần sự thật, dù phải đi một mình
-
-Đây là bước đầu của **trưởng thành cảm xúc**.
+### Trong công việc & cuộc sống
+Trong công việc, lá bài cho thấy việc rời bỏ môi trường cũ, hướng đi cũ hoặc mục tiêu không còn phù hợp. Đây là giai đoạn tái định hướng, không phải bỏ cuộc.
 
 ---
 
 ## Eight of Cups (Ngược) – Khi chưa đủ can đảm để rời đi
 
-Khi **Eight of Cups xuất hiện ở vị trí ngược**, năng lượng rời bỏ bị **kìm lại**.
+Khi **Eight of Cups xuất hiện ở vị trí ngược**, lá bài cho thấy **sự giằng co nội tâm**.
 
-### ⚠️ Ý nghĩa chính
+### Ý nghĩa chính
 
-Eight of Cups ngược cho thấy:
-- Biết nên đi, nhưng chưa dám
-- Luyến tiếc quá khứ
-- Hoặc sợ hãi điều chưa biết
+Eight of Cups ngược thường biểu hiện:
+- Biết rằng nên rời đi nhưng chưa thể
+- Sợ mất mát, sợ trống rỗng
+- Bám víu vào điều quen thuộc
 
-Không phải vì không thấy con đường, mà vì:
-👉 *Chưa đủ niềm tin vào chính mình.*
-
----
-
-### 🧠 Góc nhìn tâm lý
-
-Ở trạng thái ngược, lá bài phản ánh:
-- Sự giằng co nội tâm
-- Ở lại vì quen thuộc
-- Rời đi vì khao khát
-
-Đây là giai đoạn **đấu tranh giữa an toàn và ý nghĩa**.
+Đây là trạng thái:
+**đã tỉnh, nhưng chưa đủ dũng khí**.
 
 ---
 
-### 🧭 Lời khuyên khi Eight of Cups ngược xuất hiện
+### Góc nhìn tâm lý
 
-- Thành thật với điều mình đang khao khát
-- Nhìn rõ cái giá của việc ở lại
-- Đi từng bước nhỏ, không cần biến mất hoàn toàn
+Ở trạng thái ngược, Eight of Cups phản ánh:
+- Sự trì hoãn quyết định
+- Nỗi sợ phải đối diện với chính mình
+- Chưa sẵn sàng bước vào giai đoạn trưởng thành tiếp theo
 
-Rời bỏ cũng có thể là **quá trình**, không phải cú nhảy.
+Lá bài nhắc:
+**Không rời đi cũng là một lựa chọn – nhưng nó có cái giá của nó.**
 
 ---
 
-## 🔗Để hiểu đầy đủ tiến trình cảm xúc trong Tarot, bạn có thể đọc thêm:
+### Lời khuyên khi Eight of Cups ngược xuất hiện
 
-- **[Seven of Cups – Ảo Tưởng Và Lựa Chọn](/tarot/la-bai/seven-of-cups/)**  
-- **[Six of Cups – Ký Ức Và Sự Chữa Lành](/tarot/la-bai/six-of-cups/)**  
-- **[Five of Cups – Mất Mát Và Tiếc Nuối](/tarot/la-bai/five-of-cups/)**  
-- **[Knight of Cups – Lời Mời Của Cảm Xúc](/tarot/la-bai/knight-of-cups/)**  
+- Thành thật với cảm xúc của mình
+- Nhìn rõ điều gì đang giữ bạn lại
+- Đừng đợi đến khi kiệt quệ mới rời đi
+
+---
+
+## 👉 Xem toàn bộ mạch cảm xúc
+
+**[Suit of Cups – Hành Trình Cảm Xúc](/tarot/suit-of-cups/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
+
+---
+
+## 🔗 Để hiểu sâu hơn hành trình cảm xúc trong Tarot, bạn có thể tham khảo thêm:
+
+- **[Ace of Cups – Khởi đầu cảm xúc](/tarot/la-bai/ace-of-cups/)**
+- **[Two of Cups – Sự kết nối hai chiều](/tarot/la-bai/two-of-cups/)**
+- **[Three of Cups – Cộng hưởng & niềm vui chia sẻ](/tarot/la-bai/three-of-cups/)**
+- **[Four of Cups – Thờ ơ & quá tải cảm xúc](/tarot/la-bai/four-of-cups/)**
+- **[Five of Cups – Mất mát & tiếc nuối](/tarot/la-bai/five-of-cups/)**
+- **[Six of Cups – Ký ức & chữa lành](/tarot/la-bai/six-of-cups/)**
+- **[Seven of Cups – Ảo ảnh & lựa chọn](/tarot/la-bai/seven-of-cups/)**
+- **[Bộ Ẩn Phụ – Suit of Cups](/tarot/suit-of-cups/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Eight of Cups
 
 **Xuôi:**
-- 🚶‍♂️ Rời bỏ có ý thức
-- 🌑 Hành trình nội tâm
-- 🔍 Tìm ý nghĩa sâu hơn
+- Buông bỏ  
+- Rời đi  
+- Trưởng thành cảm xúc  
 
 **Ngược:**
-- ⚠️ Do dự – luyến tiếc
-- 🧠 Giằng co nội tâm
-- 🧭 Cần niềm tin để bước đi
+- Do dự  
+- Sợ trống rỗng  
+- Chưa dám bước tiếp  
 
 Eight of Cups nhắc ta rằng:  
-**Không phải mọi sự rời bỏ đều là mất mát — đôi khi, đó là cách duy nhất để tìm lại chính mình.**
+**Có những con đường chỉ mở ra  
+khi ta đủ dũng khí quay lưng với điều đã cũ.**
 
-👉 Xem toàn bộ mạch cảm xúc: **[Suit of Cups – Hành Trình Cảm Xúc](/tarot/la-bai/suit-of-cups/)**
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Eight of Cups
+
+**Eight of Cups có phải là bỏ cuộc không?**  
+Không. Đây là lá bài của sự trưởng thành và lựa chọn có ý thức.
+
+**Eight of Cups trong tình yêu có ý nghĩa gì?**  
+Thường liên quan đến việc rời khỏi mối quan hệ không còn đáp ứng nhu cầu tinh thần.
+
+**Eight of Cups ngược báo hiệu điều gì?**  
+Báo hiệu sự giằng co nội tâm và nỗi sợ thay đổi.
+
+**Eight of Cups có liên quan đến hành trình tâm linh không?**  
+Có. Đây là lá bài rất mạnh về hành trình nội tâm và tìm kiếm ý nghĩa sống.

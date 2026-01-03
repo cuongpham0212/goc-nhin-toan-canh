@@ -34,56 +34,92 @@ reading:
   past:
     upright: >
       Trong quá khứ, The Sun cho thấy
-      bạn từng trải qua
-      giai đoạn rõ ràng và tích cực.
-      Mọi thứ sáng sủa,
-      năng lượng sống mạnh mẽ,
-      và bạn cảm thấy
-      mình được là chính mình.
+      đã từng có một giai đoạn
+      bạn trải nghiệm
+      sự rõ ràng và niềm vui thuần khiết.
+      Sau khi vượt qua
+      hoang mang,
+      bạn nhìn cuộc sống
+      bằng con mắt sáng sủa hơn.
+      Trải nghiệm này giúp bạn
+      tin vào chính mình
+      và vào con đường
+      mình đang đi.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một thời điểm niềm vui
-      từng bị che mờ
-      bởi lo lắng hoặc kỳ vọng quá cao.
-      Ánh sáng vẫn ở đó,
-      chỉ là bạn chưa nhìn thấy.
+      Khi The Sun xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy niềm vui
+      có thể đã từng
+      bị che mờ.
+      Không phải vì nó không tồn tại,
+      mà vì bạn
+      chưa cho phép mình
+      tận hưởng trọn vẹn.
+      Trải nghiệm này để lại bài học
+      về việc mở lòng
+      với hạnh phúc.
 
   present:
     upright: >
-      Ở hiện tại, The Sun cho thấy
-      sự thật đang hiển lộ.
-      Lá bài mang năng lượng
-      của niềm vui, sự trong trẻo
-      và sự tự tin tự nhiên.
-      Đây là lúc bạn
-      có thể sống đúng
-      mà không cần che giấu.
+      Ở hiện tại, The Sun phản ánh
+      trạng thái sáng tỏ và tích cực.
+      Bạn có thể đang
+      nhìn rõ vấn đề,
+      hiểu rõ bản thân,
+      và cảm thấy
+      tràn đầy năng lượng sống.
+      Đây là giai đoạn
+      bạn không cần nghi ngờ,
+      bởi sự thật
+      đã được chiếu sáng.
+      Niềm vui lúc này
+      đến từ sự chân thành
+      và đơn giản.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang nghi ngờ
-      quyền được hạnh phúc của mình.
-      Lá bài nhắc rằng
-      niềm vui không cần hoàn hảo,
-      chỉ cần chân thật.
+      Khi The Sun ngược xuất hiện ở hiện tại,
+      bạn có thể đang
+      nghi ngờ niềm vui của mình.
+      Có thể bạn sợ
+      rằng hạnh phúc
+      sẽ không bền lâu.
+      Trạng thái này phản ánh
+      nhu cầu cho phép
+      bản thân tận hưởng,
+      thay vì lo lắng
+      quá sớm.
 
   future:
     upright: >
-      Về hướng đi, The Sun gợi ý rằng
-      khi bạn bước ra ánh sáng,
-      sự rõ ràng sẽ dẫn đường.
-      Niềm vui bền vững
-      đến từ việc sống thật
-      và chấp nhận chính mình.
+      Nhìn về phía trước, The Sun mở ra
+      một giai đoạn
+      sáng sủa và rõ ràng.
+      Khi bạn tiếp tục
+      sống thật với mình,
+      niềm vui
+      và sự tự tin
+      sẽ dẫn đường.
+      Đây là bước hoàn thiện
+      sau hành trình bóng tối,
+      nơi bạn
+      không chỉ hiểu,
+      mà còn
+      cảm nhận được
+      hạnh phúc hiện diện.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu bạn tiếp tục kìm nén
-      niềm vui vì sợ mất,
-      ánh sáng sẽ mờ đi.
-      Hãy cho phép mình
-      được hạnh phúc.
+      Ở hướng đi phía trước, The Sun ngược nhắc bạn
+      rằng nếu bạn
+      tự giới hạn niềm vui,
+      ánh sáng
+      có thể bị che khuất.
+      Hướng đi này khuyên bạn
+      hãy tin rằng
+      bạn xứng đáng
+      với sự rõ ràng
+      và hạnh phúc,
+      sau tất cả
+      những gì đã đi qua.
 
 ---
 

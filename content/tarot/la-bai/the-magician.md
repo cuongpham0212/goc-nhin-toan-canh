@@ -34,56 +34,92 @@ reading:
   past:
     upright: >
       Trong quá khứ, The Magician cho thấy
-      bạn từng nhận ra
-      sức mạnh nằm trong tay mình.
-      Khi bạn dám bắt đầu,
-      kỹ năng và nguồn lực
-      đã dần xuất hiện theo.
+      đã từng có một giai đoạn
+      bạn nhận ra
+      sức mạnh cá nhân của mình.
+      Sau khi hiểu bản thân sâu hơn,
+      bạn bắt đầu tin rằng
+      mình có đủ công cụ,
+      kỹ năng
+      và ý chí
+      để tạo ra thay đổi.
+      Trải nghiệm này đánh dấu
+      lần đầu bạn
+      chủ động đứng vào vai trò
+      người kiến tạo,
+      thay vì chờ đợi hoàn cảnh.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một lần bạn từng nghi ngờ
-      khả năng của bản thân
-      hoặc dùng năng lượng sai mục đích.
-      Thiếu tập trung
-      làm sức mạnh bị phân tán.
+      Khi The Magician xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      nghi ngờ năng lực bản thân.
+      Việc thiếu tự tin
+      hoặc sử dụng năng lượng
+      không đúng cách
+      khiến kết quả
+      không như mong muốn.
+      Trải nghiệm này để lại bài học
+      về việc sức mạnh
+      cần đi cùng
+      sự trung thực và tập trung.
 
   present:
     upright: >
-      Ở hiện tại, The Magician cho thấy
-      bạn đang ở vị trí khởi tạo.
-      Ý tưởng đã có,
-      công cụ sẵn sàng,
-      và trách nhiệm thuộc về bạn.
-      Lá bài nhắc rằng
-      hành động nhỏ, đúng lúc
-      tạo ra khác biệt lớn.
+      Ở hiện tại, The Magician phản ánh
+      trạng thái bạn đang
+      nắm quyền chủ động.
+      Bạn có đủ nhận thức,
+      đủ nguồn lực
+      và đủ sự tỉnh táo
+      để biến ý tưởng
+      thành hành động.
+      Đây là giai đoạn
+      bạn không còn hỏi
+      “liệu mình có thể không”,
+      mà bắt đầu hỏi
+      “mình sẽ làm điều đó như thế nào”.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang trì hoãn
-      hoặc thiếu niềm tin
-      vào năng lực của mình.
-      Lá bài nhắc rằng
-      sức mạnh chỉ hiện ra
-      khi bạn bắt đầu dùng nó.
+      Khi The Magician ngược xuất hiện ở hiện tại,
+      bạn có thể đang
+      phân tán năng lượng.
+      Có thể bạn biết mình có khả năng,
+      nhưng lại chưa tập trung
+      vào một hướng rõ ràng.
+      Trạng thái này phản ánh
+      nhu cầu sắp xếp lại
+      mục tiêu và động cơ,
+      để sức mạnh cá nhân
+      không bị lãng phí.
 
   future:
     upright: >
-      Về hướng đi, The Magician gợi ý rằng
-      khi bạn tập trung và chủ động,
-      bạn sẽ biến ý tưởng
-      thành kết quả cụ thể.
-      Sự sáng tạo đi cùng kỷ luật
-      mở ra con đường mới.
+      Nhìn về phía trước, The Magician mở ra
+      một chu kỳ sáng tạo mới.
+      Khi bạn tiếp tục
+      sử dụng năng lực
+      một cách có ý thức,
+      bạn sẽ tạo ra
+      những kết quả rõ ràng
+      trong thực tế.
+      Đây là bước khởi đầu
+      nơi ý chí
+      được chuyển hóa
+      thành hành động cụ thể.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu tiếp tục phân tán
-      hoặc thao túng tình huống,
-      kết quả sẽ không bền.
-      Sự thành thật với mục tiêu
-      là chìa khóa để tiến xa.
+      Ở hướng đi phía trước, The Magician ngược nhắc bạn
+      rằng nếu bạn
+      sử dụng sức mạnh
+      vì mục đích sai lệch,
+      kết quả có thể
+      quay lại phản tác dụng.
+      Hướng đi này khuyên bạn
+      hãy hành động
+      với sự chính trực,
+      để chu kỳ mới
+      không lặp lại
+      những bài học cũ.
 
 ---
 

@@ -33,51 +33,78 @@ reading:
   past:
     upright: >
       Trong quá khứ, Page of Swords cho thấy
-      bạn từng bắt đầu nhìn thế giới
-      bằng một góc nhìn mới.
-      Dù còn thiếu kinh nghiệm,
-      bạn đã có mong muốn hiểu rõ sự thật
-      và học cách đặt câu hỏi.
+      đã từng có một giai đoạn
+      bạn bắt đầu quan sát thế giới
+      bằng con mắt tò mò và tỉnh táo hơn.
+      Sau những trải nghiệm khiến bạn phải suy nghĩ,
+      bạn học cách đặt câu hỏi,
+      lắng nghe thông tin mới,
+      và không còn tin mọi thứ
+      một cách ngây thơ.
+      Trải nghiệm này đánh dấu
+      bước khởi đầu của tư duy độc lập.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng tiếp nhận thông tin
-      một cách vội vàng.
-      Việc hiểu chưa đủ sâu
-      có thể đã dẫn đến hiểu lầm
-      hoặc phán đoán sai.
+      Khi Page of Swords xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      cảm thấy bối rối hoặc thiếu định hướng trong suy nghĩ.
+      Việc tiếp nhận quá nhiều thông tin
+      khiến bạn khó phân biệt
+      đâu là điều đáng tin.
+      Trải nghiệm này để lại bài học
+      về việc cần học cách lọc thông tin,
+      thay vì chỉ tiếp thu một cách bị động.
 
   present:
     upright: >
-      Ở hiện tại, Page of Swords cho thấy
-      bạn đang trong trạng thái tỉnh táo hơn,
-      quan sát nhiều hơn và nói ít hơn.
-      Đây là lúc học hỏi,
-      lắng nghe và kiểm chứng,
-      thay vì vội kết luận.
+      Ở hiện tại, Page of Swords phản ánh
+      trạng thái tinh thần rất tỉnh táo.
+      Bạn có xu hướng quan sát nhiều hơn,
+      suy nghĩ nhiều hơn,
+      và muốn hiểu rõ bản chất vấn đề.
+      Đây là giai đoạn
+      bạn học hỏi,
+      tìm kiếm thông tin,
+      và rèn luyện khả năng
+      diễn đạt suy nghĩ của mình.
+      Bạn chưa cần có câu trả lời cuối cùng,
+      chỉ cần tiếp tục đặt câu hỏi đúng.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      tâm trí bạn có thể đang quá kích thích
-      bởi quá nhiều thông tin.
-      Lá bài nhắc bạn cần chọn lọc,
-      nếu không sự tò mò
-      sẽ biến thành nhiễu loạn.
+      Khi Page of Swords ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      đầu óc phân tán hoặc thiếu tập trung.
+      Có thể bạn đang suy nghĩ quá nhiều,
+      nhưng lại chưa hành động.
+      Trạng thái này phản ánh
+      nhu cầu dừng lại,
+      sắp xếp lại suy nghĩ,
+      để sự tò mò
+      không biến thành lo lắng.
 
   future:
     upright: >
-      Về hướng đi, Page of Swords gợi ý rằng
-      nhận thức của bạn sẽ tiếp tục mở rộng.
-      Khi bạn giữ được tinh thần học hỏi
-      mà không vội thể hiện,
-      sự hiểu biết sẽ dần chín muồi.
+      Nhìn về phía trước, Page of Swords mở ra
+      một giai đoạn học hỏi mới.
+      Khi bạn tiếp tục giữ
+      tinh thần cởi mở và tỉnh táo,
+      tư duy của bạn
+      sẽ trở nên sắc bén hơn.
+      Đây là bước đầu
+      của hành trình phát triển trí tuệ,
+      nơi bạn xây dựng nền tảng
+      bằng sự quan sát và hiểu biết.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu tiếp tục nói trước khi hiểu đủ,
-      bạn có thể tạo ra hiểu lầm không cần thiết.
-      Kiên nhẫn trong tư duy
-      là bài học quan trọng lúc này.
+      Ở hướng đi phía trước, Page of Swords ngược nhắc bạn
+      rằng nếu bạn tiếp tục
+      tiếp nhận thông tin một cách hỗn loạn,
+      sự hoang mang có thể gia tăng.
+      Hướng đi này khuyên bạn
+      hãy chọn lọc điều cần học,
+      và cho phép bản thân
+      tiến từng bước,
+      thay vì cố hiểu tất cả cùng lúc.
 
 ---
 

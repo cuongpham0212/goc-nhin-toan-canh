@@ -32,48 +32,77 @@ image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/ace-of-pent
 reading:
   past:
     upright: >
-      Trong quá khứ, Ace of Pentacles cho thấy
-      bạn từng đứng trước một cơ hội thực tế rõ ràng:
-      công việc, tài chính, sức khỏe hoặc một nền tảng mới.
-      Dù nhỏ, cơ hội đó mang tính bền vững
-      và có thể đặt viên gạch đầu tiên cho tương lai.
+      Trong quá khứ, Ace of Pentacles cho thấy đã từng có
+      một cơ hội rất thực tế xuất hiện trong cuộc sống của bạn.
+      Đó có thể là một công việc, một hướng đi,
+      hoặc một nền tảng ổn định mà bạn từng cố gắng xây dựng.
+      Khi ấy, bạn đã nhìn thấy tiềm năng lâu dài,
+      và có mong muốn tạo ra sự an tâm cho tương lai.
+      Dù cơ hội đó có được nắm giữ trọn vẹn hay không,
+      trải nghiệm này đã giúp bạn hiểu rõ hơn
+      giá trị của sự ổn định và những gì cần thiết
+      để xây dựng một cuộc sống vững vàng.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một cơ hội từng bị bỏ lỡ hoặc không được nắm bắt
-      vì thiếu chuẩn bị, tự tin hoặc điều kiện phù hợp.
-      Điều này có thể khiến bạn chậm khởi động
-      con đường ổn định hơn.
+      Khi Ace of Pentacles xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy có thể bạn đã từng bỏ lỡ
+      hoặc chưa sẵn sàng đón nhận một cơ hội quan trọng.
+      Có thể vì thiếu niềm tin,
+      thiếu nguồn lực,
+      hoặc chưa cảm thấy bản thân đủ khả năng.
+      Sự chần chừ này có thể đã để lại
+      cảm giác tiếc nuối hoặc hoài nghi về chính mình,
+      và phần nào ảnh hưởng đến cách bạn nhìn nhận
+      những cơ hội ở hiện tại.
 
   present:
     upright: >
       Ở hiện tại, Ace of Pentacles cho thấy
-      một khởi đầu thực tế đang mở ra.
-      Đây là lúc thích hợp để gieo hạt:
-      bắt đầu dự án, xây thói quen mới,
-      hoặc đầu tư vào sức khỏe và kỹ năng.
-      Giá trị của nó nằm ở tính lâu dài.
+      một khởi đầu mới đang dần hình thành trong đời bạn.
+      Nó không ồn ào hay bùng nổ,
+      mà xuất hiện dưới dạng một cơ hội nhỏ nhưng rõ ràng.
+      Bạn có thể đang đứng trước một lựa chọn
+      liên quan đến công việc, tài chính
+      hoặc định hướng lâu dài.
+      Trải bài này nhắc bạn rằng,
+      dù bước đi hiện tại còn khiêm tốn,
+      nhưng nếu được nuôi dưỡng đúng cách,
+      nó có thể trở thành một nền tảng rất vững chắc.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang do dự trước cơ hội
-      vì sợ rủi ro hoặc thiếu nguồn lực.
-      Hãy xem lại liệu bạn có đang đánh giá thấp
-      những bước đi nhỏ nhưng chắc chắn hay không.
+      Khi Ace of Pentacles ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy thiếu an toàn
+      hoặc chưa thật sự tin tưởng vào con đường mình đang đi.
+      Có thể bạn lo lắng về tài chính,
+      về sự ổn định,
+      hoặc cảm thấy những nỗ lực của mình
+      chưa mang lại kết quả rõ ràng.
+      Trạng thái này khiến bạn do dự,
+      sợ bắt đầu vì sợ thất bại,
+      hoặc sợ rằng mình đang đầu tư vào điều không chắc chắn.
 
   future:
     upright: >
-      Về hướng đi, Ace of Pentacles gợi ý rằng
-      sự ổn định sẽ đến từ những lựa chọn thực tế.
-      Khi bạn kiên nhẫn xây nền,
-      thành quả sẽ dần hình thành theo thời gian.
+      Nhìn về phía trước, Ace of Pentacles mở ra
+      một hướng đi mang tính xây dựng và lâu dài.
+      Nếu bạn sẵn sàng kiên nhẫn,
+      chăm chút cho những gì mình đang có,
+      một giai đoạn ổn định hơn sẽ dần hình thành.
+      Đây không phải là con đường nhanh,
+      nhưng là con đường giúp bạn cảm thấy an tâm,
+      chủ động và vững vàng hơn trong cuộc sống.
+      Thành quả sẽ đến từ sự đều đặn,
+      chứ không phải từ những bước nhảy vội vàng.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu không hành động hoặc trì hoãn quá lâu,
-      cơ hội có thể trôi qua.
-      Việc thiếu nền tảng ngay từ đầu
-      sẽ khiến con đường ph
+      Ở hướng đi phía trước, Ace of Pentacles ngược nhắc bạn
+      cần xem lại cách mình đang tiếp cận các cơ hội.
+      Nếu bạn tiếp tục trì hoãn
+      hoặc thiếu niềm tin vào giá trị của bản thân,
+      những cơ hội tiềm năng có thể trôi qua rất quietly.
+      Hướng đi này không cảnh báo thất bại,
+      mà khuyên bạn hãy bắt đầu từ những bước nhỏ,
+      thực tế và phù hợp với khả năng hiện tại của mình.
 
 ---
 

@@ -33,57 +33,85 @@ reading:
   past:
     upright: >
       Trong quá khứ, King of Swords cho thấy
-      bạn từng phải đưa ra
+      đã từng có một giai đoạn
+      bạn buộc phải đưa ra
       những quyết định khó khăn
-      dựa trên lý trí hơn là cảm xúc.
-      Những trải nghiệm này
-      đã rèn cho bạn khả năng
-      nhìn vấn đề một cách khách quan.
+      dựa trên lý trí và sự thật.
+      Sau khi trải qua nhiều mâu thuẫn
+      và nhiễu loạn,
+      bạn học cách tách cảm xúc
+      khỏi quá trình ra quyết định.
+      Trải nghiệm này giúp bạn
+      rèn luyện tư duy rõ ràng,
+      và hiểu rằng sự công bằng
+      đôi khi đòi hỏi
+      phải nói ra những điều không dễ nghe.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng sử dụng
-      lý trí như vũ khí:
-      quá lạnh lùng, phán xét
-      hoặc cắt bỏ cảm xúc cần thiết.
-      Điều này có thể gây tổn thương
-      trong các mối quan hệ.
+      Khi King of Swords xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      sử dụng lý trí như một lá chắn.
+      Việc quá cứng rắn trong suy nghĩ
+      khiến bạn xa cách với cảm xúc,
+      hoặc vô tình làm tổn thương người khác.
+      Trải nghiệm này để lại bài học
+      rằng sự sắc bén của trí tuệ
+      cần đi cùng
+      sự nhân văn và lắng nghe.
 
   present:
     upright: >
-      Ở hiện tại, King of Swords cho thấy
-      bạn đang ở vị trí cần sự minh bạch.
-      Đây là lúc nói sự thật,
-      đặt ranh giới rõ ràng
-      và ra quyết định dựa trên logic.
-      Sự rõ ràng của bạn
-      sẽ dẫn dắt người khác.
+      Ở hiện tại, King of Swords phản ánh
+      trạng thái tư duy rất tỉnh táo.
+      Bạn có khả năng
+      nhìn thẳng vào vấn đề,
+      phân tích rõ ràng
+      và đưa ra quyết định
+      không bị chi phối bởi cảm xúc nhất thời.
+      Đây là giai đoạn
+      bạn được tin cậy
+      vì sự minh bạch và chính trực,
+      và lời nói của bạn
+      có trọng lượng thực sự.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang rối trí
-      hoặc bị chi phối bởi định kiến.
-      Lá bài nhắc bạn cần tạm dừng,
-      kiểm tra lại thông tin
-      trước khi đưa ra phán xét.
+      Khi King of Swords ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      đầu óc quá căng thẳng
+      hoặc suy nghĩ quá nhiều.
+      Có thể bạn đang cố
+      kiểm soát mọi thứ bằng lý trí,
+      trong khi một phần cảm xúc
+      cần được lắng nghe.
+      Trạng thái này phản ánh
+      nhu cầu cân bằng lại
+      giữa sự rõ ràng và sự thấu hiểu.
 
   future:
     upright: >
-      Về hướng đi, King of Swords gợi ý rằng
-      trí tuệ và sự công tâm
-      sẽ giúp bạn vượt qua
-      những tình huống phức tạp.
-      Khi bạn giữ được đầu óc tỉnh táo,
-      quyết định của bạn sẽ mang tính dẫn đường.
+      Nhìn về phía trước, King of Swords mở ra
+      một vai trò lãnh đạo
+      dựa trên sự minh bạch và công bằng.
+      Khi bạn tiếp tục giữ
+      tư duy độc lập và chính trực,
+      bạn sẽ trở thành
+      người định hướng bằng lý lẽ,
+      giúp người khác
+      nhìn rõ vấn đề
+      và đưa ra quyết định sáng suốt hơn.
+      Đây là đỉnh cao
+      của hành trình trí tuệ.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu tiếp tục né tránh sự thật
-      hoặc sử dụng quyền lực trí tuệ sai cách,
-      mâu thuẫn có thể leo thang.
-      Sự minh bạch và trách nhiệm lời nói
-      là điều cần thiết để tiến lên.
-
+      Ở hướng đi phía trước, King of Swords ngược nhắc bạn
+      rằng nếu bạn quá cứng nhắc
+      với quan điểm của mình,
+      sự kết nối có thể bị đứt gãy.
+      Hướng đi này khuyên bạn
+      hãy sử dụng trí tuệ
+      như một công cụ dẫn dắt,
+      chứ không phải
+      một vũ khí để áp đặt.
 ---
 
 ## Tổng quan về lá King of Swords

@@ -3,39 +3,29 @@
 <body class="tarot-before">
 <div class="tarot-page">
 
-  <!-- ==================================================
-       [1] OVERLAY – NGHI THỨC KẾT NỐI
-       ================================================== -->
+  <!-- OVERLAY -->
   <div id="tarot-overlay" class="tarot-overlay" hidden>
     <div class="tarot-overlay-box">
       <div class="tarot-orb"></div>
+      <div class="tarot-orbit">
+        <div class="tarot-satellite"></div>
+      </div>
       <div class="tarot-overlay-text">
         Đang kết nối với trường năng lượng…
       </div>
     </div>
   </div>
 
-  <!-- ==================================================
-       [2] TAROT PAGE WRAPPER
-       ================================================== -->
   <section class="tarot-wrap">
-
     <div class="tarot-panel" id="tarotPanel">
 
-      <!-- ===== HEADER ===== -->
       <header class="tarot-header">
         <h1>{{ .Title }}</h1>
-
         {{ with .Content }}
-          <div class="tarot-intro">
-            {{ . }}
-          </div>
+        <div class="tarot-intro">{{ . }}</div>
         {{ end }}
       </header>
 
-      <!-- ==================================================
-           [3] HƯỚNG DẪN
-           ================================================== -->
       <section class="tarot-guide">
         <p>
           Hãy hít thở sâu, tập trung vào câu hỏi trong lòng bạn.
@@ -43,123 +33,55 @@
         </p>
       </section>
 
-      <!-- ==================================================
-           [5] KHU VỰC ĐÃ CHỌN
-           ================================================== -->
       <section class="tarot-selected">
         <h2>Ba lá bạn đã chọn</h2>
-
-        <div class="tarot-selected-cards" id="tarotSelected">
-
-          <!-- ===== LÁ 1 ===== -->
+        <div class="tarot-selected-cards">
+          {{ range $i, $label := slice "QUÁ KHỨ" "HIỆN TẠI" "HƯỚNG ĐI" }}
           <div class="tarot-slot-wrap">
-            <div class="tarot-slot-label">LÁ 1 · QUÁ KHỨ</div>
-            <div class="tarot-slot">
-              <img
-                src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp"
-                alt="Lá bài Tarot – Mặt sau"
-                loading="lazy"
-              />
+            <div class="tarot-slot-label">
+              LÁ {{ add $i 1 }} · {{ $label }}
             </div>
+            <div class="tarot-slot"></div>
           </div>
-
-          <!-- ===== LÁ 2 ===== -->
-          <div class="tarot-slot-wrap">
-            <div class="tarot-slot-label">LÁ 2 · HIỆN TẠI</div>
-            <div class="tarot-slot">
-              <img
-                src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp"
-                alt="Lá bài Tarot – Mặt sau"
-                loading="lazy"
-              />
-            </div>
-          </div>
-
-          <!-- ===== LÁ 3 ===== -->
-          <div class="tarot-slot-wrap">
-            <div class="tarot-slot-label">LÁ 3 · HƯỚNG ĐI</div>
-            <div class="tarot-slot">
-              <img
-                src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp"
-                alt="Lá bài Tarot – Mặt sau"
-                loading="lazy"
-              />
-            </div>
-          </div>
-
+          {{ end }}
         </div>
       </section>
 
-      <!-- ==================================================
-           [6] ACTION
-           ================================================== -->
       <div class="tarot-action">
-        <button id="reveal-reading" class="tarot-btn" disabled>
+        <button id="reveal-reading" class="tarot-btn is-disabled" disabled>
           Xem luận giải
         </button>
       </div>
 
-      <!-- ==================================================
-           [7] KẾT QUẢ – LUẬN GIẢI (ẨN BAN ĐẦU)
-           ================================================== -->
       <article id="tarot-reading" class="tarot-reading" hidden>
-
         <h2>Luận giải trải bài Tarot 3 lá</h2>
 
         <section class="tarot-reading-block">
-          <h3>Lá 1 – Quá khứ / Nền tảng</h3>
-          <p class="tarot-reading-text" id="reading-1"></p>
+          <h3>Lá 1 – Quá khứ</h3>
+          <p id="reading-1"></p>
         </section>
 
         <section class="tarot-reading-block">
-          <h3>Lá 2 – Hiện tại / Trạng thái</h3>
-          <p class="tarot-reading-text" id="reading-2"></p>
+          <h3>Lá 2 – Hiện tại</h3>
+          <p id="reading-2"></p>
         </section>
 
         <section class="tarot-reading-block">
-          <h3>Lá 3 – Hướng đi / Gợi ý</h3>
-          <p class="tarot-reading-text" id="reading-3"></p>
+          <h3>Lá 3 – Hướng đi</h3>
+          <p id="reading-3"></p>
         </section>
 
+        <div class="tarot-action" style="margin-top:3.5rem">
+          <button id="reset-tarot" class="tarot-btn">
+            Trải bài khác
+          </button>
+        </div>
       </article>
 
     </div>
   </section>
 
-  <!-- ==================================================
-       [8] TAROT DATA (GIỮ NGUYÊN CẤU TRÚC CŨ)
-       ================================================== -->
-  {{ $cards := slice }}
-
-  {{ range .Site.RegularPages }}
-    {{ if eq .File.Dir "tarot/la-bai/" }}
-
-      {{ $emotion := "" }}
-      {{ with .Params.emotion }}
-        {{ $emotion = delimit . ", " }}
-      {{ end }}
-
-      {{ $guidance := "" }}
-      {{ with .Params.guidance }}
-        {{ $guidance = delimit . ", " }}
-      {{ end }}
-
-      {{ $cards = $cards | append (dict
-        "title" .Title
-        "url" .RelPermalink
-        "image" (.Params.image | default "")
-        "summary" (.Params.summary | default "")
-        "emotion" $emotion
-        "guidance" $guidance
-      ) }}
-
-    {{ end }}
-  {{ end }}
-
-  <!-- DEBUG_CARDS_COUNT = {{ len $cards }} -->
-
-  {{ partial "tarot/data.html" (dict "cards" $cards) }}
-
+  {{ partial "tarot/data.html" . }}
 </div>
 </body>
 

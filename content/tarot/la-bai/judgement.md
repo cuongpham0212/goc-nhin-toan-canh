@@ -34,54 +34,96 @@ reading:
   past:
     upright: >
       Trong quá khứ, Judgement cho thấy
-      bạn từng trải qua một khoảnh khắc thức tỉnh.
-      Có thể là một biến cố,
-      một lời nói,
-      hoặc một sự kiện
-      buộc bạn nhìn lại toàn bộ con đường đã đi.
-      Đó là lúc bạn nhận ra
-      mình không thể sống như cũ nữa.
+      đã từng có một khoảnh khắc
+      bạn thức tỉnh mạnh mẽ.
+      Sau khi đi qua hoang mang và sáng tỏ,
+      bạn bắt đầu nhìn lại
+      toàn bộ hành trình của mình
+      với sự trung thực.
+      Trải nghiệm này giúp bạn
+      nhận ra điều gì
+      không còn phù hợp,
+      và điều gì
+      bạn cần mang theo
+      sang giai đoạn mới.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng né tránh
-      sự thật hoặc tiếng gọi nội tâm.
-      Việc trì hoãn đối diện
-      khiến bài học kéo dài hơn cần thiết.
+      Khi Judgement xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      né tránh tiếng gọi nội tâm.
+      Việc sợ thay đổi
+      hoặc sợ đối diện
+      với chính mình
+      khiến quá trình thức tỉnh
+      bị trì hoãn.
+      Trải nghiệm này để lại bài học
+      rằng không lắng nghe bản thân
+      cũng là một lựa chọn,
+      nhưng không phải là lựa chọn
+      đưa bạn tiến lên.
 
   present:
     upright: >
-      Ở hiện tại, Judgement cho thấy
-      bạn đang đứng trước lời kêu gọi
-      phải sống thật với chính mình.
-      Đây không phải là phán xét từ bên ngoài,
-      mà là sự tự nhận thức:
-      bạn biết điều gì cần được tha thứ,
-      điều gì cần được khép lại.
+      Ở hiện tại, Judgement phản ánh
+      thời điểm bạn
+      đang được gọi tên.
+      Một sự thật lớn
+      về con người bạn,
+      về hướng đi,
+      hoặc về sứ mệnh cá nhân
+      đang trở nên rõ ràng.
+      Đây là giai đoạn
+      bạn không còn sống
+      theo kỳ vọng cũ,
+      mà bắt đầu
+      trả lời cho
+      tiếng gọi bên trong.
+      Sự thức tỉnh này
+      mang tính giải phóng.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang tự phán xét quá khắt khe
-      hoặc sợ bị đánh giá.
-      Lá bài nhắc rằng
-      thức tỉnh không nhằm trừng phạt,
-      mà để giải phóng.
+      Khi Judgement ngược xuất hiện ở hiện tại,
+      bạn có thể đang
+      nghi ngờ chính mình.
+      Có thể bạn đã nghe thấy
+      tiếng gọi nội tâm,
+      nhưng chưa dám
+      hành động theo.
+      Trạng thái này phản ánh
+      nỗi sợ bị phán xét
+      hoặc sợ sai,
+      và nhắc bạn rằng
+      không ai có thể
+      sống thay cuộc đời bạn.
 
   future:
     upright: >
-      Về hướng đi, Judgement gợi ý rằng
-      khi bạn chấp nhận sự thật
-      và chịu trách nhiệm cho lựa chọn của mình,
-      một chu kỳ mới sẽ bắt đầu.
-      Đây là thời điểm tái sinh,
-      nhẹ gánh quá khứ.
+      Nhìn về phía trước, Judgement mở ra
+      một bước ngoặt lớn.
+      Khi bạn dám
+      sống đúng với
+      con người thật của mình,
+      những quyết định sắp tới
+      sẽ mang tính giải phóng sâu sắc.
+      Đây là bước chuyển
+      từ việc chỉ tồn tại
+      sang việc
+      sống có ý thức,
+      không còn quay lại
+      phiên bản cũ.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu tiếp tục từ chối lời gọi nội tâm,
-      bạn sẽ bị kẹt giữa cũ và mới.
-      Tha thứ cho chính mình
-      là chìa khóa để bước tiếp.
+      Ở hướng đi phía trước, Judgement ngược nhắc bạn
+      rằng nếu bạn
+      tiếp tục phớt lờ
+      tiếng gọi nội tâm,
+      cảm giác bế tắc
+      có thể quay lại.
+      Hướng đi này khuyên bạn
+      hãy tin vào
+      sự thức tỉnh của mình,
+      dù con đường mới
+      còn chưa quen thuộc.
 
 ---
 

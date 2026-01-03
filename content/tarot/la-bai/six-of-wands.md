@@ -33,54 +33,84 @@ reading:
   past:
     upright: >
       Trong quá khứ, Six of Wands cho thấy
-      bạn từng được ghi nhận
-      sau khi vượt qua thử thách.
-      Dù chiến thắng đó
-      có thể nhỏ,
-      nó đã củng cố
-      niềm tin vào khả năng của bạn.
+      đã từng có một giai đoạn
+      bạn nhận được sự công nhận
+      cho những nỗ lực của mình.
+      Sau những cạnh tranh và thử thách,
+      bạn đã chứng minh được
+      giá trị và khả năng của bản thân.
+      Trải nghiệm này giúp bạn
+      xây dựng lại sự tự tin,
+      và nhận ra rằng
+      mình hoàn toàn có thể
+      vượt qua áp lực từ bên ngoài.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một lần bạn đạt kết quả
-      nhưng không được công nhận xứng đáng.
-      Điều này có thể khiến bạn
-      hoài nghi giá trị bản thân.
+      Khi Six of Wands xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      không nhận được sự ghi nhận
+      xứng đáng với những gì mình bỏ ra.
+      Việc nỗ lực trong im lặng
+      khiến bạn cảm thấy
+      dễ nản lòng,
+      và hình thành nỗi nghi ngờ
+      về giá trị của chính mình.
 
   present:
     upright: >
-      Ở hiện tại, Six of Wands cho thấy
-      nỗ lực của bạn
-      đang được nhìn thấy.
-      Đây là thời điểm
-      bạn có thể tự tin bước lên,
-      đón nhận sự công nhận
-      và lan tỏa cảm hứng cho người khác.
+      Ở hiện tại, Six of Wands phản ánh
+      một giai đoạn bạn đang dần
+      lấy lại sự tự tin.
+      Có thể bạn vừa đạt được
+      một kết quả tích cực,
+      hoặc cảm nhận được
+      sự ủng hộ từ xung quanh.
+      Trải bài này cho thấy
+      những cố gắng của bạn
+      đang bắt đầu được nhìn thấy,
+      và điều đó tiếp thêm động lực
+      để bạn tiếp tục tiến lên.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang phụ thuộc
-      quá nhiều vào sự tán dương bên ngoài.
-      Lá bài nhắc rằng
-      sự công nhận thật sự
-      bắt đầu từ bên trong.
+      Khi Six of Wands ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      mình chưa được đánh giá đúng mức.
+      Dù đã cố gắng rất nhiều,
+      bạn vẫn thiếu cảm giác
+      được công nhận.
+      Trạng thái này phản ánh
+      nhu cầu được tự ghi nhận
+      chính mình,
+      thay vì chỉ chờ đợi
+      sự xác nhận từ bên ngoài.
 
   future:
     upright: >
-      Về hướng đi, Six of Wands gợi ý rằng
-      thành quả sẽ đến
-      khi bạn tiếp tục giữ vững niềm tin
-      và dẫn dắt bằng hành động.
-      Sự công nhận là hệ quả,
-      không phải mục tiêu duy nhất.
+      Nhìn về phía trước, Six of Wands mở ra
+      khả năng bạn sẽ đạt được
+      sự ghi nhận rõ ràng hơn.
+      Khi bạn tiếp tục kiên trì
+      và tin vào con đường mình chọn,
+      thành quả sẽ dần xuất hiện,
+      không chỉ dưới dạng kết quả,
+      mà còn là sự tôn trọng
+      từ những người xung quanh.
+      Đây là bước hồi phục mạnh mẽ
+      sau những thử thách đã qua.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu chỉ chạy theo danh tiếng,
-      bạn có thể mất đi
-      động lực ban đầu.
-      Hãy quay về
-      với lý do khiến bạn bắt đầu.
+      Ở hướng đi phía trước, Six of Wands ngược nhắc bạn
+      cần cẩn trọng với việc
+      đặt quá nhiều giá trị bản thân
+      vào ánh nhìn của người khác.
+      Nếu sự ghi nhận không đến ngay,
+      điều đó không có nghĩa
+      nỗ lực của bạn là vô nghĩa.
+      Hướng đi này khuyên bạn
+      hãy tiếp tục đi,
+      với sự tự tin đến từ bên trong,
+      thay vì phụ thuộc hoàn toàn
+      vào sự tán dương bên ngoài.
 
 ---
 

@@ -30,63 +30,106 @@ guidance:
 
 image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/the-tower.webp"
 
-reading:
+rreading:
   past:
     upright: >
       Trong quá khứ, The Tower cho thấy
-      bạn từng trải qua một cú sốc lớn:
-      biến cố, đổ vỡ,
-      hoặc sự thật bất ngờ
-      làm lung lay nền tảng cũ.
-      Dù đau,
-      khoảnh khắc này
-      đã phá vỡ ảo tưởng
-      mà bạn không còn cần nữa.
+      đã từng có một biến cố
+      xảy ra rất đột ngột.
+      Một niềm tin,
+      một mối quan hệ,
+      hoặc một nền tảng
+      mà bạn tưởng là vững chắc
+      bất ngờ sụp đổ.
+      Trải nghiệm này gây sốc,
+      nhưng nó buộc bạn
+      phải nhìn thẳng
+      vào những gì
+      đã xây dựng trên nền sai lệch.
+      Chính cú sập này
+      đã giải phóng bạn
+      khỏi một cấu trúc
+      không còn phù hợp.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng cố tránh
-      sự sụp đổ tất yếu.
-      Việc níu giữ
-      khiến căng thẳng kéo dài
-      trước khi thay đổi xảy ra.
+      Khi The Tower xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      cố né tránh
+      một sự sụp đổ cần thiết.
+      Việc trì hoãn
+      khiến áp lực tích tụ,
+      và nỗi sợ
+      kéo dài hơn.
+      Trải nghiệm này để lại bài học
+      rằng né tránh thay đổi
+      đôi khi còn đau hơn
+      chính cú sập.
 
   present:
     upright: >
-      Ở hiện tại, The Tower cho thấy
-      sự thật đang lộ diện
-      theo cách không thể né tránh.
-      Lá bài không nhằm trừng phạt,
-      mà để giải phóng bạn
-      khỏi cấu trúc sai lệch.
-      Điều sụp đổ
-      là thứ không bền.
+      Ở hiện tại, The Tower phản ánh
+      một cú chấn động đang diễn ra
+      hoặc sắp xảy ra.
+      Có thể một sự thật
+      vừa được phơi bày,
+      hoặc một tình huống
+      không thể tiếp tục
+      theo cách cũ.
+      Trải bài này không hù dọa,
+      mà nhắc bạn rằng
+      những gì đang sụp đổ
+      vốn đã không vững.
+      Cú sập này
+      mở ra cơ hội
+      để xây lại
+      trên nền thật hơn.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn đang nhận ra
-      điều cần phá bỏ
-      nhưng còn chần chừ.
-      Sự trì hoãn
-      chỉ làm cú sập
-      trở nên dữ dội hơn.
+      Khi The Tower ngược xuất hiện ở hiện tại,
+      bạn có thể đang
+      cảm nhận rõ
+      sự bất ổn,
+      nhưng chưa dám
+      đối diện trọn vẹn.
+      Trạng thái này phản ánh
+      nỗi sợ mất kiểm soát.
+      Nó nhắc rằng
+      việc chấp nhận sự thật
+      sẽ giúp cú sập
+      diễn ra nhẹ hơn
+      so với việc
+      cố giữ lại.
 
   future:
     upright: >
-      Về hướng đi, The Tower gợi ý rằng
-      sau khi cấu trúc cũ sụp xuống,
-      bạn sẽ có cơ hội
-      xây lại từ nền thật.
-      Mất mát mở đường
-      cho tự do.
+      Nhìn về phía trước, The Tower cho thấy
+      một sự thay đổi
+      không thể tránh.
+      Dù nó đến
+      theo cách nào,
+      điều cũ
+      sẽ không còn chỗ đứng.
+      Hướng đi này nhắc bạn
+      hãy buông bỏ
+      những cấu trúc
+      đã hết hạn,
+      để sự tái sinh
+      có thể bắt đầu
+      từ nền móng thật.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu không chủ động thay đổi,
-      sự sụp đổ sẽ đến
-      theo cách bạn không mong muốn.
-      Can đảm nhìn thẳng
-      giúp giảm đau đớn.
+      Ở hướng đi phía trước, The Tower ngược nhắc bạn
+      rằng nếu bạn
+      tiếp tục né tránh
+      sự thật,
+      biến động
+      sẽ kéo dài.
+      Hướng đi này khuyên bạn
+      hãy chủ động
+      tháo dỡ
+      những gì không còn đúng,
+      thay vì chờ
+      cú sập lớn hơn.
 
 ---
 

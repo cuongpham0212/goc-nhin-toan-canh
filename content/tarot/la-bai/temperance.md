@@ -34,53 +34,92 @@ reading:
   past:
     upright: >
       Trong quá khứ, Temperance cho thấy
-      bạn từng học cách làm dịu
-      những xung đột nội tâm.
-      Sau biến động,
-      bạn bắt đầu tìm kiếm sự cân bằng
-      thay vì cực đoan hay đối đầu.
+      đã từng có một giai đoạn
+      bạn cố gắng điều chỉnh lại bản thân
+      sau những thay đổi lớn.
+      Sau khi một chu kỳ khép lại,
+      bạn không vội vàng tiến lên,
+      mà chọn cách dung hòa
+      giữa cũ và mới.
+      Trải nghiệm này giúp bạn
+      học được giá trị
+      của sự kiên nhẫn
+      và nhịp sống vừa đủ.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng mất cân bằng,
-      dễ dao động giữa các thái cực.
-      Việc thiếu kiên nhẫn
-      khiến quá trình chữa lành bị gián đoạn.
+      Khi Temperance xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      mất cân bằng
+      sau biến động.
+      Việc đi quá nhanh
+      hoặc quá cực đoan
+      khiến bạn cảm thấy
+      mệt mỏi và rối loạn.
+      Trải nghiệm này để lại bài học
+      rằng sự hồi phục
+      cần thời gian
+      và sự tiết chế.
 
   present:
     upright: >
-      Ở hiện tại, Temperance cho thấy
-      bạn đang trong quá trình điều hòa.
-      Lá bài nhắc rằng
-      chữa lành không phải là xóa bỏ vết thương,
-      mà là học cách sống hài hòa
-      với những gì đã xảy ra.
-      Mọi thứ đang dần vào nhịp.
+      Ở hiện tại, Temperance phản ánh
+      trạng thái bạn đang
+      tìm lại sự hài hòa.
+      Bạn có thể đang
+      điều chỉnh lối sống,
+      cảm xúc,
+      hoặc cách làm việc
+      để phù hợp hơn
+      với con người hiện tại.
+      Đây là giai đoạn
+      bạn không tìm kiếm
+      sự bùng nổ,
+      mà tìm kiếm
+      sự ổn định mềm mại,
+      nơi mọi thứ
+      được đặt đúng chỗ.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang cố ép mình “ổn”
-      quá sớm.
-      Lá bài nhắc rằng
-      chữa lành cần thời gian
-      và sự thành thật với cảm xúc.
+      Khi Temperance ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      mình lệch nhịp.
+      Có thể bạn đang
+      làm quá nhiều,
+      hoặc né tránh
+      việc điều chỉnh cần thiết.
+      Trạng thái này phản ánh
+      nhu cầu quay lại
+      lắng nghe cơ thể
+      và cảm xúc,
+      để tái lập cân bằng
+      trước khi đi tiếp.
 
   future:
     upright: >
-      Về hướng đi, Temperance gợi ý rằng
-      khi bạn tiếp tục giữ nhịp sống điều độ,
-      sự bình an sẽ lan tỏa
-      sang các khía cạnh khác.
-      Sự hòa hợp bên trong
-      tạo nền cho ổn định lâu dài.
+      Nhìn về phía trước, Temperance mở ra
+      một giai đoạn hồi phục bền vững.
+      Khi bạn tiếp tục
+      sống chậm và điều độ,
+      sự hài hòa nội tại
+      sẽ trở thành nền tảng
+      cho những bước tiến dài hạn.
+      Đây là bước chuyển
+      từ biến động
+      sang trạng thái
+      ổn định có ý thức.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu bỏ qua tín hiệu mất cân bằng,
-      những mâu thuẫn nhỏ
-      có thể tích tụ.
-      Điều chỉnh sớm
-      giúp tránh lệch nhịp về sau.
+      Ở hướng đi phía trước, Temperance ngược nhắc bạn
+      rằng nếu bạn
+      bỏ qua nhu cầu cân bằng,
+      sự mất nhịp
+      có thể quay trở lại.
+      Hướng đi này khuyên bạn
+      hãy ưu tiên
+      sự điều độ,
+      để hành trình mới
+      không bị bào mòn
+      bởi chính tốc độ của nó.
 
 ---
 

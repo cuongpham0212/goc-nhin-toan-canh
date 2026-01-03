@@ -1,0 +1,30 @@
+<div id="tarot-overlay" class="tarot-overlay hidden">
+  <!-- Canvas sao -->
+  <canvas id="stars-canvas"></canvas>
+
+  <!-- Nội dung -->
+  <div class="overlay-content">
+    <!-- Cards slot (anh gắn logic hiện tại của anh vào đây) -->
+    <div class="cards-slot">
+      {{/* render 3 lá bài ở đây */}}
+    </div>
+
+    <!-- Hệ hành tinh -->
+    <div class="planet-system">
+      <img class="planet" src="/images/planet.webp" alt="Planet">
+
+      <div class="orbit orbit-1">
+        <img class="moon" src="/images/moon.webp" alt="Moon">
+      </div>
+
+      <div class="orbit orbit-2">
+        <img class="moon moon-small" src="/images/moon.webp" alt="Moon">
+      </div>
+    </div>
+
+    <!-- Button -->
+    <button id="close-overlay" class="overlay-btn">
+      TIẾT LỘ Ý NGHĨA
+    </button>
+  </div>
+</div>

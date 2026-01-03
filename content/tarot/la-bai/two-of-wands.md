@@ -33,55 +33,75 @@ reading:
   past:
     upright: >
       Trong quá khứ, Two of Wands cho thấy
-      bạn từng đứng trước
-      một lựa chọn quan trọng:
-      ở lại vùng an toàn
-      hay bước ra thế giới rộng hơn.
-      Dù chọn hướng nào,
-      khoảnh khắc đó
-      đã mở rộng tầm nhìn của bạn.
+      đã từng có một giai đoạn
+      bạn bắt đầu nhìn xa hơn những gì quen thuộc.
+      Sau khi ngọn lửa khát khao được thắp lên,
+      bạn nhận ra rằng mình không muốn
+      chỉ đứng yên ở một chỗ.
+      Có thể bạn đã từng cân nhắc
+      giữa việc tiếp tục an toàn
+      hay bước ra khỏi vùng quen thuộc
+      để thử sức với điều mới mẻ hơn.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một lần bạn do dự
-      vì sợ rủi ro hoặc sợ mất kiểm soát.
-      Việc không dám bước ra
-      có thể đã khiến bạn
-      cảm thấy mình bỏ lỡ điều gì đó.
+      Khi Two of Wands xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      chần chừ trước một lựa chọn quan trọng.
+      Dù bên trong có động lực,
+      nhưng nỗi sợ rủi ro hoặc thất bại
+      đã khiến bạn do dự.
+      Trải nghiệm này có thể để lại
+      cảm giác tiếc nuối
+      hoặc thói quen suy nghĩ quá nhiều
+      trước khi hành động.
 
   present:
     upright: >
       Ở hiện tại, Two of Wands cho thấy
-      bạn đang nhìn xa hơn hiện tại.
-      Bạn có động lực,
-      nhưng đang cân nhắc chiến lược.
-      Đây là giai đoạn lập kế hoạch,
-      chọn hướng đi
-      trước khi hành động mạnh mẽ.
+      bạn đang đứng trước một ngã rẽ.
+      Bạn đã có động lực,
+      đã nhìn thấy khả năng mở rộng,
+      nhưng vẫn cần đưa ra quyết định rõ ràng.
+      Trạng thái này mang theo sự háo hức,
+      đồng thời cũng chứa đựng
+      nỗi lo về việc bước ra khỏi
+      những gì quen thuộc.
+      Đây là lúc bạn cần xác định
+      mình thực sự muốn đi theo hướng nào.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang bị kẹt
-      giữa quá nhiều lựa chọn.
-      Nỗi sợ sai
-      khiến bạn chưa dám quyết,
-      dù ngọn lửa đã có.
+      Khi Two of Wands ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy bối rối
+      hoặc thiếu tự tin vào lựa chọn của mình.
+      Có thể bạn sợ rằng
+      nếu bước đi sai,
+      mình sẽ đánh mất những gì đang có.
+      Điều này khiến bạn đứng yên quá lâu,
+      dù bên trong vẫn còn khao khát tiến lên.
 
   future:
     upright: >
-      Về hướng đi, Two of Wands gợi ý rằng
-      khi bạn chọn một hướng rõ ràng,
-      năng lượng sẽ được tập trung
-      và hành động sẽ trở nên mạnh mẽ hơn.
-      Thế giới bên ngoài
-      đang chờ bạn bước tới.
+      Nhìn về phía trước, Two of Wands mở ra
+      một giai đoạn cần sự quyết đoán.
+      Khi bạn dám chọn một hướng
+      và cam kết với lựa chọn đó,
+      con đường phía trước sẽ dần rõ ràng hơn.
+      Đây là bước chuyển quan trọng
+      từ việc chỉ cảm thấy hứng khởi
+      sang việc thật sự hành động
+      để mở rộng cuộc sống của mình.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu tiếp tục đứng giữa hai ngã,
-      bạn sẽ khó tiến xa.
-      Lựa chọn không cần hoàn hảo,
-      chỉ cần đủ để bạn bắt đầu.
+      Ở hướng đi phía trước, Two of Wands ngược nhắc bạn
+      rằng việc trì hoãn quá lâu
+      có thể khiến cơ hội trôi qua.
+      Nếu bạn tiếp tục đứng giữa hai lựa chọn
+      mà không dám quyết định,
+      năng lượng khởi đầu sẽ dần nguội lạnh.
+      Hướng đi này khuyên bạn
+      hãy tin vào tầm nhìn của mình,
+      ngay cả khi chưa thể kiểm soát
+      mọi kết quả phía trước.
 
 ---
 

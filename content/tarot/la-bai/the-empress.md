@@ -34,56 +34,94 @@ reading:
   past:
     upright: >
       Trong quá khứ, The Empress cho thấy
-      bạn từng được nuôi dưỡng
-      hoặc đã học cách chăm sóc
-      người khác bằng sự dịu dàng.
-      Những trải nghiệm này
-      gieo mầm cho sự an toàn
-      và cảm giác đủ đầy.
+      đã từng có một giai đoạn
+      bạn cho phép
+      sự nuôi dưỡng
+      xuất hiện trong cuộc sống.
+      Có thể đó là
+      chăm sóc bản thân,
+      một mối quan hệ,
+      hoặc một dự án
+      cần thời gian để lớn lên.
+      Trải nghiệm này giúp bạn
+      hiểu rằng
+      sự phát triển
+      không thể bị ép buộc,
+      mà cần được yêu thương.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng thiếu sự chăm sóc,
-      hoặc quên nuôi dưỡng chính mình.
+      Khi The Empress xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      bỏ quên việc chăm sóc
+      chính mình.
       Việc cho đi quá nhiều
+      hoặc kìm nén nhu cầu cá nhân
       khiến năng lượng cạn kiệt.
+      Trải nghiệm này để lại bài học
+      về việc
+      nuôi dưỡng
+      bắt đầu từ bản thân.
 
   present:
     upright: >
-      Ở hiện tại, The Empress cho thấy
-      bạn đang ở trạng thái
-      sẵn sàng nuôi dưỡng:
-      một mối quan hệ,
-      một dự án,
-      hoặc chính bản thân mình.
-      Yêu thương lúc này
-      là hành động cụ thể,
-      không chỉ là cảm xúc.
+      Ở hiện tại, The Empress phản ánh
+      trạng thái dồi dào và sinh sôi.
+      Bạn có thể đang
+      cảm thấy được nâng đỡ,
+      hoặc đang tạo ra
+      không gian an toàn
+      cho sự phát triển.
+      Đây là giai đoạn
+      bạn cho phép
+      bản thân hưởng thụ,
+      sáng tạo,
+      và kết nối
+      với cảm giác đủ đầy.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang tự bỏ bê
-      nhu cầu của mình.
-      Lá bài nhắc rằng
-      không thể nuôi dưỡng người khác
-      khi bản thân đang thiếu hụt.
+      Khi The Empress ngược xuất hiện ở hiện tại,
+      bạn có thể đang
+      cảm thấy cạn kiệt
+      hoặc thiếu chăm sóc.
+      Có thể bạn đang
+      hy sinh quá nhiều
+      mà không được bù đắp.
+      Trạng thái này phản ánh
+      nhu cầu quay lại
+      với việc tự nuôi dưỡng,
+      để năng lượng
+      có thể hồi phục.
 
   future:
     upright: >
-      Về hướng đi, The Empress gợi ý rằng
-      khi bạn tiếp tục chăm sóc
-      bằng sự kiên nhẫn và dịu dàng,
-      thành quả sẽ sinh sôi tự nhiên.
-      Sự đủ đầy đến
-      từ việc cho và nhận cân bằng.
+      Nhìn về phía trước, The Empress mở ra
+      một giai đoạn
+      nơi sự phát triển
+      diễn ra tự nhiên.
+      Khi bạn tiếp tục
+      nuôi dưỡng điều mình yêu quý,
+      cuộc sống
+      sẽ nở rộ
+      theo cách
+      rất dịu dàng.
+      Đây là bước chuyển
+      từ tiềm năng
+      sang sự sống động
+      và hiện hữu.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu không tái tạo năng lượng,
-      sự mệt mỏi sẽ ảnh hưởng
-      đến khả năng yêu thương.
-      Nuôi dưỡng bản thân
-      là ưu tiên cần thiết.
+      Ở hướng đi phía trước, The Empress ngược nhắc bạn
+      rằng nếu bạn
+      tiếp tục bỏ quên
+      nhu cầu nuôi dưỡng,
+      sự cạn kiệt
+      có thể quay lại.
+      Hướng đi này khuyên bạn
+      hãy trân trọng
+      nhịp sống tự nhiên,
+      để sự đủ đầy
+      không bị thay thế
+      bằng nghĩa vụ.
 
 ---
 

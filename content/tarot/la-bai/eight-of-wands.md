@@ -33,51 +33,82 @@ reading:
   past:
     upright: >
       Trong quá khứ, Eight of Wands cho thấy
-      đã từng có giai đoạn
-      mọi thứ tiến triển rất nhanh.
-      Khi bạn dám hành động dứt khoát,
-      cơ hội đến liên tiếp
-      và tạo đà mạnh mẽ.
+      đã từng có một giai đoạn
+      mọi thứ diễn ra rất nhanh.
+      Sau khi giữ vững lập trường,
+      bạn bắt đầu hành động dứt khoát,
+      và những cơ hội, thông tin
+      liên tục xuất hiện.
+      Trải nghiệm này giúp bạn nhận ra
+      rằng khi đã rõ hướng đi,
+      tiến trình có thể tăng tốc
+      nhanh hơn bạn tưởng.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một lần bạn từng bị chậm nhịp
-      vì thiếu phối hợp hoặc do dự.
-      Việc bỏ lỡ thời điểm
-      khiến tiến trình bị gián đoạn.
+      Khi Eight of Wands xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      cảm thấy mọi thứ trì trệ,
+      hoặc các kế hoạch bị chậm lại
+      ngoài dự tính.
+      Việc thiếu tiến triển
+      khiến bạn nôn nóng,
+      và có thể đã làm bạn
+      nghi ngờ hướng đi của mình.
 
   present:
     upright: >
-      Ở hiện tại, Eight of Wands cho thấy
-      năng lượng đang tăng tốc.
-      Đây là lúc hành động nhanh,
-      giao tiếp rõ ràng
-      và tận dụng đà đang có.
-      Do dự lúc này
-      dễ khiến bạn lỡ nhịp.
+      Ở hiện tại, Eight of Wands phản ánh
+      một giai đoạn chuyển động mạnh mẽ.
+      Bạn có thể đang nhận được
+      nhiều thông tin,
+      nhiều lời mời gọi,
+      hoặc nhiều cơ hội cùng lúc.
+      Mọi thứ đang tiến lên nhanh,
+      đòi hỏi bạn phải
+      phản ứng kịp thời
+      và giữ sự tập trung,
+      để không bị cuốn theo
+      một cách mất kiểm soát.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      sự trì hoãn hoặc tắc nghẽn thông tin.
-      Lá bài nhắc bạn
-      cần sắp xếp lại ưu tiên
-      trước khi tiếp tục lao về phía trước.
+      Khi Eight of Wands ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      mọi thứ bị đình trệ
+      hoặc không diễn ra
+      như mong muốn.
+      Có thể bạn đang chờ đợi
+      một tín hiệu,
+      một phản hồi,
+      hoặc một bước tiến rõ ràng hơn.
+      Trạng thái này phản ánh
+      sự sốt ruột,
+      nhưng cũng nhắc bạn
+      cần kiên nhẫn thêm một chút.
 
   future:
     upright: >
-      Về hướng đi, Eight of Wands gợi ý rằng
-      khi bạn bắt đúng nhịp,
-      tiến trình sẽ diễn ra suôn sẻ
-      và nhanh hơn mong đợi.
-      Đây là giai đoạn
-      tận dụng đà để bứt phá.
+      Nhìn về phía trước, Eight of Wands mở ra
+      một giai đoạn tăng tốc rõ rệt.
+      Khi bạn đã buông bỏ
+      những điều không còn phù hợp,
+      năng lượng sẽ được giải phóng,
+      và mọi thứ có thể tiến triển
+      nhanh hơn bạn mong đợi.
+      Đây là bước chuyển
+      từ việc chuẩn bị
+      sang việc thật sự
+      lao vào hành động.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu tăng tốc mà thiếu định hướng,
-      bạn có thể rơi vào hỗn loạn.
-      Tốc độ cần đi kèm
-      với sự rõ ràng.
+      Ở hướng đi phía trước, Eight of Wands ngược nhắc bạn
+      cần chú ý đến nhịp độ của mình.
+      Nếu bạn cố gắng thúc ép
+      khi mọi thứ chưa sẵn sàng,
+      sự chậm trễ có thể gây thêm căng thẳng.
+      Hướng đi này khuyên bạn
+      hãy điều chỉnh tốc độ,
+      để tiến lên
+      một cách bền vững hơn.
 
 ---
 

@@ -33,53 +33,85 @@ reading:
   past:
     upright: >
       Trong quá khứ, Knight of Swords cho thấy
-      bạn từng hành động rất nhanh
-      dựa trên niềm tin rằng
-      mình đã nắm được sự thật.
-      Sự quyết liệt giúp bạn tiến lên,
-      nhưng cũng có thể gây va chạm.
+      đã từng có một giai đoạn
+      bạn hành động rất nhanh
+      dựa trên sự rõ ràng trong suy nghĩ.
+      Khi nhận ra điều gì là đúng,
+      bạn sẵn sàng tiến lên
+      mà không do dự quá nhiều.
+      Trải nghiệm này giúp bạn
+      giải quyết vấn đề dứt khoát,
+      nhưng cũng cho thấy
+      cái giá của việc
+      đi quá nhanh mà chưa kịp lắng nghe.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng nói hoặc làm
-      quá vội vàng.
-      Những quyết định thiếu suy xét
-      có thể đã để lại hậu quả
-      ngoài mong muốn.
+      Khi Knight of Swords xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      vội vàng hoặc nóng nảy trong hành động.
+      Việc nói hoặc làm quá nhanh
+      khiến bạn phải xử lý
+      những hiểu lầm không đáng có.
+      Trải nghiệm này để lại bài học
+      về việc cần chậm lại
+      để tư duy được chín hơn
+      trước khi hành động.
 
   present:
     upright: >
-      Ở hiện tại, Knight of Swords cho thấy
-      bạn đang tràn đầy năng lượng tinh thần
-      và muốn hành động ngay lập tức.
-      Lá bài nhắc rằng
-      sự rõ ràng là sức mạnh,
-      nhưng thiếu chậm lại
-      có thể làm bạn tự gây áp lực.
+      Ở hiện tại, Knight of Swords phản ánh
+      trạng thái bạn rất quyết liệt
+      trong việc theo đuổi sự thật.
+      Bạn có thể đang muốn
+      nói rõ, làm rõ,
+      hoặc hành động ngay
+      để giải quyết một vấn đề tồn đọng.
+      Năng lượng này giúp bạn
+      phá vỡ sự trì trệ,
+      nhưng cũng đòi hỏi
+      bạn phải cân nhắc
+      tác động của lời nói và hành động
+      lên những người xung quanh.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn đang bắt đầu nhận ra
-      cái giá của sự vội vã.
-      Đây là lời nhắc
-      cần kiểm soát tốc độ suy nghĩ
-      trước khi lao vào hành động.
+      Khi Knight of Swords ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      đầu óc quá căng thẳng.
+      Suy nghĩ chạy quá nhanh
+      khiến bạn khó tập trung
+      hoặc dễ phản ứng quá đà.
+      Trạng thái này phản ánh
+      nhu cầu tạm dừng,
+      để sắp xếp lại suy nghĩ
+      trước khi tiếp tục tiến lên.
 
   future:
     upright: >
-      Về hướng đi, Knight of Swords gợi ý rằng
-      bạn sẽ có cơ hội nói ra sự thật
-      và bảo vệ quan điểm của mình.
-      Tuy nhiên, thành công phụ thuộc vào
-      việc bạn có biết dừng lại đúng lúc hay không.
+      Nhìn về phía trước, Knight of Swords mở ra
+      một giai đoạn hành động mạnh mẽ.
+      Khi bạn kết hợp
+      sự sắc bén trong tư duy
+      với sự tỉnh táo cảm xúc,
+      bạn sẽ có khả năng
+      dẫn dắt bằng lập luận rõ ràng
+      và hành động quyết đoán.
+      Đây là bước tiến
+      từ việc phản ứng nhanh
+      sang việc hành động
+      có ý thức và trách nhiệm.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu tiếp tục hành động
-      mà không cân nhắc hậu quả,
-      xung đột sẽ dễ tái diễn.
-      Sự khôn ngoan đến từ việc
-      kết hợp trí tuệ với sự điềm tĩnh.
+      Ở hướng đi phía trước, Knight of Swords ngược nhắc bạn
+      rằng nếu bạn tiếp tục
+      lao đi mà không nhìn lại,
+      sự mệt mỏi tinh thần
+      có thể tích tụ.
+      Hướng đi này khuyên bạn
+      hãy học cách
+      chọn đúng thời điểm để tiến,
+      thay vì lúc nào
+      cũng phải là người đi đầu.
+
 
 ---
 

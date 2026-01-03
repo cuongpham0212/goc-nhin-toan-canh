@@ -32,53 +32,81 @@ image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/ace-of-swor
 reading:
   past:
     upright: >
-      Trong quá khứ, Ace of Swords cho thấy
-      đã từng có một khoảnh khắc bạn “nhìn ra” sự thật.
-      Có thể đó là lúc bạn nhận ra
-      điều gì đúng – điều gì sai,
-      hoặc dám đối diện với một sự thật
-      mà trước đây bạn né tránh.
+      Trong quá khứ, Ace of Swords cho thấy đã từng có
+      một khoảnh khắc bạn nhìn mọi thứ rất rõ ràng.
+      Có thể đó là lúc bạn nhận ra sự thật,
+      hiểu ra điều gì đó quan trọng,
+      hoặc đưa ra một quyết định dựa trên lý trí và sự tỉnh táo.
+      Khi ấy, bạn đã dám đối diện với thực tế,
+      dù nó có thể không dễ chịu.
+      Trải nghiệm này giúp bạn hình thành
+      cách suy nghĩ sắc bén hơn,
+      và đặt nền móng cho việc bạn không còn dễ dàng
+      chấp nhận những điều mơ hồ như trước.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng bị che mờ nhận thức:
-      hiểu lầm, thông tin sai lệch
-      hoặc tự dối mình để tránh đối diện.
-      Điều này khiến quyết định khi đó
-      thiếu sự rõ ràng.
+      Khi Ace of Swords xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy đã có một giai đoạn
+      bạn từng rơi vào sự rối rắm về suy nghĩ.
+      Có thể bạn đã không được nói lên sự thật của mình,
+      hoặc bị cuốn vào những hiểu lầm, lời nói chưa rõ ràng.
+      Việc thiếu minh bạch khi đó
+      khiến bạn cảm thấy bức bối,
+      và dần hình thành nỗi sợ phải đối diện
+      với những cuộc đối thoại thẳng thắn sau này.
 
   present:
     upright: >
       Ở hiện tại, Ace of Swords cho thấy
-      bạn đang bước vào giai đoạn tỉnh táo hơn.
-      Đây là lúc phù hợp để nói thật,
-      nghĩ thẳng và cắt bỏ điều không còn đúng.
-      Sự rõ ràng trong tư duy
-      chính là sức mạnh lớn nhất của bạn lúc này.
+      bạn đang đứng trước một giai đoạn cần sự rõ ràng.
+      Bạn bắt đầu muốn gọi đúng tên vấn đề,
+      muốn hiểu sự việc đúng bản chất,
+      thay vì tiếp tục né tránh hay chấp nhận nửa vời.
+      Suy nghĩ của bạn đang trở nên mạch lạc hơn,
+      dù đôi lúc điều này khiến bạn cảm thấy
+      mình trở nên lạnh lùng hoặc xa cách.
+      Nhưng sâu bên trong,
+      bạn đang tìm kiếm sự thật
+      để có thể đưa ra những lựa chọn đúng đắn hơn cho bản thân.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      đầu óc bạn có thể đang rối
-      vì quá nhiều luồng suy nghĩ trái chiều.
-      Lá bài nhắc bạn cần tạm dừng,
-      lọc thông tin
-      trước khi đưa ra kết luận.
+      Khi Ace of Swords ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy đầu óc nặng nề,
+      suy nghĩ chồng chéo
+      và khó đưa ra quyết định.
+      Có thể bạn đang cố tránh né một sự thật nào đó,
+      hoặc không biết nên tin vào điều gì.
+      Trạng thái này khiến bạn dễ nghi ngờ bản thân,
+      nói ra điều mình nghĩ nhưng lại sợ gây tổn thương,
+      hoặc giữ im lặng dù trong lòng rất rối.
 
   future:
     upright: >
-      Về hướng đi, Ace of Swords gợi ý rằng
-      sự thật sẽ được phơi bày.
-      Khi bạn dám nhìn thẳng
-      và gọi tên vấn đề,
-      con đường phía trước
-      sẽ trở nên rõ ràng hơn.
+      Nhìn về phía trước, Ace of Swords mở ra
+      một hướng đi dựa trên sự minh bạch và tỉnh táo.
+      Bạn sẽ có cơ hội nhìn mọi việc rõ ràng hơn,
+      nói ra điều cần nói
+      và cắt bỏ những điều không còn phù hợp.
+      Dù sự thật đôi khi sắc bén như lưỡi dao,
+      nhưng nó cũng mang lại sự giải phóng.
+      Con đường phía trước có thể đòi hỏi
+      những cuộc đối thoại thẳng thắn,
+      nhưng đổi lại,
+      bạn sẽ cảm thấy nhẹ đầu và tự do hơn
+      khi không còn phải sống trong mơ hồ.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu tiếp tục né tránh sự thật
-      hoặc dùng lý trí để tự biện hộ,
-      mâu thuẫn sẽ kéo dài.
-      Sự minh bạch là điều không thể trì hoãn.
+      Ở hướng đi phía trước, Ace of Swords ngược nhắc bạn
+      cần cẩn trọng với những quyết định vội vàng
+      hoặc những lời nói chưa được suy nghĩ kỹ.
+      Nếu tiếp tục né tránh sự thật
+      hoặc để suy nghĩ tiêu cực chi phối,
+      bạn có thể tự làm mình rối thêm.
+      Hướng đi này không yêu cầu bạn
+      phải có câu trả lời ngay lập tức,
+      mà khuyên bạn hãy chậm lại,
+      làm rõ từng suy nghĩ,
+      trước khi đưa ra bất kỳ quyết định quan trọng nào.
 
 ---
 

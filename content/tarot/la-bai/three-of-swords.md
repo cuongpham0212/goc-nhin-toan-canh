@@ -33,50 +33,83 @@ reading:
   past:
     upright: >
       Trong quá khứ, Three of Swords cho thấy
-      bạn từng trải qua một nỗi đau rõ ràng:
-      bị phản bội, hiểu lầm, chia ly
-      hoặc sự thật khiến tim bạn tổn thương.
-      Đây là vết cắt sâu,
-      nhưng cũng là khoảnh khắc
-      bạn không còn tự lừa dối mình.
+      đã từng có một giai đoạn
+      bạn trải qua
+      nỗi đau tinh thần rõ rệt.
+      Có thể đó là sự phản bội,
+      mất mát,
+      hoặc một sự thật
+      khiến bạn tổn thương sâu sắc.
+      Trải nghiệm này không chỉ đau,
+      mà còn làm thay đổi
+      cách bạn nhìn nhận
+      con người và các mối quan hệ.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một nỗi đau từng bị kìm nén hoặc né tránh.
-      Có thể bạn đã cố quên đi,
-      nhưng cảm xúc chưa được xử lý
-      vẫn còn âm ỉ bên trong.
+      Khi Three of Swords xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn đã từng
+      cố gắng chữa lành
+      những tổn thương cũ.
+      Dù vết đau chưa hoàn toàn biến mất,
+      nhưng bạn đã học cách
+      không để nó
+      định nghĩa toàn bộ con người mình.
 
   present:
     upright: >
-      Ở hiện tại, Three of Swords cho thấy
-      bạn đang đối diện với sự thật khó chịu.
-      Dù đau, lá bài nhắc rằng
-      việc nhìn thẳng vào cảm xúc
-      là bước đầu tiên để chữa lành.
-      Phủ nhận chỉ khiến vết thương sâu hơn.
+      Ở hiện tại, Three of Swords phản ánh
+      một nỗi đau tinh thần
+      đang hiện hữu.
+      Có thể bạn vừa nhận ra
+      một sự thật khó chấp nhận,
+      hoặc đang đối diện
+      với cảm giác tan vỡ,
+      thất vọng.
+      Trải bài này không làm nhẹ nỗi đau,
+      mà khẳng định rằng
+      bạn có quyền đau
+      khi sự thật không như mong đợi.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn đang bắt đầu quá trình chữa lành.
-      Nỗi đau không còn sắc bén như trước,
-      và bạn dần cho phép mình
-      buông bỏ oán trách hoặc tự trách.
+      Khi Three of Swords ngược xuất hiện ở hiện tại,
+      bạn đang ở trong quá trình
+      hàn gắn.
+      Dù ký ức đau vẫn còn,
+      nhưng bạn bắt đầu
+      tháo gỡ từng lớp tổn thương,
+      không còn để nỗi đau
+      chi phối mọi suy nghĩ.
+      Đây là dấu hiệu cho thấy
+      quá trình hồi phục
+      đang diễn ra, dù chậm.
 
   future:
     upright: >
-      Về hướng đi, Three of Swords gợi ý rằng
-      nỗi đau này không vô nghĩa.
-      Khi bạn chấp nhận cảm xúc
-      thay vì chống lại nó,
-      bạn sẽ học được bài học quan trọng
-      về sự thật và ranh giới.
+      Nhìn về phía trước, Three of Swords cho thấy
+      sự thật có thể tiếp tục
+      mang đến những cảm xúc khó chịu.
+      Tuy nhiên, việc đối diện
+      thay vì chối bỏ
+      sẽ giúp bạn
+      hiểu rõ bản thân hơn.
+      Hướng đi này nhắc rằng
+      nỗi đau không đến
+      để trừng phạt,
+      mà để làm sáng tỏ
+      điều cần được thay đổi.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      vết thương đang có cơ hội lành lại.
-      Tha thứ – cho người khác hoặc cho chính mình –
-      sẽ mở ra giai đoạn nhẹ lòng hơn.
+      Ở hướng đi phía trước, Three of Swords ngược mở ra
+      khả năng chữa lành sâu sắc hơn.
+      Khi bạn cho phép mình
+      xử lý nỗi đau
+      một cách trung thực,
+      trái tim sẽ dần
+      lấy lại sự nhẹ nhõm.
+      Đây là bước chuyển
+      từ việc chỉ chịu đựng
+      sang việc thật sự
+      bước qua tổn thương.
 
 ---
 

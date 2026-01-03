@@ -33,215 +33,266 @@ reading:
   past:
     upright: >
       Trong quá khứ, Five of Cups cho thấy
-      một mất mát hoặc thất vọng cảm xúc
-      đã để lại dấu ấn sâu sắc.
-      Bạn có thể từng tập trung quá nhiều
-      vào điều đã mất mà quên nhìn thấy
-      những gì vẫn còn hiện diện.
+      đã từng có một giai đoạn bạn trải qua
+      cảm giác mất mát hoặc thất vọng về mặt cảm xúc.
+      Sau khi tìm được sự ổn định,
+      một điều gì đó không diễn ra như mong đợi,
+      khiến bạn tập trung nhiều hơn
+      vào những gì đã mất
+      hơn là những gì vẫn còn.
+      Trải nghiệm này để lại
+      dấu ấn sâu sắc,
+      khiến bạn thận trọng hơn
+      khi đặt kỳ vọng vào cảm xúc và các mối quan hệ.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn bắt đầu học cách
-      bước ra khỏi nỗi tiếc nuối cũ.
-      Dù vết thương chưa lành hẳn,
-      nhưng bạn đã không còn hoàn toàn mắc kẹt trong nó.
+      Khi Five of Cups xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn đã từng
+      bước qua một giai đoạn buồn bã
+      và bắt đầu học cách chấp nhận.
+      Dù nỗi tiếc nuối vẫn còn,
+      nhưng bạn đã dần nhìn thấy
+      những điều chưa mất đi,
+      và từ đó tìm lại
+      sự cân bằng cảm xúc cho mình.
 
   present:
     upright: >
-      Ở hiện tại, Five of Cups cho thấy
-      bạn đang đối diện với cảm giác buồn bã,
-      hụt hẫng hoặc hối tiếc.
-      Có thể bạn đang nhìn cuộc sống
-      qua lăng kính của những điều không như ý,
-      khiến niềm hy vọng trở nên mờ nhạt.
+      Ở hiện tại, Five of Cups phản ánh
+      trạng thái tiếc nuối hoặc thất vọng
+      đang chiếm nhiều không gian trong bạn.
+      Bạn có thể đang nhìn lại
+      một mối quan hệ, một lựa chọn,
+      hoặc một kết quả không như mong muốn,
+      và tự trách mình vì điều đó.
+      Trải bài này không phủ nhận nỗi buồn,
+      nhưng nhẹ nhàng nhắc rằng
+      bạn vẫn còn những giá trị
+      chưa bị đánh mất.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn đang dần lấy lại góc nhìn cân bằng hơn.
-      Bạn bắt đầu nhận ra rằng
-      không phải mọi thứ đều mất đi,
-      và vẫn còn những nguồn lực cảm xúc
-      có thể nâng đỡ bạn.
+      Khi Five of Cups ngược xuất hiện ở hiện tại,
+      bạn bắt đầu thoát ra
+      khỏi trạng thái đắm chìm trong tiếc nuối.
+      Có thể bạn đang dần chấp nhận
+      những gì đã xảy ra
+      và cho phép mình nhìn về phía trước.
+      Đây là dấu hiệu cho thấy
+      quá trình chữa lành
+      đã bắt đầu diễn ra,
+      dù còn rất nhẹ nhàng.
 
   future:
     upright: >
-      Về hướng đi, Five of Cups nhắc bạn rằng
-      việc đau buồn là một phần cần thiết của chữa lành.
-      Khi bạn cho phép mình cảm nhận trọn vẹn nỗi buồn,
-      bạn cũng đang mở đường cho sự chấp nhận
-      và phục hồi dần dần.
+      Nhìn về phía trước, Five of Cups cho thấy
+      bạn sẽ cần đối diện
+      với những cảm xúc chưa được xử lý hoàn toàn.
+      Nếu bạn tiếp tục chỉ nhìn
+      vào những gì đã mất,
+      nỗi buồn có thể kéo dài.
+      Tuy nhiên, khi bạn sẵn sàng
+      quay lại nhìn những gì vẫn còn,
+      bạn sẽ nhận ra
+      mình chưa hề mất tất cả.
 
     reversed: >
-      Ở trạng thái ngược, lá bài gợi ý rằng
-      bạn có khả năng bước tiếp với sự trưởng thành hơn.
-      Khi không còn bị trói buộc bởi quá khứ,
-      bạn sẽ thấy những cơ hội mới
-      đang chờ được nhìn nhận.
+      Ở hướng đi phía trước, Five of Cups ngược mở ra
+      khả năng bạn sẽ dần buông bỏ
+      nỗi tiếc nuối cũ.
+      Khi bạn học cách tha thứ
+      cho bản thân và cho hoàn cảnh,
+      cảm xúc sẽ trở nên nhẹ hơn,
+      và bạn có thể bước tiếp
+      với sự chín chắn và bình thản hơn.
+
+---
+
+## Five of Cups là gì?
+
+**Five of Cups** là lá bài đại diện cho **mất mát, tiếc nuối và cảm xúc đau buồn khi ta chỉ nhìn vào những gì đã đổ vỡ**, mà quên mất rằng **vẫn còn điều đang ở lại**.
+
+Nếu Four of Cups là trạng thái rút vào trong vì quá tải cảm xúc,  
+thì Five of Cups là lúc **nỗi buồn có hình dạng rõ ràng** –  
+khi một điều gì đó đã mất đi và để lại khoảng trống khó phủ nhận.
+
+> Khi ta cứ ngoái nhìn những chiếc cốc đã đổ,  
+> mà chưa đủ sức quay lại nhìn những gì vẫn còn nguyên vẹn phía sau.
 
 ---
 
 ## Tổng quan về lá Five of Cups
 
-**Five of Cups** là bước ngoặt cảm xúc quan trọng trong suit Cups.  
-Sau trạng thái thờ ơ và quá tải của **Four of Cups**, lá bài này đưa ta **đối diện trực tiếp với nỗi buồn và sự mất mát**.
+**Five of Cups** thuộc nhóm **Cups** trong Tarot – đại diện cho **cảm xúc, tổn thương tinh thần và quá trình đối diện với nỗi buồn**.  
+Trong hệ **Minor Arcana**, số **5** mang ý nghĩa của **xáo trộn – mất cân bằng – khủng hoảng tạm thời**.
 
-Đây là lá bài của:
-- Thất vọng
-- Tiếc nuối
-- Đau buồn vì những điều không còn như trước
+Five of Cups không nói về thảm họa lớn, mà nói về:
+- Một mất mát có thật
+- Một điều không thể quay lại
+- Và cảm xúc tiếc nuối chưa được xử lý trọn vẹn
 
-Five of Cups không phủ nhận nỗi đau. Ngược lại, nó cho phép nỗi đau **được nhìn thẳng, được thừa nhận**.
+Nếu:
+- Three of Cups là niềm vui được chia sẻ  
+- Four of Cups là cảm xúc quá tải và khép lại  
+
+thì Five of Cups là:  
+**“Nỗi buồn xuất hiện khi ta chưa kịp buông điều đã mất.”**
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Biểu tượng và hình ảnh cốt lõi
 
-Hình ảnh quen thuộc của Five of Cups thường là:
-- Một người khoác áo choàng, cúi đầu
-- Ba chiếc cốc bị đổ phía trước
-- Hai chiếc cốc vẫn còn đứng phía sau
+Hình ảnh quen thuộc của Five of Cups thường bao gồm:
+- **Nhân vật cúi đầu** – chìm trong tiếc nuối
+- **Ba chiếc cốc bị đổ** – những mất mát đã xảy ra
+- **Hai chiếc cốc còn đứng phía sau** – những điều vẫn còn, nhưng chưa được nhìn thấy
 
-Biểu tượng này mang thông điệp rất rõ:
-👉 *Ta đang tập trung vào những gì đã mất, mà chưa nhìn thấy những gì vẫn còn.*
+Điểm then chốt của lá bài này là:  
+**Mất mát là thật – nhưng nó không phải là toàn bộ câu chuyện.**
 
-Nỗi buồn là thật.  
-Nhưng câu chuyện **chưa kết thúc**.
+Five of Cups không phủ nhận nỗi buồn,  
+nhưng nhắc rằng **nỗi buồn không nên che khuất tất cả những gì còn lại**.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Five of Cups
+
+Five of Cups mang năng lượng của **Sao Hỏa (Mars)** trong **cung Bọ Cạp (Scorpio)** – biểu trưng cho **tổn thương sâu, cảm xúc mãnh liệt và quá trình đối diện với mất mát không thể tránh khỏi**.
+
+Năng lượng Sao Hỏa trong Bọ Cạp không bộc lộ ra ngoài bằng hành động mạnh, mà thể hiện qua:
+- Cảm xúc dồn nén
+- Nỗi đau kéo dài âm thầm
+- Xu hướng chìm sâu vào ký ức và những điều đã mất
+
+Five of Cups không nói về nỗi buồn thoáng qua, mà nói về **nỗi buồn đã ăn sâu vào tâm lý**, đòi hỏi sự can đảm để đối diện và chuyển hóa.
+
+Nếu bạn quan tâm đến sự vận hành cảm xúc sâu và các mối quan hệ mang tính chuyển hóa của cung này theo dòng thời gian, có thể tham khảo thêm:  
+**[Tử vi cung Bọ Cạp năm 2026](/tu-vi/nam-2026/bo-cap/)**
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Five of Cups
 
-### 💔 Mất mát và tiếc nuối
+### Mất mát và tiếc nuối
 
-Five of Cups xuôi phản ánh:
-- Sự mất mát về tình cảm
-- Thất vọng trong mối quan hệ
-- Cảm giác “giá như…”
+Five of Cups xuôi cho thấy:
+- Sự buồn bã vì điều đã qua
+- Cảm giác hối tiếc
+- Tập trung quá nhiều vào thất bại hoặc tổn thương
 
-Đây là nỗi buồn:
-- Không bùng nổ
-- Nhưng kéo dài
-- Và dễ khiến ta mắc kẹt trong quá khứ
+Đây là giai đoạn cảm xúc:
+**chưa sẵn sàng để bước tiếp**, vì còn đang quay lại quá khứ.
 
 ---
 
-### 🧠 Mắc kẹt trong những gì đã qua
+### Bám chặt vào điều đã mất
 
-Lá bài cho thấy trạng thái:
-- Tự trách
-- Hối tiếc
-- Khó buông bỏ ký ức cũ
+Lá bài này xuất hiện khi:
+- Ta không ngừng nghĩ “giá như…”
+- So sánh hiện tại với những gì đã từng
+- Hoặc tự trách bản thân vì một kết cục không mong muốn
 
-Sự tập trung quá mức vào điều đã mất khiến ta **không đủ năng lượng để nhìn về phía trước**.
+Five of Cups nhắc rằng:  
+👉 Đau buồn là cần thiết, nhưng **kẹt lại trong đau buồn thì không**.
 
 ---
 
-### 🕯️ Cho phép mình buồn
+### Chưa nhìn thấy điều còn lại
 
-Điều quan trọng của Five of Cups là:
-- Không ép mình “ổn”
-- Không phủ nhận cảm xúc
-- Không vội vàng tích cực
-
-Buồn là một phần của quá trình chữa lành.
+Trong Five of Cups xuôi, vấn đề không phải là không còn gì,  
+mà là **ta chưa thể nhìn sang hướng khác**.
 
 ---
 
 ## Five of Cups trong các khía cạnh đời sống
 
-### 🔹 Trong tình cảm
+### Trong tình cảm
+Five of Cups phản ánh nỗi buồn sau chia ly, thất vọng hoặc tổn thương trong mối quan hệ. Lá bài cho thấy một người vẫn còn chìm trong tiếc nuối và chưa sẵn sàng mở lòng trở lại.
 
-- Chia tay
-- Mất niềm tin
-- Nỗi buồn vì mối quan hệ không như mong đợi
-
-Five of Cups không nói rằng tình yêu đã chấm dứt hoàn toàn, mà nói rằng:
-👉 *Ta đang đau vì đã từng yêu thật.*
+### Trong công việc & cuộc sống
+Trong công việc, lá bài cho thấy sự thất vọng vì kết quả không như mong đợi. Đây là lúc cần cho phép mình buồn, nhưng cũng cần dần nhìn lại những gì vẫn còn cơ hội cứu vãn.
 
 ---
 
-### 🔹 Trong công việc
+## Five of Cups (Ngược) – Học cách nhìn lại điều còn lại
 
-- Thất bại
-- Cơ hội bị bỏ lỡ
-- Quyết định sai lầm trong quá khứ
+Khi **Five of Cups xuất hiện ở vị trí ngược**, lá bài cho thấy **sự chuyển hóa cảm xúc quan trọng**.
 
-Lá bài khuyên:
-- Nhìn nhận cảm xúc thất vọng
-- Nhưng đừng để nó định nghĩa toàn bộ con đường phía trước
+### Ý nghĩa chính
 
----
+Five of Cups ngược thường biểu hiện:
+- Bắt đầu chấp nhận mất mát
+- Nhận ra giá trị của những gì còn lại
+- Sẵn sàng quay mặt về hiện tại
 
-### 🔹 Trong đời sống nội tâm
-
-Five of Cups xuất hiện khi:
-- Ta chưa tha thứ cho chính mình
-- Hoặc chưa khép lại một chương cũ
-
-Sự chữa lành bắt đầu **khi ta cho phép mình tiếc nuối, nhưng không ở mãi trong đó**.
+Đây là khoảnh khắc:  
+**nỗi buồn không còn điều khiển toàn bộ cảm xúc**.
 
 ---
 
-## Five of Cups (Ngược) – Bắt đầu nhìn lại những gì còn lại
+### Góc nhìn tâm lý
 
-Khi **Five of Cups xuất hiện ở vị trí ngược**, đây là dấu hiệu **rất quan trọng của sự hồi phục**.
+Ở trạng thái ngược, Five of Cups phản ánh:
+- Sự buông bỏ dần dần
+- Quá trình chữa lành diễn ra chậm nhưng thật
+- Cho phép bản thân hy vọng trở lại
 
-### 🌱 Ý nghĩa chính
-
-Five of Cups ngược cho thấy:
-- Nhận ra mình vẫn còn điều để trân trọng
-- Bắt đầu buông bớt nỗi đau
-- Sẵn sàng quay lại với hiện tại
-
-Không phải vì nỗi buồn biến mất, mà vì:
-👉 *Ta không còn để nó che kín tầm nhìn.*
+Lá bài nhắc:
+**Chữa lành không đến từ quên đi, mà từ chấp nhận.**
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Lời khuyên khi Five of Cups ngược xuất hiện
 
-Ở trạng thái ngược, lá bài phản ánh:
-- Quá trình chấp nhận
-- Tha thứ (cho người khác hoặc cho chính mình)
-- Học cách mang theo ký ức mà không để nó làm đau
-
-Đây là giai đoạn **chuyển hóa nỗi buồn thành hiểu biết**.
+- Hãy cho phép mình buồn, nhưng đừng tự nhấn chìm mình
+- Nhìn lại những mối quan hệ, giá trị vẫn còn
+- Bước từng bước nhỏ về phía hiện tại
 
 ---
 
-### 🧭 Lời khuyên khi Five of Cups ngược xuất hiện
+## 👉 Xem toàn bộ mạch cảm xúc
 
-- Nhìn lại những gì vẫn đang hiện diện
-- Cho mình cơ hội mới, dù nhỏ
-- Không phủ nhận quá khứ, nhưng không sống trong đó
-
-Chữa lành không phải là quên, mà là **nhớ mà không còn đau**.
-
----
-
-## 🔗Để hiểu đầy đủ tiến trình cảm xúc trong Tarot, bạn có thể đọc thêm:
-
-- **[Ace of Cups – Dòng Cảm Xúc Mới](/tarot/la-bai/ace-of-cups/)**  
-- **[Two of Cups – Kết Nối Cân Bằng](/tarot/la-bai/two-of-cups/)**  
-- **[Three of Cups – Chia Sẻ Niềm Vui](/tarot/la-bai/three-of-cups/)**  
-- **[Four of Cups – Sự Thờ Ơ Cảm Xúc](/tarot/la-bai/four-of-cups/)**  
-- **[Page of Cups – Thông Điệp Từ Cảm Xúc](/tarot/la-bai/page-of-cups/)**  
+**[Suit of Cups – Hành Trình Cảm Xúc](/tarot/suit-of-cups/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Five of Cups
 
 **Xuôi:**
-- 💔 Mất mát – tiếc nuối
-- 🧠 Mắc kẹt trong quá khứ
-- 🕯️ Cần cho phép mình buồn
+- Mất mát  
+- Tiếc nuối  
+- Chìm trong quá khứ  
 
 **Ngược:**
-- 🌱 Nhìn lại những gì còn lại
-- 🤍 Bắt đầu buông bỏ
-- 🧭 Hướng tới chữa lành
+- Chấp nhận  
+- Nhìn lại điều còn lại  
+- Bắt đầu chữa lành  
 
 Five of Cups nhắc ta rằng:  
-**Nỗi buồn không phải để trốn tránh, mà để đi xuyên qua – rồi ta sẽ thấy mình vẫn còn đứng vững.**
+**Ta không thể thay đổi những chiếc cốc đã đổ,  
+nhưng vẫn có thể quay lại với những gì còn đứng vững.**
 
-👉 Xem toàn bộ mạch cảm xúc: **[Suit of Cups – Hành Trình Cảm Xúc](/tarot/la-bai/suit-of-cups/)**
+---
+
+## 🔗 Để hiểu sâu hơn hành trình cảm xúc trong Tarot, bạn có thể tham khảo thêm:
+
+- **[Two of Cups – Sự Kết Nối Hai Chiều](/tarot/la-bai/two-of-cups/)**  
+- **[Page of Cups – Thông Điệp Từ Cảm Xúc](/tarot/la-bai/page-of-cups/)**  
+- **[Bộ Ẩn Phụ – Suit of Cups](/tarot/suit/cups/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
+
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Five of Cups
+
+**Five of Cups có phải là lá bài xấu không?**  
+Không. Đây là lá bài trung tính, phản ánh nỗi buồn cần được đối diện và xử lý.
+
+**Five of Cups trong tình yêu có nghĩa là gì?**  
+Thường liên quan đến chia ly, thất vọng hoặc tiếc nuối chưa được buông bỏ.
+
+**Five of Cups ngược báo hiệu điều gì?**  
+Báo hiệu sự chấp nhận và bắt đầu quá trình chữa lành cảm xúc.
+
+**Five of Cups có liên quan đến chữa lành không?**  
+Có. Đây là lá bài then chốt trong hành trình học cách đối diện và vượt qua mất mát.

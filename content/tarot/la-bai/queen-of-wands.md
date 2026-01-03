@@ -33,50 +33,83 @@ reading:
   past:
     upright: >
       Trong quá khứ, Queen of Wands cho thấy
-      bạn từng học cách tin vào chính mình.
-      Qua trải nghiệm, bạn nhận ra
-      giá trị không cần phải gồng chứng minh,
-      mà đến từ sự tự tin và hiện diện tự nhiên.
+      đã từng có một giai đoạn
+      bạn bước vào vai trò
+      tự tin và chủ động hơn.
+      Sau những lần hành động bốc đồng,
+      bạn bắt đầu hiểu
+      sức mạnh của việc
+      biết mình là ai
+      và mình muốn gì.
+      Trải nghiệm này giúp bạn
+      xây dựng sự tự tin
+      không cần phô trương.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng nghi ngờ bản thân
-      hoặc so sánh mình với người khác.
-      Sự thiếu tự tin khi đó
-      làm lửa trong bạn bị che mờ.
+      Khi Queen of Wands xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      nghi ngờ chính mình.
+      Việc so sánh với người khác
+      hoặc sợ bị đánh giá
+      khiến năng lượng của bạn
+      bị thu nhỏ lại.
+      Trải nghiệm này để lại bài học
+      về việc lấy lại
+      quyền làm chủ
+      năng lượng cá nhân.
 
   present:
     upright: >
-      Ở hiện tại, Queen of Wands cho thấy
-      bạn đang tỏa ra năng lượng tích cực.
-      Bạn dám là chính mình,
-      dám đứng vào trung tâm
-      và truyền cảm hứng bằng hành động.
-      Sự tự tin của bạn
-      khiến người khác tin theo.
+      Ở hiện tại, Queen of Wands phản ánh
+      trạng thái bạn đang
+      đứng vững trong năng lượng của mình.
+      Bạn không cần phải chứng minh quá nhiều,
+      nhưng sự hiện diện của bạn
+      vẫn tạo ra ảnh hưởng.
+      Đây là giai đoạn
+      bạn hành động
+      từ sự tự tin bên trong,
+      không phải từ sự bốc đồng
+      hay nhu cầu được công nhận.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang che giấu
-      sự bất an sau vẻ ngoài mạnh mẽ.
-      Lá bài nhắc rằng
-      tự tin thật sự
-      không cần phải ồn ào.
+      Khi Queen of Wands ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      năng lượng của mình bị suy giảm.
+      Có thể bạn đang để ý kiến bên ngoài
+      ảnh hưởng quá nhiều
+      đến cách bạn hành động.
+      Trạng thái này phản ánh
+      nhu cầu quay lại
+      kết nối với giá trị
+      và sức mạnh nội tại của mình.
 
   future:
     upright: >
-      Về hướng đi, Queen of Wands gợi ý rằng
-      khi bạn tiếp tục tin vào giá trị của mình,
-      bạn sẽ thu hút đúng người,
-      đúng cơ hội
-      và đúng không gian để tỏa sáng.
+      Nhìn về phía trước, Queen of Wands mở ra
+      một giai đoạn bạn có thể
+      dẫn dắt và truyền cảm hứng
+      mà không cần áp đặt.
+      Khi bạn tin vào bản thân,
+      năng lượng bạn toả ra
+      sẽ tự nhiên thu hút
+      những cơ hội và con người phù hợp.
+      Đây là bước tiến
+      từ việc hành động vì đam mê
+      sang việc sống đúng
+      với bản chất mạnh mẽ của mình.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu để nỗi sợ đánh giá
-      dẫn dắt hành động,
-      bạn sẽ tự làm mờ ánh lửa.
-      Hãy quay về với sự chân thật.
+      Ở hướng đi phía trước, Queen of Wands ngược nhắc bạn
+      rằng nếu bạn tiếp tục
+      kìm nén năng lượng của mình,
+      sự tự tin có thể dần suy yếu.
+      Hướng đi này khuyên bạn
+      hãy cho phép bản thân
+      bước ra và thể hiện,
+      ngay cả khi chưa hoàn hảo,
+      để năng lượng được lưu thông
+      một cách tự nhiên.
 
 ---
 

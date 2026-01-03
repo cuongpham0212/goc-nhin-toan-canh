@@ -33,52 +33,81 @@ reading:
   past:
     upright: >
       Trong quá khứ, Three of Wands cho thấy
-      bạn từng dám mở rộng tầm nhìn
-      và bước ra khỏi phạm vi quen thuộc.
-      Có thể bạn đã khởi động một kế hoạch,
-      một hành trình hoặc một dự án
-      với niềm tin vào tương lai.
+      đã từng có một giai đoạn
+      bạn bắt đầu nhìn thấy
+      những khả năng rộng lớn hơn phía trước.
+      Sau khi đưa ra lựa chọn,
+      bạn không còn chỉ nghĩ đến bước đi tiếp theo,
+      mà bắt đầu hình dung
+      về con đường dài hơn.
+      Trải nghiệm này giúp bạn
+      hiểu rằng hành động của mình
+      có thể dẫn đến những kết quả
+      vượt xa phạm vi quen thuộc ban đầu.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng thiếu kiên nhẫn
-      hoặc lo lắng khi kết quả chưa đến.
-      Việc chưa nhìn xa
-      có thể khiến bạn
-      tự thu hẹp cơ hội của mình.
+      Khi Three of Wands xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      thiếu niềm tin vào hướng đi mình chọn.
+      Dù đã bắt đầu,
+      nhưng sự nghi ngờ khiến bạn
+      khó nhìn xa hơn hiện tại.
+      Trải nghiệm này để lại
+      cảm giác chững lại,
+      như thể bạn chưa thật sự
+      cho phép bản thân mở rộng tầm nhìn.
 
   present:
     upright: >
       Ở hiện tại, Three of Wands cho thấy
-      bạn đang đứng ở vị trí
-      vừa hành động xong
-      và bắt đầu chờ phản hồi từ thế giới.
-      Đây là lúc giữ niềm tin,
-      tiếp tục điều chỉnh
-      và không vội quay đầu.
+      bạn đang ở giai đoạn chờ đợi
+      những kết quả đầu tiên
+      từ quyết định mình đã đưa ra.
+      Bạn bắt đầu nhận ra
+      rằng con đường mình chọn
+      có tiềm năng phát triển lâu dài.
+      Trạng thái này mang theo
+      sự kiên nhẫn,
+      niềm tin
+      và cảm giác sẵn sàng
+      để mở rộng phạm vi hành động của mình.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang mất phương hướng
-      vì tiến độ chậm hơn mong đợi.
-      Lá bài nhắc bạn
-      cần nhìn lại tầm nhìn dài hạn,
-      thay vì chỉ nhìn kết quả trước mắt.
+      Khi Three of Wands ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      mọi thứ tiến triển chậm hơn mong đợi.
+      Điều này dễ khiến bạn nản lòng,
+      hoặc nghi ngờ lựa chọn ban đầu của mình.
+      Trạng thái này phản ánh
+      sự thiếu kiên nhẫn
+      và nỗi lo rằng
+      nỗ lực của mình chưa được đền đáp.
 
   future:
     upright: >
-      Về hướng đi, Three of Wands gợi ý rằng
-      cơ hội sẽ đến
-      khi bạn tiếp tục mở rộng và kết nối.
-      Sự kiên nhẫn lúc này
-      sẽ mang lại bước tiến rõ ràng hơn.
+      Nhìn về phía trước, Three of Wands mở ra
+      một giai đoạn mở rộng và phát triển.
+      Khi bạn tiếp tục giữ vững tầm nhìn
+      và sẵn sàng đón nhận cơ hội mới,
+      con đường phía trước
+      sẽ dần rõ ràng và rộng mở hơn.
+      Đây là bước tiến tự nhiên
+      từ việc chỉ hành động
+      sang việc xây dựng
+      một hướng đi dài hạn cho bản thân.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu không dám đi xa hơn
-      hoặc không điều chỉnh chiến lược,
+      Ở hướng đi phía trước, Three of Wands ngược nhắc bạn
+      cần tránh việc thu hẹp tầm nhìn
+      chỉ vì những trở ngại tạm thời.
+      Nếu bạn quá tập trung vào
+      kết quả trước mắt,
       bạn có thể bỏ lỡ
-      những cơ hội đang hình thành.
+      bức tranh lớn hơn.
+      Hướng đi này khuyên bạn
+      hãy kiên nhẫn thêm một chút,
+      và cho phép kế hoạch của mình
+      có thời gian để phát triển.
 
 ---
 

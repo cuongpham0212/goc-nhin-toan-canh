@@ -33,55 +33,82 @@ reading:
   past:
     upright: >
       Trong quá khứ, Knight of Wands cho thấy
-      bạn từng hành động rất nhanh
-      vì đam mê và hứng khởi.
-      Những quyết định táo bạo
-      mang lại trải nghiệm mạnh mẽ,
-      dù không phải lúc nào
-      cũng bền lâu.
+      đã từng có một giai đoạn
+      bạn hành động rất táo bạo.
+      Sau khi tìm lại động lực,
+      bạn sẵn sàng lao vào thử thách,
+      chấp nhận rủi ro
+      và tin vào năng lượng của mình.
+      Trải nghiệm này giúp bạn
+      khám phá giới hạn bản thân,
+      nhưng cũng để lại bài học
+      về việc cần cân nhắc
+      trước khi hành động.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng hành động
-      thiếu kế hoạch.
-      Sự bốc đồng
-      có thể đã khiến
-      bạn phải quay lại từ đầu.
+      Khi Knight of Wands xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      hành động vội vàng
+      hoặc thiếu định hướng rõ ràng.
+      Sự bốc đồng khi đó
+      có thể khiến bạn
+      phải xử lý hậu quả sau này,
+      và dần nhận ra
+      rằng đam mê cần được dẫn dắt
+      bởi sự tỉnh táo.
 
   present:
     upright: >
-      Ở hiện tại, Knight of Wands cho thấy
-      bạn đang tràn đầy năng lượng
-      và muốn lao vào hành động.
-      Lá bài nhắc rằng
-      sự can đảm là điểm mạnh,
-      nhưng thiếu kiên nhẫn
-      có thể gây rủi ro.
+      Ở hiện tại, Knight of Wands phản ánh
+      nguồn năng lượng rất mạnh mẽ
+      đang thôi thúc bạn tiến lên.
+      Bạn có thể đang muốn
+      thay đổi nhanh,
+      thử cái mới,
+      hoặc bứt ra khỏi
+      những giới hạn hiện tại.
+      Sự hứng khởi này
+      mang lại động lực lớn,
+      nhưng cũng đòi hỏi bạn
+      phải biết kiểm soát nhịp độ,
+      để không tự làm mình kiệt sức.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn đang nhận ra
-      cái giá của việc chạy theo hứng thú.
-      Đây là lúc cần chậm lại,
-      kiểm tra hướng đi
-      trước khi tiếp tục.
+      Khi Knight of Wands ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      năng lượng bị phân tán.
+      Có thể bạn muốn làm quá nhiều thứ cùng lúc,
+      nhưng lại thiếu định hướng rõ ràng.
+      Trạng thái này phản ánh
+      nhu cầu dừng lại một nhịp,
+      để xác định điều gì
+      thực sự đáng để bạn
+      đặt toàn bộ năng lượng vào.
 
   future:
     upright: >
-      Về hướng đi, Knight of Wands gợi ý rằng
-      nếu bạn biết dẫn hướng cho ngọn lửa,
-      hành động của bạn
-      sẽ tạo ra đột phá.
-      Đam mê kết hợp định hướng
-      sẽ mang lại kết quả mạnh mẽ.
+      Nhìn về phía trước, Knight of Wands mở ra
+      một giai đoạn hành động mạnh mẽ.
+      Khi bạn biết tập trung đam mê
+      vào một hướng rõ ràng,
+      tốc độ và sức bật của bạn
+      sẽ trở thành lợi thế lớn.
+      Đây là bước tiến
+      từ việc chỉ muốn bứt phá
+      sang việc bứt phá
+      có mục tiêu và định hướng.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu tiếp tục thay đổi liên tục
-      hoặc bỏ dở giữa chừng,
-      bạn sẽ khó tích lũy thành quả.
-      Lửa cần được giữ,
-      không chỉ được đốt.
+      Ở hướng đi phía trước, Knight of Wands ngược nhắc bạn
+      rằng nếu tiếp tục
+      chạy theo hứng khởi nhất thời,
+      bạn có thể nhanh chóng kiệt sức
+      hoặc mất phương hướng.
+      Hướng đi này khuyên bạn
+      hãy học cách
+      điều tiết năng lượng,
+      để đam mê không trở thành
+      yếu tố làm bạn tự cản đường mình.
 
 ---
 

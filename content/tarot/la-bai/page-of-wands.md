@@ -33,54 +33,81 @@ reading:
   past:
     upright: >
       Trong quá khứ, Page of Wands cho thấy
-      bạn từng cảm thấy tò mò và háo hức
-      trước một ý tưởng hay hướng đi mới.
-      Dù chưa rõ mình sẽ đi đến đâu,
-      bạn đã sẵn sàng thử
-      và học từ trải nghiệm.
+      đã từng có một giai đoạn
+      bạn cảm thấy háo hức
+      với những điều mới mẻ.
+      Sau khi đi qua quá tải và áp lực,
+      bạn quay lại với tinh thần thử nghiệm,
+      không còn đặt nặng kết quả,
+      mà chú trọng vào trải nghiệm.
+      Giai đoạn này giúp bạn
+      nhớ lại cảm giác
+      bắt đầu chỉ vì hứng thú.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng thiếu tự tin
-      hoặc sợ bị đánh giá khi bắt đầu điều mới.
-      Sự do dự đã khiến
-      ngọn lửa khám phá
-      chưa kịp bùng lên.
+      Khi Page of Wands xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn từng
+      do dự trước những khởi đầu mới.
+      Có thể bạn sợ mình thiếu kinh nghiệm,
+      hoặc lo rằng sự hứng khởi
+      không đủ để đi xa.
+      Điều này khiến động lực
+      bị nén lại,
+      chưa có cơ hội được thử sức.
 
   present:
     upright: >
-      Ở hiện tại, Page of Wands cho thấy
-      bạn đang trong tâm thế khám phá.
-      Có cảm hứng,
-      có mong muốn trải nghiệm,
-      và sẵn sàng bước ra
-      khỏi vùng quen thuộc.
-      Đây là lúc thử nghiệm,
-      không cần hoàn hảo.
+      Ở hiện tại, Page of Wands phản ánh
+      một nguồn năng lượng mới
+      đang được khơi dậy.
+      Bạn có thể đang tò mò
+      về một ý tưởng,
+      một hướng đi,
+      hoặc một vai trò mới.
+      Dù chưa rõ ràng,
+      nhưng sự hứng khởi là thật.
+      Đây là thời điểm thích hợp
+      để thử,
+      để khám phá,
+      mà chưa cần cam kết lâu dài.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang phân tán năng lượng
-      vì quá nhiều ý tưởng.
-      Lá bài nhắc bạn
-      cần chọn một hướng
-      để ngọn lửa không tắt giữa chừng.
+      Khi Page of Wands ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      thiếu tự tin để bắt đầu.
+      Có thể bạn so sánh mình
+      với người khác,
+      hoặc lo rằng mình chưa đủ giỏi.
+      Trạng thái này phản ánh
+      nhu cầu cho phép bản thân
+      được bắt đầu từ vị trí
+      chưa hoàn hảo.
 
   future:
     upright: >
-      Về hướng đi, Page of Wands gợi ý rằng
-      sự dấn thân sẽ mang lại
-      trải nghiệm quý giá.
-      Khi bạn giữ được tinh thần học hỏi,
-      lửa sẽ lớn dần theo thời gian.
+      Nhìn về phía trước, Page of Wands mở ra
+      một chu kỳ hành động mới
+      dựa trên sự tò mò và đam mê.
+      Khi bạn cho phép mình
+      thử nghiệm mà không sợ sai,
+      động lực sẽ dần mạnh lên
+      và dẫn bạn đến
+      những trải nghiệm mới mẻ.
+      Đây là bước đầu
+      của quá trình trưởng thành,
+      nơi bạn học bằng cách làm,
+      chứ không chỉ bằng suy nghĩ.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu chỉ dừng ở tò mò
-      mà không hành động,
-      cảm hứng sẽ nhanh nguội.
-      Một bước nhỏ
-      là điều cần thiết.
+      Ở hướng đi phía trước, Page of Wands ngược nhắc bạn
+      rằng nếu bạn tiếp tục
+      trì hoãn vì sợ sai,
+      động lực sẽ dần nguội đi.
+      Hướng đi này khuyên bạn
+      hãy bắt đầu bằng
+      những bước rất nhỏ,
+      để ngọn lửa tò mò
+      có cơ hội được nuôi dưỡng.
 
 ---
 

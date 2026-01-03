@@ -34,54 +34,94 @@ reading:
   past:
     upright: >
       Trong quá khứ, The Chariot cho thấy
-      bạn từng học cách tiến lên
-      bằng ý chí mạnh mẽ.
-      Việc kiểm soát hai lực đối lập
-      dạy bạn rằng
-      chiến thắng đến từ định hướng,
-      không chỉ từ sức mạnh.
+      đã từng có một giai đoạn
+      bạn quyết định tiến lên
+      một cách dứt khoát.
+      Khi niềm tin đã rõ,
+      bạn chọn hành động,
+      tập trung vào mục tiêu,
+      và không để
+      những lực kéo trái chiều
+      làm mình chùn bước.
+      Trải nghiệm này giúp bạn
+      hiểu rằng chiến thắng
+      đến từ việc
+      giữ vững tay lái.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng mất kiểm soát
-      hoặc bị kéo lệch hướng
-      bởi cảm xúc mâu thuẫn.
-      Thiếu định tâm
-      khiến tiến trình chậm lại.
+      Khi The Chariot xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      mất phương hướng
+      dù rất nỗ lực.
+      Việc thiếu mục tiêu rõ ràng
+      hoặc bị kéo bởi
+      quá nhiều mong muốn
+      khiến bạn khó tiến lên.
+      Trải nghiệm này để lại bài học
+      về việc cần
+      thống nhất ý chí
+      trước khi tăng tốc.
 
   present:
     upright: >
-      Ở hiện tại, The Chariot cho thấy
-      bạn đang sẵn sàng tiến lên.
-      Lá bài nhấn mạnh
-      sự tập trung, kỷ luật
-      và quyết tâm có ý thức.
-      Khi bạn giữ tay lái vững,
-      con đường sẽ mở.
+      Ở hiện tại, The Chariot phản ánh
+      trạng thái bạn đang
+      sẵn sàng tiến bước.
+      Bạn có thể đang
+      kiểm soát tốt
+      cảm xúc và hoàn cảnh,
+      để đưa bản thân
+      đi đúng hướng đã chọn.
+      Đây là giai đoạn
+      hành động có chủ đích,
+      nơi niềm tin
+      được thể hiện
+      qua quyết tâm và kỷ luật.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang bị phân tâm
-      hoặc kéo về hai hướng khác nhau.
-      Lá bài nhắc rằng
-      tiến lên cần sự thống nhất nội tâm,
-      không phải ép buộc.
+      Khi The Chariot ngược xuất hiện ở hiện tại,
+      bạn có thể đang
+      cảm thấy mình
+      rất cố gắng
+      nhưng không đi xa.
+      Có thể nội tâm
+      đang bị chia rẽ,
+      khiến năng lượng
+      bị phân tán.
+      Trạng thái này phản ánh
+      nhu cầu làm rõ
+      mục tiêu thật sự,
+      trước khi tiếp tục
+      đẩy mình tiến lên.
 
   future:
     upright: >
-      Về hướng đi, The Chariot gợi ý rằng
-      khi bạn rõ mục tiêu
-      và làm chủ năng lượng,
-      bạn sẽ vượt qua chướng ngại.
-      Chiến thắng bền vững
-      đến từ sự tự chủ.
+      Nhìn về phía trước, The Chariot mở ra
+      một chặng đường
+      nơi thành công
+      đến từ sự kiên định.
+      Khi bạn tiếp tục
+      giữ vững hướng đi,
+      những thử thách
+      sẽ trở thành
+      động lực thúc đẩy.
+      Đây là bước tiến
+      từ niềm tin
+      sang chiến thắng
+      mang tính cá nhân.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu tiếp tục tiến mà thiếu định hướng,
-      bạn sẽ nhanh kiệt sức.
-      Dừng lại chỉnh hướng
-      là điều cần thiết trước khi tăng tốc.
+      Ở hướng đi phía trước, The Chariot ngược nhắc bạn
+      rằng nếu bạn
+      tiếp tục ép mình
+      tiến lên bằng ý chí thuần túy,
+      sự kiệt sức
+      có thể xuất hiện.
+      Hướng đi này khuyên bạn
+      hãy điều chỉnh nhịp,
+      để hành trình
+      không trở thành
+      cuộc chiến với chính mình.
 
 ---
 

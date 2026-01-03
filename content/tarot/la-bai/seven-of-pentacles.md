@@ -33,50 +33,88 @@ reading:
   past:
     upright: >
       Trong quá khứ, Seven of Pentacles cho thấy
-      bạn đã từng bỏ công sức và thời gian
-      để gieo trồng một điều gì đó bền vững.
-      Dù chưa thấy kết quả ngay,
-      những nỗ lực ấy đã đặt nền móng quan trọng.
+      đã từng có một giai đoạn
+      bạn kiên nhẫn đầu tư
+      vào một quá trình dài.
+      Sau khi đã gieo hạt
+      và chăm sóc,
+      bạn học cách chờ đợi,
+      quan sát,
+      và đánh giá
+      xem công sức của mình
+      có đi đúng hướng hay không.
+      Trải nghiệm này giúp bạn
+      hiểu giá trị
+      của sự bền bỉ.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn thiếu kiên nhẫn
-      hoặc đánh giá quá sớm.
-      Có thể bạn đã từ bỏ khi thành quả
-      chưa kịp hình thành.
+      Khi Seven of Pentacles xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      mất kiên nhẫn
+      với quá trình.
+      Việc muốn kết quả nhanh
+      khiến bạn nghi ngờ
+      những gì mình đã đầu tư.
+      Trải nghiệm này để lại bài học
+      về việc tôn trọng
+      nhịp phát triển tự nhiên.
 
   present:
     upright: >
-      Ở hiện tại, Seven of Pentacles cho thấy
-      bạn đang ở giai đoạn chờ đợi và đánh giá.
-      Đây là lúc nhìn lại tiến trình,
-      xem điều gì đang phát triển tốt,
-      điều gì cần điều chỉnh,
-      thay vì vội vàng thay đổi hướng đi.
+      Ở hiện tại, Seven of Pentacles phản ánh
+      trạng thái bạn đang
+      dừng lại để đánh giá.
+      Bạn có thể đang tự hỏi
+      liệu những nỗ lực hiện tại
+      có xứng đáng
+      để tiếp tục đầu tư hay không.
+      Đây không phải là sự chán nản,
+      mà là giai đoạn
+      rà soát giá trị,
+      để điều chỉnh
+      trước khi đi tiếp.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang nản lòng
-      vì kết quả đến chậm hơn mong đợi.
-      Sự thiếu kiên nhẫn lúc này
-      dễ khiến bạn lãng phí
-      những gì đã đầu tư.
+      Khi Seven of Pentacles ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      nản lòng
+      hoặc thiếu kiên nhẫn.
+      Có thể bạn đang
+      nghi ngờ giá trị
+      của quá trình mình theo đuổi.
+      Trạng thái này phản ánh
+      nhu cầu kết nối lại
+      với mục tiêu ban đầu,
+      thay vì bỏ cuộc
+      vì mệt mỏi nhất thời.
 
   future:
     upright: >
-      Về hướng đi, Seven of Pentacles gợi ý rằng
-      thành quả sẽ đến nếu bạn tiếp tục nuôi dưỡng
-      những gì đã gieo trồng.
-      Kiên nhẫn và đánh giá đúng thời điểm
-      là chìa khóa cho sự tăng trưởng lâu dài.
+      Nhìn về phía trước, Seven of Pentacles mở ra
+      một giai đoạn
+      nơi sự kiên nhẫn
+      sẽ được đền đáp.
+      Khi bạn tiếp tục
+      đầu tư có ý thức
+      và điều chỉnh kịp thời,
+      thành quả
+      sẽ dần lộ diện.
+      Đây là bước chuyển
+      từ việc làm nhiều
+      sang việc làm đúng.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu không xem xét lại chiến lược,
-      việc tiếp tục chờ đợi có thể trở nên vô ích.
-      Đôi khi, điều cần thay đổi
-      không phải là sự kiên nhẫn,
-      mà là cách bạn đang đầu tư công sức.
+      Ở hướng đi phía trước, Seven of Pentacles ngược nhắc bạn
+      rằng nếu bạn
+      không đánh giá lại,
+      công sức có thể
+      bị đặt sai chỗ.
+      Hướng đi này khuyên bạn
+      hãy cho phép mình
+      điều chỉnh chiến lược,
+      để giá trị bạn tạo ra
+      tương xứng
+      với năng lượng đã bỏ ra.
 
 ---
 

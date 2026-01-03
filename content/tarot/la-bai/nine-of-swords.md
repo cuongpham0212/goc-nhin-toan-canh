@@ -33,55 +33,86 @@ reading:
   past:
     upright: >
       Trong quá khứ, Nine of Swords cho thấy
-      bạn từng trải qua giai đoạn
-      lo âu và dằn vặt kéo dài.
-      Những suy nghĩ tiêu cực,
-      hối tiếc hoặc sợ hãi
-      đã khiến tâm trí bạn
-      không được nghỉ ngơi thực sự.
+      đã từng có một giai đoạn
+      bạn phải đối mặt
+      với nỗi lo âu sâu sắc.
+      Những suy nghĩ ám ảnh,
+      cảm giác tội lỗi
+      hoặc sợ hãi
+      khiến bạn mất ngủ
+      và kiệt quệ tinh thần.
+      Trải nghiệm này để lại
+      dấu ấn mạnh,
+      cho thấy tâm trí
+      có thể trở thành
+      nguồn đau khổ lớn nhất.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một thời điểm bạn bắt đầu
-      nhận ra tác hại của việc
-      tự hành hạ tinh thần.
-      Dù chưa thoát hẳn,
-      bạn đã có ý thức
-      cần tìm cách chữa lành.
+      Khi Nine of Swords xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn đã từng
+      bắt đầu vượt qua
+      giai đoạn lo âu nặng nề.
+      Dù ký ức vẫn còn,
+      nhưng bạn học cách
+      không để nỗi sợ
+      kiểm soát toàn bộ cuộc sống của mình.
 
   present:
     upright: >
-      Ở hiện tại, Nine of Swords cho thấy
-      bạn đang bị quá tải tinh thần.
-      Nỗi sợ có thể lớn hơn thực tế,
-      nhưng cảm giác đau đớn thì rất thật.
-      Lá bài nhắc rằng
-      việc chia sẻ và nhìn thẳng
-      vào nỗi lo là điều cần thiết.
+      Ở hiện tại, Nine of Swords phản ánh
+      trạng thái áp lực tinh thần cao.
+      Bạn có thể đang
+      tự trách mình,
+      lo lắng quá mức,
+      hoặc bị ám ảnh
+      bởi những điều đã xảy ra.
+      Trải bài này không phán xét,
+      mà nhắc bạn rằng
+      nỗi đau tinh thần
+      cần được nhìn nhận,
+      không phải chịu đựng một mình.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn đang dần thoát khỏi vòng lặp lo âu.
-      Dù vẫn còn ám ảnh,
-      bạn bắt đầu học cách
-      đối diện thay vì trốn tránh.
+      Khi Nine of Swords ngược xuất hiện ở hiện tại,
+      bạn đang trong quá trình
+      dần giải tỏa
+      những lo âu tích tụ.
+      Có thể bạn đã bắt đầu
+      chia sẻ,
+      hoặc tìm cách
+      đối diện với nỗi sợ
+      thay vì né tránh.
+      Đây là dấu hiệu cho thấy
+      ánh sáng đang le lói,
+      dù đêm dài
+      vẫn chưa kết thúc hẳn.
 
   future:
     upright: >
-      Về hướng đi, Nine of Swords cảnh báo rằng
-      nếu tiếp tục giữ mọi thứ trong lòng,
-      khủng hoảng tinh thần
-      có thể trầm trọng hơn.
-      Việc tìm sự hỗ trợ
-      là bước đi can đảm, không phải yếu đuối.
+      Nhìn về phía trước, Nine of Swords cho thấy
+      nếu bạn tiếp tục
+      giữ mọi lo lắng trong lòng,
+      áp lực tinh thần
+      có thể trở nên nặng nề hơn.
+      Hướng đi này khuyên bạn
+      hãy tìm sự hỗ trợ,
+      hoặc cho phép mình
+      nghỉ ngơi thật sự,
+      để tâm trí
+      không phải gồng gánh một mình.
 
     reversed: >
-      Ở trạng thái ngược, lá bài gợi ý rằng
-      ánh sáng sẽ xuất hiện
-      khi bạn cho phép mình
-      được giúp đỡ và nghỉ ngơi.
-      Sự chữa lành bắt đầu
-      từ việc giảm bớt tự trách.
+      Ở hướng đi phía trước, Nine of Swords ngược mở ra
+      khả năng chữa lành sâu sắc.
+      Khi bạn đối diện
+      và xử lý nỗi sợ
+      một cách trung thực,
+      tâm trí sẽ dần
+      lấy lại sự bình yên.
+      Đây là bước chuyển
+      từ bóng tối
+      sang sự nhẹ nhõm,
+      dù cần thời gian và sự kiên nhẫn.
 
 ---
 

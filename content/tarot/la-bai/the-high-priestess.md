@@ -34,53 +34,95 @@ reading:
   past:
     upright: >
       Trong quá khứ, The High Priestess cho thấy
-      bạn từng trải qua giai đoạn
-      phải tin vào cảm nhận bên trong
-      hơn là bằng chứng bên ngoài.
-      Dù không nói ra,
-      bạn đã biết
-      điều gì là đúng với mình.
+      đã từng có một giai đoạn
+      bạn cảm nhận được
+      nhiều điều mà không cần lời giải thích.
+      Sau những lựa chọn lớn,
+      bạn học cách
+      lắng nghe trực giác
+      thay vì tìm kiếm
+      sự xác nhận bên ngoài.
+      Trải nghiệm này giúp bạn
+      kết nối với chiều sâu nội tâm,
+      nơi sự thật
+      không cần được nói ra.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một thời điểm bạn từng bỏ qua
-      trực giác của mình.
-      Việc phớt lờ tiếng nói bên trong
-      khiến bạn cảm thấy lệch nhịp
-      và thiếu kết nối.
+      Khi The High Priestess xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      phớt lờ trực giác của mình.
+      Việc không tin vào
+      cảm nhận bên trong
+      khiến bạn cảm thấy
+      mâu thuẫn và hoang mang.
+      Trải nghiệm này để lại bài học
+      về việc
+      không phải lúc nào
+      câu trả lời cũng nằm
+      ở bên ngoài.
 
   present:
     upright: >
-      Ở hiện tại, The High Priestess cho thấy
-      câu trả lời đang nằm bên trong bạn.
-      Lá bài nhắc rằng
-      không phải lúc nào cũng cần hành động.
-      Im lặng, quan sát
-      và lắng nghe sâu
-      là sức mạnh lúc này.
+      Ở hiện tại, The High Priestess phản ánh
+      trạng thái tĩnh lặng bên trong.
+      Bạn có thể đang
+      cảm nhận rõ ràng
+      điều gì là đúng,
+      dù chưa thể
+      diễn đạt thành lời.
+      Đây là giai đoạn
+      bạn cần lắng nghe,
+      quan sát,
+      và tin vào
+      sự nhạy cảm của mình,
+      thay vì vội vàng hành động.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang bị nhiễu
-      bởi ý kiến bên ngoài.
-      Lá bài nhắc bạn
-      quay về với trực giác,
-      nơi sự thật luôn hiện diện.
+      Khi The High Priestess ngược xuất hiện ở hiện tại,
+      bạn có thể đang
+      cảm thấy mất kết nối
+      với trực giác.
+      Có thể bạn đang
+      quá phụ thuộc
+      vào ý kiến bên ngoài,
+      và bỏ qua
+      tiếng nói nội tâm.
+      Trạng thái này phản ánh
+      nhu cầu quay lại
+      với sự tĩnh lặng,
+      để nghe rõ
+      điều mình thật sự biết.
 
   future:
     upright: >
-      Về hướng đi, The High Priestess gợi ý rằng
-      khi bạn tiếp tục tin vào cảm nhận tinh tế,
-      sự sáng suốt sẽ dần lộ diện.
-      Trí tuệ thật
-      đến từ sự tĩnh lặng.
+      Nhìn về phía trước, The High Priestess mở ra
+      một giai đoạn
+      bạn sẽ hiểu nhiều hơn
+      qua cảm nhận
+      hơn là qua lý luận.
+      Khi bạn tiếp tục
+      tin vào trực giác,
+      những quyết định sắp tới
+      sẽ mang tính
+      sâu sắc và chính xác hơn.
+      Đây là bước tiến
+      từ việc tìm kiếm
+      sang việc
+      biết rõ bên trong.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu tiếp tục nghi ngờ trực giác,
-      bạn sẽ tìm kiếm câu trả lời
-      ở những nơi không cần thiết.
-      Sự tin tưởng là chìa khóa.
+      Ở hướng đi phía trước, The High Priestess ngược nhắc bạn
+      rằng nếu bạn
+      tiếp tục bỏ qua
+      tiếng nói nội tâm,
+      sự hoang mang
+      có thể quay lại.
+      Hướng đi này khuyên bạn
+      hãy cho mình
+      không gian yên tĩnh,
+      để trực giác
+      không bị lấn át
+      bởi ồn ào bên ngoài.
 
 ---
 

@@ -34,62 +34,91 @@ reading:
   past:
     upright: >
       Trong quá khứ, The Fool cho thấy
-      bạn từng bắt đầu một hành trình
-      với tâm thế rất trong trẻo.
-      Ít toan tính,
-      ít sợ hãi,
-      bạn dám bước
-      dù chưa biết kết quả sẽ ra sao.
+      đã từng có một giai đoạn
+      bạn bắt đầu một hành trình mới
+      mà không có đủ bảo đảm.
+      Bạn có thể đã
+      tin vào cảm nhận,
+      chấp nhận rủi ro,
+      và bước đi
+      với tâm thế nhẹ nhàng.
+      Trải nghiệm này giúp bạn
+      hiểu rằng
+      không phải lúc nào
+      biết hết mọi thứ
+      mới có thể bắt đầu.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một lần bạn từng hành động
-      quá vội vàng
-      hoặc thiếu chuẩn bị.
-      Sự ngây thơ khi đó
-      khiến bạn học bài học
-      bằng trải nghiệm đau.
+      Khi The Fool xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      do dự trước một khởi đầu.
+      Nỗi sợ sai
+      hoặc sợ bị đánh giá
+      khiến bạn
+      không dám bước.
+      Trải nghiệm này để lại bài học
+      rằng quá thận trọng
+      cũng có thể
+      là một dạng bỏ lỡ.
 
   present:
     upright: >
-      Ở hiện tại, The Fool cho thấy
-      bạn đang đứng trước
-      một khởi đầu mới.
-      Lá bài nhắc rằng
-      không phải mọi thứ
-      đều cần chắc chắn
-      trước khi bắt đầu.
-      Tin tưởng và bước đi
-      là điều cần thiết lúc này.
+      Ở hiện tại, The Fool phản ánh
+      một cơ hội mới
+      đang mở ra.
+      Bạn có thể đang
+      đứng trước
+      một ngã rẽ
+      chưa rõ kết quả.
+      Trải bài này không yêu cầu
+      bạn phải chắc chắn,
+      mà chỉ cần
+      bạn đủ tin
+      để bước bước đầu tiên.
+      Sự nhẹ lòng
+      chính là hành trang quan trọng nhất.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang sợ sai
-      hoặc quá thận trọng.
-      Lá bài nhắc rằng
-      né tránh rủi ro hoàn toàn
-      cũng là một cách
-      bỏ lỡ cuộc sống.
+      Khi The Fool ngược xuất hiện ở hiện tại,
+      bạn có thể đang
+      sợ bắt đầu lại.
+      Có thể bạn
+      đã từng thất bại,
+      và giờ
+      lo lắng sẽ lặp lại.
+      Trạng thái này phản ánh
+      nhu cầu phân biệt
+      giữa liều lĩnh
+      và can đảm,
+      trước khi quyết định
+      tiến lên.
 
   future:
     upright: >
-      Về hướng đi, The Fool gợi ý rằng
-      khi bạn dám mở lòng
-      với điều chưa biết,
-      cuộc sống sẽ dẫn bạn
-      đến những trải nghiệm
-      vượt ngoài dự đoán.
-      Hành trình bắt đầu
-      từ niềm tin.
+      Nhìn về phía trước, The Fool mở ra
+      một hành trình mới.
+      Khi bạn cho phép
+      mình bước đi
+      với tâm thế cởi mở,
+      những trải nghiệm
+      sẽ dạy bạn
+      nhiều hơn bất kỳ kế hoạch nào.
+      Đây là khởi đầu
+      của một chu kỳ sống động,
+      nơi bạn học
+      bằng chính bước chân mình.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu bước đi
-      mà thiếu ý thức,
-      bạn sẽ dễ lặp lại
-      bài học cũ.
-      Tự do cần đi cùng
-      với nhận thức.
+      Ở hướng đi phía trước, The Fool ngược nhắc bạn
+      rằng nếu bạn
+      bước đi
+      mà không lắng nghe
+      tín hiệu cảnh báo,
+      rủi ro có thể tăng lên.
+      Hướng đi này khuyên bạn
+      hãy giữ sự hồn nhiên,
+      nhưng đừng bỏ quên
+      sự tỉnh táo.
 
 ---
 

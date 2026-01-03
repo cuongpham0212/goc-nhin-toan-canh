@@ -33,51 +33,77 @@ reading:
   past:
     upright: >
       Trong quá khứ, Queen of Swords cho thấy
-      bạn từng phải học cách trở nên tỉnh táo
-      sau những tổn thương tinh thần.
-      Trải nghiệm đó rèn cho bạn
-      khả năng nhìn thẳng sự thật
-      mà không còn ảo tưởng.
+      đã từng có một giai đoạn
+      bạn buộc phải nhìn thẳng vào sự thật.
+      Sau những trải nghiệm khiến bạn tổn thương
+      hoặc thất vọng,
+      bạn học cách đặt ranh giới rõ ràng
+      và nói ra điều cần nói.
+      Trải nghiệm này giúp bạn
+      trở nên sắc sảo hơn trong tư duy,
+      và không còn dễ dàng
+      chấp nhận sự mập mờ hay thiếu trung thực.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng dùng lý trí
-      như tấm khiên để che chắn nỗi đau.
-      Sự lạnh lùng có thể đã giúp bạn sống sót,
-      nhưng cũng tạo ra khoảng cách cảm xúc.
+      Khi Queen of Swords xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      trở nên quá khắt khe với bản thân
+      hoặc với người khác.
+      Việc dùng lý trí để tự vệ
+      khiến bạn vô tình
+      đóng lại những kết nối cần thiết.
+      Trải nghiệm này để lại bài học
+      về việc giữ ranh giới
+      nhưng không cô lập chính mình.
 
   present:
     upright: >
-      Ở hiện tại, Queen of Swords cho thấy
-      bạn đang nhìn mọi việc với sự rõ ràng.
-      Bạn biết lắng nghe,
-      biết đặt câu hỏi đúng,
-      và không dễ bị chi phối bởi cảm xúc.
-      Đây là trí tuệ của người đã trải qua.
+      Ở hiện tại, Queen of Swords phản ánh
+      trạng thái tư duy rất rõ ràng.
+      Bạn biết điều gì là phù hợp với mình
+      và sẵn sàng nói ra
+      một cách thẳng thắn nhưng công bằng.
+      Đây là giai đoạn
+      bạn không cần phải giải thích quá nhiều,
+      bởi sự minh bạch trong suy nghĩ
+      đã tự nói lên tất cả.
+      Bạn chọn sự thật,
+      ngay cả khi nó không dễ chịu.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang quá khắt khe
-      với bản thân hoặc người khác.
-      Lá bài nhắc rằng
-      sự thật không cần phải sắc bén
-      đến mức làm tổn thương.
+      Khi Queen of Swords ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      mình trở nên lạnh lùng hoặc xa cách.
+      Có thể bạn đang dùng sự im lặng
+      như một cách bảo vệ bản thân.
+      Trạng thái này phản ánh
+      nhu cầu cân bằng lại
+      giữa sự rõ ràng và sự mềm mại,
+      để trí tuệ không biến thành bức tường ngăn cách.
 
   future:
     upright: >
-      Về hướng đi, Queen of Swords gợi ý rằng
-      trí tuệ điềm tĩnh sẽ giúp bạn
-      đưa ra những quyết định sáng suốt.
-      Khi bạn giữ được sự công bằng
-      và ranh giới rõ ràng,
-      lời nói của bạn sẽ có trọng lượng.
+      Nhìn về phía trước, Queen of Swords mở ra
+      một giai đoạn bạn có thể
+      sử dụng tiếng nói của mình
+      để làm rõ vấn đề
+      và định hướng cho người khác.
+      Khi bạn giữ được sự trung thực
+      đi cùng lòng chính trực,
+      ảnh hưởng của bạn
+      sẽ mang tính dẫn dắt,
+      chứ không phải áp đặt.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu tiếp tục khép chặt cảm xúc,
-      bạn có thể tự cô lập mình.
-      Trí tuệ thực sự
-      biết khi nào cần mềm lại.
+      Ở hướng đi phía trước, Queen of Swords ngược nhắc bạn
+      rằng nếu bạn quá cứng rắn
+      với quan điểm của mình,
+      sự kết nối có thể bị tổn thương.
+      Hướng đi này khuyên bạn
+      hãy để trí tuệ
+      song hành cùng sự thấu hiểu,
+      để lời nói của bạn
+      vừa rõ ràng vừa nhân văn.
 
 ---
 

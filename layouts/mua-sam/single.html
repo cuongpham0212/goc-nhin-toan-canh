@@ -17,6 +17,15 @@
       {{ end }}
     </header>
 
+    <!-- SUPPORT NOTE -->
+    {{ $buyText := printf "Mua %s" (lower .Title) }}
+    <div class="shopping-support-note">
+      <p>
+        ❤️ {{ $buyText }} qua link là <strong>ủng hộ site duy trì và phát triển nội dung</strong>.<br>
+        🌱 Bạn <strong>không mất thêm chi phí</strong>, mọi ưu đãi giữ nguyên từ Shopee.
+      </p>
+    </div>
+
     <!-- GRID SẢN PHẨM (FULL) -->
     {{ with .Params.items }}
       <div class="shopping-grid">

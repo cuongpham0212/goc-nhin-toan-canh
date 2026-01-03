@@ -34,54 +34,108 @@ reading:
   past:
     upright: >
       Trong quá khứ, Justice cho thấy
-      bạn từng đối diện
-      với hậu quả của lựa chọn mình đã đưa ra.
-      Những trải nghiệm này
-      dạy bạn rằng
-      mọi hành động đều để lại dấu vết,
-      dù tốt hay xấu.
+      đã từng có một giai đoạn
+      bạn phải đối diện
+      với hậu quả
+      của những lựa chọn đã qua.
+      Sau những bước đi bốc đồng
+      hoặc những lần trì hoãn,
+      bạn bắt đầu nhìn lại
+      mọi việc
+      một cách công bằng hơn.
+      Trải nghiệm này giúp bạn
+      hiểu rằng
+      mỗi hành động
+      đều để lại dấu vết,
+      và sự trưởng thành
+      bắt đầu từ
+      việc dám nhìn thẳng
+      vào sự thật.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng cảm thấy
-      bất công hoặc không được đối xử đúng mực.
-      Có thể sự thật khi đó
-      chưa được nhìn nhận đầy đủ.
+      Khi Justice xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      tránh né trách nhiệm
+      hoặc tự bào chữa
+      cho quyết định của mình.
+      Việc không nhìn rõ
+      vai trò cá nhân
+      khiến bài học
+      kéo dài hơn cần thiết.
+      Trải nghiệm này để lại dấu ấn
+      về cái giá
+      của sự thiếu trung thực
+      với chính mình.
 
   present:
     upright: >
-      Ở hiện tại, Justice cho thấy
-      bạn đang được yêu cầu
-      nhìn sự việc một cách khách quan.
-      Đây là lúc nói thật,
-      minh bạch
-      và chịu trách nhiệm cho quyết định của mình.
-      Sự cân bằng sẽ được lập lại
-      khi bạn sống đúng.
+      Ở hiện tại, Justice phản ánh
+      thời điểm cân bằng.
+      Bạn đang được mời gọi
+      nhìn lại tình huống
+      bằng lý trí và sự trung thực.
+      Đây là giai đoạn
+      bạn cần phân định rõ
+      đúng – sai,
+      nên – không nên,
+      không dựa trên cảm xúc,
+      mà dựa trên
+      sự thật và trách nhiệm.
+      Trải bài này nhấn mạnh rằng
+      công bằng bắt đầu
+      từ việc bạn
+      thành thật với chính mình.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang tự biện hộ
-      hoặc né tránh trách nhiệm.
-      Lá bài nhắc rằng
-      sự thật không biến mất
-      chỉ vì bạn không muốn nhìn.
+      Khi Justice ngược xuất hiện ở hiện tại,
+      bạn có thể đang
+      cảm thấy bất công
+      hoặc bối rối
+      trước một quyết định khó.
+      Có thể bạn
+      đang nhìn vấn đề
+      qua lăng kính cảm xúc,
+      khiến sự thật bị méo mó.
+      Trạng thái này phản ánh
+      nhu cầu làm rõ
+      thông tin và động cơ,
+      trước khi đưa ra
+      phán xét cuối cùng.
 
   future:
     upright: >
-      Về hướng đi, Justice gợi ý rằng
-      khi bạn hành động chính trực,
-      kết quả sẽ phản ánh đúng nỗ lực của bạn.
-      Nhân quả vận hành
-      không nhanh hay chậm,
-      mà chính xác.
+      Nhìn về phía trước, Justice mở ra
+      một giai đoạn
+      nơi sự minh bạch
+      sẽ mang lại bình ổn.
+      Khi bạn hành động
+      đúng với sự thật
+      và giá trị của mình,
+      kết quả sắp tới
+      sẽ phản ánh
+      chính xác
+      những gì bạn đã gieo.
+      Đây là bước khép lại
+      mang tính công bằng,
+      không thưởng – không phạt,
+      chỉ là
+      trả mọi thứ
+      về đúng vị trí.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu tiếp tục sống lệch với giá trị thật,
-      sự mất cân bằng sẽ ngày càng rõ.
-      Việc điều chỉnh sớm
-      giúp tránh cái giá lớn hơn về sau.
+      Ở hướng đi phía trước, Justice ngược nhắc bạn
+      rằng nếu bạn
+      tiếp tục né tránh
+      sự thật
+      hoặc trách nhiệm,
+      sự mất cân bằng
+      có thể kéo dài.
+      Hướng đi này khuyên bạn
+      hãy lựa chọn
+      sự trung thực,
+      để hành trình tiếp theo
+      không bị xây dựng
+      trên nền lệch lạc.
 
 ---
 

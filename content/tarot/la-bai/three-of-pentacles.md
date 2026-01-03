@@ -33,47 +33,89 @@ reading:
   past:
     upright: >
       Trong quá khứ, Three of Pentacles cho thấy
-      bạn từng tham gia vào một quá trình xây dựng
-      có sự hợp tác và học hỏi lẫn nhau.
-      Đó có thể là công việc, dự án hoặc môi trường
-      nơi nỗ lực cá nhân của bạn được công nhận.
+      đã từng có một giai đoạn
+      bạn học cách
+      làm việc cùng người khác
+      để xây dựng điều gì đó
+      có cấu trúc hơn.
+      Sau những thử nghiệm ban đầu,
+      bạn nhận ra rằng
+      sự hợp tác
+      và chia sẻ kỹ năng
+      giúp tiến trình
+      trở nên vững vàng hơn.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn thiếu sự phối hợp.
-      Có thể bạn đã làm việc trong môi trường
-      không đánh giá đúng đóng góp của bạn,
-      hoặc gặp khó khăn khi làm việc nhóm.
+      Khi Three of Pentacles xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      gặp khó khăn
+      trong việc phối hợp.
+      Việc thiếu giao tiếp
+      hoặc không rõ vai trò
+      khiến quá trình xây dựng
+      gặp trở ngại.
+      Trải nghiệm này để lại bài học
+      về tầm quan trọng
+      của cấu trúc
+      và sự công nhận lẫn nhau.
 
   present:
     upright: >
-      Ở hiện tại, Three of Pentacles cho thấy
-      bạn đang ở vị trí học hỏi và phát triển.
-      Việc chia sẻ kiến thức, nhận phản hồi
-      và hợp tác đúng người
-      sẽ giúp bạn xây dựng nền tảng vững chắc hơn.
+      Ở hiện tại, Three of Pentacles phản ánh
+      giai đoạn xây dựng thực tế.
+      Bạn có thể đang
+      hợp tác,
+      học hỏi từ người khác,
+      hoặc đặt nền móng
+      cho một dự án dài hạn.
+      Đây là lúc
+      kỹ năng cá nhân
+      được đặt vào
+      một hệ thống chung,
+      để tạo ra
+      giá trị bền vững hơn.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      sự thiếu đồng bộ trong quá trình làm việc.
-      Có thể bạn đang cố gắng tự làm mọi thứ
-      hoặc chưa tìm được tiếng nói chung
-      với những người liên quan.
+      Khi Three of Pentacles ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      công sức của mình
+      chưa được ghi nhận.
+      Hoặc bạn đang
+      làm việc trong một môi trường
+      thiếu cấu trúc rõ ràng.
+      Trạng thái này phản ánh
+      nhu cầu làm rõ
+      vai trò và kỳ vọng,
+      để việc hợp tác
+      không trở thành
+      nguồn mệt mỏi.
 
   future:
     upright: >
-      Về hướng đi, Three of Pentacles gợi ý rằng
-      thành công sẽ đến thông qua sự phối hợp
-      và tôn trọng chuyên môn của nhau.
-      Khi bạn xây dựng cùng người phù hợp,
-      kết quả sẽ bền vững hơn.
+      Nhìn về phía trước, Three of Pentacles mở ra
+      khả năng phát triển
+      thông qua hợp tác.
+      Khi bạn tiếp tục
+      đầu tư vào kỹ năng
+      và làm việc có hệ thống,
+      nền móng bạn xây
+      sẽ ngày càng vững chắc.
+      Đây là bước tiến
+      từ việc thử nghiệm cá nhân
+      sang việc
+      tạo dựng giá trị chung.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu thiếu giao tiếp và hợp tác,
-      quá trình xây dựng có thể bị chậm lại.
-      Việc điều chỉnh cách làm việc chung
-      là điều cần thiết.
+      Ở hướng đi phía trước, Three of Pentacles ngược nhắc bạn
+      rằng nếu bạn
+      không xây dựng cấu trúc rõ ràng,
+      nỗ lực có thể bị lãng phí.
+      Hướng đi này khuyên bạn
+      hãy chú trọng
+      việc phân chia vai trò
+      và mục tiêu,
+      để hành trình xây dựng
+      không bị chệch hướng.
 
 ---
 

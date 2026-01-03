@@ -33,49 +33,77 @@ reading:
   past:
     upright: >
       Trong quá khứ, Page of Pentacles cho thấy
-      bạn từng bắt đầu một hành trình mới
-      với tâm thế học hỏi nghiêm túc.
-      Dù còn non kinh nghiệm,
-      bạn đã sẵn sàng đầu tư thời gian
-      để xây nền tảng vững chắc.
+      đã từng có một giai đoạn
+      bạn bắt đầu nghiêm túc
+      với việc xây dựng nền tảng.
+      Sau những biến động,
+      bạn học cách tập trung
+      vào những điều thiết thực,
+      dù còn nhỏ và chưa rõ kết quả.
+      Trải nghiệm này giúp bạn
+      hình thành thói quen
+      học hỏi và rèn luyện
+      từng bước một.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn thiếu tập trung
-      hoặc chưa thật sự cam kết với việc học hỏi.
-      Những khởi đầu dang dở
-      có thể đã khiến bạn mất phương hướng.
+      Khi Page of Pentacles xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      thiếu kiên nhẫn với quá trình.
+      Việc mong muốn kết quả nhanh
+      khiến bạn dễ bỏ dở
+      những điều cần thời gian.
+      Trải nghiệm này để lại bài học
+      về giá trị của sự đều đặn
+      và cam kết lâu dài.
 
   present:
     upright: >
-      Ở hiện tại, Page of Pentacles cho thấy
-      bạn đang đứng trước cơ hội học một kỹ năng,
-      bắt đầu một công việc
-      hoặc xây dựng giá trị mới.
-      Đây là lúc phù hợp để đặt câu hỏi,
-      học từ căn bản và kiên nhẫn tiến từng bước.
+      Ở hiện tại, Page of Pentacles phản ánh
+      trạng thái bạn đang sẵn sàng học hỏi
+      và đầu tư cho tương lai.
+      Bạn có thể đang bắt đầu
+      một kỹ năng mới,
+      một kế hoạch dài hạn,
+      hoặc một thói quen tích cực.
+      Dù tiến độ còn chậm,
+      nhưng sự tập trung và nghiêm túc
+      đang giúp bạn xây dựng
+      nền móng vững chắc.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang trì hoãn việc bắt đầu
-      vì sợ mình chưa đủ giỏi.
-      Lá bài nhắc rằng
-      mọi nền tảng đều bắt đầu từ sự vụng về.
+      Khi Page of Pentacles ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      thiếu động lực hoặc dễ nản.
+      Có thể bạn nghi ngờ
+      giá trị của những bước đi nhỏ.
+      Trạng thái này phản ánh
+      nhu cầu nhìn lại mục tiêu ban đầu,
+      để khơi lại
+      ý nghĩa của việc mình đang làm.
 
   future:
     upright: >
-      Về hướng đi, Page of Pentacles gợi ý rằng
-      sự tiến bộ sẽ đến nếu bạn giữ được
-      tinh thần ham học và kỷ luật.
-      Những gì bạn đang gieo hôm nay
-      sẽ trở thành giá trị thực tế trong tương lai.
+      Nhìn về phía trước, Page of Pentacles mở ra
+      một hành trình phát triển
+      dựa trên sự kiên nhẫn.
+      Khi bạn tiếp tục
+      học hỏi và thực hành đều đặn,
+      những nỗ lực nhỏ
+      sẽ dần tích lũy
+      thành thành quả rõ ràng.
+      Đây là bước khởi đầu
+      của một chu kỳ xây dựng
+      bền vững và lâu dài.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu thiếu kiên trì hoặc định hướng rõ ràng,
-      bạn có thể bỏ lỡ cơ hội phát triển dài hạn.
-      Việc cam kết với con đường đã chọn
-      là điều cần thiết.
+      Ở hướng đi phía trước, Page of Pentacles ngược nhắc bạn
+      rằng nếu bạn bỏ cuộc quá sớm,
+      tiềm năng sẽ không có cơ hội lớn lên.
+      Hướng đi này khuyên bạn
+      hãy tin vào giá trị
+      của từng bước nhỏ,
+      và cho phép quá trình
+      diễn ra theo nhịp tự nhiên.
 
 ---
 

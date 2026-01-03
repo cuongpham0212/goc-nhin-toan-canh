@@ -34,55 +34,86 @@ reading:
   past:
     upright: >
       Trong quá khứ, The Moon cho thấy
-      bạn từng đi qua giai đoạn mơ hồ,
-      nơi cảm xúc và nỗi sợ
-      chi phối mạnh mẽ.
-      Có thể bạn đã không hiểu rõ
-      điều gì đang xảy ra,
-      nhưng trực giác đã âm thầm dẫn lối.
+      đã từng có một giai đoạn
+      bạn cảm thấy
+      lạc lối và bất an.
+      Sau những biến cố,
+      trực giác trở nên mạnh,
+      nhưng cũng đi kèm
+      với nỗi sợ mơ hồ.
+      Trải nghiệm này khiến bạn
+      nghi ngờ chính mình,
+      và khó phân biệt
+      đâu là sự thật,
+      đâu là nỗi sợ nội tâm.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một lần bạn từng bắt đầu
-      nhận ra sự thật
-      sau thời gian dài rối loạn.
-      Màn sương dần tan,
-      dù chưa hoàn toàn rõ ràng.
+      Khi The Moon xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn đã từng
+      bắt đầu nhìn xuyên qua
+      sự hoang mang đó.
+      Những ảo ảnh dần tan,
+      và bạn học cách
+      không để nỗi sợ
+      dẫn đường cho quyết định của mình.
 
   present:
     upright: >
-      Ở hiện tại, The Moon cho thấy
-      bạn đang ở trong vùng vô thức.
-      Lá bài nhắc rằng
-      không phải mọi câu trả lời
-      đều đến từ lý trí.
-      Hãy lắng nghe trực giác,
-      nhưng đừng để nỗi sợ
-      dẫn dắt hành động.
+      Ở hiện tại, The Moon phản ánh
+      trạng thái mờ mịt.
+      Bạn có thể đang
+      cảm thấy không chắc chắn,
+      lo lắng,
+      hoặc bị cuốn vào
+      những suy nghĩ tiêu cực.
+      Trải bài này không ép
+      bạn phải hiểu ngay,
+      mà nhắc bạn rằng
+      đây là lúc
+      cần đi chậm,
+      lắng nghe trực giác,
+      và tránh đưa ra
+      quyết định vội vàng.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn đang dần phân biệt
-      đâu là cảm xúc thật,
-      đâu là ảo ảnh.
-      Đây là giai đoạn
-      tỉnh dần khỏi mê cung nội tâm.
+      Khi The Moon ngược xuất hiện ở hiện tại,
+      bạn bắt đầu nhận ra
+      rằng một số nỗi sợ
+      không còn quyền lực
+      như trước.
+      Có thể bạn đang
+      thoát khỏi ảo tưởng,
+      hoặc dần hiểu rõ
+      nguồn gốc
+      của sự bất an.
+      Đây là dấu hiệu
+      của quá trình tỉnh thức
+      đang diễn ra.
 
   future:
     upright: >
-      Về hướng đi, The Moon gợi ý rằng
-      bạn cần đi chậm
-      khi chưa đủ ánh sáng.
-      Sự kiên nhẫn và tin vào cảm nhận
-      sẽ giúp bạn
-      không lạc lối trong bóng tối.
+      Nhìn về phía trước, The Moon cho thấy
+      bạn có thể tiếp tục
+      phải đối diện
+      với những tầng sâu cảm xúc.
+      Hướng đi này nhắc rằng
+      việc bước qua bóng tối
+      đòi hỏi sự kiên nhẫn
+      và trung thực với chính mình.
+      Khi bạn không chạy trốn,
+      nỗi sợ sẽ dần
+      mất đi sức mạnh.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      khi sự thật dần lộ diện,
-      nỗi sợ sẽ mất quyền kiểm soát.
-      Trực giác được soi sáng
-      sẽ trở thành trí tuệ.
+      Ở hướng đi phía trước, The Moon ngược mở ra
+      khả năng sáng tỏ.
+      Khi bạn dám
+      đối diện với điều mình né tránh,
+      sự hoang mang
+      sẽ dần tan biến.
+      Đây là bước chuyển
+      từ bóng tối
+      sang ánh sáng nhận thức.
 
 ---
 

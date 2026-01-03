@@ -33,53 +33,86 @@ reading:
   past:
     upright: >
       Trong quá khứ, Seven of Wands cho thấy
-      bạn từng phải bảo vệ vị trí của mình
-      trước sự cạnh tranh hoặc hoài nghi.
-      Dù áp lực lớn,
-      bạn đã học cách đứng vững
-      và không lùi bước trước thử thách.
+      đã từng có một giai đoạn
+      bạn phải đứng lên
+      để bảo vệ vị trí hoặc quan điểm của mình.
+      Sau khi đạt được sự ghi nhận,
+      những thử thách mới xuất hiện,
+      buộc bạn phải khẳng định
+      rằng mình xứng đáng với những gì đang có.
+      Trải nghiệm này giúp bạn
+      rèn luyện sự kiên định
+      và lòng tin vào chính mình.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng cảm thấy
-      quá tải vì phải liên tục chứng minh.
-      Việc buông bỏ một cuộc chiến
-      khi đó giúp bạn giữ lại năng lượng.
+      Khi Seven of Wands xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      mệt mỏi với việc phải đấu tranh.
+      Có thể bạn chọn lùi lại,
+      nhường bước,
+      hoặc tránh đối đầu
+      để giữ yên ổn.
+      Trải nghiệm này khiến bạn
+      hiểu rõ hơn
+      ranh giới của bản thân
+      và điều gì đáng để bảo vệ.
 
   present:
     upright: >
-      Ở hiện tại, Seven of Wands cho thấy
-      bạn đang ở thế phòng thủ chủ động.
-      Lá bài nhắc rằng
-      không phải ai cũng hiểu con đường của bạn,
-      nhưng bạn có quyền bảo vệ
-      những gì mình đã xây dựng.
+      Ở hiện tại, Seven of Wands phản ánh
+      trạng thái bạn đang phải
+      giữ vững lập trường của mình.
+      Có thể bạn đang đối diện
+      với sự cạnh tranh,
+      sự chất vấn,
+      hoặc áp lực từ xung quanh.
+      Dù không dễ dàng,
+      giai đoạn này đòi hỏi
+      bạn phải tin vào giá trị của mình,
+      và không dễ dàng
+      bị lung lay bởi ý kiến khác.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang nghi ngờ
-      chính lập trường của mình.
-      Áp lực bên ngoài
-      dễ khiến bạn chùn bước
-      nếu thiếu niềm tin nội tại.
+      Khi Seven of Wands ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      kiệt sức vì phải liên tục phòng thủ.
+      Có thể bạn tự hỏi
+      liệu mình có cần
+      tiếp tục chiến đấu
+      cho mọi thứ hay không.
+      Trạng thái này phản ánh
+      nhu cầu chọn lọc
+      cuộc chiến nào đáng tham gia,
+      và cuộc chiến nào
+      có thể buông bỏ.
 
   future:
     upright: >
-      Về hướng đi, Seven of Wands gợi ý rằng
-      bạn sẽ tiếp tục phải đối mặt
-      với sự thử thách.
-      Khi bạn giữ vững niềm tin,
-      vị trí của bạn
-      sẽ ngày càng được củng cố.
+      Nhìn về phía trước, Seven of Wands mở ra
+      một giai đoạn bạn cần
+      tiếp tục đứng vững
+      trước những thách thức.
+      Khi bạn kiên định
+      với giá trị và ranh giới của mình,
+      bạn sẽ giữ được
+      vị trí đã xây dựng.
+      Đây là bước tiến
+      từ việc được công nhận
+      sang việc duy trì
+      và bảo vệ thành quả đó.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu tiếp tục phòng thủ quá mức,
-      bạn có thể bỏ lỡ
-      cơ hội phát triển.
-      Đôi khi,
-      việc chọn buông
-      cũng là một chiến lược.
+      Ở hướng đi phía trước, Seven of Wands ngược nhắc bạn
+      rằng không phải lúc nào
+      buông vũ khí cũng là thua cuộc.
+      Nếu bạn biết lúc nào nên lùi,
+      bạn sẽ giữ được
+      năng lượng và sự bình tĩnh.
+      Hướng đi này khuyên bạn
+      hãy bảo vệ điều cốt lõi,
+      nhưng đừng để bản thân
+      kiệt sức vì những cuộc đối đầu
+      không còn cần thiết.
 
 ---
 

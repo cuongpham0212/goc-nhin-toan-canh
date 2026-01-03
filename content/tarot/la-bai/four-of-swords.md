@@ -33,53 +33,80 @@ reading:
   past:
     upright: >
       Trong quá khứ, Four of Swords cho thấy
-      đã có lúc bạn buộc phải dừng lại
-      sau một giai đoạn căng thẳng tinh thần.
-      Khoảng nghỉ này giúp bạn
-      tránh kiệt sức và sụp đổ hoàn toàn.
+      đã từng có một giai đoạn
+      bạn buộc phải tạm dừng.
+      Sau những tổn thương tinh thần,
+      bạn rút lui khỏi xung đột,
+      chọn sự yên tĩnh
+      để phục hồi.
+      Trải nghiệm này giúp bạn
+      hiểu rằng nghỉ ngơi
+      không phải là trốn tránh,
+      mà là cách để
+      giữ gìn sức khỏe tinh thần.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một thời điểm bạn từng không cho phép
-      mình nghỉ ngơi.
-      Việc tiếp tục gồng gánh
-      có thể đã khiến tinh thần
-      mệt mỏi kéo dài.
+      Khi Four of Swords xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      không cho mình đủ thời gian hồi phục.
+      Việc quay lại quá sớm
+      khiến sự mệt mỏi
+      kéo dài hơn cần thiết.
+      Trải nghiệm này để lại bài học
+      về tầm quan trọng
+      của việc lắng nghe
+      giới hạn của bản thân.
 
   present:
     upright: >
-      Ở hiện tại, Four of Swords cho thấy
-      bạn cần sự tĩnh lặng.
-      Đây không phải là trốn tránh,
-      mà là nghỉ ngơi có ý thức
-      để phục hồi tâm trí.
-      Im lặng lúc này là chữa lành.
+      Ở hiện tại, Four of Swords phản ánh
+      nhu cầu nghỉ ngơi rõ rệt.
+      Bạn có thể đang cảm thấy
+      tinh thần quá tải,
+      cần khoảng không gian yên tĩnh
+      để suy nghĩ và hồi phục.
+      Trải bài này khuyên bạn
+      hãy cho phép mình
+      tạm dừng,
+      trước khi tiếp tục
+      những cuộc đối đầu mới.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn đang quá tải
-      nhưng vẫn chưa chịu dừng lại.
-      Lá bài cảnh báo rằng
-      nếu không nghỉ ngơi kịp thời,
-      cơ thể và tinh thần sẽ lên tiếng mạnh hơn.
+      Khi Four of Swords ngược xuất hiện ở hiện tại,
+      bạn có thể đang cố
+      ép mình phải tiếp tục,
+      dù tinh thần chưa sẵn sàng.
+      Trạng thái này phản ánh
+      sự bồn chồn
+      và khó nghỉ ngơi.
+      Nó nhắc bạn rằng
+      nếu không chủ động dừng lại,
+      cơ thể và tâm trí
+      sẽ buộc bạn phải dừng.
 
   future:
     upright: >
-      Về hướng đi, Four of Swords gợi ý rằng
-      sau khi nghỉ đủ,
-      bạn sẽ quay lại với sự tỉnh táo
-      và sáng suốt hơn.
-      Sự hồi phục này
-      giúp bạn chuẩn bị
-      cho quyết định tiếp theo.
+      Nhìn về phía trước, Four of Swords mở ra
+      một giai đoạn phục hồi cần thiết.
+      Khi bạn cho phép mình
+      lùi lại để tái tạo năng lượng,
+      sự rõ ràng trong suy nghĩ
+      sẽ dần quay trở lại.
+      Đây là bước chuyển
+      từ nỗi đau
+      sang sự bình ổn tinh thần.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      việc trì hoãn nghỉ ngơi
-      sẽ làm chậm quá trình hồi phục.
-      Cho phép bản thân dừng lại
-      là điều cần thiết,
-      không phải yếu đuối.
+      Ở hướng đi phía trước, Four of Swords ngược nhắc bạn
+      rằng nếu bạn tiếp tục
+      né tránh việc nghỉ ngơi,
+      sự kiệt sức tinh thần
+      có thể tích tụ.
+      Hướng đi này khuyên bạn
+      hãy chủ động
+      thiết lập khoảng lặng,
+      trước khi xung đột
+      quay trở lại mạnh hơn.
 
 ---
 

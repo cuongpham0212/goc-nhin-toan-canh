@@ -34,51 +34,89 @@ reading:
   past:
     upright: >
       Trong quá khứ, Wheel of Fortune cho thấy
-      bạn từng trải qua những bước ngoặt
-      không hoàn toàn do mình kiểm soát.
-      Những biến động đó
-      dạy bạn cách thích nghi
-      và nhận ra vai trò của thời điểm.
+      đã từng có một bước ngoặt lớn
+      xảy ra ngoài dự tính.
+      Sau những kết thúc
+      hoặc biến động,
+      bạn nhận ra rằng
+      không phải mọi thứ
+      đều nằm trong tầm kiểm soát.
+      Trải nghiệm này giúp bạn
+      hiểu về chu kỳ cuộc sống,
+      rằng mỗi giai đoạn
+      đều có thời điểm
+      bắt đầu và kết thúc.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng cảm thấy
-      vận may không đứng về phía mình.
+      Khi Wheel of Fortune xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      cảm thấy mình
+      bị kẹt trong một vòng lặp.
       Việc chống lại dòng chảy
-      khiến bài học kéo dài hơn.
+      khiến sự thay đổi
+      diễn ra chậm hơn.
+      Trải nghiệm này để lại bài học
+      về việc học cách
+      thích nghi
+      với nhịp xoay của cuộc sống.
 
   present:
     upright: >
-      Ở hiện tại, Wheel of Fortune cho thấy
-      bánh xe đang xoay.
-      Cơ hội và thay đổi
-      xuất hiện đúng lúc.
-      Lá bài nhắc rằng
-      khi thời điểm chín,
-      mọi thứ chuyển động tự nhiên.
+      Ở hiện tại, Wheel of Fortune phản ánh
+      một bước ngoặt đang diễn ra.
+      Những yếu tố mới
+      bắt đầu xuất hiện,
+      mang theo cơ hội
+      và sự thay đổi.
+      Trải bài này nhắc bạn
+      rằng dù bạn
+      không kiểm soát được
+      toàn bộ bánh xe,
+      nhưng cách bạn phản ứng
+      sẽ quyết định
+      hướng đi tiếp theo.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang lệch nhịp
-      với chu kỳ hiện tại.
-      Đây là lúc quan sát,
-      điều chỉnh,
-      thay vì cố ép tiến trình.
+      Khi Wheel of Fortune ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      mọi thứ diễn ra
+      không như ý muốn.
+      Có thể bạn đang
+      cố giữ nguyên trạng,
+      trong khi bánh xe
+      vẫn đang xoay.
+      Trạng thái này phản ánh
+      nhu cầu điều chỉnh
+      kỳ vọng,
+      để không bị cuốn vào
+      cảm giác bất lực.
 
   future:
     upright: >
-      Về hướng đi, Wheel of Fortune gợi ý rằng
-      một vòng mới đang mở.
-      Khi bạn đón nhận thay đổi
-      với tâm thế linh hoạt,
-      vận hội sẽ tự tìm đến.
+      Nhìn về phía trước, Wheel of Fortune mở ra
+      một chu kỳ mới.
+      Khi bạn cho phép
+      mình đi cùng dòng chảy,
+      những cơ hội phù hợp
+      sẽ xuất hiện đúng lúc.
+      Đây là giai đoạn
+      vận mệnh mở cửa,
+      nơi sự thay đổi
+      mang tính dẫn dắt,
+      không cần cưỡng ép.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu lặp lại mô thức cũ,
-      bánh xe sẽ quay về điểm quen.
-      Ý thức thay đổi
-      giúp bạn bước sang vòng mới.
+      Ở hướng đi phía trước, Wheel of Fortune ngược nhắc bạn
+      rằng nếu bạn
+      tiếp tục chống lại
+      sự thay đổi tự nhiên,
+      cảm giác bế tắc
+      có thể kéo dài.
+      Hướng đi này khuyên bạn
+      hãy linh hoạt hơn,
+      để khi bánh xe xoay,
+      bạn không bị
+      bỏ lại phía sau.
 
 ---
 

@@ -33,52 +33,81 @@ reading:
   past:
     upright: >
       Trong quá khứ, Knight of Pentacles cho thấy
-      bạn từng chọn con đường chậm nhưng chắc.
-      Có thể bạn đã kiên trì xây dựng
-      một nền tảng ổn định,
-      dù điều đó đòi hỏi nhiều thời gian
-      và sự nhẫn nại.
+      đã từng có một giai đoạn
+      bạn kiên trì theo đuổi mục tiêu
+      bằng những bước đi chậm nhưng chắc.
+      Dù không hào nhoáng,
+      bạn vẫn tiếp tục làm việc
+      đều đặn và có trách nhiệm.
+      Trải nghiệm này giúp bạn
+      xây dựng nền tảng vững vàng
+      và hiểu giá trị của sự ổn định lâu dài.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng cảm thấy
-      bị mắc kẹt trong sự trì trệ.
-      Việc quá thận trọng hoặc sợ sai
-      có thể đã khiến bạn bỏ lỡ cơ hội tiến lên.
+      Khi Knight of Pentacles xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      cảm thấy mình bị mắc kẹt
+      trong một nhịp điệu quá chậm.
+      Việc sợ thay đổi
+      khiến bạn bỏ lỡ
+      một số cơ hội cần sự linh hoạt.
+      Trải nghiệm này để lại bài học
+      về việc cân bằng
+      giữa kiên trì và thích nghi.
 
   present:
     upright: >
-      Ở hiện tại, Knight of Pentacles cho thấy
-      bạn đang hành động với sự tập trung và kỷ luật.
-      Bạn hiểu rằng những gì bền vững
-      cần được xây dựng từng bước,
-      và bạn sẵn sàng đi con đường dài
-      thay vì tìm kết quả nhanh chóng.
+      Ở hiện tại, Knight of Pentacles phản ánh
+      trạng thái bạn đang rất tập trung
+      vào việc hoàn thành trách nhiệm.
+      Bạn có thể đang làm việc
+      một cách đều đặn,
+      đặt sự chắc chắn lên hàng đầu.
+      Dù tiến độ có vẻ chậm,
+      nhưng mỗi bước đi
+      đều góp phần
+      xây dựng một nền tảng bền vững.
+      Đây là giai đoạn
+      đòi hỏi sự kiên nhẫn
+      và cam kết lâu dài.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang cảm thấy chán nản
-      vì mọi thứ tiến triển quá chậm.
-      Sự lặp lại và thiếu linh hoạt
-      có thể khiến bạn mất động lực
-      nếu không điều chỉnh nhịp độ.
+      Khi Knight of Pentacles ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      động lực bị trì trệ.
+      Việc lặp lại quá lâu
+      khiến bạn mất cảm hứng.
+      Trạng thái này phản ánh
+      nhu cầu làm mới cách tiếp cận,
+      để sự bền bỉ
+      không biến thành sự ì ạch.
 
   future:
     upright: >
-      Về hướng đi, Knight of Pentacles gợi ý rằng
-      sự ổn định và thành quả lâu dài
-      sẽ đến nếu bạn tiếp tục kiên trì.
-      Dù không hào nhoáng,
-      con đường này mang lại cảm giác an toàn
-      và đáng tin cậy.
+      Nhìn về phía trước, Knight of Pentacles mở ra
+      một giai đoạn
+      nơi sự kiên trì của bạn
+      sẽ bắt đầu mang lại kết quả.
+      Khi bạn tiếp tục
+      giữ vững kỷ luật
+      và tập trung vào mục tiêu,
+      thành quả sẽ đến
+      một cách ổn định và đáng tin cậy.
+      Đây là bước tiến
+      từ việc chỉ cố gắng
+      sang việc xây dựng
+      thành tựu bền lâu.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      việc bám chặt vào thói quen cũ
-      có thể cản trở sự phát triển.
-      Đôi khi, bạn cần cho phép mình
-      thử nghiệm hoặc thay đổi nhịp đi,
-      thay vì chỉ giữ nguyên một cách máy móc.
+      Ở hướng đi phía trước, Knight of Pentacles ngược nhắc bạn
+      rằng nếu bạn quá sợ rủi ro,
+      bạn có thể tự giới hạn
+      khả năng phát triển của mình.
+      Hướng đi này khuyên bạn
+      hãy cho phép
+      một chút linh hoạt,
+      để hành trình tiến lên
+      không trở nên quá nặng nề.
 
 ---
 

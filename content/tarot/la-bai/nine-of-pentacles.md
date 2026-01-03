@@ -33,49 +33,92 @@ reading:
   past:
     upright: >
       Trong quá khứ, Nine of Pentacles cho thấy
-      bạn từng xây dựng được sự độc lập
-      thông qua nỗ lực và kỷ luật cá nhân.
-      Có thể bạn đã học cách đứng vững một mình,
-      trân trọng thành quả do chính mình tạo ra.
+      đã từng có một giai đoạn
+      bạn đạt được
+      cảm giác độc lập và đủ đầy.
+      Nhờ những nỗ lực trước đó,
+      bạn có thể đứng vững
+      bằng giá trị của chính mình,
+      không phụ thuộc
+      vào sự bảo trợ từ bên ngoài.
+      Trải nghiệm này giúp bạn
+      hiểu rằng sự tự do thật sự
+      đến từ năng lực
+      và sự tự tin nội tại.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng cảm thấy
-      phụ thuộc hoặc thiếu tự tin vào giá trị của mình.
-      Việc so sánh với người khác
-      có thể đã làm bạn chùn bước.
+      Khi Nine of Pentacles xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      cảm thấy đủ đầy về vật chất,
+      nhưng lại thiếu cảm giác an tâm.
+      Việc so sánh
+      hoặc phụ thuộc vào đánh giá bên ngoài
+      khiến sự độc lập
+      chưa trọn vẹn.
+      Trải nghiệm này để lại bài học
+      về sự đủ đầy
+      không chỉ nằm ở những gì có được.
 
   present:
     upright: >
-      Ở hiện tại, Nine of Pentacles cho thấy
-      bạn đang ở trạng thái khá đủ đầy:
-      tự chủ, biết tận hưởng thành quả,
-      và cảm thấy an toàn với nền tảng mình có.
-      Đây là lúc trân trọng nỗ lực cá nhân
-      và chất lượng cuộc sống bạn đã xây dựng.
+      Ở hiện tại, Nine of Pentacles phản ánh
+      trạng thái bạn đang
+      tận hưởng thành quả
+      của chính mình.
+      Bạn có thể đang
+      sống độc lập,
+      tự chủ về tài chính,
+      hoặc đơn giản là
+      cảm thấy hài lòng
+      với giá trị mình tạo ra.
+      Đây là giai đoạn
+      bạn không cần chứng minh,
+      vì sự đủ đầy
+      đã toát ra
+      từ sự tự tin và ổn định.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang đánh đổi quá nhiều
-      để duy trì hình ảnh “đủ đầy”.
-      Sự sung túc bên ngoài
-      chưa chắc phản ánh cảm giác an toàn bên trong.
+      Khi Nine of Pentacles ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      thiếu an tâm
+      dù bề ngoài vẫn ổn.
+      Có thể bạn đang
+      nghi ngờ giá trị bản thân,
+      hoặc sợ mất đi
+      những gì đã xây dựng.
+      Trạng thái này phản ánh
+      nhu cầu củng cố
+      cảm giác an toàn nội tại,
+      chứ không chỉ
+      dựa vào thành tựu.
 
   future:
     upright: >
-      Về hướng đi, Nine of Pentacles gợi ý rằng
-      sự ổn định cá nhân sẽ tiếp tục lớn mạnh
-      khi bạn giữ được kỷ luật và tự trọng.
-      Giá trị bền vững đến từ việc
-      biết đủ và biết tận hưởng đúng cách.
+      Nhìn về phía trước, Nine of Pentacles mở ra
+      một giai đoạn
+      nơi bạn có thể
+      đứng vững và tận hưởng
+      cuộc sống theo cách riêng.
+      Khi bạn tiếp tục
+      tôn trọng giá trị của mình,
+      sự đủ đầy
+      sẽ mang tính bền vững,
+      không phụ thuộc
+      vào biến động bên ngoài.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu quá tập trung vào vật chất
-      mà bỏ quên sự kết nối,
-      cảm giác cô lập có thể xuất hiện.
-      Việc cân bằng giữa tự chủ và sẻ chia
-      sẽ giúp bạn bền vững hơn.
+      Ở hướng đi phía trước, Nine of Pentacles ngược nhắc bạn
+      rằng nếu bạn
+      đánh đồng giá trị bản thân
+      với thành tựu vật chất,
+      sự bất an
+      có thể quay lại.
+      Hướng đi này khuyên bạn
+      hãy nuôi dưỡng
+      sự đủ đầy từ bên trong,
+      để độc lập
+      không trở thành
+      sự cô lập.
 
 ---
 

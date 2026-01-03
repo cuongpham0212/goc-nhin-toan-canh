@@ -33,215 +33,281 @@ reading:
   past:
     upright: >
       Trong quá khứ, Knight of Cups cho thấy
-      bạn từng hành động dựa trên cảm xúc và lý tưởng.
-      Có thể bạn đã theo đuổi tình yêu,
-      ước mơ hoặc một điều gì đó rất đẹp,
-      dù biết rằng nó không hoàn toàn chắc chắn.
+      đã từng có một giai đoạn
+      bạn theo đuổi cảm xúc của mình
+      một cách rất lý tưởng.
+      Sau khi mở lòng trở lại,
+      bạn tin vào cảm nhận,
+      vào những điều đẹp đẽ
+      và sẵn sàng hành động
+      vì những gì chạm tới trái tim.
+      Trải nghiệm này mang lại
+      nhiều khoảnh khắc đáng nhớ,
+      nhưng cũng khiến bạn nhận ra
+      rằng cảm xúc, dù đẹp,
+      vẫn cần được đặt trong thực tế.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng mơ mộng quá nhiều
-      mà thiếu sự neo giữ thực tế.
-      Những kỳ vọng cảm xúc không được đáp lại
-      có thể đã khiến bạn thất vọng.
+      Khi Knight of Cups xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      bị cuốn theo lý tưởng cảm xúc quá mức.
+      Có thể bạn đặt nhiều kỳ vọng
+      vào một người hoặc một mối quan hệ,
+      nhưng thực tế lại không đáp ứng được.
+      Trải nghiệm này khiến bạn
+      thận trọng hơn
+      với những lời hứa
+      và cảm xúc quá bay bổng.
 
   present:
     upright: >
-      Ở hiện tại, Knight of Cups cho thấy
-      bạn đang được thôi thúc hành động
-      theo tiếng gọi của trái tim.
-      Đây là lúc cảm xúc trở thành động lực,
-      thúc đẩy bạn bày tỏ, theo đuổi
-      hoặc dấn thân vào một trải nghiệm ý nghĩa.
+      Ở hiện tại, Knight of Cups phản ánh
+      trạng thái bạn đang sẵn sàng
+      theo đuổi điều mình cảm thấy đúng.
+      Bạn có thể đang hành động
+      vì tình cảm,
+      vì cảm hứng,
+      hoặc vì một lý tưởng cá nhân.
+      Dù đôi lúc bị xem là mơ mộng,
+      nhưng điều này cho thấy
+      bạn đang sống rất thật
+      với trái tim của mình.
+      Vấn đề nằm ở việc
+      bạn có đủ tỉnh táo
+      để giữ cân bằng hay không.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang do dự giữa mơ mộng và thực tế.
-      Bạn sợ rằng nếu tin vào cảm xúc,
-      mình sẽ lại thất vọng,
-      nên lựa chọn đứng yên hoặc né tránh.
+      Khi Knight of Cups ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      mâu thuẫn giữa cảm xúc và thực tế.
+      Có thể bạn vẫn muốn tin,
+      nhưng lại sợ thất vọng.
+      Trạng thái này phản ánh
+      nhu cầu điều chỉnh lại
+      kỳ vọng cảm xúc,
+      để không tự làm mình tổn thương
+      bởi những lý tưởng chưa được kiểm chứng.
 
   future:
     upright: >
-      Về hướng đi, Knight of Cups gợi ý rằng
-      hành trình phía trước cần sự can đảm
-      để sống thật với cảm xúc.
-      Khi bạn hành động từ trái tim,
-      trải nghiệm có thể không hoàn hảo,
-      nhưng sẽ chân thật và đáng giá.
+      Nhìn về phía trước, Knight of Cups mở ra
+      một hành trình theo đuổi
+      dựa trên cảm xúc chân thành.
+      Khi bạn học cách
+      kết hợp lý tưởng
+      với sự tỉnh táo,
+      những mối quan hệ
+      hoặc mục tiêu cảm xúc
+      sẽ trở nên bền vững hơn.
+      Đây là bước tiến
+      từ việc chỉ mơ
+      sang việc sống cùng lý tưởng
+      một cách trưởng thành.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu tiếp tục theo đuổi lý tưởng
-      mà không có nền tảng vững chắc,
-      bạn có thể lặp lại vòng thất vọng cũ.
-      Sự cân bằng giữa mơ ước và thực tế
-      là điều cần được xem xét.
+      Ở hướng đi phía trước, Knight of Cups ngược nhắc bạn
+      rằng nếu bạn tiếp tục
+      chạy theo cảm xúc nhất thời,
+      sự thất vọng có thể lặp lại.
+      Hướng đi này khuyên bạn
+      hãy giữ trái tim mở,
+      nhưng đừng bỏ qua
+      những dấu hiệu thực tế
+      trên con đường mình chọn.
+
+---
+## Knight of Cups là gì?
+
+**Knight of Cups** là lá bài đại diện cho **cảm xúc đang chuyển động, lý tưởng tình cảm và hành trình theo đuổi điều khiến trái tim rung động**.  
+Đây là hình ảnh của người mang cảm xúc ra thế giới – không còn chỉ cảm nhận, mà **muốn sống, muốn thể hiện và muốn đi theo tiếng gọi của trái tim**.
+
+Nếu Page of Cups là cảm xúc vừa chớm nở,  
+thì Knight of Cups là **cảm xúc đã đủ mạnh để lên đường**.
+
+> Khi trái tim không còn đứng yên,  
+> mà **muốn bước đi vì một điều mình tin là đẹp**.
 
 ---
 
 ## Tổng quan về lá Knight of Cups
 
-**Knight of Cups** là bước chuyển từ **cảm nhận (Page of Cups)** sang **hành động vì cảm xúc**.  
-Nếu Page of Cups là lúc trái tim nhận được tín hiệu mới, thì Knight of Cups là khi ta **quyết định bước tới**, mang theo lý tưởng và cảm xúc của mình.
+**Knight of Cups** thuộc nhóm **Cups** trong Tarot – đại diện cho **tình cảm, lý tưởng và sự theo đuổi cảm xúc**.  
+Trong hệ **Minor Arcana**, Knight là biểu tượng của **chuyển động – hành động – thử nghiệm**.
 
-Đây là lá bài của:
-- Sự chủ động
-- Theo đuổi điều mình tin
-- Hành động dựa trên cảm xúc và trực giác
+Knight of Cups không nói về sự ổn định,  
+mà nói về:
+- Khát khao trải nghiệm cảm xúc
+- Mong muốn theo đuổi tình yêu, cái đẹp, ý nghĩa
+- Và sẵn sàng bước ra khỏi vùng an toàn vì lý tưởng
 
-Knight of Cups không chờ cảm xúc “chín hẳn”, mà **dám đi khi trái tim đã lên tiếng**.
+Nếu:
+- Queen of Cups là cảm xúc được nuôi dưỡng  
+- King of Cups là cảm xúc được làm chủ  
+
+thì Knight of Cups là:  
+**“Cảm xúc đủ mạnh để trở thành hành trình.”**
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Biểu tượng và hình ảnh cốt lõi
 
-Hình ảnh quen thuộc của Knight of Cups thường là:
-- Một hiệp sĩ cưỡi ngựa
-- Tay nâng chiếc cốc
-- Chuyển động nhẹ nhưng có hướng rõ ràng
+Hình ảnh quen thuộc của Knight of Cups thường bao gồm:
+- **Hiệp sĩ cưỡi ngựa chậm rãi** – hành động theo cảm xúc, không vội vàng
+- **Chiếc cốc được nâng cao** – mang theo thông điệp cảm xúc
+- **Không gian mở** – hành trình hướng về phía trước
 
-Khác với các Knight khác mang năng lượng mạnh và nhanh, Knight of Cups:
-👉 *Tiến lên bằng cảm xúc, không phải bằng sức mạnh.*
+Điểm then chốt của lá bài này là:  
+**Hành động xuất phát từ cảm xúc, không phải áp lực.**
 
-Chiếc cốc được nâng cao cho thấy:
-- Cảm xúc là động cơ
-- Lý tưởng là kim chỉ nam
+Knight of Cups cho thấy:
+- Bạn sẵn sàng theo đuổi điều mình tin
+- Nhưng vẫn cần phân biệt giữa lý tưởng và thực tế
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Knight of Cups
+
+Knight of Cups thường được liên kết với **cung Song Ngư (Pisces)** ở trạng thái **lý tưởng hóa và giàu cảm xúc** – biểu trưng cho **sự mơ mộng, lãng mạn và khao khát sống theo trái tim**.
+
+Năng lượng này thể hiện qua:
+- Tình yêu lý tưởng
+- Niềm tin vào cái đẹp
+- Mong muốn cứu rỗi, chữa lành hoặc tạo nên điều ý nghĩa
+
+Knight of Cups không sai khi mơ mộng,  
+nhưng cần nhớ rằng **mỗi hành trình đều cần điểm chạm thực tế**.
+
+Nếu bạn quan tâm đến cách cung này theo đuổi tình yêu, lý tưởng sống và cảm xúc theo dòng thời gian, có thể tham khảo thêm:  
+**[Tử vi cung Song Ngư năm 2026](/tu-vi/nam-2026/song-ngu/)**
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Knight of Cups
 
-### 💌 Chủ động theo đuổi cảm xúc
+### Theo đuổi cảm xúc và lý tưởng
 
-Knight of Cups xuôi phản ánh:
-- Dám bày tỏ tình cảm
-- Dám theo đuổi điều khiến tim rung động
-- Không trốn tránh cảm xúc của mình
+Knight of Cups xuôi cho thấy:
+- Theo đuổi tình yêu hoặc ước mơ
+- Sống đúng với cảm xúc
+- Sẵn sàng bước đi vì điều mình tin
 
-Đây là năng lượng:
-- Lãng mạn
-- Chân thành
-- Có lý tưởng
+Đây là trạng thái:
+**hành động vì trái tim, không vì sợ hãi**.
 
 ---
 
-### 🎯 Hành động vì điều mình tin
+### Lãng mạn và sáng tạo
 
-Lá bài này xuất hiện khi:
-- Ta đã hiểu mình cảm thấy gì
-- Và sẵn sàng hành động theo cảm xúc đó
+Lá bài này thường xuất hiện khi:
+- Bạn đang yêu
+- Hoặc bước vào giai đoạn sáng tạo
+- Muốn thể hiện cảm xúc ra bên ngoài
 
-Knight of Cups nhắc:
-> *Cảm xúc nếu không được hành động sẽ dần phai nhạt.*
+Knight of Cups nhắc rằng:  
+👉 Cảm xúc đẹp cần được sống,  
+**nhưng cũng cần được neo vào thực tế**.
 
 ---
 
-### 🌊 Lý tưởng và mơ mộng có định hướng
+### Lời mời gọi cảm xúc
 
-Knight of Cups vẫn mang chất mơ mộng, nhưng:
-- Đã có mục tiêu
-- Đã chọn hướng đi
-- Không còn phân tán như Seven of Cups
-
-Đây là mơ mộng **đã được trao bánh lái**.
+Knight of Cups cũng là lá bài của:
+- Lời tỏ tình
+- Lời mời hợp tác mang tính cảm xúc
+- Những đề nghị xuất phát từ thiện chí
 
 ---
 
 ## Knight of Cups trong các khía cạnh đời sống
 
-### 🔹 Trong tình cảm
+### Trong tình cảm
+Knight of Cups phản ánh tình yêu lãng mạn, theo đuổi bằng cảm xúc và lời nói đẹp. Đây là giai đoạn ngọt ngào nhưng cần sự tỉnh táo để không lý tưởng hóa quá mức.
 
-- Tỏ tình
-- Theo đuổi người mình yêu
-- Hành động lãng mạn
-
-Knight of Cups là hình ảnh của:
-👉 *Người yêu bằng cả trái tim, không giấu giếm.*
+### Trong công việc & cuộc sống
+Trong công việc, lá bài cho thấy việc theo đuổi dự án sáng tạo, nghệ thuật hoặc chữa lành. Đây là hành trình mang cảm hứng, nhưng cần kỷ luật để đi xa.
 
 ---
 
-### 🔹 Trong công việc & sáng tạo
+## Knight of Cups (Ngược) – Khi cảm xúc thiếu thực tế
 
-- Theo đuổi dự án mang tính cảm hứng
-- Làm việc vì lý tưởng cá nhân
-- Dấn thân vào con đường có ý nghĩa
+Khi **Knight of Cups xuất hiện ở vị trí ngược**, lá bài cảnh báo về **sự mơ mộng quá đà hoặc thiếu nhất quán**.
 
-Lá bài này khuyên:
-- Tin vào cảm hứng
-- Nhưng đừng quên thực tế
+### Ý nghĩa chính
 
----
+Knight of Cups ngược thường biểu hiện:
+- Hứa nhiều nhưng làm ít
+- Theo cảm xúc nhất thời
+- Né tránh trách nhiệm thực tế
 
-### 🔹 Trong đời sống nội tâm
-
-Knight of Cups xuất hiện khi:
-- Ta không chỉ cảm, mà còn **sống theo điều mình cảm**
-- Trực giác bắt đầu dẫn dắt hành động
-
-Đây là bước quan trọng để **cảm xúc trở thành trải nghiệm sống**.
+Đây là trạng thái:
+**yêu ý tưởng về tình yêu hơn là chính tình yêu**.
 
 ---
 
-## Knight of Cups (Ngược) – Khi lý tưởng thiếu nền tảng
+### Góc nhìn tâm lý
 
-Khi **Knight of Cups xuất hiện ở vị trí ngược**, hành động vì cảm xúc có thể **thiếu cân bằng**.
+Ở trạng thái ngược, Knight of Cups phản ánh:
+- Sợ va chạm thực tế
+- Dễ thay đổi cảm xúc
+- Tránh đối diện với giới hạn của mình
 
-### ⚠️ Ý nghĩa chính
-
-Knight of Cups ngược cho thấy:
-- Mơ mộng quá mức
-- Hành động bốc đồng vì cảm xúc
-- Theo đuổi lý tưởng không thực tế
-
-Cảm xúc vẫn mạnh, nhưng **chưa được neo vào thực tại**.
+Lá bài nhắc:
+**Cảm xúc đẹp cần được nâng đỡ bằng hành động thật.**
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Lời khuyên khi Knight of Cups ngược xuất hiện
 
-Ở trạng thái ngược, lá bài phản ánh:
-- Dễ hứa hẹn nhưng khó duy trì
-- Bị cuốn theo cảm xúc nhất thời
-- Tránh đối diện với trách nhiệm dài hạn
-
-Câu hỏi được đặt ra là:
-> *Mình đang theo đuổi điều gì, và mình có sẵn sàng đi đến cùng không?*
+- Kiểm tra lại động cơ cảm xúc
+- Đừng hứa khi chưa sẵn sàng làm
+- Cân bằng giữa mơ mộng và trách nhiệm
 
 ---
 
-### 🧭 Lời khuyên khi Knight of Cups ngược xuất hiện
+## 👉 Xem toàn bộ mạch cảm xúc
 
-- Kiểm tra lại động cơ thật sự
-- Chậm lại để nhìn rõ hệ quả
-- Kết nối cảm xúc với hành động thực tế
-
-Lý tưởng chỉ bền khi có **nền tảng vững**.
+**[Suit of Cups – Hành Trình Cảm Xúc](/tarot/suit-of-cups/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
-## 🔗Để hiểu đầy đủ tiến trình cảm xúc trong Tarot, bạn có thể đọc thêm:
+## 🔗 Để hiểu sâu hơn hành trình cảm xúc trong Tarot, bạn có thể tham khảo thêm:
 
-- **[Page of Cups – Thông Điệp Từ Cảm Xúc](/tarot/la-bai/page-of-cups/)**  
-- **[Seven of Cups – Ảo Tưởng Và Lựa Chọn](/tarot/la-bai/seven-of-cups/)**  
-- **[Eight of Cups – Rời Bỏ Và Tìm Ý Nghĩa Sâu Hơn](/tarot/la-bai/eight-of-cups/)**  
-- **[Queen of Cups – Sự Dịu Dàng Và Thấu Cảm](/tarot/la-bai/queen-of-cups/)**  
+- **[Page of Cups – Cảm xúc khởi sinh](/tarot/la-bai/page-of-cups/)**
+- **[Queen of Cups – Trí tuệ cảm xúc & chữa lành](/tarot/la-bai/queen-of-cups/)**
+- **[King of Cups – Làm chủ cảm xúc & lãnh đạo bằng trái tim](/tarot/la-bai/king-of-cups/)**
+- **[Eight of Cups – Buông bỏ & rời đi](/tarot/la-bai/eight-of-cups/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Knight of Cups
 
 **Xuôi:**
-- 💌 Chủ động theo đuổi
-- 🎯 Hành động vì cảm xúc
-- 🌊 Lý tưởng có định hướng
+- Lý tưởng  
+- Theo đuổi cảm xúc  
+- Lãng mạn  
 
 **Ngược:**
-- ⚠️ Mơ mộng thiếu thực tế
-- 🧠 Bốc đồng cảm xúc
-- 🧭 Cần cân bằng giữa tim và đời
+- Mơ mộng quá đà  
+- Thiếu thực tế  
+- Dễ thay đổi  
 
 Knight of Cups nhắc ta rằng:  
-**Cảm xúc chỉ thực sự có ý nghĩa khi ta dám sống và hành động vì nó — nhưng đủ tỉnh táo để đi đến cùng.**
+**Theo đuổi trái tim là điều đẹp,  
+nhưng chỉ trọn vẹn khi ta đủ tỉnh để đi đến cùng.**
 
-👉 Xem toàn bộ mạch cảm xúc: **[Suit of Cups – Hành Trình Cảm Xúc](/tarot/la-bai/suit-of-cups/)**
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Knight of Cups
+
+**Knight of Cups đại diện cho kiểu người nào?**  
+Đại diện cho người lãng mạn, giàu cảm xúc và theo đuổi lý tưởng sống.
+
+**Knight of Cups trong tình yêu có ý nghĩa gì?**  
+Là giai đoạn theo đuổi, tỏ tình và sống trọn với cảm xúc.
+
+**Knight of Cups ngược cảnh báo điều gì?**  
+Cảnh báo việc hứa hẹn cảm xúc nhưng thiếu hành động thực tế.
+
+**Knight of Cups có phải lá bài trưởng thành không?**  
+Đây là lá bài của **hành trình cảm xúc**, chưa phải đỉnh trưởng thành như King of Cups.

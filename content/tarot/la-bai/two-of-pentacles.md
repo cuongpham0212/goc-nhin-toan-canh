@@ -33,45 +33,82 @@ reading:
   past:
     upright: >
       Trong quá khứ, Two of Pentacles cho thấy
-      bạn từng phải xoay xở giữa nhiều trách nhiệm.
-      Có thể bạn đã học cách linh hoạt,
-      giữ nhịp cân bằng giữa công việc, tài chính
-      và đời sống cá nhân.
+      đã từng có một giai đoạn
+      bạn phải xử lý nhiều việc cùng lúc.
+      Sau khi bắt đầu một chu kỳ mới,
+      bạn học cách xoay xở,
+      thử cân bằng giữa các ưu tiên khác nhau.
+      Trải nghiệm này giúp bạn
+      hiểu rằng sự linh hoạt
+      là kỹ năng quan trọng
+      khi mọi thứ
+      chưa thật sự ổn định.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn quá tải,
-      khi bạn cố gắng ôm đồm quá nhiều
-      mà không có hệ thống rõ ràng.
-      Điều này có thể dẫn đến mệt mỏi kéo dài.
+      Khi Two of Pentacles xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      bị quá tải
+      vì cố gắng giữ quá nhiều thứ.
+      Việc thiếu sắp xếp rõ ràng
+      khiến năng lượng bị phân tán.
+      Trải nghiệm này để lại bài học
+      về việc cần chọn lọc
+      thay vì ôm đồm.
 
   present:
     upright: >
-      Ở hiện tại, Two of Pentacles cho thấy
-      bạn đang quản lý nhiều ưu tiên cùng lúc.
-      Sự linh hoạt là lợi thế của bạn lúc này,
-      miễn là bạn không đánh mất
-      nhịp nghỉ ngơi và ranh giới cần thiết.
+      Ở hiện tại, Two of Pentacles phản ánh
+      trạng thái bạn đang
+      điều chỉnh nhịp sống mới.
+      Bạn có thể đang
+      thử nghiệm nhiều hướng,
+      cân đối thời gian,
+      tiền bạc
+      hoặc năng lượng.
+      Đây không phải là lúc
+      đưa ra quyết định cuối cùng,
+      mà là giai đoạn
+      học cách giữ thăng bằng
+      khi mọi thứ còn đang chuyển động.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      sự mất cân bằng đang lộ rõ.
-      Có thể bạn đang cố giữ mọi thứ ổn định
-      nhưng thực chất cần sắp xếp lại thứ tự ưu tiên.
+      Khi Two of Pentacles ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      mất kiểm soát hoặc kiệt sức.
+      Việc cố gắng cân bằng mọi thứ
+      cùng lúc
+      khiến bạn mệt mỏi.
+      Trạng thái này phản ánh
+      nhu cầu xác định
+      điều gì thực sự quan trọng,
+      để không tự làm mình
+      quá tải.
 
   future:
     upright: >
-      Về hướng đi, Two of Pentacles gợi ý rằng
-      khả năng thích nghi sẽ giúp bạn vượt qua giai đoạn bận rộn.
-      Khi bạn biết điều chỉnh nhịp độ,
-      sự ổn định sẽ trở lại.
+      Nhìn về phía trước, Two of Pentacles cho thấy
+      bạn sẽ tiếp tục
+      điều chỉnh và sắp xếp.
+      Khi bạn giữ được
+      sự linh hoạt
+      và tinh thần thích nghi,
+      nhịp sống mới
+      sẽ dần ổn định hơn.
+      Đây là bước đệm cần thiết
+      trước khi bạn
+      đưa ra lựa chọn rõ ràng
+      cho hướng đi dài hạn.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu tiếp tục duy trì nhịp xoay xở quá lâu,
-      bạn có thể kiệt sức.
-      Đã đến lúc đơn giản hóa
-      và tập trung vào những gì thật sự quan trọng.
+      Ở hướng đi phía trước, Two of Pentacles ngược nhắc bạn
+      rằng nếu bạn không
+      sớm đơn giản hóa,
+      áp lực sẽ tăng lên.
+      Hướng đi này khuyên bạn
+      hãy chọn ít lại,
+      nhưng chọn đúng,
+      để năng lượng được
+      tập trung hiệu quả.
 
 ---
 

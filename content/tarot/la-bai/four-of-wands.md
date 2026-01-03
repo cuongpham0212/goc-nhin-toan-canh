@@ -33,56 +33,81 @@ reading:
   past:
     upright: >
       Trong quá khứ, Four of Wands cho thấy
-      bạn từng đạt được
-      một cột mốc ổn định:
-      hoàn thành giai đoạn đầu,
-      có chỗ đứng,
-      hoặc cảm nhận được
-      sự công nhận từ môi trường xung quanh.
+      đã từng có một giai đoạn
+      bạn tìm được cảm giác ổn định và an toàn.
+      Sau những bước đi mở rộng,
+      bạn bắt đầu xây dựng
+      một nền tảng vững vàng hơn cho mình.
+      Có thể đó là một mối quan hệ,
+      một môi trường,
+      hoặc một chỗ đứng
+      khiến bạn cảm thấy yên tâm.
+      Trải nghiệm này giúp bạn hiểu
+      giá trị của việc có một nơi
+      để quay về và nghỉ ngơi.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn nền tảng
-      chưa thật sự vững.
-      Có thể bạn từng ăn mừng quá sớm
-      hoặc xây dựng trên cơ sở
-      chưa đủ chắc chắn.
+      Khi Four of Wands xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy sự ổn định khi đó
+      có thể chưa trọn vẹn.
+      Có thể bạn từng cảm thấy
+      mình thuộc về một nơi nào đó,
+      nhưng bên trong lại chưa thật sự an tâm.
+      Trải nghiệm này khiến bạn
+      thận trọng hơn
+      khi tìm kiếm cảm giác “ổn định”
+      trong các giai đoạn sau.
 
   present:
     upright: >
-      Ở hiện tại, Four of Wands cho thấy
-      bạn đang có một nền tảng an toàn
-      để tiếp tục phát triển.
-      Đây là lúc tạm dừng,
-      nhìn lại thành quả,
-      và cho phép mình
-      cảm nhận niềm vui chính đáng.
+      Ở hiện tại, Four of Wands phản ánh
+      một giai đoạn tương đối ổn định trong cuộc sống của bạn.
+      Bạn có thể cảm thấy
+      mọi thứ đang ở trạng thái cân bằng,
+      không quá căng thẳng
+      cũng không quá biến động.
+      Đây là thời điểm để bạn
+      tận hưởng thành quả,
+      ghi nhận những gì mình đã xây dựng,
+      và cho phép bản thân
+      cảm thấy an tâm hơn với hiện tại.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang thiếu cảm giác ổn định
-      dù đã đi được một đoạn.
-      Lá bài nhắc rằng
-      nền móng cần được củng cố,
-      không chỉ dựa vào cảm xúc hưng phấn.
+      Khi Four of Wands ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      sự ổn định xung quanh
+      không thật sự vững chắc.
+      Có thể bên ngoài mọi thứ trông ổn,
+      nhưng bên trong bạn
+      vẫn còn cảm giác bất an.
+      Trạng thái này phản ánh
+      nhu cầu cần xem lại
+      điều gì thực sự mang lại
+      cảm giác an toàn cho bạn.
 
   future:
     upright: >
-      Về hướng đi, Four of Wands gợi ý rằng
-      sự ổn định sẽ tiếp tục hình thành
-      khi bạn biết giữ nhịp
-      và xây dựng từng bước.
-      Đây là điểm tựa
-      cho những hành động lớn hơn sau này.
+      Nhìn về phía trước, Four of Wands mở ra
+      một giai đoạn ổn định và vững vàng hơn.
+      Khi bạn tiếp tục nuôi dưỡng
+      những nền tảng đã xây dựng,
+      bạn sẽ cảm nhận được
+      cảm giác an tâm lâu dài.
+      Đây là bước tiến
+      từ việc chỉ tìm kiếm cơ hội
+      sang việc tạo dựng
+      một chỗ đứng bền vững cho bản thân.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu bỏ qua việc xây nền,
-      hành trình phía trước
-      có thể thiếu chỗ dựa.
-      Việc quay lại
-      để củng cố căn bản
-      là điều cần thiết.
+      Ở hướng đi phía trước, Four of Wands ngược nhắc bạn
+      cần chú ý đến việc
+      không đánh đổi sự an tâm thật sự
+      chỉ để giữ vẻ ngoài ổn định.
+      Nếu nền tảng bạn đang đứng
+      không mang lại cảm giác an toàn bên trong,
+      có thể đã đến lúc
+      bạn cần điều chỉnh
+      hoặc xây dựng lại từ đầu.
 
 ---
 

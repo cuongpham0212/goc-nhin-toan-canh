@@ -1,0 +1,7 @@
+{{ partial "seo/schema-website.html" . }}
+
+{{ if .IsPage }}
+  {{ partial "seo/schema-article.html" . }}
+  {{ partial "seo/schema-faq.html" . }}
+  {{ partial "seo/schema-breadcrumb.html" . }}
+{{ end }}

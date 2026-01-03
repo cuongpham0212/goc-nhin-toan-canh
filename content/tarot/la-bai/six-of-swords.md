@@ -33,50 +33,91 @@ reading:
   past:
     upright: >
       Trong quá khứ, Six of Swords cho thấy
-      bạn từng rời khỏi một giai đoạn khó khăn
-      để tìm sự bình yên hơn.
-      Dù quyết định này không dễ,
-      nó đã giúp bạn thoát khỏi
+      đã từng có một giai đoạn
+      bạn chọn rời khỏi
       môi trường đầy căng thẳng.
+      Sau những xung đột và tổn thương,
+      bạn quyết định
+      không tiếp tục tranh cãi,
+      mà tìm kiếm
+      sự yên ổn về mặt tinh thần.
+      Trải nghiệm này giúp bạn
+      hiểu rằng rời đi
+      đôi khi là hành động
+      bảo vệ danh dự
+      và sức khỏe tâm trí.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một lần bạn muốn rời đi
-      nhưng chưa đủ điều kiện hoặc can đảm.
-      Việc bị níu lại
-      có thể khiến bạn cảm thấy bế tắc kéo dài.
+      Khi Six of Swords xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      gặp khó khăn
+      trong việc buông bỏ.
+      Dù muốn rời đi,
+      nhưng những suy nghĩ cũ
+      vẫn kéo bạn quay lại
+      với vùng nhiễu loạn.
+      Trải nghiệm này để lại bài học
+      về việc cần quyết tâm
+      để thật sự bước sang
+      một giai đoạn mới.
 
   present:
     upright: >
-      Ở hiện tại, Six of Swords cho thấy
-      bạn đang trong quá trình chuyển dịch.
-      Không phải là chạy trốn,
-      mà là chọn rời khỏi điều gây tổn thương
-      để bảo vệ sức khỏe tinh thần.
-      Đây là hành trình cần thời gian.
+      Ở hiện tại, Six of Swords phản ánh
+      trạng thái chuyển tiếp.
+      Bạn có thể đang
+      trong quá trình
+      rời khỏi một tình huống
+      khiến mình mệt mỏi.
+      Dù con đường phía trước
+      chưa hoàn toàn rõ ràng,
+      nhưng sự lựa chọn này
+      mang lại cảm giác nhẹ hơn.
+      Đây là giai đoạn
+      bạn ưu tiên
+      sự bình ổn tinh thần
+      hơn là việc phải chứng minh mình đúng.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn đang do dự trước việc buông bỏ.
-      Một phần bạn muốn tiến lên,
-      nhưng một phần vẫn bị níu
-      bởi ký ức, trách nhiệm hoặc nỗi sợ.
+      Khi Six of Swords ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      bị mắc kẹt giữa đi và ở.
+      Có thể bạn biết
+      mình cần rời khỏi
+      một tình huống,
+      nhưng nỗi sợ thay đổi
+      khiến bạn chần chừ.
+      Trạng thái này phản ánh
+      nhu cầu dứt khoát hơn
+      để quá trình hồi phục
+      có thể bắt đầu.
 
   future:
     upright: >
-      Về hướng đi, Six of Swords gợi ý rằng
-      sự bình yên sẽ đến
-      khi bạn chấp nhận thay đổi hoàn cảnh.
-      Dù chưa hoàn toàn nhẹ nhõm,
-      bạn đang đi đúng hướng.
+      Nhìn về phía trước, Six of Swords mở ra
+      một hành trình hồi phục.
+      Khi bạn tiếp tục
+      di chuyển ra khỏi
+      những ảnh hưởng tiêu cực,
+      tâm trí sẽ dần
+      trở nên nhẹ nhàng hơn.
+      Đây là bước chuyển
+      từ xung đột
+      sang sự bình ổn,
+      dù không phải là niềm vui,
+      nhưng là sự yên tâm cần thiết.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu không dứt khoát rời khỏi
-      môi trường độc hại,
-      bạn sẽ khó tìm được sự yên ổn.
-      Việc chuyển cảnh
-      đôi khi là điều bắt buộc để chữa lành.
+      Ở hướng đi phía trước, Six of Swords ngược nhắc bạn
+      rằng nếu bạn không
+      thật sự rời đi,
+      những rắc rối cũ
+      có thể lặp lại.
+      Hướng đi này khuyên bạn
+      hãy hoàn tất
+      quá trình chuyển tiếp,
+      để sự hồi phục
+      không chỉ nằm trên ý nghĩ.
 
 ---
 

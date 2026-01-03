@@ -32,55 +32,81 @@ image: "https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/ace-of-wand
 reading:
   past:
     upright: >
-      Trong quá khứ, Ace of Wands cho thấy
-      đã từng có một khoảnh khắc
-      bạn cảm thấy mình “muốn sống lại”.
-      Một ý tưởng, một mong muốn
-      hoặc một thôi thúc mạnh mẽ
-      từng đánh thức ngọn lửa bên trong bạn.
+      Trong quá khứ, Ace of Wands cho thấy đã từng có
+      một nguồn năng lượng rất mạnh mẽ xuất hiện trong bạn.
+      Đó có thể là một ý tưởng mới,
+      một khao khát muốn bắt đầu,
+      hoặc cảm giác thôi thúc phải hành động theo cách của riêng mình.
+      Khi ấy, bạn đã cảm nhận rõ ràng
+      ngọn lửa đam mê bên trong,
+      dù chưa chắc đã biết chính xác
+      mình sẽ đi về đâu.
+      Trải nghiệm này giúp bạn nhận ra
+      điều gì khiến mình thật sự sống động
+      và điều gì làm bạn cảm thấy có ý nghĩa.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng bị dập tắt nhiệt huyết.
-      Có thể vì sợ thất bại,
-      thiếu niềm tin
-      hoặc môi trường không ủng hộ,
-      ngọn lửa đã không được nuôi dưỡng.
+      Khi Ace of Wands xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy đã có một giai đoạn
+      bạn từng cảm thấy mất lửa hoặc thiếu động lực.
+      Có thể những ý tưởng của bạn không được ủng hộ,
+      hoặc bạn đã kìm lại sự nhiệt huyết của mình
+      vì sợ rủi ro hay thất bại.
+      Việc không thể hành động theo điều mình muốn
+      có thể đã để lại cảm giác tiếc nuối,
+      và ảnh hưởng đến cách bạn khởi động
+      những điều mới ở hiện tại.
 
   present:
     upright: >
       Ở hiện tại, Ace of Wands cho thấy
-      năng lượng khởi đầu đang trở lại.
-      Bạn có thể chưa biết rõ
-      mình sẽ đi đến đâu,
-      nhưng bạn biết rằng
-      mình không thể đứng yên nữa.
-      Đây là thời điểm của cảm hứng và can đảm.
+      một nguồn năng lượng mới đang trỗi dậy trong bạn.
+      Bạn có thể đang cảm thấy được truyền cảm hứng,
+      muốn thử một hướng đi khác,
+      hoặc bắt đầu điều gì đó mang tính cá nhân hơn.
+      Dù mọi thứ còn rất mới và chưa rõ hình dạng,
+      nhưng cảm giác hứng khởi là có thật.
+      Trải bài này khuyến khích bạn
+      lắng nghe sự thôi thúc bên trong,
+      bởi chính nó đang chỉ cho bạn biết
+      đâu là điều khiến bạn thật sự muốn bước tới.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn đang cảm thấy thiếu động lực
-      hoặc hoài nghi chính mình.
-      Lá bài nhắc rằng
-      lửa không mất đi,
-      nó chỉ đang chờ
-      được thắp lại đúng cách.
+      Khi Ace of Wands ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy thiếu động lực
+      hoặc không còn hứng thú như trước.
+      Có thể bạn đang phân tán năng lượng quá nhiều,
+      hoặc nghi ngờ khả năng của bản thân
+      nên không dám bắt đầu.
+      Trạng thái này khiến bạn vừa muốn hành động,
+      vừa tự giữ mình lại,
+      tạo ra cảm giác bế tắc và chán nản âm thầm.
 
   future:
     upright: >
-      Về hướng đi, Ace of Wands gợi ý rằng
-      một cơ hội hành động mới sẽ xuất hiện.
-      Khi bạn dám nắm lấy
-      và cho phép mình thử,
-      hành trình mới sẽ bắt đầu.
+      Nhìn về phía trước, Ace of Wands mở ra
+      một hướng đi đầy tiềm năng và sức sống.
+      Nếu bạn cho phép mình thử,
+      dám hành động theo điều khiến mình hứng khởi,
+      một giai đoạn năng động và sáng tạo
+      sẽ dần hình thành.
+      Đây không phải là lời hứa về thành công ngay lập tức,
+      mà là cơ hội để bạn sống đúng với đam mê
+      và khám phá khả năng của chính mình.
+      Ngọn lửa này cần được nuôi dưỡng bằng hành động,
+      chứ không chỉ bằng suy nghĩ.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu tiếp tục trì hoãn
-      hoặc chờ đợi điều kiện hoàn hảo,
-      cảm hứng có thể nguội dần.
-      Hành động nhỏ
-      sẽ giữ ngọn lửa sống.
+      Ở hướng đi phía trước, Ace of Wands ngược nhắc bạn
+      cần chú ý đến việc không tiếp tục dập tắt
+      những mong muốn thật sự của mình.
+      Nếu bạn để nỗi sợ, sự trì hoãn
+      hoặc thiếu niềm tin dẫn dắt,
+      nguồn năng lượng sáng tạo có thể dần cạn kiệt.
+      Hướng đi này không ép bạn phải bùng nổ,
+      mà khuyên bạn hãy bắt đầu lại một cách nhẹ nhàng,
+      từng bước khơi lại ngọn lửa bên trong,
+      thay vì chờ đợi cảm hứng hoàn hảo.
 
 ---
 

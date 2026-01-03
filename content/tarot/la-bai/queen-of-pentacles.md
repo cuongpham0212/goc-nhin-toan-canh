@@ -33,50 +33,84 @@ reading:
   past:
     upright: >
       Trong quá khứ, Queen of Pentacles cho thấy
-      bạn từng là người chăm lo cho sự ổn định:
-      gia đình, công việc hoặc những người xung quanh.
-      Bạn học được cách tạo cảm giác an toàn
-      thông qua sự tận tâm và thực tế.
+      đã từng có một giai đoạn
+      bạn học cách chăm sóc
+      cuộc sống của mình
+      theo cách rất thực tế.
+      Sau nhiều biến động,
+      bạn bắt đầu chú trọng
+      đến sự ổn định,
+      sự an toàn
+      và những điều nuôi dưỡng lâu dài.
+      Trải nghiệm này giúp bạn
+      hiểu rằng sự đủ đầy
+      không chỉ đến từ thành tựu,
+      mà còn từ cảm giác
+      được chăm sóc và trân trọng.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng cho đi quá nhiều
-      mà quên chăm sóc bản thân.
-      Sự hy sinh không cân bằng
-      có thể đã khiến bạn mệt mỏi.
+      Khi Queen of Pentacles xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      đặt nhu cầu của người khác
+      lên trước bản thân quá nhiều.
+      Việc chăm sóc mọi thứ xung quanh
+      khiến bạn quên mất
+      việc nuôi dưỡng chính mình.
+      Trải nghiệm này để lại bài học
+      về việc cân bằng
+      giữa cho đi và giữ lại cho bản thân.
 
   present:
     upright: >
-      Ở hiện tại, Queen of Pentacles cho thấy
-      bạn đang ở trạng thái ổn định và đủ đầy
-      để nuôi dưỡng cả vật chất lẫn tinh thần.
-      Bạn biết cách chăm sóc bản thân,
-      tạo không gian an toàn
-      và duy trì chất lượng sống bền vững.
+      Ở hiện tại, Queen of Pentacles phản ánh
+      trạng thái ổn định và ấm áp.
+      Bạn có khả năng
+      quản lý tốt cuộc sống vật chất,
+      đồng thời tạo ra
+      không gian an toàn
+      cho chính mình và người khác.
+      Đây là giai đoạn
+      bạn không cần phô trương,
+      nhưng sự hiện diện của bạn
+      mang lại cảm giác yên tâm
+      và tin cậy.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang quá chú trọng
-      vào trách nhiệm mà quên nhu cầu cá nhân.
-      Lá bài nhắc bạn rằng
-      sự ổn định thật sự cần bắt đầu từ chính mình.
+      Khi Queen of Pentacles ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      mình bị quá tải
+      bởi trách nhiệm chăm sóc.
+      Có thể bạn đang cho đi
+      nhiều hơn mức mình có thể.
+      Trạng thái này phản ánh
+      nhu cầu quay lại
+      lắng nghe cơ thể và nhu cầu cá nhân,
+      để sự ổn định
+      không trở thành gánh nặng.
 
   future:
     upright: >
-      Về hướng đi, Queen of Pentacles gợi ý rằng
-      bạn sẽ xây dựng được cuộc sống
-      vừa vững vàng vừa ấm áp.
-      Khi bạn biết trân trọng giá trị thực
-      và chăm sóc đúng cách,
-      sự đủ đầy sẽ lan tỏa sang người khác.
+      Nhìn về phía trước, Queen of Pentacles mở ra
+      một giai đoạn bạn có thể
+      xây dựng sự ổn định
+      một cách bền vững và nhân ái.
+      Khi bạn tiếp tục
+      chăm sóc những giá trị cốt lõi,
+      cuộc sống của bạn
+      sẽ trở nên đủ đầy hơn,
+      không chỉ về vật chất,
+      mà cả về cảm giác an yên.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu tiếp tục gồng gánh quá mức,
-      sự ổn định có thể trở thành áp lực.
-      Việc học cách nhận lại,
-      thay vì chỉ cho đi,
-      sẽ giúp bạn bền vững lâu dài.
+      Ở hướng đi phía trước, Queen of Pentacles ngược nhắc bạn
+      rằng nếu bạn tiếp tục
+      bỏ quên nhu cầu của mình,
+      sự mệt mỏi sẽ dần tích tụ.
+      Hướng đi này khuyên bạn
+      hãy học cách nhận lại,
+      để sự chăm sóc bạn trao đi
+      luôn xuất phát
+      từ một nguồn năng lượng đủ đầy.
 
 ---
 

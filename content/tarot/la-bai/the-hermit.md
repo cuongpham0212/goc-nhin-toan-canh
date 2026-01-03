@@ -34,52 +34,96 @@ reading:
   past:
     upright: >
       Trong quá khứ, The Hermit cho thấy
-      bạn từng chọn rút lui
-      để suy ngẫm và học hỏi.
-      Những khoảng lặng đó
-      giúp bạn tích lũy
-      trí tuệ thực tế.
+      đã từng có một giai đoạn
+      bạn chủ động rút lui
+      khỏi ồn ào bên ngoài.
+      Sau khi đã cố gắng,
+      tiến lên
+      và vượt qua thử thách,
+      bạn nhận ra
+      mình cần thời gian
+      để ở một mình
+      và suy ngẫm.
+      Trải nghiệm này giúp bạn
+      hiểu rằng
+      không phải mọi câu trả lời
+      đều nằm ở hành động,
+      mà nằm ở sự chiêm nghiệm.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một thời điểm bạn từng cô lập
-      vì sợ hãi hoặc né tránh.
-      Việc tách mình khỏi thế giới
-      khi đó không mang lại sáng tỏ.
+      Khi The Hermit xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      né tránh sự tĩnh lặng.
+      Việc sợ đối diện
+      với chính mình
+      khiến bạn
+      vội vàng quay lại thế giới bên ngoài.
+      Trải nghiệm này để lại bài học
+      rằng
+      không lắng nghe nội tâm
+      sẽ khiến con đường
+      thiếu định hướng.
 
   present:
     upright: >
-      Ở hiện tại, The Hermit cho thấy
-      bạn đang cần thời gian
-      ở một mình có ý thức.
-      Lá bài nhắc rằng
-      câu trả lời bạn tìm
-      không nằm ở đám đông,
-      mà trong sự tĩnh lặng.
+      Ở hiện tại, The Hermit phản ánh
+      nhu cầu quay vào bên trong.
+      Bạn có thể đang
+      cảm thấy muốn chậm lại,
+      giảm bớt tương tác,
+      và dành thời gian
+      để hiểu rõ bản thân hơn.
+      Đây không phải là cô lập,
+      mà là sự lựa chọn có ý thức
+      để soi sáng
+      điều gì thật sự quan trọng.
+      Ánh đèn bạn cầm
+      không để chiếu sáng cả thế giới,
+      mà để soi rõ
+      từng bước mình đi.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang quá khép kín
-      hoặc ngại chia sẻ.
-      Lá bài nhắc rằng
-      tìm đường không có nghĩa
-      là cắt đứt kết nối hoàn toàn.
+      Khi The Hermit ngược xuất hiện ở hiện tại,
+      bạn có thể đang
+      cảm thấy cô đơn
+      hoặc lạc lõng.
+      Có thể bạn
+      đã ở một mình quá lâu,
+      hoặc đang tự tách mình
+      khỏi sự kết nối cần thiết.
+      Trạng thái này phản ánh
+      nhu cầu phân biệt
+      giữa tĩnh lặng để hiểu mình
+      và cô lập vì sợ hãi.
 
   future:
     upright: >
-      Về hướng đi, The Hermit gợi ý rằng
-      khi bạn tiếp tục soi sáng nội tâm,
-      con đường sẽ hiện ra
-      từng bước vững chắc.
-      Trí tuệ chín
-      đến từ trải nghiệm lắng đọng.
+      Nhìn về phía trước, The Hermit mở ra
+      một giai đoạn
+      sáng tỏ từ bên trong.
+      Khi bạn cho phép
+      bản thân đi chậm,
+      những câu trả lời
+      sẽ dần xuất hiện.
+      Đây là bước chuẩn bị quan trọng,
+      giúp bạn bước tiếp
+      với sự hiểu biết sâu sắc hơn,
+      không còn đi theo quán tính
+      hay kỳ vọng bên ngoài.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu kéo dài sự cô lập,
-      bạn có thể lạc hướng.
-      Chia sẻ đúng người
-      giúp ánh sáng rõ hơn.
+      Ở hướng đi phía trước, The Hermit ngược nhắc bạn
+      rằng nếu bạn
+      né tránh việc
+      nhìn lại chính mình,
+      sự hoang mang
+      có thể quay lại.
+      Hướng đi này khuyên bạn
+      hãy cho mình
+      không gian tĩnh lặng cần thiết,
+      để ánh sáng nội tâm
+      không bị lấn át
+      bởi tiếng ồn xung quanh.
 
 ---
 

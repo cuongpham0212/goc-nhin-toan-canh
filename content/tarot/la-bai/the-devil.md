@@ -34,57 +34,94 @@ reading:
   past:
     upright: >
       Trong quá khứ, The Devil cho thấy
-      bạn từng bị ràng buộc
-      bởi thói quen, mối quan hệ,
-      hoặc niềm tin giới hạn.
-      Dù nhận ra sự bất ổn,
-      việc thoát ra khi đó
-      không hề dễ dàng.
+      đã từng có một giai đoạn
+      bạn bị ràng buộc
+      bởi ham muốn,
+      thói quen,
+      hoặc nỗi sợ.
+      Sau những biến động,
+      cảm giác bất an
+      có thể khiến bạn
+      tìm đến những thứ
+      mang lại sự thoả mãn nhanh.
+      Trải nghiệm này giúp bạn
+      nhận ra sức mạnh
+      của những ràng buộc vô hình
+      mà bản thân tự tạo ra.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một lần bạn từng bắt đầu
-      nhận diện và nới lỏng
-      những ràng buộc vô hình.
-      Dù chưa hoàn toàn tự do,
-      bạn đã thấy lối thoát.
+      Khi The Devil xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn đã từng
+      bắt đầu thoát ra
+      khỏi những ràng buộc đó.
+      Việc nhận diện được
+      sự lệ thuộc
+      là bước đầu tiên
+      để lấy lại
+      quyền tự do cá nhân.
 
   present:
     upright: >
-      Ở hiện tại, The Devil cho thấy
-      bạn đang đối diện
-      với phần bóng tối còn sót lại.
-      Lá bài không kết án,
-      mà yêu cầu bạn nhìn thẳng:
-      điều gì đang giữ bạn lại
-      vì sợ hãi, khoái cảm,
-      hay ảo tưởng kiểm soát?
+      Ở hiện tại, The Devil phản ánh
+      những cám dỗ
+      đang hiện hữu.
+      Có thể bạn đang
+      bị kéo về
+      lối sống cũ,
+      thói quen cũ,
+      hoặc mối quan hệ
+      không còn lành mạnh.
+      Trải bài này không kết tội,
+      mà nhắc bạn rằng
+      sức hút mạnh nhất
+      thường đến từ
+      những thứ quen thuộc,
+      không hẳn là những thứ tốt cho bạn.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn đang trong quá trình
-      giải phóng khỏi ràng buộc.
-      Nhận thức rõ ràng
-      giúp bạn lấy lại quyền lựa chọn
-      cho chính mình.
+      Khi The Devil ngược xuất hiện ở hiện tại,
+      bạn bắt đầu nhìn rõ
+      những sợi xích vô hình.
+      Có thể bạn đang
+      ý thức được
+      điều gì đang kìm giữ mình,
+      và bắt đầu
+      đặt câu hỏi
+      về việc có nên
+      tiếp tục hay không.
+      Đây là dấu hiệu
+      của sự tỉnh thức
+      trước cám dỗ.
 
   future:
     upright: >
-      Về hướng đi, The Devil gợi ý rằng
-      tự do chỉ đến
-      khi bạn dám thừa nhận
-      điều mình đang lệ thuộc.
-      Sự trung thực với bóng tối
-      là bước đầu của giải phóng.
+      Nhìn về phía trước, The Devil cho thấy
+      những thử thách
+      liên quan đến
+      ham muốn và lệ thuộc
+      vẫn có thể xuất hiện.
+      Hướng đi này nhắc bạn
+      rằng nếu bạn
+      đánh mất sự tỉnh táo,
+      bạn có thể dễ dàng
+      quay lại vòng lặp cũ.
+      Việc giữ ý thức
+      là chìa khóa
+      để không bị cuốn đi.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      khi bạn tiếp tục tháo gỡ
-      những sợi dây vô hình,
-      sức mạnh cá nhân
-      sẽ dần được khôi phục.
-      Tự do là quá trình,
-      không phải khoảnh khắc.
+      Ở hướng đi phía trước, The Devil ngược mở ra
+      khả năng giải phóng.
+      Khi bạn dám
+      đối diện và cắt bỏ
+      những ràng buộc không lành mạnh,
+      bạn sẽ lấy lại
+      quyền kiểm soát
+      cuộc sống của mình.
+      Đây là bước chuyển
+      từ bị chi phối
+      sang sự tự do
+      có ý thức.
 
 ---
 

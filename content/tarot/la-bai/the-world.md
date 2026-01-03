@@ -34,54 +34,102 @@ reading:
   past:
     upright: >
       Trong quá khứ, The World cho thấy
-      bạn từng chạm đến cảm giác trọn vẹn:
-      một chu kỳ hoàn tất,
-      một bài học được tích hợp.
-      Không còn phải tìm kiếm bên ngoài,
-      bạn nhận ra mình đã đi đủ xa
-      để hiểu chính mình.
+      đã từng có một giai đoạn
+      bạn chạm đến
+      cảm giác hoàn thành.
+      Sau một hành trình dài,
+      bạn nhìn lại
+      và thấy mọi trải nghiệm,
+      dù tốt hay xấu,
+      đều có vai trò riêng.
+      Trải nghiệm này giúp bạn
+      hiểu rằng sự trọn vẹn
+      không đến từ việc
+      không sai lầm,
+      mà từ việc
+      đã đi trọn con đường.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn gần hoàn tất
-      nhưng còn thiếu sự khép lại.
-      Một chi tiết chưa được giải quyết
-      khiến bạn chưa thật sự an tâm.
+      Khi The World xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      cảm thấy hành trình
+      chưa hoàn tất.
+      Một điều gì đó
+      còn dang dở,
+      khiến bạn chưa thể
+      thật sự khép lại.
+      Trải nghiệm này để lại bài học
+      về việc cần
+      tự cho phép mình
+      kết thúc,
+      thay vì chờ
+      sự xác nhận bên ngoài.
 
   present:
     upright: >
-      Ở hiện tại, The World cho thấy
-      bạn đang đứng trong trạng thái hợp nhất.
-      Lá bài nhắc rằng
-      bạn không cần trở thành ai khác —
-      bạn đã là phiên bản đủ đầy
+      Ở hiện tại, The World phản ánh
+      trạng thái trọn vẹn.
+      Bạn có thể đang
+      đứng ở điểm
+      nơi mọi mảnh ghép
+      bắt đầu khớp lại.
+      Đây là giai đoạn
+      bạn không cần
+      chạy theo nữa,
+      bởi bạn đã
+      trở thành
+      phiên bản đủ đầy
       của chính mình.
-      Sự bình an đến từ việc chấp nhận trọn vẹn.
+      Sự bình an lúc này
+      đến từ cảm giác
+      “mình đã sống thật”.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang tự nghi ngờ
-      thành quả mình đã đạt được.
-      Lá bài nhắc rằng
-      việc công nhận chính mình
-      là bước cuối để hoàn tất.
+      Khi The World ngược xuất hiện ở hiện tại,
+      bạn có thể đang
+      cảm thấy thiếu một điều gì đó
+      để khép lại.
+      Có thể bạn
+      chưa công nhận
+      chính mình
+      cho hành trình đã qua.
+      Trạng thái này phản ánh
+      nhu cầu nhìn lại
+      và trân trọng
+      những gì bạn
+      đã hoàn thành.
 
   future:
     upright: >
-      Về hướng đi, The World gợi ý rằng
-      khi bạn khép lại chu kỳ này
-      với sự biết ơn,
-      bạn sẽ bước sang giai đoạn mới
-      với nền tảng vững vàng hơn.
-      Hoàn tất là tiền đề cho tự do.
+      Nhìn về phía trước, The World mở ra
+      một chu kỳ hoàn chỉnh.
+      Khi bạn chấp nhận
+      toàn bộ hành trình,
+      bạn sẽ bước vào
+      giai đoạn sống
+      với cảm giác
+      thuộc về chính mình.
+      Đây không phải là
+      điểm dừng,
+      mà là nền tảng
+      vững vàng
+      để bắt đầu
+      một vòng đời mới
+      ở tầng ý thức cao hơn.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu không khép vòng cho trọn,
-      bạn sẽ mang theo dư âm cũ
-      sang hành trình mới.
-      Hãy cho mình
-      một kết thúc có ý thức.
+      Ở hướng đi phía trước, The World ngược nhắc bạn
+      rằng nếu bạn
+      không cho phép
+      bản thân khép lại,
+      chu kỳ mới
+      sẽ khó bắt đầu trọn vẹn.
+      Hướng đi này khuyên bạn
+      hãy tự công nhận
+      sự trưởng thành của mình,
+      để hành trình tiếp theo
+      không mang theo
+      cảm giác dang dở.
 
 ---
 

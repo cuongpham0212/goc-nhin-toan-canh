@@ -9,27 +9,23 @@
   },
   "headline": {{ .Title | jsonify }},
   "description": {{ with .Params.description }}{{ . | jsonify }}{{ else }}{{ .Summary | plainify | truncate 160 | jsonify }}{{ end }},
-  "datePublished": "{{ .PublishDate.Format "2006-01-02" }}",
-  "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
-  "author": {
-    "@type": "Person",
-    "name": {{ with .Params.author }}{{ . | jsonify }}{{ else }}"Góc Nhìn Toàn Cảnh"{{ end }}
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Góc Nhìn Toàn Cảnh",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{ "/images/logo.png" | absURL }}"
-    }
-  },
   "image": [
     {{ with .Params.image }}
       "{{ . | absURL }}"
     {{ else }}
       "{{ "/images/og-default.jpg" | absURL }}"
     {{ end }}
-  ]
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "Góc Nhìn Toàn Cảnh"
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "Góc Nhìn Toàn Cảnh"
+  },
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02" }}"
 }
 </script>
 {{- end -}}

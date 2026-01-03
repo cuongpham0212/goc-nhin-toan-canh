@@ -33,51 +33,86 @@ reading:
   past:
     upright: >
       Trong quá khứ, Eight of Pentacles cho thấy
-      bạn từng dành nhiều thời gian
-      để học hỏi và trau dồi kỹ năng.
-      Sự tập trung và kỷ luật
-      đã giúp bạn xây dựng năng lực
-      một cách vững chắc.
+      đã từng có một giai đoạn
+      bạn quyết định tập trung
+      hoàn toàn vào việc học và làm.
+      Sau khi đã đánh giá lại giá trị,
+      bạn chọn con đường
+      rèn luyện kỹ năng,
+      chấp nhận sự lặp lại
+      và kiên nhẫn với quá trình.
+      Trải nghiệm này giúp bạn
+      xây dựng nền tảng vững chắc
+      cho sự tự lập sau này.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng làm việc
-      thiếu tập trung hoặc theo thói quen.
-      Việc lặp lại mà không cải thiện
-      có thể khiến bạn chán nản.
+      Khi Eight of Pentacles xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      làm việc trong trạng thái
+      thiếu tập trung hoặc thiếu động lực.
+      Việc không rõ mục tiêu
+      khiến nỗ lực bị dàn trải.
+      Trải nghiệm này để lại bài học
+      về tầm quan trọng
+      của việc làm đúng việc,
+      chứ không chỉ làm nhiều.
 
   present:
     upright: >
-      Ở hiện tại, Eight of Pentacles cho thấy
-      bạn đang ở trạng thái làm việc nghiêm túc
-      và chú tâm vào việc hoàn thiện tay nghề.
-      Những bước tiến nhỏ mỗi ngày
-      đang góp phần tạo nên giá trị lớn.
+      Ở hiện tại, Eight of Pentacles phản ánh
+      trạng thái bạn đang
+      nghiêm túc đầu tư
+      vào kỹ năng và công việc.
+      Bạn có thể đang
+      học hỏi,
+      cải thiện tay nghề,
+      hoặc dành thời gian
+      để hoàn thiện bản thân.
+      Đây là giai đoạn
+      ít hào nhoáng,
+      nhưng rất cần thiết
+      để tạo ra
+      giá trị bền vững.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
+      Khi Eight of Pentacles ngược xuất hiện ở hiện tại,
       bạn có thể đang cảm thấy
-      bị mắc kẹt trong sự đơn điệu.
-      Lá bài nhắc bạn cần xem lại
-      liệu mình đang học hỏi và tiến bộ,
-      hay chỉ đang làm cho xong việc.
+      chán nản với sự lặp lại.
+      Có thể bạn đang
+      làm việc chỉ vì nghĩa vụ,
+      không còn cảm giác phát triển.
+      Trạng thái này phản ánh
+      nhu cầu làm mới mục tiêu,
+      để sự chăm chỉ
+      không biến thành
+      sự mài mòn.
 
   future:
     upright: >
-      Về hướng đi, Eight of Pentacles gợi ý rằng
-      sự thành thạo và ổn định
-      sẽ đến thông qua kỷ luật bền bỉ.
-      Khi bạn tiếp tục rèn nghề,
-      giá trị bạn tạo ra
-      sẽ được công nhận theo thời gian.
+      Nhìn về phía trước, Eight of Pentacles mở ra
+      giai đoạn
+      nơi sự chăm chỉ
+      sẽ dần mang lại kết quả.
+      Khi bạn tiếp tục
+      đầu tư vào kỹ năng,
+      giá trị cá nhân của bạn
+      sẽ ngày càng rõ ràng.
+      Đây là bước chuyển
+      từ nỗ lực âm thầm
+      sang nền tảng
+      cho sự đủ đầy.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu thiếu mục tiêu rõ ràng,
-      sự chăm chỉ có thể trở thành lãng phí.
-      Việc nâng cấp kỹ năng
-      và làm mới cách tiếp cận
-      sẽ giúp bạn tiến xa hơn.
+      Ở hướng đi phía trước, Eight of Pentacles ngược nhắc bạn
+      rằng nếu bạn
+      không còn học hỏi hay cải thiện,
+      sự trì trệ
+      có thể xuất hiện.
+      Hướng đi này khuyên bạn
+      hãy duy trì
+      tinh thần học nghề,
+      để con đường tự lập
+      không bị dừng lại giữa chừng.
 
 ---
 

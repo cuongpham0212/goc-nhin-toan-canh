@@ -34,54 +34,89 @@ reading:
   past:
     upright: >
       Trong quá khứ, Death cho thấy
-      bạn từng trải qua một kết thúc lớn:
-      mối quan hệ, vai trò,
-      hoặc phiên bản cũ của chính mình.
-      Dù đau,
-      sự kết thúc đó
-      đã cắt đứt điều không còn sống.
+      đã từng có một giai đoạn
+      kết thúc mang tính triệt để.
+      Không phải là thay đổi nhẹ,
+      mà là sự chấm dứt
+      của một vai trò,
+      một mối quan hệ,
+      hoặc một phiên bản cũ của bạn.
+      Dù thời điểm đó rất khó khăn,
+      nhưng chính sự kết thúc này
+      đã cắt đứt những điều
+      không còn phù hợp,
+      tạo không gian
+      cho sự tái sinh sau này.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một lần bạn từng níu kéo
-      điều đã đến lúc kết thúc.
-      Việc sợ thay đổi
-      khiến nỗi đau kéo dài hơn cần thiết.
+      Khi Death xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn đã từng
+      trì hoãn một kết thúc cần thiết.
+      Việc níu giữ
+      khiến quá trình chuyển hóa
+      kéo dài và đau hơn.
+      Trải nghiệm này để lại bài học
+      rằng có những thứ
+      không thể cứu vãn,
+      chỉ có thể
+      buông bỏ trọn vẹn.
 
   present:
     upright: >
-      Ở hiện tại, Death cho thấy
-      một chu kỳ đang đi đến hồi kết.
-      Lá bài không nói về mất mát,
+      Ở hiện tại, Death phản ánh
+      một thời điểm then chốt.
+      Một chương trong cuộc sống
+      của bạn đang đi đến hồi kết,
+      dù bạn đã sẵn sàng hay chưa.
+      Trải bài này không nói về mất mát,
       mà nói về sự cần thiết
-      phải khép lại để sống tiếp.
-      Điều cũ phải chết
-      để điều mới có chỗ sinh ra.
+      của việc kết thúc.
+      Khi bạn dám
+      để cái cũ chết đi,
+      bạn mới thật sự
+      mở cửa cho
+      một khởi đầu khác.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn đang kháng cự chuyển hóa.
-      Sự thay đổi vẫn sẽ xảy ra,
-      chỉ là theo cách
-      đau hơn nếu bạn tiếp tục chống lại.
+      Khi Death ngược xuất hiện ở hiện tại,
+      bạn có thể đang
+      chống lại sự thay đổi.
+      Nỗi sợ mất mát
+      khiến bạn cố giữ
+      những điều đã quá hạn.
+      Trạng thái này phản ánh
+      nhu cầu đối diện
+      với sự thật rằng
+      không phải mọi thứ
+      đều có thể mang theo
+      sang giai đoạn mới.
 
   future:
     upright: >
-      Về hướng đi, Death gợi ý rằng
-      sau khi kết thúc thật sự,
-      bạn sẽ bước vào giai đoạn tái sinh.
-      Không phải trở thành người khác,
-      mà là sống đúng
-      với phiên bản chân thật hơn.
+      Nhìn về phía trước, Death cho thấy
+      một sự chuyển hóa
+      không thể tránh.
+      Khi bạn chấp nhận
+      kết thúc cần thiết,
+      năng lượng bị kẹt
+      sẽ được giải phóng.
+      Đây không phải là dấu chấm hết,
+      mà là cánh cửa
+      dẫn tới một vòng đời mới,
+      nhẹ hơn
+      và đúng với bạn hơn.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu không cho phép
-      một kết thúc trọn vẹn,
-      bạn sẽ khó đón nhận
-      khởi đầu mới.
-      Chuyển hóa đòi hỏi
-      sự dứt khoát.
+      Ở hướng đi phía trước, Death ngược nhắc bạn
+      rằng nếu bạn tiếp tục
+      trì hoãn việc kết thúc,
+      sự chuyển hóa
+      sẽ không thể diễn ra trọn vẹn.
+      Hướng đi này khuyên bạn
+      hãy buông bỏ dứt khoát,
+      để hành trình mới
+      không bị kéo lê
+      bởi quá khứ.
 
 ---
 

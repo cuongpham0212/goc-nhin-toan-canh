@@ -33,54 +33,93 @@ reading:
   past:
     upright: >
       Trong quá khứ, Seven of Swords cho thấy
-      bạn từng chọn cách né tránh
-      thay vì đối diện trực tiếp.
-      Có thể bạn đã giấu cảm xúc,
-      giấu ý định
-      hoặc rời đi mà không nói hết sự thật,
-      như một cơ chế tự bảo vệ.
+      đã từng có một giai đoạn
+      bạn chọn cách
+      hành động thầm lặng.
+      Sau khi nhận ra
+      đối đầu trực diện
+      không còn hiệu quả,
+      bạn học cách
+      bảo vệ lợi ích của mình
+      bằng sự khôn ngoan.
+      Trải nghiệm này giúp bạn
+      hiểu rằng đôi khi
+      sự kín đáo
+      là một dạng chiến lược,
+      không phải lúc nào
+      cũng là sự gian dối.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một thời điểm bạn từng bị lộ sự thật
-      hoặc buộc phải đối diện
-      với điều mình cố che giấu.
-      Đây là lúc các chiến lược né tránh
-      không còn hiệu quả.
+      Khi Seven of Swords xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn đã từng
+      bị lộ chiến lược
+      hoặc cảm thấy áy náy
+      về cách mình hành động.
+      Trải nghiệm này để lại bài học
+      về ranh giới mong manh
+      giữa khôn ngoan
+      và thiếu minh bạch.
 
   present:
     upright: >
-      Ở hiện tại, Seven of Swords cho thấy
-      bạn đang dùng trí óc
-      để tránh một sự thật khó chịu.
-      Có thể bạn đang “đi đường vòng”,
-      giữ khoảng cách,
-      hoặc không nói hết điều mình nghĩ
-      vì sợ hậu quả.
+      Ở hiện tại, Seven of Swords phản ánh
+      trạng thái bạn đang
+      suy nghĩ rất chiến lược.
+      Bạn có thể chọn
+      không nói hết,
+      không bộc lộ toàn bộ kế hoạch,
+      để bảo vệ mình
+      trong một tình huống phức tạp.
+      Trải bài này không khuyến khích
+      gian dối,
+      mà nhấn mạnh
+      tầm quan trọng
+      của việc chọn thời điểm
+      và mức độ chia sẻ phù hợp.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn đang mệt mỏi
-      với việc phải che giấu hoặc tính toán.
-      Một phần trong bạn
-      muốn được sống thẳng thắn hơn,
-      dù điều đó không dễ.
+      Khi Seven of Swords ngược xuất hiện ở hiện tại,
+      bạn có thể đang
+      cân nhắc việc
+      minh bạch hơn.
+      Có thể bạn nhận ra
+      rằng việc giữ bí mật
+      quá lâu
+      khiến bạn căng thẳng.
+      Trạng thái này phản ánh
+      mong muốn hành động
+      ngay thẳng hơn,
+      dù điều đó
+      có thể mang lại
+      một số rủi ro.
 
   future:
     upright: >
-      Về hướng đi, Seven of Swords cảnh báo rằng
-      nếu tiếp tục né tránh,
-      bạn sẽ phải duy trì lớp phòng vệ
-      ngày càng phức tạp.
-      Điều này tiêu hao năng lượng
-      và làm bạn xa chính mình.
+      Nhìn về phía trước, Seven of Swords mở ra
+      giai đoạn bạn cần
+      sử dụng trí tuệ
+      để tự bảo vệ mình.
+      Khi bạn hành động
+      có chiến lược,
+      bạn sẽ tránh được
+      những xung đột không cần thiết.
+      Đây là bước tiến
+      từ việc đối đầu trực diện
+      sang việc
+      làm chủ cuộc chơi
+      bằng sự tỉnh táo.
 
     reversed: >
-      Ở trạng thái ngược, lá bài gợi ý rằng
-      việc nói thật hoặc sống thật hơn
-      sẽ giúp bạn nhẹ gánh.
-      Dù có thể mất đi một số lợi thế,
-      bạn sẽ lấy lại sự tự do nội tâm.
+      Ở hướng đi phía trước, Seven of Swords ngược nhắc bạn
+      rằng nếu bạn tiếp tục
+      hành động trong im lặng,
+      sự hiểu lầm có thể tích tụ.
+      Hướng đi này khuyên bạn
+      hãy chọn thời điểm
+      để nói ra sự thật,
+      để chiến lược
+      không biến thành
+      sự cô lập.
 
 ---
 

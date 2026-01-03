@@ -34,53 +34,93 @@ reading:
   past:
     upright: >
       Trong quá khứ, The Lovers cho thấy
-      bạn từng đứng trước
-      một lựa chọn quan trọng
-      liên quan đến giá trị cốt lõi.
-      Quyết định khi đó
-      định hình cách bạn kết nối
-      với người khác và với chính mình.
+      đã từng có một giai đoạn
+      bạn đứng trước
+      một lựa chọn quan trọng.
+      Không chỉ là tình cảm,
+      mà là sự lựa chọn
+      liên quan đến giá trị sống.
+      Trải nghiệm này buộc bạn
+      phải lắng nghe
+      tiếng nói bên trong,
+      và hiểu rằng
+      mỗi lựa chọn
+      đều định hình con đường
+      bạn đi tiếp.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một lần bạn từng chọn
-      vì sợ hãi hoặc phụ thuộc.
-      Sự lệch giá trị
-      khiến kết nối trở nên mong manh.
+      Khi The Lovers xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      đưa ra lựa chọn
+      không hoàn toàn đúng
+      với bản thân.
+      Việc thỏa hiệp
+      hoặc sợ mất mát
+      khiến bạn lệch khỏi
+      giá trị thật.
+      Trải nghiệm này để lại bài học
+      về cái giá
+      của việc không trung thực
+      với chính mình.
 
   present:
     upright: >
-      Ở hiện tại, The Lovers cho thấy
-      bạn đang được mời gọi
-      chọn lựa bằng sự chân thật.
-      Đây không chỉ là tình cảm,
-      mà là sự hòa hợp
-      giữa hành động và giá trị sống.
-      Cam kết bắt đầu từ sự rõ ràng.
+      Ở hiện tại, The Lovers phản ánh
+      thời điểm lựa chọn
+      mang tính cam kết.
+      Bạn có thể đang
+      đứng trước
+      một quyết định lớn
+      về mối quan hệ,
+      công việc,
+      hoặc hướng sống.
+      Đây không phải là lựa chọn bốc đồng,
+      mà là sự chọn lựa
+      dựa trên
+      giá trị cốt lõi
+      bạn đã nhận diện rõ.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang do dự
-      hoặc xung đột nội tâm.
-      Lá bài nhắc rằng
-      không chọn cũng là một lựa chọn,
-      và nó có hệ quả.
+      Khi The Lovers ngược xuất hiện ở hiện tại,
+      bạn có thể đang
+      cảm thấy mâu thuẫn nội tâm.
+      Có thể lý trí
+      và cảm xúc
+      chưa đồng thuận.
+      Trạng thái này phản ánh
+      nhu cầu làm rõ
+      điều gì thực sự quan trọng,
+      trước khi đưa ra
+      cam kết lâu dài.
 
   future:
     upright: >
-      Về hướng đi, The Lovers gợi ý rằng
-      khi bạn chọn đúng giá trị,
-      mối quan hệ và con đường
-      sẽ trở nên đồng điệu.
-      Kết nối bền
-      đến từ sự tự nguyện.
+      Nhìn về phía trước, The Lovers mở ra
+      một con đường
+      được định hình
+      bởi sự lựa chọn có ý thức.
+      Khi bạn cam kết
+      với điều đúng với mình,
+      các mối quan hệ
+      và hành trình
+      sẽ trở nên hài hòa hơn.
+      Đây là bước tiến
+      từ việc chỉ muốn
+      sang việc thật sự
+      chọn và gắn bó.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu tiếp tục né tránh
-      sự thật về nhu cầu của mình,
-      mối liên kết sẽ khó sâu.
-      Thành thật là nền của yêu thương.
+      Ở hướng đi phía trước, The Lovers ngược nhắc bạn
+      rằng nếu bạn
+      tiếp tục né tránh lựa chọn,
+      sự chia rẽ nội tâm
+      có thể kéo dài.
+      Hướng đi này khuyên bạn
+      hãy trung thực
+      với giá trị của mình,
+      để con đường bạn chọn
+      không bị xây dựng
+      trên sự thỏa hiệp.
 
 ---
 

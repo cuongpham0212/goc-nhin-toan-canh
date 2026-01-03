@@ -33,220 +33,280 @@ reading:
   past:
     upright: >
       Trong quá khứ, Page of Cups cho thấy
-      bạn từng trải qua một giai đoạn
-      cảm xúc còn non trẻ nhưng rất chân thật.
-      Đó có thể là lần đầu bạn dám bộc lộ
-      sự nhạy cảm, mơ mộng
-      hoặc tin vào cảm xúc của mình.
+      đã từng có một giai đoạn
+      bạn cho phép mình cảm nhận
+      một cách rất tự nhiên và ngây thơ.
+      Sau khi trải qua đủ đầy và mất mát,
+      bạn quay lại với những rung động nhỏ,
+      không còn kỳ vọng lớn lao,
+      chỉ đơn giản là lắng nghe
+      điều mình đang cảm thấy.
+      Trải nghiệm này giúp bạn
+      reconnect với phần cảm xúc
+      thuần khiết bên trong mình.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng coi nhẹ
-      cảm xúc của bản thân,
-      xem chúng là trẻ con hoặc không quan trọng.
-      Điều này có thể khiến bạn
-      học cách kìm nén cảm xúc từ sớm.
+      Khi Page of Cups xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn từng
+      kìm nén hoặc xem nhẹ
+      những cảm xúc non nớt của mình.
+      Có thể bạn nghĩ rằng
+      mình đã “lớn rồi”
+      nên không nên nhạy cảm nữa.
+      Điều này khiến cảm xúc
+      bị dồn lại,
+      chưa có cơ hội được biểu đạt
+      một cách lành mạnh.
 
   present:
     upright: >
-      Ở hiện tại, Page of Cups cho thấy
-      một lời mời cảm xúc mới đang xuất hiện.
-      Đó có thể là sự rung động nhẹ,
-      một trực giác bất ngờ,
-      hoặc mong muốn được kết nối
-      theo cách chân thành hơn.
+      Ở hiện tại, Page of Cups phản ánh
+      một trạng thái cảm xúc
+      rất mở và dễ tiếp nhận.
+      Bạn có thể đang tò mò
+      về cảm xúc của chính mình,
+      hoặc bắt đầu cảm nhận
+      những rung động mới
+      một cách nhẹ nhàng.
+      Đây không phải là cảm xúc sâu sắc hay cam kết,
+      mà là sự cho phép:
+      cho phép mình cảm,
+      cho phép mình mềm,
+      và cho phép mình chưa cần phải biết hết mọi thứ.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang nghi ngờ cảm xúc của chính mình.
-      Bạn sợ rằng nếu mở lòng,
-      mình sẽ trở nên yếu đuối
-      hoặc không được nghiêm túc nhìn nhận.
+      Khi Page of Cups ngược xuất hiện ở hiện tại,
+      bạn có thể đang ngần ngại
+      với việc thể hiện cảm xúc.
+      Có thể bạn sợ mình quá nhạy cảm,
+      hoặc lo rằng cảm xúc của mình
+      không được đón nhận.
+      Trạng thái này phản ánh
+      nhu cầu được an toàn
+      trước khi mở lòng trở lại.
 
   future:
     upright: >
-      Về hướng đi, Page of Cups gợi ý rằng
-      sự phát triển cảm xúc sẽ bắt đầu
-      từ việc cho phép mình tò mò,
-      thử nghiệm và cảm nhận
-      mà không tự phán xét.
-      Đây là khởi đầu của một chu kỳ cảm xúc mới.
+      Nhìn về phía trước, Page of Cups mở ra
+      một hành trình cảm xúc mới
+      bắt đầu từ sự chân thành.
+      Khi bạn tiếp tục giữ
+      thái độ cởi mở và tò mò,
+      cảm xúc sẽ phát triển
+      một cách tự nhiên,
+      không bị ép buộc.
+      Đây là bước đầu
+      của một chu kỳ trưởng thành mới,
+      nơi bạn học cách
+      tôn trọng cảm xúc của mình
+      từ những điều rất nhỏ.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu tiếp tục phủ nhận cảm xúc non trẻ bên trong,
-      bạn có thể bỏ lỡ cơ hội
-      học cách kết nối với chính mình
-      theo cách nhẹ nhàng hơn.
+      Ở hướng đi phía trước, Page of Cups ngược nhắc bạn
+      rằng nếu bạn tiếp tục
+      bỏ qua những tín hiệu cảm xúc tinh tế,
+      bạn có thể tự tách mình
+      khỏi phần mềm mại bên trong.
+      Hướng đi này khuyên bạn
+      hãy lắng nghe cảm xúc
+      ngay khi chúng vừa xuất hiện,
+      thay vì chờ đến lúc
+      chúng trở nên quá lớn.
+
+---
+## Page of Cups là gì?
+
+**Page of Cups** là lá bài đại diện cho **sự khởi sinh cảm xúc, trực giác non trẻ và khả năng mở lòng với những rung động mới**.  
+Đây là hình ảnh của cảm xúc ở trạng thái **trong trẻo, tò mò và chưa bị tổn thương bởi kinh nghiệm sống**.
+
+Nếu King of Cups là đỉnh cao của sự làm chủ cảm xúc,  
+thì Page of Cups là **điểm bắt đầu tinh khôi**, nơi cảm xúc xuất hiện như một lời thì thầm nhẹ nhàng.
+
+> Khi trái tim chưa biết sợ,  
+> và cảm xúc được đón nhận **bằng sự ngạc nhiên và dịu dàng**.
 
 ---
 
 ## Tổng quan về lá Page of Cups
 
-**Page of Cups** mở ra một chu kỳ cảm xúc mới sau khi **Ten of Cups** đã hoàn tất hành trình viên mãn.  
-Nếu Ten of Cups là *hạnh phúc ổn định*, thì Page of Cups là **một rung động mới nảy sinh trong trạng thái đã đủ đầy**.
+**Page of Cups** thuộc nhóm **Cups** trong Tarot – đại diện cho **cảm xúc, trực giác và sự nhạy cảm ban đầu**.  
+Trong hệ **Minor Arcana**, Page là hình ảnh của **người học hỏi, người mới bắt đầu và tiềm năng chưa định hình**.
 
-Đây là lá bài của:
-- Trực giác
-- Cảm xúc non trẻ
-- Những thông điệp tinh tế từ nội tâm
+Page of Cups không nói về tình yêu sâu sắc hay cam kết,  
+mà nói về:
+- Một cảm xúc vừa xuất hiện
+- Một rung động chưa có tên
+- Và sự sẵn sàng cảm nhận mà chưa cần kiểm soát
 
-Page of Cups không nói về cao trào, mà nói về **sự nhạy cảm và khả năng cảm nhận**.
+Nếu:
+- Knight of Cups là cảm xúc lên đường  
+- Queen of Cups là cảm xúc được nuôi dưỡng  
+- King of Cups là cảm xúc được làm chủ  
+
+thì Page of Cups là:  
+**“Hạt mầm cảm xúc đầu tiên.”**
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Biểu tượng và hình ảnh cốt lõi
 
-Hình ảnh quen thuộc của Page of Cups thường là:
-- Một nhân vật trẻ
-- Cầm chiếc cốc có cá nhô lên
-- Ánh nhìn tò mò, hơi ngạc nhiên
+Hình ảnh quen thuộc của Page of Cups thường bao gồm:
+- **Chàng trai trẻ cầm cốc** – sự tò mò và mở lòng
+- **Con cá xuất hiện trong cốc** – thông điệp từ trực giác
+- **Biển yên phía sau** – không gian an toàn để cảm xúc nảy sinh
 
-Biểu tượng này cho thấy:
-👉 Cảm xúc đến bất ngờ, không theo kế hoạch.
+Điểm then chốt của lá bài này là:  
+**Cảm xúc đến bất ngờ, không theo logic.**
 
-Con cá trong cốc tượng trưng cho:
-- Trực giác
-- Thông điệp vô thức
-- Cảm hứng sáng tạo
+Page of Cups cho thấy:
+- Cảm xúc mới có thể xuất hiện từ điều rất nhỏ
+- Trực giác đang cố gửi một thông điệp
+- Và bạn được mời gọi lắng nghe, không phải phán xét
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Page of Cups
+
+Page of Cups thường được liên kết với **cung Song Ngư (Pisces)** ở trạng thái **thuần khiết và nhạy cảm nhất** – biểu trưng cho **trực giác, sự mơ mộng và khả năng cảm nhận tinh tế**.
+
+Năng lượng này thể hiện qua:
+- Sự dễ rung động
+- Khả năng cảm nhận điều chưa nói
+- Niềm tin vào cảm xúc như một dạng trí tuệ
+
+Page of Cups không ngây thơ theo nghĩa yếu đuối,  
+mà **ngây thơ theo nghĩa chưa bị chai sạn**.
+
+Nếu bạn quan tâm đến cách cung này trải nghiệm cảm xúc, trực giác và các rung động tinh tế theo dòng thời gian, có thể tham khảo thêm:  
+**[Tử vi cung Song Ngư năm 2026](/tu-vi/nam-2026/song-ngu/)**
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Page of Cups
 
-### 🐟 Thông điệp cảm xúc mới
+### Cảm xúc mới và trực giác
 
 Page of Cups xuôi cho thấy:
-- Một cảm xúc mới xuất hiện
-- Một lời nhắn từ trực giác
-- Hoặc sự mở lòng trở lại sau giai đoạn ổn định
+- Một rung động cảm xúc vừa xuất hiện
+- Trực giác đang mở ra
+- Sự tò mò về thế giới nội tâm
 
-Đây có thể là:
-- Một ý tưởng sáng tạo
-- Một rung động nhẹ
-- Một cảm nhận khó gọi tên
+Đây là trạng thái:
+**chưa biết sẽ đi đâu, nhưng sẵn sàng cảm nhận**.
 
 ---
 
-### 🌱 Sự ngây thơ và cởi mở
+### Sự trong trẻo và chân thành
 
-Lá bài này mang năng lượng:
-- Không phòng thủ
-- Không kiểm soát
-- Không tính toán
+Lá bài này xuất hiện khi:
+- Bạn cho phép mình cảm xúc mà không phòng vệ
+- Hoặc bắt đầu một kết nối mới với tâm thế cởi mở
 
-Page of Cups nhắc:
-> *Đôi khi, cảm xúc đến không để ta hiểu ngay, mà để ta cảm nhận trước.*
+Page of Cups nhắc rằng:  
+👉 Không phải cảm xúc nào cũng cần lý do,  
+**một số chỉ cần được cảm nhận**.
 
 ---
 
-### 🎨 Sáng tạo và cảm hứng
+### Thông điệp tinh tế
 
-Page of Cups rất liên quan đến:
-- Nghệ thuật
-- Viết lách
-- Âm nhạc
-- Những hoạt động cần cảm xúc tinh tế
-
-Đây là lúc **ý tưởng đến từ cảm xúc**, không phải từ logic.
+Page of Cups còn là lá bài của:
+- Lời nhắn cảm xúc
+- Giấc mơ mang tính biểu tượng
+- Dấu hiệu nhỏ từ nội tâm
 
 ---
 
 ## Page of Cups trong các khía cạnh đời sống
 
-### 🔹 Trong tình cảm
+### Trong tình cảm
+Page of Cups phản ánh cảm xúc mới mẻ, rung động ban đầu hoặc sự mở lòng trở lại sau tổn thương. Đây là giai đoạn nhẹ nhàng, chưa đòi hỏi cam kết.
 
-- Rung động nhẹ
-- Lời tỏ bày ngây ngô
-- Cảm xúc mới nảy sinh
-
-Page of Cups không nói về cam kết, mà nói về:
-👉 *Sự chân thành trong khoảnh khắc.*
+### Trong công việc & cuộc sống
+Trong công việc, lá bài cho thấy sự sáng tạo mới, ý tưởng non trẻ hoặc lời mời gọi theo hướng nghệ thuật – chữa lành – tinh thần.
 
 ---
 
-### 🔹 Trong công việc & định hướng
+## Page of Cups (Ngược) – Khi cảm xúc bị kìm nén
 
-- Ý tưởng mới
-- Dự án sáng tạo
-- Học cách làm việc bằng cảm hứng
+Khi **Page of Cups xuất hiện ở vị trí ngược**, lá bài cho thấy **sự e dè hoặc sợ tổn thương**.
 
-Lá bài này khuyên:
-- Đừng vội đánh giá
-- Hãy thử lắng nghe cảm giác ban đầu
+### Ý nghĩa chính
 
----
+Page of Cups ngược thường biểu hiện:
+- Ngại mở lòng
+- Không tin vào trực giác
+- Sợ bị xem là yếu đuối
 
-### 🔹 Trong đời sống nội tâm
-
-Page of Cups xuất hiện khi:
-- Trực giác muốn lên tiếng
-- Ta cần dịu lại
-- Và cho phép mình cảm nhận mà không phán xét
-
-Đây là giai đoạn **mở cửa cho điều mới mẻ**.
+Đây là trạng thái:
+**cảm xúc có, nhưng chưa dám cho phép nó chảy ra**.
 
 ---
 
-## Page of Cups (Ngược) – Khi cảm xúc bị bỏ qua
+### Góc nhìn tâm lý
 
-Khi **Page of Cups xuất hiện ở vị trí ngược**, thông điệp cảm xúc **không được lắng nghe**.
+Ở trạng thái ngược, Page of Cups phản ánh:
+- Nỗi sợ bị từ chối
+- Ký ức tổn thương cũ
+- Xu hướng kìm nén cảm xúc non trẻ
 
-### ⚠️ Ý nghĩa chính
-
-Page of Cups ngược có thể cho thấy:
-- Phớt lờ trực giác
-- Sợ bị tổn thương nên khép lòng
-- Hoặc cảm xúc non trẻ bị chê là “không thực tế”
-
-Cảm xúc không biến mất — chỉ là **bị đẩy xuống sâu hơn**.
+Lá bài nhắc:
+**Không có cảm xúc nào là sai, chỉ có cảm xúc chưa được lắng nghe.**
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Lời khuyên khi Page of Cups ngược xuất hiện
 
-Ở trạng thái ngược, lá bài phản ánh:
-- Ngại thể hiện cảm xúc
-- Sợ bị đánh giá là yếu đuối
-- Hoặc mất kết nối với cảm hứng sống
-
-Câu hỏi được đặt ra là:
-> *Lần cuối cùng mình lắng nghe cảm xúc thật là khi nào?*
+- Cho phép mình cảm nhận, dù còn vụng về
+- Đừng vội phủ nhận trực giác
+- Mở lòng từng chút một
 
 ---
 
-### 🧭 Lời khuyên khi Page of Cups ngược xuất hiện
+## 👉 Xem toàn bộ mạch cảm xúc
 
-- Cho phép mình cảm nhận lại
-- Đừng coi nhẹ cảm xúc “nhỏ”
-- Tập lắng nghe mà không vội phản ứng
-
-Cảm xúc non trẻ nếu được chăm sóc đúng cách sẽ trưởng thành.
+**[Suit of Cups – Hành Trình Cảm Xúc](/tarot/suit-of-cups/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
-## 🔗Để hiểu đầy đủ tiến trình cảm xúc trong Tarot, bạn có thể đọc thêm:
+## 🔗 Để hiểu sâu hơn hành trình cảm xúc trong Tarot, bạn có thể tham khảo thêm:
 
-- **[Ace of Cups – Dòng Cảm Xúc Mới](/tarot/la-bai/ace-of-cups/)**  
-- **[Six of Cups – Ký Ức Và Sự Chữa Lành](/tarot/la-bai/six-of-cups/)**  
-- **[Ten of Cups – Hạnh Phúc Trọn Vẹn](/tarot/la-bai/ten-of-cups/)**  
-- **[Knight of Cups – Lời Mời Của Cảm Xúc](/tarot/la-bai/knight-of-cups/)**  
+- **[Knight of Cups – Theo đuổi cảm xúc & lý tưởng](/tarot/la-bai/knight-of-cups/)**
+- **[Queen of Cups – Trí tuệ cảm xúc & chữa lành](/tarot/la-bai/queen-of-cups/)**
+- **[King of Cups – Làm chủ cảm xúc & lãnh đạo bằng trái tim](/tarot/la-bai/king-of-cups/)**
+- **[Ace of Cups – Khởi đầu cảm xúc](/tarot/la-bai/ace-of-cups/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Page of Cups
 
 **Xuôi:**
-- 🐟 Thông điệp trực giác
-- 🌱 Cảm xúc mới – cởi mở
-- 🎨 Sáng tạo – cảm hứng
+- Cảm xúc mới  
+- Trực giác  
+- Trong trẻo  
 
 **Ngược:**
-- ⚠️ Bỏ qua cảm xúc
-- 🧠 Ngại thể hiện nội tâm
-- 🧭 Cần kết nối lại với trực giác
+- E dè  
+- Sợ tổn thương  
+- Kìm nén cảm xúc  
 
 Page of Cups nhắc ta rằng:  
-**Mọi hành trình cảm xúc mới đều bắt đầu bằng một rung động rất nhỏ — đủ nhỏ để ta phải lắng nghe thật kỹ.**
+**Mọi hành trình cảm xúc đều bắt đầu  
+từ một rung động rất nhỏ và rất thật.**
 
-👉 Xem toàn bộ mạch cảm xúc: **[Suit of Cups – Hành Trình Cảm Xúc](/tarot/la-bai/suit-of-cups/)**
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Page of Cups
+
+**Page of Cups đại diện cho kiểu người nào?**  
+Đại diện cho người nhạy cảm, trực giác mạnh và giàu tiềm năng cảm xúc.
+
+**Page of Cups trong tình yêu có ý nghĩa gì?**  
+Là rung động ban đầu, sự mở lòng nhẹ nhàng và chưa có cam kết.
+
+**Page of Cups ngược cảnh báo điều gì?**  
+Cảnh báo việc kìm nén cảm xúc và không tin vào trực giác của mình.
+
+**Page of Cups có vai trò gì trong Suit of Cups?**  
+Là **điểm khởi sinh**, nơi toàn bộ hành trình cảm xúc bắt đầu.

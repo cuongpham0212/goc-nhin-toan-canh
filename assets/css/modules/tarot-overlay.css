@@ -1,0 +1,135 @@
+/* =========================================================
+   TAROT OVERLAY – COSMIC RITUAL
+   Tách riêng để tarot.css nhẹ & dễ maintain
+   ========================================================= */
+
+/* =========================
+   OVERLAY ROOT
+   ========================= */
+.tarot-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+
+  background: radial-gradient(circle at center, #050505, #000);
+  backdrop-filter: blur(6px);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: auto;
+
+  overflow: hidden;
+}
+
+/* Hugo / JS dùng attribute hidden */
+.tarot-overlay[hidden] {
+  display: none !important;
+  pointer-events: none; /* 🔥 CHỐT HẠ */
+}
+
+/* =========================
+   OVERLAY BOX
+   ========================= */
+.tarot-overlay-box {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+}
+
+/* =========================
+   PLANET SYSTEM
+   ========================= */
+
+/* HÀNH TINH TRUNG TÂM */
+.tarot-orb {
+  position: absolute;
+  inset: 0;
+  margin: auto;
+
+  width: 86px;
+  height: 86px;
+
+  border-radius: 50%;
+  background: url("https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/hanh-tinh.png")
+    center / cover no-repeat;
+
+  box-shadow:
+    0 0 30px rgba(99,102,241,0.95),
+    0 0 90px rgba(99,102,241,0.55);
+
+  z-index: 2;
+}
+
+/* QUỸ ĐẠO */
+.tarot-orbit {
+  position: absolute;
+  inset: 0;
+  margin: auto;
+
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+
+  animation: tarot-orbit-spin 22s linear infinite;
+}
+
+/* VỆ TINH */
+.tarot-satellite {
+  position: absolute;
+  top: -12px;
+  left: 50%;
+  transform: translateX(-50%);
+
+  width: 26px;
+  height: 26px;
+
+  background: url("https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/ve-tinh.png")
+    center / cover no-repeat;
+
+  filter: drop-shadow(0 0 12px rgba(165,180,252,0.9));
+}
+
+/* =========================
+   TEXT
+   ========================= */
+.tarot-overlay-text {
+  position: absolute;
+  bottom: -3.2rem;
+  width: 100%;
+
+  font-size: 0.9rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+
+  color: #f9fafb;
+  opacity: 0.9;
+}
+
+/* =========================
+   ANIMATION
+   ========================= */
+@keyframes tarot-orbit-spin {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+
+/* =========================
+   MOBILE
+   ========================= */
+@media (max-width: 640px) {
+  .tarot-overlay-box {
+    transform: scale(0.85);
+  }
+
+  .tarot-orb {
+    width: 72px;
+    height: 72px;
+  }
+
+  .tarot-orbit {
+    width: 140px;
+    height: 140px;
+  }
+}

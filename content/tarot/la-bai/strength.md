@@ -34,54 +34,92 @@ reading:
   past:
     upright: >
       Trong quá khứ, Strength cho thấy
-      bạn từng học cách đối diện khó khăn
-      bằng sự kiên nhẫn và lòng trắc ẩn.
-      Thay vì cưỡng ép,
-      bạn đã chọn cách
-      điều phục bản năng bằng hiểu biết.
+      đã từng có một giai đoạn
+      bạn học cách
+      đối diện với nỗi sợ
+      và bản năng
+      bằng sự kiên nhẫn.
+      Thay vì áp chế,
+      bạn chọn thấu hiểu,
+      và từ đó
+      tìm thấy
+      sức mạnh bền vững.
+      Trải nghiệm này giúp bạn
+      hiểu rằng
+      mạnh mẽ thật sự
+      không cần ồn ào.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một giai đoạn bạn từng nghi ngờ
-      sức mạnh nội tâm của mình.
-      Việc tự trách hoặc kìm nén
-      khiến năng lượng bị hao mòn.
+      Khi Strength xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      nghi ngờ
+      sức chịu đựng của mình.
+      Việc thiếu niềm tin
+      vào nội lực
+      khiến bạn dễ nản lòng.
+      Trải nghiệm này để lại bài học
+      về việc
+      sức mạnh
+      cần được nuôi dưỡng,
+      không thể ép buộc.
 
   present:
     upright: >
-      Ở hiện tại, Strength cho thấy
-      bạn đang sở hữu sức mạnh yên lặng.
-      Lá bài nhắc rằng
-      can đảm không phải gồng lên,
-      mà là giữ nhịp đều
-      trước áp lực.
-      Dịu dàng với chính mình
-      là sức mạnh thật.
+      Ở hiện tại, Strength phản ánh
+      trạng thái bạn đang
+      vững vàng từ bên trong.
+      Bạn có thể đang
+      đối diện thử thách
+      với sự bình tĩnh,
+      không còn cần
+      chứng minh điều gì.
+      Đây là giai đoạn
+      bạn dùng sự dịu dàng
+      để giữ vững bản thân,
+      thay vì dùng
+      áp lực.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang cạn năng lượng
-      vì cố tỏ ra mạnh.
-      Lá bài nhắc bạn
-      cho phép mình yếu
-      để hồi phục nội lực.
+      Khi Strength ngược xuất hiện ở hiện tại,
+      bạn có thể đang
+      cảm thấy mệt mỏi
+      hoặc cạn năng lượng.
+      Có thể bạn đang
+      quá nghiêm khắc
+      với chính mình.
+      Trạng thái này phản ánh
+      nhu cầu tự trấn an,
+      để nội lực
+      được hồi phục.
 
   future:
     upright: >
-      Về hướng đi, Strength gợi ý rằng
-      khi bạn tiếp tục nuôi dưỡng nội lực,
-      thử thách sẽ không còn
-      làm bạn chao đảo.
-      Sự bền bỉ
-      tạo ra chiến thắng dài hạn.
+      Nhìn về phía trước, Strength mở ra
+      một giai đoạn
+      nơi sự bền bỉ
+      sẽ là chìa khóa.
+      Khi bạn tiếp tục
+      tin vào nội lực,
+      bạn sẽ vượt qua
+      thử thách
+      mà không đánh mất
+      sự mềm mại.
+      Đây là bước tiến
+      từ cố gắng
+      sang sự vững vàng lâu dài.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu không chăm sóc nội tâm,
-      áp lực tích tụ
-      sẽ bào mòn ý chí.
-      Nghỉ ngơi có ý thức
-      là điều cần thiết.
+      Ở hướng đi phía trước, Strength ngược nhắc bạn
+      rằng nếu bạn
+      bỏ quên việc
+      chăm sóc bản thân,
+      sức mạnh
+      có thể suy giảm.
+      Hướng đi này khuyên bạn
+      hãy nuôi dưỡng
+      lòng kiên nhẫn
+      và sự tử tế với chính mình,
+      để tiếp tục đi xa.
 
 ---
 

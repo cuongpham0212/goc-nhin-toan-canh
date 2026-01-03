@@ -33,56 +33,83 @@ reading:
   past:
     upright: >
       Trong quá khứ, King of Wands cho thấy
-      bạn từng ở vị trí
-      phải dẫn dắt hoặc khởi xướng.
-      Những trải nghiệm đó
-      rèn cho bạn tầm nhìn
-      và khả năng chịu trách nhiệm.
+      đã từng có một giai đoạn
+      bạn bước vào vai trò
+      dẫn dắt hoặc định hướng.
+      Sau khi làm chủ năng lượng của mình,
+      bạn không còn hành động
+      vì bốc đồng,
+      mà vì tầm nhìn rõ ràng.
+      Trải nghiệm này giúp bạn
+      hiểu rằng sức ảnh hưởng
+      đến từ sự nhất quán,
+      không chỉ từ nhiệt huyết.
 
     reversed: >
-      Ở trạng thái ngược, lá bài phản ánh
-      một lần bạn từng quá nóng vội
-      hoặc áp đặt tầm nhìn của mình.
-      Việc thiếu lắng nghe
-      có thể đã gây ra
-      sự phản kháng không cần thiết.
+      Khi King of Wands xuất hiện ngược ở vị trí quá khứ,
+      điều này cho thấy bạn có thể đã từng
+      lạm dụng năng lượng cá nhân.
+      Việc cố gắng kiểm soát
+      hoặc áp đặt tầm nhìn của mình
+      khiến bạn gặp phản ứng ngược.
+      Trải nghiệm này để lại bài học
+      về việc lãnh đạo
+      không đồng nghĩa
+      với việc chi phối.
 
   present:
     upright: >
-      Ở hiện tại, King of Wands cho thấy
-      bạn đang ở vai trò lãnh đạo tự nhiên.
-      Bạn không cần kiểm soát chi li,
-      mà truyền lửa bằng tầm nhìn
-      và niềm tin vào hành động.
-      Người khác theo bạn
-      vì họ tin vào hướng đi.
+      Ở hiện tại, King of Wands phản ánh
+      trạng thái tự tin và chủ động.
+      Bạn biết mình muốn đi đâu
+      và sẵn sàng
+      dẫn dắt người khác
+      bằng hành động
+      và sự hiện diện.
+      Đây là giai đoạn
+      bạn không cần phải nói nhiều,
+      bởi tầm nhìn và năng lượng của bạn
+      đã đủ rõ ràng
+      để tạo ảnh hưởng.
 
     reversed: >
-      Khi xuất hiện ngược, lá bài cho thấy
-      bạn có thể đang phân tán năng lượng
-      hoặc thiếu kiên nhẫn với tiến độ.
-      Lá bài nhắc rằng
-      lãnh đạo bền vững
-      cần sự ổn định và nhất quán.
+      Khi King of Wands ngược xuất hiện ở hiện tại,
+      bạn có thể đang cảm thấy
+      mất kết nối với tầm nhìn của mình.
+      Có thể bạn đang nghi ngờ
+      vai trò dẫn dắt của bản thân,
+      hoặc sợ trách nhiệm đi kèm.
+      Trạng thái này phản ánh
+      nhu cầu quay lại
+      với lý do ban đầu
+      khiến bạn bắt đầu hành trình này.
 
   future:
     upright: >
-      Về hướng đi, King of Wands gợi ý rằng
-      khi bạn giữ được tầm nhìn dài hạn,
-      ngọn lửa bạn mang
-      sẽ dẫn đường cho nhiều người.
-      Thành công đến
-      từ việc biến cảm hứng
-      thành hành động cụ thể.
+      Nhìn về phía trước, King of Wands mở ra
+      một giai đoạn bạn có thể
+      định hình ảnh hưởng lâu dài.
+      Khi bạn tiếp tục hành động
+      dựa trên tầm nhìn rõ ràng
+      và sự tự tin nội tại,
+      bạn sẽ trở thành
+      nguồn cảm hứng cho người khác.
+      Đây là đỉnh cao
+      của hành trình năng lượng,
+      nơi bạn không chỉ đi nhanh,
+      mà còn đi xa.
 
     reversed: >
-      Ở trạng thái ngược, lá bài nhắc bạn rằng
-      nếu không quản lý tốt năng lượng,
-      sự nhiệt huyết
-      có thể biến thành kiệt sức.
-      Lãnh đạo hiệu quả
-      là biết phân quyền
-      và giữ nhịp bền.
+      Ở hướng đi phía trước, King of Wands ngược nhắc bạn
+      rằng nếu bạn đánh mất
+      sự kết nối với giá trị cốt lõi,
+      sức ảnh hưởng có thể suy giảm.
+      Hướng đi này khuyên bạn
+      hãy lãnh đạo
+      bằng sự chính trực,
+      để năng lượng bạn tạo ra
+      mang tính bền vững,
+      chứ không chỉ nhất thời.
 
 ---
 
