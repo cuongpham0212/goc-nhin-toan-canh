@@ -186,7 +186,15 @@ document.addEventListener("DOMContentLoaded", () => {
   revealBtn.addEventListener("click", () => {
     if (!isAllCardsReady()) return;
 
-    overlay && (overlay.hidden = false);
+    // MỞ OVERLAY
+    if (overlay) overlay.hidden = false;
+    window.startStars?.();
+
+    // ⏳ TẮT OVERLAY SAU 3 GIÂY
+    setTimeout(() => {
+      if (overlay) overlay.hidden = true;
+      window.stopStars?.();
+    }, 3000);
 
     setTimeout(() => {
       document.body.classList.remove("tarot-before");
@@ -198,10 +206,10 @@ document.addEventListener("DOMContentLoaded", () => {
       reading3.textContent = pickReading(selectedCards[2], "future", "guidance");
 
       readingBox.hidden = false;
-      overlay && (overlay.hidden = true);
       readingBox.scrollIntoView({ behavior: "smooth" });
     }, 600);
   });
+
 
   resetBtn?.addEventListener("click", resetAll);
 

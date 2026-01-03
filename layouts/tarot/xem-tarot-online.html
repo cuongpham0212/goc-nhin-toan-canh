@@ -5,15 +5,23 @@
 
   <!-- OVERLAY -->
   <div id="tarot-overlay" class="tarot-overlay" hidden>
+
+    <!-- ⭐ STAR FIELD (BACKGROUND NĂNG LƯỢNG) -->
+    <canvas id="stars-canvas"></canvas>
+
+    <!-- 🌑 RITUAL CORE -->
     <div class="tarot-overlay-box">
       <div class="tarot-orb"></div>
+
       <div class="tarot-orbit">
         <div class="tarot-satellite"></div>
       </div>
+
       <div class="tarot-overlay-text">
         Đang kết nối với trường năng lượng…
       </div>
     </div>
+
   </div>
 
   <section class="tarot-wrap">
@@ -87,5 +95,7 @@
 
 {{ $js := resources.Get "js/tarot/draw-one.js" | resources.Minify }}
 <script defer src="{{ $js.RelPermalink }}"></script>
+{{ $overlay := resources.Get "js/tarot/tarot-overlay.js" | resources.Minify }}
+<script defer src="{{ $overlay.RelPermalink }}"></script>
 
 {{ end }}
