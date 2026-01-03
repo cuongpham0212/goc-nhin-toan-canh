@@ -112,175 +112,206 @@ reading:
       một cách tự nhiên.
 
 ---
+## Queen of Wands là gì?
 
-## Tổng quan về lá Queen of Wands
+**Queen of Wands** là lá bài đại diện cho **người đã làm chủ được ngọn lửa bên trong mình** –  
+không còn bị đốt cháy bởi đam mê, cũng không bị đè nặng bởi trách nhiệm.
 
-Nếu **Knight of Wands** là:
-👉 *“Mình phải đi ngay!”*  
+Nếu Ten of Wands là gánh nặng khiến lửa trở nên kiệt quệ,  
+thì Queen of Wands là khoảnh khắc **lửa trở về đúng vị trí** –  
+ấm áp, tự tin và lan tỏa mà không cần ép buộc.
 
-thì **Queen of Wands** là:
-👉 *“Mình đứng đây – và lửa tự lan.”*
-
-Đây là lá bài của:
-- Sự tự tin nội tại
-- Khả năng làm chủ năng lượng
-- Sức hút tự nhiên
-
-Queen of Wands không cần chạy nhanh,  
-vì **năng lượng của cô đã ổn định và đủ mạnh**.
+> Khi bạn không còn phải chứng minh mình mạnh mẽ,  
+> mà **chỉ cần hiện diện, người khác đã cảm nhận được năng lượng ấy**.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá Queen of Wands
 
-Hình ảnh quen thuộc của Queen of Wands thường là:
-- Một nữ hoàng ngồi vững trên ngai
-- Cầm cây gậy nhưng không giơ cao
-- Sư tử và hoa hướng dương xung quanh
+**Queen of Wands** thuộc nhóm **Wands (Gậy)** trong Tarot – đại diện cho **bản sắc hành động, sự tự tin và sức hút tự nhiên**.  
+Trong **Minor Arcana**, **Queen** là cấp độ của **nội lực chín muồi – làm chủ – ảnh hưởng mềm**.
 
-Biểu tượng này cho thấy:
-👉 *Lửa đã được thuần hóa.*
+Queen of Wands không nói về nỗ lực gồng gánh,  
+mà nói về:
+- Sự tự tin đến từ trải nghiệm
+- Khả năng truyền cảm hứng
+- Và việc sống đúng với bản chất của mình
 
-Không bốc đồng,  
-không phòng thủ,  
-chỉ còn **sự hiện diện đầy sinh lực**.
+Nếu:
+- Page of Wands là tò mò
+- Knight of Wands là bốc lửa
+- King of Wands là dẫn dắt bằng tầm nhìn
+
+thì Queen of Wands là:  
+**“Tôi là chính mình – và điều đó đã đủ.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Trong hình ảnh truyền thống của Queen of Wands, ta thường thấy:
+- **Nữ hoàng ngồi thẳng, tay cầm gậy** – làm chủ năng lượng hành động
+- **Hoa hướng dương** – sự sống, niềm vui và ánh sáng
+- **Mèo đen** – trực giác, sự độc lập và quyền lực nội tại
+
+Biểu tượng trung tâm của lá bài là:  
+**Sức mạnh thật sự không cần ồn ào.**
+
+Queen of Wands cho thấy:
+khi bạn sống đúng với bản chất,  
+**năng lượng tự nhiên sẽ tự thu hút mọi thứ cần thiết**.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Queen of Wands
+
+Queen of Wands mang năng lượng của **nguyên tố Lửa** ở trạng thái **trưởng thành và tự chủ**, thường được liên hệ với **Sao Kim (Venus)** trong **Sư Tử** – biểu trưng cho **sự tự tin, sức hút cá nhân và khả năng tỏa sáng một cách tự nhiên**.
+
+Với **Sư Tử**, Queen of Wands thể hiện hình ảnh:
+- Không cần tranh giành ánh đèn
+- Không cần áp đặt quyền lực
+- Mà **tỏa sáng vì chính mình đã là ánh sáng**
+
+Trong những giai đoạn mà một người **bước ra khỏi gánh nặng để sống đúng bản sắc**, việc hiểu cách cái tôi lành mạnh vận hành sẽ giúp giữ được sự cân bằng. Nếu bạn quan tâm đến cách cung này thể hiện tự tin, sáng tạo và ảnh hưởng cá nhân theo chu kỳ thời gian, có thể tham khảo thêm **[Tử vi cung Sư Tử năm 2026](/tu-vi/nam-2026/su-tu/)** như một gợi ý nhẹ nhàng.
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Queen of Wands
 
-### 👑 Tự tin và làm chủ
+### Tự tin và bản lĩnh
+
+Queen of Wands xuôi cho thấy:
+- Sự tự tin vững vàng
+- Không cần phô trương
+- Biết rõ giá trị của bản thân
+
+Đây là trạng thái của:
+**bản lĩnh – cuốn hút – chủ động**.
+
+---
+
+### Truyền cảm hứng
+
+Lá bài xuất hiện khi:
+- Bạn ảnh hưởng người khác bằng chính cách sống của mình
+- Không cần ép buộc hay thuyết phục
+- Chỉ cần là chính bạn
+
+Queen of Wands nhắc rằng:  
+👉 **Cảm hứng thật sự đến từ sự chân thật.**
+
+---
+
+### Làm chủ năng lượng hành động
 
 Queen of Wands xuôi phản ánh:
-- Niềm tin mạnh mẽ vào bản thân
-- Không cần chứng minh
-- Không sợ bị so sánh
-
-Đây là trạng thái:
-👉 *“Mình biết mình là ai.”*
-
----
-
-### 🌻 Ấm áp và cuốn hút
-
-Lá bài cho thấy:
-- Năng lượng tích cực
-- Khả năng truyền cảm hứng
-- Người khác thấy dễ gần, dễ tin
-
-Queen of Wands thu hút  
-**không bằng quyền lực, mà bằng khí chất**.
-
----
-
-### 🔥 Lửa chín – không còn đốt mình
-
-Khác với Knight:
-- Queen không tiêu hao
-- Không chạy theo hứng khởi nhất thời
-
-Đây là ngọn lửa:
-👉 *Cháy đều – cháy lâu.*
+- Biết khi nào nên tiến
+- Khi nào nên dừng
+- Và không để lửa đốt cháy chính mình
 
 ---
 
 ## Queen of Wands trong các khía cạnh đời sống
 
-### 🔹 Trong công việc & vai trò lãnh đạo
-
-- Dẫn dắt bằng niềm tin
-- Truyền động lực cho đội nhóm
-- Tạo không khí tích cực
-
-Lá bài khuyên:
-- Tin vào phong cách riêng
-- Không cần kiểm soát vi mô
+### Trong tình cảm
+Queen of Wands phản ánh:
+- Sự hấp dẫn tự nhiên
+- Tự tin trong tình yêu
+- Không phụ thuộc hay đánh mất bản thân
 
 ---
 
-### 🔹 Trong tình cảm
+### Trong công việc & cuộc sống
+Trong công việc, Queen of Wands cho thấy:
+- Khả năng dẫn dắt mềm
+- Sáng tạo và chủ động
+- Người khác tin tưởng vì năng lượng bạn mang lại
 
-Queen of Wands trong tình cảm phản ánh:
-- Sự cuốn hút tự nhiên
-- Yêu bằng sự hiện diện
-- Không lệ thuộc, không chiếm hữu
-
-Đây là kiểu yêu:
-👉 *Ở bên bạn, người khác thấy mình được là chính mình.*
+Đây là lúc **dẫn đường bằng sự hiện diện**, không phải bằng áp lực.
 
 ---
 
-### 🔹 Trong đời sống nội tâm
+## Queen of Wands (Ngược) – Tự nghi ngờ hoặc lửa bị che khuất
 
-Lá bài phản ánh:
-- Lòng tự trọng vững vàng
-- Kết nối tốt với đam mê sống
-
-Queen of Wands đặt câu hỏi:
-👉 *Bạn có đang cho phép mình tỏa sáng một cách thoải mái không?*
+Khi **Queen of Wands xuất hiện ở vị trí ngược**, lá bài phản ánh:
+- Mất tự tin
+- Thu mình lại
+- Hoặc quên mất giá trị thật của bản thân
 
 ---
 
-## Queen of Wands (Ngược) – Mất tự tin hoặc phô trương
+### Ý nghĩa chính
 
-Khi **Queen of Wands xuất hiện ở vị trí ngược**, lửa bị lệch hướng.
-
----
-
-### ⚠️ Ý nghĩa chính
-
-Queen of Wands ngược cho thấy:
-- Mất niềm tin vào bản thân
-- Hoặc phô trương quá mức để che giấu bất an
-- Ghen tị với ánh sáng người khác
-
-Vấn đề không phải thiếu lửa,  
-mà là:
-👉 *Không tin rằng mình đủ sáng.*
+Queen of Wands ngược thường liên quan đến:
+- So sánh bản thân với người khác
+- Để nỗi sợ che khuất ánh sáng nội tại
+- Hoặc đánh mất kết nối với đam mê thật sự
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Góc nhìn tâm lý
 
-Ở trạng thái ngược, lá bài phản ánh:
-- Giá trị bản thân gắn với sự chú ý
-- Sợ bị lu mờ
+Ở trạng thái ngược, Queen of Wands cho thấy:
+- Lửa vẫn còn, chỉ là bị che khuất
+- Cần quay lại với điều khiến bạn cảm thấy là chính mình
 
-Đây là lời nhắc:
-👉 *Bạn không cần cạnh tranh ánh sáng – bạn chính là ánh sáng.*
-
----
-
-### 🧭 Lời khuyên khi Queen of Wands ngược xuất hiện
-
-- Quay lại với điều làm bạn tự tin thật sự
-- Nuôi dưỡng đam mê thay vì so sánh
-- Cho phép mình tỏa sáng theo cách riêng
+Lá bài nhắc rằng:  
+**Bạn không cần trở thành ai khác để xứng đáng tỏa sáng.**
 
 ---
 
-## 🔗Để theo dõi mạch hành động của Wands, bạn có thể đọc thêm:
+### Lời khuyên khi Queen of Wands ngược xuất hiện
 
-- **[Knight of Wands – Táo Bạo Và Bốc Đồng](/tarot/la-bai/knight-of-wands/)**  
-- **[King of Wands – Lãnh Đạo Và Tầm Nhìn](/tarot/la-bai/king-of-wands/)**  
-- **[Page of Wands – Hứng Khởi Và Khám Phá](/tarot/la-bai/page-of-wands/)**  
-- **[Suit of Wands – Con Đường Hành Động](/tarot/la-bai/suit-of-wands/)**  
+- Nhắc lại cho mình đã đi xa đến đâu
+- Ngừng so sánh
+- Nuôi lại niềm vui sống từ những điều nhỏ
+
+---
+
+## 👉 Xem toàn bộ mạch hành động
+
+**[Suit of Wands – Hành Trình Hành Động](/tarot/la-bai/suit-of-wands/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Queen of Wands
 
 **Xuôi:**
-- 👑 Tự tin
-- 🌻 Ấm áp
-- 🔥 Làm chủ năng lượng
+- Tự tin  
+- Cuốn hút  
+- Làm chủ bản thân  
 
 **Ngược:**
-- ⚠️ Mất tự tin
-- 🌫️ Phô trương
-- 🧭 Cần quay về giá trị thật
+- Tự nghi ngờ  
+- Thu mình  
+- Lửa bị che khuất  
 
 Queen of Wands nhắc ta rằng:  
-**Khi bạn thật sự tin vào mình, bạn không cần làm gì cả – sự hiện diện đã đủ tạo ra lửa.**
+**Khi lửa không còn là gánh nặng,  
+nó trở thành bản sắc – và tự nhiên dẫn đường cho người khác.**
 
-👉 Xem toàn bộ mạch: **[Suit of Wands – Con Đường Hành Động](/tarot/la-bai/suit-of-wands/)**
+---
+
+## 🔗 Để hiểu sâu hơn Hoàng Gia Wands, bạn có thể tham khảo thêm:
+
+- **[Page of Wands – Tia Lửa Đầu Tiên](/tarot/la-bai/page-of-wands/)**  
+- **[King of Wands – Lãnh Đạo Bằng Tầm Nhìn](/tarot/la-bai/king-of-wands/)**  
+- **[Bộ Ẩn Phụ – Suit of Wands](/tarot/la-bai/suit-of-wands/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
+
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Queen of Wands
+
+**Queen of Wands có phải là lá bài quyền lực không?**  
+Có, nhưng là quyền lực mềm – đến từ sự tự tin và bản sắc.
+
+**Queen of Wands trong tình yêu nói lên điều gì?**  
+Là sự hấp dẫn tự nhiên, không phụ thuộc, không đánh mất mình.
+
+**Queen of Wands ngược có đáng lo không?**  
+Không, đó là lời nhắc quay lại với ánh sáng bên trong.
+
+**Queen of Wands có liên quan đến lãnh đạo không?**  
+Có, nhưng là lãnh đạo bằng cảm hứng và sự hiện diện.

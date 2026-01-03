@@ -111,178 +111,206 @@ reading:
 
 ---
 
-## Tổng quan về lá Knight of Pentacles
+## Knight of Pentacles là gì?
 
-**Knight of Pentacles** là hiện thân của câu nói:  
-👉 *“Không nhanh, nhưng không bỏ cuộc.”*
+**Knight of Pentacles** là lá bài đại diện cho **sự kiên trì bền bỉ**, tinh thần **làm việc đều đặn, chậm rãi nhưng chắc chắn**, và khả năng **theo đuổi mục tiêu đến cùng mà không cần hào nhoáng**.
 
-Sau tinh thần học hỏi khiêm tốn của **Page of Pentacles**, Knight bước ra không phải để thử,  
-mà để **đi đường dài và đi cho đến cùng**.
+Nếu Page of Pentacles là sự khởi đầu học hỏi,  
+thì Knight of Pentacles là **giai đoạn duy trì – rèn luyện – giữ vững nhịp độ**.
 
-Đây là lá bài của:
-- Sự kiên trì
-- Kỷ luật
-- Cam kết bền bỉ
-
-Knight of Pentacles không tìm đường tắt.  
-Nó chọn **con đường chắc nhất**, dù chậm hơn tất cả.
+> Không vội vã tiến lên,  
+> không phân tâm bởi lời gọi bên đường,  
+> Knight of Pentacles chọn **đi tiếp – từng bước một**.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá Knight of Pentacles
 
-Hình ảnh quen thuộc của Knight of Pentacles thường là:
-- Một hiệp sĩ ngồi yên trên lưng ngựa
-- Ngựa đứng vững, không lao nhanh
-- Hiệp sĩ chăm chú nhìn vào đồng Pentacle trên tay
+**Knight of Pentacles** thuộc nhóm **Pentacles** – đại diện cho **vật chất, công việc, tiền bạc và những giá trị có thể xây dựng được trong đời sống thực**.  
+Trong hệ **Minor Arcana**, Knight là hình ảnh của **hành động có định hướng**, nhưng mỗi Knight mang một nhịp riêng.
 
-Biểu tượng này truyền tải thông điệp:
-👉 *Sức mạnh thật sự nằm ở sự ổn định, không phải tốc độ.*
+Với Knight of Pentacles, nhịp đó là:
+- Chậm
+- Ổn định
+- Có kế hoạch rõ ràng
+- Và **rất khó bị lay chuyển**
 
-Mọi thứ đều chậm,  
-nhưng **không có gì là hời hợt**.
+Nếu:
+- Page of Pentacles là “bắt đầu học”
+- Knight of Pentacles là “làm đều mỗi ngày”
+- Queen of Pentacles là “nuôi dưỡng”
+- King of Pentacles là “làm chủ”
+
+thì Knight of Pentacles chính là:  
+**“Ở lại với con đường đã chọn – dù chưa thấy kết quả ngay.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Hình ảnh quen thuộc của Knight of Pentacles thường bao gồm:
+- **Kỵ sĩ đứng yên trên lưng ngựa** – không lao nhanh, không hấp tấp
+- **Đồng Pentacle được nâng niu** – giá trị vật chất được trân trọng
+- **Khung cảnh đất đai rộng, màu sắc trầm** – sự ổn định, thực tế
+
+Điểm cốt lõi của lá bài này là:  
+**Sự tiến bộ không đến từ tốc độ, mà từ tính nhất quán.**
+
+Knight of Pentacles không hứa hẹn thành công nhanh,  
+nhưng gần như **luôn đi tới đích nếu không bỏ cuộc giữa chừng**.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Knight of Pentacles
+
+Knight of Pentacles thường được liên kết với **cung Kim Ngưu (Taurus)** – cung hoàng đạo đại diện cho **sự bền bỉ, kiên nhẫn và khả năng xây dựng giá trị lâu dài**.
+
+Năng lượng Kim Ngưu trong lá bài này thể hiện qua:
+- Làm việc chậm nhưng chắc
+- Không thích rủi ro
+- Trung thành với kế hoạch đã chọn
+
+Nếu bạn quan tâm đến cách năng lượng này vận hành trong đời sống thực tế theo từng giai đoạn, có thể tham khảo thêm:  
+**[Tử vi cung Kim Ngưu năm 2026](/tu-vi/nam-2026/kim-nguu/)**
+
+Knight of Pentacles nhắc rằng:  
+**Không phải ai đi nhanh cũng đi xa –  
+người đi đều thường là người còn đứng vững sau cùng.**
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Knight of Pentacles
 
-### 🐢 Kiên trì và bền bỉ
+### Kiên trì và trách nhiệm
 
-Knight of Pentacles xuôi phản ánh:
-- Làm việc đều đặn
-- Không bỏ dở giữa chừng
-- Tiến từng bước nhỏ nhưng chắc chắn
+Knight of Pentacles xuôi cho thấy:
+- Tinh thần trách nhiệm cao
+- Sự nghiêm túc với công việc
+- Khả năng theo đuổi mục tiêu lâu dài
 
-Đây là năng lượng:
-👉 *Mỗi ngày một chút – rồi sẽ tới.*
-
----
-
-### 🧱 Kỷ luật và trách nhiệm
-
-Lá bài nhấn mạnh:
-- Tôn trọng quy trình
-- Giữ lời hứa
-- Chịu trách nhiệm với lựa chọn của mình
-
-Knight of Pentacles nhắc:
-👉 *Tài năng không đủ nếu thiếu kỷ luật.*
+Đây là lá bài của:  
+**làm việc đều – không bỏ dở – không nản giữa đường**.
 
 ---
 
-### 🧠 Cam kết dài hạn
+### Tập trung và kỷ luật
 
-Đây không phải lá của cảm hứng bùng nổ,  
-mà là của:
-- Sự cam kết
-- Sự bền gan
-- Sự trung thành với mục tiêu
+Lá bài này xuất hiện khi:
+- Bạn đang xây dựng nền tảng
+- Cần duy trì nhịp làm việc ổn định
+- Hoặc đang ở giai đoạn “chưa có kết quả nhưng không được bỏ”
 
-Knight of Pentacles là người **làm xong việc đã nhận**, dù mất bao lâu.
+Knight of Pentacles nói rằng:  
+👉 **Tiến chậm không sao – miễn là không dừng lại.**
+
+---
+
+### Đáng tin cậy
+
+Trong trải bài, Knight of Pentacles còn đại diện cho:
+- Một người đáng tin
+- Một cộng sự bền bỉ
+- Hoặc chính bạn, khi đã học cách **giữ lời với bản thân**
 
 ---
 
 ## Knight of Pentacles trong các khía cạnh đời sống
 
-### 🔹 Trong công việc & sự nghiệp
+### Trong tình cảm
+Knight of Pentacles thể hiện kiểu yêu **chậm, chắc và lâu dài**. Không lãng mạn ồn ào, không hứa hẹn lớn lao, nhưng là người **ở lại – chăm sóc – xây dựng từng ngày**.
 
+### Trong công việc & tài chính
+Trong công việc, đây là lá bài rất tích cực cho:
 - Công việc ổn định
-- Lộ trình rõ ràng
-- Tiến chậm nhưng bền
+- Dự án dài hạn
+- Tích lũy tài chính bền vững
 
-Lá bài khuyên:
-- Tiếp tục làm việc đang làm
-- Đừng nản vì chưa thấy kết quả nhanh
-
----
-
-### 🔹 Trong tình cảm
-
-Knight of Pentacles trong tình cảm phản ánh:
-- Chung thủy
-- Đáng tin
-- Thể hiện tình yêu bằng hành động đều đặn
-
-Đây là tình yêu:
-👉 *Không lãng mạn bốc đồng, nhưng rất lâu bền.*
+Không phù hợp với đầu cơ nhanh,  
+nhưng **rất mạnh trong xây dựng nền móng lâu dài**.
 
 ---
 
-### 🔹 Trong đời sống nội tâm
+## Knight of Pentacles (Ngược) – Khi sự ổn định trở thành trì trệ
 
-Lá bài phản ánh:
-- Sự vững vàng bên trong
-- Không bị cuốn theo so sánh
-- Tập trung vào con đường của riêng mình
+Khi **Knight of Pentacles xuất hiện ở vị trí ngược**, lá bài cảnh báo về **sự cứng nhắc hoặc chậm trễ quá mức**.
 
-Knight of Pentacles đặt ra câu hỏi:
-👉 *Bạn có sẵn sàng đi chậm, nếu đó là cách duy nhất để đi tới nơi?*
+### Ý nghĩa chính
 
----
+Knight of Pentacles ngược thường cho thấy:
+- Lặp lại một cách máy móc
+- Sợ thay đổi
+- Mắc kẹt trong vùng an toàn
 
-## Knight of Pentacles (Ngược) – Trì trệ hoặc bảo thủ
-
-Khi **Knight of Pentacles xuất hiện ở vị trí ngược**, nó phản ánh:
-- Chậm đến mức đứng yên
-- Bảo thủ
-- Ngại thay đổi
+Đây không phải là lười biếng, mà là:  
+**đi tiếp… nhưng không còn ý thức mình đang đi đâu**.
 
 ---
 
-### ⚠️ Ý nghĩa chính
-
-Knight of Pentacles ngược cho thấy:
-- Mắc kẹt trong thói quen
-- Sợ rủi ro
-- Làm vì nghĩa vụ hơn là vì mục tiêu
-
-Sự kiên trì lúc này **biến thành trì trệ**.
-
----
-
-### 🧠 Góc nhìn tâm lý
+### Góc nhìn tâm lý
 
 Ở trạng thái ngược, lá bài phản ánh:
-- Sợ sai
-- Sợ mất kiểm soát
-- Dùng “ổn định” để né tránh thay đổi cần thiết
+- Sự bám víu vào thói quen cũ
+- Ngại điều chỉnh kế hoạch
+- Hoặc nỗi sợ rủi ro che mờ tầm nhìn dài hạn
 
-Đây là lời nhắc:
-👉 *Không phải mọi thay đổi đều phá vỡ nền tảng.*
-
----
-
-### 🧭 Lời khuyên khi Knight of Pentacles ngược xuất hiện
-
-- Xem lại mục tiêu ban đầu
-- Linh hoạt điều chỉnh phương pháp
-- Cho phép bản thân thử một nhịp mới
-
-Bền bỉ là sức mạnh,  
-nhưng **bền bỉ mà không tỉnh táo sẽ trở thành gánh nặng**.
+Lá bài nhắc:  
+**Kiên trì không có nghĩa là cố chấp.**
 
 ---
 
-## 🔗Để hiểu trọn vẹn mạch Pentacles, bạn có thể đọc thêm:
+### Lời khuyên khi Knight of Pentacles ngược xuất hiện
 
-- **[Page of Pentacles – Học Hỏi Và Khởi Động Thực Tế](/tarot/la-bai/page-of-pentacles/)**  
-- **[Queen of Pentacles – Nuôi Dưỡng Và Đủ Đầy](/tarot/la-bai/queen-of-pentacles/)**  
+- Kiểm tra lại mục tiêu ban đầu
+- Cho phép điều chỉnh nhịp đi
+- Đừng nhầm lẫn giữa “ổn định” và “đứng yên”
+
+---
+
+## 👉 Xem toàn bộ mạch vật chất & xây dựng
+
+**[Suit of Pentacles – Hành Trình Vật Chất](/tarot/la-bai/suit-of-pentacles/)**  
+
+---
+
+## Đọc tiếp các hướng liên quan
+
+- **[Page of Pentacles – Khởi đầu học hỏi](/tarot/la-bai/page-of-pentacles/)**
+- **[Queen of Pentacles – Nuôi dưỡng & an toàn](/tarot/la-bai/queen-of-pentacles/)**
+- **[King of Pentacles – Làm chủ & ổn định](/tarot/la-bai/king-of-pentacles/)**
+- **[Hướng dẫn đọc Tarot theo góc nhìn thực tế](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Knight of Pentacles
 
 **Xuôi:**
-- 🐢 Kiên trì, chậm mà chắc
-- 🧱 Kỷ luật và trách nhiệm
-- 🧠 Cam kết dài hạn
+- Kiên trì  
+- Kỷ luật  
+- Đáng tin cậy  
+- Xây dựng dài hạn  
 
 **Ngược:**
-- ⚠️ Trì trệ, bảo thủ
-- 🧠 Ngại thay đổi
-- 🧭 Cần linh hoạt hơn
+- Trì trệ  
+- Cứng nhắc  
+- Ngại thay đổi  
+- Mất động lực ngầm  
 
 Knight of Pentacles nhắc ta rằng:  
-**Không phải ai đi nhanh nhất sẽ tới đích – mà là người không bỏ cuộc.**
+**Thành quả bền vững không đến từ may mắn,  
+mà từ những bước chân đều đặn không bỏ cuộc.**
 
-👉 Xem toàn bộ mạch: **[Suit of Pentacles – Con Đường Vật Chất](/tarot/la-bai/suit-of-pentacles/)**
+---
+
+## Các câu hỏi thường gặp khi trải bài với Knight of Pentacles
+
+**Knight of Pentacles có phải lá bài chậm chạp không?**  
+Không. Đây là lá bài của nhịp ổn định, không phải trì trệ.
+
+**Knight of Pentacles trong tình yêu có nhàm chán không?**  
+Không. Nó đại diện cho sự gắn bó và đáng tin, không phải cảm xúc nhất thời.
+
+**Knight of Pentacles ngược có xấu không?**  
+Không hẳn. Nó là lời nhắc cần điều chỉnh, không phải dấu hiệu thất bại.
+
+**Knight of Pentacles phù hợp với công việc gì?**  
+Những công việc cần tính kỷ luật, dài hạn, tích lũy và xây dựng nền tảng.

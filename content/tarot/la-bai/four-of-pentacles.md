@@ -121,178 +121,200 @@ reading:
 
 ---
 
-## Tổng quan về lá Four of Pentacles
+## Four of Pentacles là gì?
 
-**Four of Pentacles** xuất hiện sau giai đoạn hợp tác và xây dựng của **Three of Pentacles**.  
-Khi đã có được **một vị trí, một giá trị, một nền tảng**, nỗi sợ mới bắt đầu hình thành:
+**Four of Pentacles** là lá bài đại diện cho **trạng thái giữ chặt để cảm thấy an toàn** –  
+giữ tiền, giữ vị trí, giữ quyền kiểm soát,  
+vì bên dưới đó là **nỗi sợ mất đi những gì đã rất khó mới có được**.
 
-👉 *Nếu mất đi thì sao?*
+Nếu Three of Pentacles là cùng nhau xây dựng,  
+thì Four of Pentacles là khoảnh khắc **bạn đứng trước thành quả đầu tiên và ôm chặt lấy nó** –  
+không phải vì tham,  
+mà vì **đã từng thiếu quá lâu**.
 
-Đây là lá bài của:
-- Sự bám giữ
-- Nỗi sợ mất mát
-- Mong muốn kiểm soát để cảm thấy an toàn
-
-Four of Pentacles không nói về tham lam đơn thuần,  
-mà nói về **nỗi bất an sâu bên trong khi ta đồng nhất giá trị bản thân với những gì mình đang có**.
+> Có những cái giữ không phải vì muốn thêm,  
+> mà vì **sợ quay lại những ngày trắng tay**.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá Four of Pentacles
 
-Hình ảnh quen thuộc của Four of Pentacles thường là:
-- Một người ngồi giữ chặt các đồng Pentacle
-- Một đồng trên đầu, hai đồng dưới chân, một đồng trước ngực
-- Tư thế khép kín, phòng thủ
+**Four of Pentacles** thuộc nhóm **Pentacles (Tiền/Xu)** trong Tarot – đại diện cho **sự an toàn vật chất, quyền sở hữu và nhu cầu kiểm soát**.  
+Trong **Minor Arcana**, số **4** mang ý nghĩa của **ổn định – cấu trúc – nền tảng**.
 
-Biểu tượng này truyền tải thông điệp:
-👉 *Khi quá sợ mất, ta vô tình tự giam mình.*
+Four of Pentacles không nói về sai hay đúng,  
+mà nói về:
+- Nỗi sợ mất mát
+- Xu hướng giữ chặt
+- Và ranh giới mong manh giữa an toàn và kẹt cứng
 
-Pentacle được giữ rất chặt,  
-nhưng người giữ **không hề thoải mái**.
+Nếu:
+- Two of Pentacles là xoay xở  
+- Three of Pentacles là xây dựng  
+
+thì Four of Pentacles là:  
+**“Tôi giữ – vì tôi không muốn mất thêm lần nào nữa.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Trong hình ảnh truyền thống của Four of Pentacles, ta thường thấy:
+- **Một người ôm chặt đồng tiền** – giữ
+- **Đồng tiền trên đầu và dưới chân** – kiểm soát toàn diện
+- **Tư thế khép kín** – phòng thủ
+
+Biểu tượng trung tâm của lá bài là:  
+**An toàn tuyệt đối có thể trở thành nhà tù vô hình.**
+
+Four of Pentacles cho thấy:
+giữ giúp bạn **đứng vững một thời gian**,  
+nhưng **giữ quá lâu sẽ ngăn dòng chảy**.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Four of Pentacles
+
+Four of Pentacles mang năng lượng của **nguyên tố Đất (Earth)** kết hợp với **Sao Thổ (Saturn)** – biểu trưng cho **nỗi sợ thiếu thốn, nhu cầu kiểm soát và xu hướng co cụm để tự bảo vệ**.
+
+Về cung hoàng đạo, lá bài này có sự tương đồng mạnh với **Ma Kết** – cung của **an toàn, trách nhiệm và nỗi lo dài hạn**.  
+Đặc biệt với **Ma Kết**, Four of Pentacles thể hiện rất rõ qua việc **giữ chặt những gì đã đạt được vì sợ mất nền móng đã xây quá vất vả**. Nếu anh muốn soi chiếu nhịp này theo chu kỳ, có thể tham khảo **[Tử vi cung Ma Kết năm 2026](/tu-vi/nam-2026/ma-ket/)** như một gợi ý nhẹ, đúng tinh thần giữ – và học cách nới.
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Four of Pentacles
 
-### 🔒 Giữ chặt để cảm thấy an toàn
+### Giữ chặt để an toàn
+
+Four of Pentacles xuôi cho thấy:
+- Tiết kiệm
+- Phòng thủ
+- Không muốn mạo hiểm
+
+Đây là giai đoạn của:
+**giữ – bảo toàn – không dám buông**.
+
+---
+
+### Nỗi sợ mất mát
+
+Lá bài xuất hiện khi:
+- Bạn đã từng thiếu
+- Không muốn rơi lại cảnh cũ
+- Và chọn giữ hơn là mở
+
+Four of Pentacles nhắc rằng:  
+👉 **Giữ giúp ta an tâm, nhưng không giúp ta lớn lên.**
+
+---
+
+### Ranh giới mong manh
 
 Four of Pentacles xuôi phản ánh:
-- Sợ mất tiền
-- Sợ mất vị trí
-- Sợ mất những gì đã vất vả xây dựng
-
-Đây là trạng thái:
-- Phòng thủ
-- Khó chia sẻ
-- Khó mở lòng
-
----
-
-### 🧠 Nhu cầu kiểm soát
-
-Lá bài cho thấy:
-- Muốn kiểm soát hoàn cảnh
-- Muốn giữ mọi thứ trong tầm tay
-- Lo lắng khi có sự thay đổi
-
-Sự kiểm soát này xuất phát từ:
-👉 *Nỗi sợ hơn là sức mạnh.*
-
----
-
-### ⚖️ Ranh giới giữa giữ gìn và bám víu
-
-Four of Pentacles đặt ra câu hỏi quan trọng:
-- Giữ để bảo vệ?
-- Hay giữ vì sợ mất?
-
-Giữ gìn là lành mạnh.  
-Bám víu quá mức khiến dòng chảy **bị tắc nghẽn**.
+- An toàn nhưng cứng
+- Ổn định nhưng thiếu linh hoạt
 
 ---
 
 ## Four of Pentacles trong các khía cạnh đời sống
 
-### 🔹 Trong công việc & tài chính
-
-- Quá thận trọng trong chi tiêu
-- Ngại đầu tư
-- Sợ rủi ro dù có tiềm năng
-
-Lá bài khuyên:
-- Xem lại động cơ đằng sau quyết định
-- Tránh để nỗi sợ cản trở sự phát triển
+### Trong tình cảm
+Four of Pentacles phản ánh:
+- Ghen ngầm
+- Chiếm hữu
+- Sợ mất nên không dám mở lòng
 
 ---
 
-### 🔹 Trong tình cảm
-
-Four of Pentacles trong tình cảm cho thấy:
-- Ghen tuông
-- Sở hữu
-- Sợ mất người mình yêu
-
-Sự bám giữ này có thể khiến mối quan hệ:
-👉 *Ngột ngạt và thiếu tự do.*
-
----
-
-### 🔹 Trong đời sống nội tâm
-
-Lá bài phản ánh:
-- Gắn giá trị bản thân với tài sản, địa vị
-- Khó tin tưởng cuộc sống
+### Trong công việc & cuộc sống
+Trong công việc, Four of Pentacles cho thấy:
 - Sợ thay đổi
+- Giữ vị trí
+- Không dám đầu tư
 
-Four of Pentacles nhắc ta:
-👉 *An toàn thật sự không đến từ việc giữ chặt, mà từ khả năng thích nghi khi mất đi.*
-
----
-
-## Four of Pentacles (Ngược) – Buông lỏng và giải phóng
-
-Khi **Four of Pentacles xuất hiện ở vị trí ngược**, đây là dấu hiệu của:
-- Sự nới lỏng
-- Buông bớt kiểm soát
-- Hoặc ngược lại: mất mát đột ngột do giữ quá lâu
+Đây là lúc **tự hỏi: mình đang giữ để sống, hay giữ vì sợ?**
 
 ---
 
-### 🌬️ Ý nghĩa chính
+## Four of Pentacles (Ngược) – Buông ra hoặc mất kiểm soát
 
-Four of Pentacles ngược có thể phản ánh:
+Khi **Four of Pentacles xuất hiện ở vị trí ngược**, lá bài phản ánh:
+- Bắt đầu nới lỏng
+- Hoặc mất kiểm soát do giữ quá lâu
+
+---
+
+### Ý nghĩa chính
+
+Four of Pentacles ngược thường liên quan đến:
 - Học cách chia sẻ
-- Cởi mở hơn
-- Hoặc bị buộc phải buông do hoàn cảnh
-
-Dù theo cách nào, **dòng chảy cũng đang được kích hoạt trở lại**.
+- Hoặc buông trong hoảng loạn
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Góc nhìn tâm lý
 
-Ở trạng thái ngược, lá bài cho thấy:
-- Nhận diện được nỗi sợ cũ
-- Hoặc khủng hoảng vì mất kiểm soát
+Ở trạng thái ngược, Four of Pentacles cho thấy:
+- Nỗi sợ đang được nhìn ra
+- Nhưng cần buông đúng cách
 
-Đây là giai đoạn:
-👉 *Học cách tin rằng mình vẫn ổn, ngay cả khi không nắm giữ.*
-
----
-
-### 🧭 Lời khuyên khi Four of Pentacles ngược xuất hiện
-
-- Thực hành buông lỏng từng chút
-- Học cách chia sẻ
-- Đặt câu hỏi: điều gì thật sự khiến bạn sợ mất?
-
-Buông bỏ không đồng nghĩa với mất mát,  
-mà là **tạo không gian cho điều mới bước vào**.
+Lá bài nhắc rằng:  
+**Buông không phải là mất, nếu buông có ý thức.**
 
 ---
 
-## 🔗Để hiểu trọn vẹn mạch Pentacles, bạn có thể đọc thêm:
+### Lời khuyên khi Four of Pentacles ngược xuất hiện
 
-- **[Ace of Pentacles – Hạt Giống Thịnh Vượng](/tarot/la-bai/ace-of-pentacles/)**  
-- **[Two of Pentacles – Cân Bằng Và Linh Hoạt](/tarot/la-bai/two-of-pentacles/)**  
-- **[Three of Pentacles – Hợp Tác Và Xây Dựng](/tarot/la-bai/three-of-pentacles/)**  
+- Xem lại thứ gì cần giữ, thứ gì nên nới
+- Đừng đồng nhất an toàn với kiểm soát
+- Cho phép dòng chảy quay lại
+
+---
+
+## 👉 Tiếp mạch giá trị của Suit of Pentacles
+
+**[Suit of Pentacles – Hành Trình Xây Dựng Giá Trị](/tarot/suit-of-pentacles/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Four of Pentacles
 
 **Xuôi:**
-- 🔒 Giữ chặt và phòng thủ
-- 🧠 Nỗi sợ mất mát
-- ⚖️ Nguy cơ bám víu quá mức
+- Giữ chặt  
+- Phòng thủ  
+- Sợ mất  
 
 **Ngược:**
-- 🌬️ Buông lỏng và giải phóng
-- 🧠 Nhận diện nỗi sợ
-- 🧭 Tạo dòng chảy mới
+- Nới lỏng  
+- Buông dần  
+- Học chia sẻ  
 
 Four of Pentacles nhắc ta rằng:  
-**Khi ta giữ quá chặt, không chỉ thứ ta giữ bị kẹt – mà chính ta cũng vậy.**
+**Giữ có thể giúp ta không ngã,  
+nhưng chỉ buông đúng lúc mới giúp ta đi tiếp.**
 
-👉 Xem toàn bộ mạch: **[Suit of Pentacles – Con Đường Vật Chất](/tarot/la-bai/suit-of-pentacles/)**
+---
+
+## 🔗 Để tiếp tục mạch Suit of Pentacles, bạn có thể tham khảo thêm:
+
+- **[Three of Pentacles – Xây Dựng Cùng Nhau](/tarot/la-bai/three-of-pentacles/)**  
+- **[Five of Pentacles – Thiếu Thốn Và Bị Bỏ Lại](/tarot/la-bai/five-of-pentacles/)**  
+- **[Bộ Ẩn Phụ – Suit of Pentacles](/tarot/la-bai/suit-of-pentacles/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
+
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Four of Pentacles
+
+**Four of Pentacles có phải là tham lam không?**  
+Không hẳn. Thường là nỗi sợ mất mát và mong muốn an toàn.
+
+**Four of Pentacles trong tình yêu nói lên điều gì?**  
+Xu hướng chiếm hữu, giữ chặt vì sợ mất người kia.
+
+**Four of Pentacles ngược có tích cực không?**  
+Có thể tích cực nếu đó là quá trình học cách buông và chia sẻ.
+
+**Four of Pentacles dạy bài học gì?**  
+Rằng an toàn thật sự đến từ dòng chảy lành mạnh, không phải từ việc giữ chặt mọi thứ.

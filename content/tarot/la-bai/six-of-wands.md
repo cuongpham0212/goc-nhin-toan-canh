@@ -113,175 +113,204 @@ reading:
       vào sự tán dương bên ngoài.
 
 ---
+## Six of Wands là gì?
 
-## Tổng quan về lá Six of Wands
+**Six of Wands** là lá bài đại diện cho **chiến thắng được nhìn thấy** –  
+khi nỗ lực sau va chạm **được công nhận, tôn vinh và chiếu sáng trước đám đông**.
 
-Sau **Five of Wands – cạnh tranh và hỗn loạn**,  
-**Six of Wands** xuất hiện như một kết quả tự nhiên:
+Nếu Five of Wands là cuộc thử lửa giữa nhiều cái tôi,  
+thì Six of Wands là khoảnh khắc **một hướng đi nổi bật lên** –  
+không chỉ vì thắng, mà vì **được nhìn nhận là xứng đáng**.
 
-👉 *Có người nổi bật – có người được gọi tên.*
-
-Đây là lá bài của:
-- Chiến thắng
-- Ghi nhận
-- Thành tựu được công khai
-
-Six of Wands không nói về chiến thắng thầm lặng,  
-mà nói về:
-👉 *Chiến thắng được nhìn thấy.*
+> Khi bạn không còn phải chứng minh bằng tranh cãi,  
+> mà bằng kết quả khiến người khác tự nhìn thấy.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá Six of Wands
 
-Hình ảnh quen thuộc của Six of Wands thường là:
-- Một người cưỡi ngựa
-- Cầm gậy có vòng nguyệt quế
-- Đám đông xung quanh tung hô
+**Six of Wands** thuộc nhóm **Wands (Gậy)** trong Tarot – đại diện cho **hành động, danh dự và sự ghi nhận**.  
+Trong **Minor Arcana**, số **6** mang ý nghĩa của **hài hòa sau xung đột – thành quả bước đầu**.
 
-Biểu tượng này cho thấy:
-👉 *Không chỉ thắng – mà được công nhận là thắng.*
+Six of Wands không nói về chiến thắng cuối cùng,  
+mà nói về:
+- Một thành tựu nổi bật
+- Sự công nhận từ tập thể
+- Và cảm giác “mình đã làm được”
 
-Ngựa đại diện cho:
-- Động lực
-- Tiến lên
-- Sự dẫn đầu
+Nếu:
+- Five of Wands là “ai cũng muốn thắng”
+
+thì Six of Wands là:  
+**“Có người đã bước lên và được gọi tên.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Trong hình ảnh truyền thống của Six of Wands, ta thường thấy:
+- **Nhân vật cưỡi ngựa, cầm gậy chiến thắng** – người dẫn đầu
+- **Vòng nguyệt quế** – vinh quang và công nhận
+- **Đám đông xung quanh** – ánh nhìn, sự tán thưởng
+
+Biểu tượng trung tâm của lá bài là:  
+**Chiến thắng thật sự là chiến thắng được nhìn thấy.**
+
+Six of Wands cho thấy:
+bạn không chỉ vượt qua thử thách,  
+mà còn **được thế giới phản hồi bằng sự ghi nhận**.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Six of Wands
+
+Six of Wands mang năng lượng của **nguyên tố Lửa** ở trạng thái **tỏa sáng và dẫn dắt**, thường được liên hệ với **Mặt Trời (Sun)** trong **Sư Tử** – biểu trưng cho **vinh quang, danh dự và nhu cầu được công nhận chính đáng**.
+
+Với **Sư Tử**, năng lượng của Six of Wands thể hiện rất rõ qua:
+- Mong muốn được nhìn nhận
+- Niềm tự hào lành mạnh về thành quả
+- Và khả năng đứng ở trung tâm mà không đánh mất bản sắc
+
+Trong những giai đoạn đời sống khi **ánh nhìn tập thể đổ dồn về một cá nhân**, việc hiểu rõ nhịp vận hành của cái tôi và danh dự trở nên đặc biệt quan trọng. Nếu bạn quan tâm đến cách cung này cân bằng giữa tỏa sáng và trách nhiệm theo thời gian, có thể tham khảo thêm **[Tử vi cung Sư Tử năm 2026](/tu-vi/nam-2026/su-tu/)** như một góc nhìn định hướng.
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Six of Wands
 
-### 🏆 Chiến thắng và thành công
+### Chiến thắng và ghi nhận
 
-Six of Wands xuôi phản ánh:
-- Thành tựu đạt được
-- Mục tiêu bước đầu hoàn thành
-- Nỗ lực được đền đáp
+Six of Wands xuôi cho thấy:
+- Thành công được công khai
+- Nỗ lực được ghi nhận
+- Sự ủng hộ từ môi trường xung quanh
 
-Đây là khoảnh khắc:
-👉 *“Mình đã làm được.”*
-
----
-
-### 👏 Được ghi nhận và tôn vinh
-
-Lá bài cho thấy:
-- Được công nhận
-- Được khen ngợi
-- Được tin tưởng giao vai trò cao hơn
-
-Six of Wands nhắc:
-👉 *Sự ghi nhận là cần thiết để nuôi dưỡng động lực.*
+Đây là giai đoạn của:
+**vinh quang – tự tin – khẳng định vị thế**.
 
 ---
 
-### 🔥 Cái tôi được nâng lên
+### Dẫn dắt và ảnh hưởng
 
-Đây là mặt hai của lá bài:
-- Tự tin tăng mạnh
-- Cảm giác mình “ở trên”
+Lá bài xuất hiện khi:
+- Bạn trở thành hình mẫu
+- Người khác nhìn vào bạn để lấy cảm hứng
+- Hoặc bạn được chọn làm người đại diện
 
-Six of Wands đặt ra câu hỏi ngầm:
-👉 *Bạn sẽ dùng chiến thắng này để dẫn dắt, hay để tự mãn?*
+Six of Wands nhắc rằng:  
+👉 **Được nhìn thấy là một trách nhiệm, không chỉ là phần thưởng.**
+
+---
+
+### Tự tin lành mạnh
+
+Six of Wands xuôi còn phản ánh:
+- Niềm tin vào bản thân
+- Sự tự hào không cần phô trương
+- Biết mình đang ở đâu và vì sao mình xứng đáng
 
 ---
 
 ## Six of Wands trong các khía cạnh đời sống
 
-### 🔹 Trong công việc & sự nghiệp
+### Trong tình cảm
+Six of Wands cho thấy:
+- Cảm giác được trân trọng
+- Mối quan hệ được công nhận
+- Hoặc niềm vui khi tình cảm được “đưa ra ánh sáng”
 
+---
+
+### Trong công việc & cuộc sống
+Trong công việc, Six of Wands báo hiệu:
 - Thăng tiến
-- Thành công công khai
-- Được cấp trên hoặc tập thể công nhận
+- Được khen thưởng
+- Hoặc thành tích được nhiều người biết đến
 
-Lá bài khuyên:
-- Tận dụng đà chiến thắng
-- Nhưng đừng quên đội nhóm đã cùng đi qua Five of Wands
+Đây là lúc **tận hưởng thành quả**, nhưng cũng chuẩn bị cho thử thách mới.
 
 ---
 
-### 🔹 Trong tình cảm
+## Six of Wands (Ngược) – Thiếu ghi nhận hoặc lệ thuộc vào ánh nhìn bên ngoài
 
-Six of Wands trong tình cảm phản ánh:
-- Mối quan hệ được công khai
-- Cảm giác tự hào về người kia
-- Được “chọn” hoặc được ưu ái
-
-Đây là giai đoạn:
-👉 *Yêu mà không cần giấu.*
-
----
-
-### 🔹 Trong đời sống nội tâm
-
-Lá bài phản ánh:
-- Lòng tự trọng tăng lên
-- Niềm tin vào bản thân được củng cố
-
-Six of Wands đặt ra câu hỏi:
-👉 *Bạn có đang cần sự công nhận bên ngoài để thấy mình có giá trị không?*
-
----
-
-## Six of Wands (Ngược) – Tự ái hoặc sợ bị lu mờ
-
-Khi **Six of Wands xuất hiện ở vị trí ngược**, ánh đèn chiếu không còn rọi thẳng.
-
----
-
-### ⚠️ Ý nghĩa chính
-
-Six of Wands ngược cho thấy:
-- Không được ghi nhận như mong đợi
+Khi **Six of Wands xuất hiện ở vị trí ngược**, lá bài phản ánh:
+- Cảm giác không được công nhận
 - Thành công không được nhìn thấy
-- Hoặc quá phụ thuộc vào lời khen
-
-Điều này dễ dẫn tới:
-👉 *Tự ái và hụt hẫng.*
+- Hoặc phụ thuộc quá nhiều vào sự tán thưởng
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Ý nghĩa chính
 
-Ở trạng thái ngược, lá bài phản ánh:
-- Giá trị bản thân gắn chặt với ánh nhìn người khác
-- Sợ mất vị trí
-
-Đây là lời nhắc:
-👉 *Giá trị thật không biến mất khi ánh đèn tắt.*
+Six of Wands ngược thường liên quan đến:
+- Thất vọng vì bị bỏ qua
+- So sánh bản thân với người khác
+- Hoặc cái tôi bị tổn thương khi thiếu phản hồi
 
 ---
 
-### 🧭 Lời khuyên khi Six of Wands ngược xuất hiện
+### Góc nhìn tâm lý
 
-- Quay lại động lực ban đầu
-- Tìm giá trị nội tại
-- Đừng để danh tiếng điều khiển hành động
+Ở trạng thái ngược, Six of Wands cho thấy:
+- Nhu cầu được công nhận chưa được đáp ứng
+- Nguy cơ đánh giá giá trị bản thân qua ánh nhìn bên ngoài
+
+Lá bài nhắc rằng:  
+**Giá trị thật không biến mất chỉ vì không ai vỗ tay.**
 
 ---
 
-## 🔗Để theo dõi mạch hành động của Wands, bạn có thể đọc thêm:
+### Lời khuyên khi Six of Wands ngược xuất hiện
 
-- **[Five of Wands – Cạnh Tranh Và Xung Đột](/tarot/la-bai/five-of-wands/)**  
-- **[Seven of Wands – Bảo Vệ Lập Trường](/tarot/la-bai/seven-of-wands/)**  
-- **[Four of Wands – Ổn Định Và Ăn Mừng](/tarot/la-bai/four-of-wands/)**  
-- **[Suit of Wands – Con Đường Hành Động](/tarot/la-bai/suit-of-wands/)**  
+- Tách giá trị bản thân khỏi sự công nhận nhất thời
+- Nhìn lại thành quả mình đã đạt được
+- Tìm sự xác nhận từ bên trong trước
+
+---
+
+## 👉 Xem toàn bộ mạch hành động
+
+**[Suit of Wands – Hành Trình Hành Động](/tarot/la-bai/suit-of-wands/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Six of Wands
 
 **Xuôi:**
-- 🏆 Chiến thắng
-- 👏 Được ghi nhận
-- 🔥 Tự tin tăng cao
+- Chiến thắng  
+- Ghi nhận  
+- Tỏa sáng  
 
 **Ngược:**
-- ⚠️ Thiếu ghi nhận
-- 🌫️ Tự ái
-- 🧭 Cần quay về giá trị nội tại
+- Thiếu công nhận  
+- Cái tôi tổn thương  
+- Phụ thuộc ánh nhìn  
 
 Six of Wands nhắc ta rằng:  
-**Chiến thắng đẹp nhất không phải là được tung hô – mà là biết mình xứng đáng, kể cả khi không ai vỗ tay.**
+**Chiến thắng đẹp nhất là chiến thắng giúp ta tự tin hơn,  
+chứ không phải khiến ta lệ thuộc vào tiếng vỗ tay.**
 
-👉 Xem toàn bộ mạch: **[Suit of Wands – Con Đường Hành Động](/tarot/la-bai/suit-of-wands/)**
+---
+
+## 🔗 Để hiểu sâu hơn mạch hành động trong Tarot, bạn có thể tham khảo thêm:
+
+- **[Five of Wands – Xung Đột Và Va Chạm](/tarot/la-bai/five-of-wands/)**  
+- **[Seven of Wands – Giữ Vị Thế Và Bảo Vệ Lập Trường](/tarot/la-bai/seven-of-wands/)**  
+- **[Bộ Ẩn Phụ – Suit of Wands](/tarot/la-bai/suit-of-wands/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
+
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Six of Wands
+
+**Six of Wands có phải là lá bài thành công không?**  
+Có. Đây là lá bài của thành công được nhìn nhận và ghi nhận.
+
+**Six of Wands trong tình yêu nói lên điều gì?**  
+Thường là cảm giác được trân trọng và tự hào về mối quan hệ.
+
+**Six of Wands ngược có xấu không?**  
+Không xấu, nhưng nhắc bạn đừng để giá trị bản thân phụ thuộc hoàn toàn vào ánh nhìn bên ngoài.
+
+**Six of Wands có liên quan đến danh tiếng không?**  
+Có. Đây là lá bài rất mạnh về danh dự, hình ảnh và sự công nhận.

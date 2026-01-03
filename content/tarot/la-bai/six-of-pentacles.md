@@ -117,176 +117,201 @@ reading:
 
 ---
 
-## Tổng quan về lá Six of Pentacles
+## Six of Pentacles là gì?
 
-**Six of Pentacles** xuất hiện như một **làn gió cân bằng** sau giai đoạn thiếu thốn và cô lập của **Five of Pentacles**.  
-Nếu Five là cảm giác *không có gì và không có ai*, thì Six mang đến thông điệp:
+**Six of Pentacles** là lá bài đại diện cho **sự cân bằng giữa cho và nhận** –  
+khi khó khăn đã qua đỉnh,  
+và dòng chảy bắt đầu **trở lại theo cách công bằng hơn**.
 
-👉 *Sự hỗ trợ tồn tại – và dòng chảy có thể được tái lập.*
+Nếu Five of Pentacles là cảm giác bị bỏ lại trong lạnh lẽo,  
+thì Six of Pentacles là **bàn tay đưa ra đúng lúc** –  
+không phải ban ơn,  
+mà là **khôi phục lại cảm giác xứng đáng và lòng tự trọng**.
 
-Đây là lá bài của:
-- Cho và nhận
-- Sự hào phóng
-- Cân bằng trong trao đổi
-
-Six of Pentacles không chỉ nói về tiền bạc,  
-mà nói về **cách năng lượng được lưu thông giữa người với người**.
+> Nhận hỗ trợ không làm ta nhỏ đi,  
+> nếu sự cho đi được đặt trên nền tôn trọng.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá Six of Pentacles
 
-Hình ảnh quen thuộc của Six of Pentacles thường là:
-- Một người giàu có cầm cân
-- Phát tiền cho hai người nghèo
-- Cán cân nằm giữa
+**Six of Pentacles** thuộc nhóm **Pentacles (Tiền/Xu)** trong Tarot – đại diện cho **sự trao đổi, hỗ trợ và công bằng vật chất – tinh thần**.  
+Trong **Minor Arcana**, số **6** mang ý nghĩa của **điều hòa – cân bằng lại – chữa lành sau thiếu hụt**.
 
-Biểu tượng này đặt ra một câu hỏi quan trọng:
-👉 *Sự cho đi này có công bằng và có ý thức hay không?*
+Six of Pentacles không nói về từ thiện mù quáng,  
+mà nói về:
+- Sự hỗ trợ đúng chỗ
+- Cho đi có ý thức
+- Nhận lại mà không xấu hổ
 
-Cán cân nhắc nhở:
-- Cho không phải để kiểm soát
-- Nhận không phải là yếu đuối
+Nếu:
+- Four of Pentacles là giữ chặt  
+- Five of Pentacles là thiếu thốn  
+
+thì Six of Pentacles là:  
+**“Tôi nhận – và tôi không còn thấy mình thấp hơn.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Trong hình ảnh truyền thống của Six of Pentacles, ta thường thấy:
+- **Một người đứng giữa phân phát tiền** – sự cho đi
+- **Cán cân trên tay** – công bằng
+- **Hai người nhận với tư thế khác nhau** – hoàn cảnh khác nhau, nhưng đều được nhìn thấy
+
+Biểu tượng trung tâm của lá bài là:  
+**Giá trị không nằm ở ai cho nhiều hơn, mà ở sự cân bằng được giữ lại.**
+
+Six of Pentacles cho thấy:
+cho và nhận là **hai chiều của cùng một dòng chảy**,  
+không có bên nào phải cúi đầu nếu sự trao đổi lành mạnh.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Six of Pentacles
+
+Six of Pentacles mang năng lượng của **nguyên tố Đất (Earth)** kết hợp với **Sao Kim (Venus)** – biểu trưng cho **giá trị, sự hài hòa và lòng nhân ái có ranh giới**.
+
+Về cung hoàng đạo, lá bài này có sự tương đồng mạnh với **Thiên Bình** – cung của **cân bằng, công bằng và tôn trọng lẫn nhau**.  
+Đặc biệt với **Thiên Bình**, Six of Pentacles thể hiện rất rõ qua việc **cho đi nhưng không đặt mình lên cao, và nhận lại mà không tự hạ thấp giá trị bản thân**. Nếu anh muốn soi chiếu nhịp này theo chu kỳ, có thể tham khảo **[Tử vi cung Thiên Bình năm 2026](/tu-vi/nam-2026/thien-binh/)** như một gợi ý nhẹ, đúng tinh thần cân bằng và tôn trọng.
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Six of Pentacles
 
-### 🤝 Cho và nhận hài hòa
+### Cho – nhận cân bằng
 
-Six of Pentacles xuôi phản ánh:
-- Sự giúp đỡ đúng lúc
-- Sự hào phóng có ý thức
-- Trao đổi cân bằng
+Six of Pentacles xuôi cho thấy:
+- Sự hỗ trợ công bằng
+- Trao đổi lành mạnh
+- Dòng chảy được khôi phục
 
-Đây là giai đoạn:
-- Dòng chảy được khơi thông
-- Niềm tin dần hồi phục
-
----
-
-### 💰 Hỗ trợ vật chất và tinh thần
-
-Lá bài cho thấy:
-- Có người sẵn sàng giúp bạn
-- Hoặc bạn đang ở vị trí có thể giúp người khác
-
-Quan trọng là:
-👉 *Sự hỗ trợ này không làm ai thấp đi hay cao lên.*
+Đây là giai đoạn của:
+**ổn định lại – ấm lên – được nhìn nhận**.
 
 ---
 
-### 🧠 Học cách đón nhận
+### Nhận mà không xấu hổ
 
-Sau Five of Pentacles,  
-Six of Pentacles mang bài học quan trọng:
+Lá bài xuất hiện khi:
+- Bạn cần hỗ trợ
+- Và học cách nhận mà không tự trách
 
-> **Nhận sự giúp đỡ không phải là thất bại.**
+Six of Pentacles nhắc rằng:  
+👉 **Nhận đúng cách là một kỹ năng trưởng thành.**
 
-Biết nhận là một phần của sự cân bằng,  
-giống như biết cho đi.
+---
+
+### Cho đi có ranh giới
+
+Six of Pentacles xuôi cũng nhấn mạnh:
+- Không cho quá mức
+- Không cứu vớt bằng hi sinh bản thân
 
 ---
 
 ## Six of Pentacles trong các khía cạnh đời sống
 
-### 🔹 Trong công việc & tài chính
-
-- Nhận được hỗ trợ tài chính
-- Được giúp đỡ trong công việc
-- Hoặc tham gia vào sự phân bổ công bằng
-
-Lá bài khuyên:
-- Minh bạch trong trao đổi
-- Tránh lệ thuộc hoặc thao túng
+### Trong tình cảm
+Six of Pentacles phản ánh:
+- Quan hệ cho – nhận cân bằng
+- Không ai phải cố gắng một mình
+- Tôn trọng giá trị của nhau
 
 ---
 
-### 🔹 Trong tình cảm
+### Trong công việc & cuộc sống
+Trong công việc, Six of Pentacles cho thấy:
+- Lương thưởng công bằng
+- Được hỗ trợ đúng lúc
+- Hoặc bạn ở vị trí giúp đỡ người khác
 
-Six of Pentacles trong tình cảm cho thấy:
-- Sự cho đi và nhận lại cân bằng
-- Không ai phải hy sinh một chiều
-- Cảm giác được trân trọng
-
-Nếu mất cân bằng,  
-mối quan hệ dễ trở thành **cho – lấy** thay vì **chia sẻ**.
+Đây là lúc **giá trị được trao đổi sòng phẳng**.
 
 ---
 
-### 🔹 Trong đời sống nội tâm
+## Six of Pentacles (Ngược) – Lệch cán cân hoặc cho – nhận không lành
 
-Lá bài phản ánh:
-- Sự hồi phục lòng tự trọng
-- Cảm giác xứng đáng được yêu thương
-- Niềm tin vào sự kết nối
-
-Six of Pentacles nhắc ta:
-👉 *Ta xứng đáng được nhận, không chỉ xứng đáng để cho.*
-
----
-
-## Six of Pentacles (Ngược) – Mất cân bằng và lệ thuộc
-
-Khi **Six of Pentacles xuất hiện ở vị trí ngược**, nó cảnh báo:
-- Cho đi không công bằng
+Khi **Six of Pentacles xuất hiện ở vị trí ngược**, lá bài phản ánh:
+- Cho đi để kiểm soát
 - Nhận trong cảm giác nợ nần
-- Hoặc trao đổi mang tính kiểm soát
+- Hoặc bất công kéo dài
 
 ---
 
-### ⚠️ Ý nghĩa chính
+### Ý nghĩa chính
 
-Six of Pentacles ngược phản ánh:
-- Sự lệ thuộc
-- Sự thao túng thông qua cho – nhận
+Six of Pentacles ngược thường liên quan đến:
 - Mất cân bằng quyền lực
-
-Cho đi lúc này **không còn thuần khiết**.
-
----
-
-### 🧠 Góc nhìn tâm lý
-
-Ở trạng thái ngược, lá bài cho thấy:
-- Sợ mất nguồn hỗ trợ
-- Hoặc cho đi để được công nhận
-
-Đây là lời nhắc:
-👉 *Cân bằng thật sự không khiến ai phải cúi đầu.*
+- Lệ thuộc
+- Cho – nhận có điều kiện
 
 ---
 
-### 🧭 Lời khuyên khi Six of Pentacles ngược xuất hiện
+### Góc nhìn tâm lý
 
-- Đánh giá lại các mối quan hệ trao đổi
-- Hỏi rõ: bạn đang cho vì yêu thương, hay vì sợ mất?
-- Đặt lại ranh giới lành mạnh
+Ở trạng thái ngược, Six of Pentacles cho thấy:
+- Lòng tự trọng bị tổn thương
+- Giá trị bản thân gắn với việc “được cho”
 
-Chữa lành chỉ xảy ra khi **cho và nhận đều xuất phát từ sự tự nguyện**.
+Lá bài nhắc rằng:  
+**Giúp đỡ không nên biến thành công cụ kiểm soát.**
 
 ---
 
-## 🔗Để hiểu trọn vẹn mạch Pentacles, bạn có thể đọc thêm:
+### Lời khuyên khi Six of Pentacles ngược xuất hiện
 
-- **[Five of Pentacles – Thiếu Thốn Và Bị Bỏ Rơi](/tarot/la-bai/five-of-pentacles/)**  
-- **[Seven of Pentacles – Kiên Nhẫn Và Đánh Giá](/tarot/la-bai/seven-of-pentacles/)**  
+- Rà soát lại động cơ cho – nhận
+- Thiết lập ranh giới rõ
+- Trả lại sự cân bằng cho chính mình
+
+---
+
+## 👉 Tiếp mạch hồi phục của Suit of Pentacles
+
+**[Suit of Pentacles – Hành Trình Xây Dựng Giá Trị](/tarot/la-bai/suit-of-pentacles/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Six of Pentacles
 
 **Xuôi:**
-- 🤝 Cho và nhận cân bằng
-- 💰 Hỗ trợ đúng lúc
-- 🧠 Học cách đón nhận
+- Cho – nhận cân bằng  
+- Hỗ trợ lành mạnh  
+- Phục hồi giá trị  
 
 **Ngược:**
-- ⚠️ Mất cân bằng
-- 🧠 Lệ thuộc hoặc kiểm soát
-- 🧭 Cần thiết lập lại ranh giới
+- Lệch cán cân  
+- Lệ thuộc  
+- Bất công  
 
 Six of Pentacles nhắc ta rằng:  
-**Chữa lành không đến từ việc có nhiều hơn, mà từ việc dòng chảy được lưu thông đúng cách.**
+**Sự giúp đỡ đúng nghĩa không làm ai thấp đi –  
+nó chỉ đưa dòng chảy trở lại vị trí công bằng.**
 
-👉 Xem toàn bộ mạch: **[Suit of Pentacles – Con Đường Vật Chất](/tarot/la-bai/suit-of-pentacles/)**
+---
+
+## 🔗 Để tiếp tục mạch Suit of Pentacles, bạn có thể tham khảo thêm:
+
+- **[Five of Pentacles – Thiếu Thốn Và Bị Bỏ Lại](/tarot/la-bai/five-of-pentacles/)**  
+- **[Seven of Pentacles – Chờ Đợi Và Đánh Giá](/tarot/la-bai/seven-of-pentacles/)**  
+- **[Bộ Ẩn Phụ – Suit of Pentacles](/tarot/la-bai/suit-of-pentacles/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
+
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Six of Pentacles
+
+**Six of Pentacles có phải là lá bài tiền bạc không?**  
+Có liên quan đến tiền, nhưng trọng tâm là sự công bằng và trao đổi lành mạnh.
+
+**Six of Pentacles trong tình yêu nói lên điều gì?**  
+Một mối quan hệ cho – nhận cân bằng, không ai phải hi sinh một chiều.
+
+**Six of Pentacles ngược có đáng lo không?**  
+Đáng chú ý nếu bạn đang cho hoặc nhận trong cảm giác nợ nần hay bị kiểm soát.
+
+**Six of Pentacles dạy bài học gì?**  
+Rằng lòng tự trọng được giữ vững khi cho và nhận diễn ra trong sự tôn trọng lẫn nhau.

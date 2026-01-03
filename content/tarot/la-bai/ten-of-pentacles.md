@@ -119,178 +119,202 @@ reading:
 
 ---
 
-## Tổng quan về lá Ten of Pentacles
+## Ten of Pentacles là gì?
 
-**Ten of Pentacles** là điểm hoàn tất của suit Pentacles.  
-Sau khi đạt đến sự tự chủ và sung túc cá nhân ở **Nine of Pentacles**, lá bài này mở rộng tầm nhìn:
+**Ten of Pentacles** là lá bài đại diện cho **sự bền vững được xây qua nhiều năm, nhiều thế hệ** –  
+không phải thành công chớp nhoáng,  
+mà là **những giá trị đủ vững để truyền lại, duy trì và tiếp nối**.
 
-👉 *Không chỉ là tôi có gì – mà là tôi để lại được gì.*
+Nếu Nine of Pentacles là đứng vững một mình trong đủ đầy,  
+thì Ten of Pentacles là **khi sự đủ đầy ấy không dừng ở cá nhân** –  
+nó trở thành **mái nhà, nền móng và di sản** cho người khác.
 
-Đây là lá bài của:
-- Di sản
-- Gia đình
-- Sự bền vững lâu dài
-
-Ten of Pentacles không nói về thành công cá nhân đơn lẻ,  
-mà nói về **một hệ giá trị có thể tồn tại vượt qua thời gian**.
+> Có những thành quả không chỉ để hưởng,  
+> mà để **giữ gìn và trao lại**.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá Ten of Pentacles
 
-Hình ảnh quen thuộc của Ten of Pentacles thường là:
-- Một đại gia đình quây quần
-- Người già, người trẻ, trẻ em và thú cưng
-- Các Pentacle xuất hiện như một cấu trúc hoàn chỉnh
+**Ten of Pentacles** thuộc nhóm **Pentacles (Tiền/Xu)** trong Tarot – đại diện cho **sự ổn định dài hạn, gia đình, tài sản và giá trị truyền đời**.  
+Trong **Minor Arcana**, số **10** mang ý nghĩa của **hoàn tất một chu kỳ và đạt đến mức độ viên mãn**.
 
-Biểu tượng này truyền tải thông điệp:
-👉 *Sự giàu có bền vững không chỉ nằm ở tiền bạc, mà ở sự kết nối và tiếp nối.*
+Ten of Pentacles không nói về giàu sang phô trương,  
+mà nói về:
+- An toàn lâu dài
+- Nền tảng gia đình – cộng đồng
+- Thành quả được duy trì qua thời gian
 
-Không chỉ một đời người,  
-mà là **nhiều thế hệ cùng hưởng lợi từ nền tảng đã được xây dựng**.
+Nếu:
+- Eight of Pentacles là rèn tay  
+- Nine of Pentacles là tự chủ  
+
+thì Ten of Pentacles là:  
+**“Những gì tôi xây đủ vững để không sụp khi tôi không còn ở đó.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Trong hình ảnh truyền thống của Ten of Pentacles, ta thường thấy:
+- **Gia đình nhiều thế hệ** – sự tiếp nối
+- **Ngôi nhà, thành lũy** – an toàn
+- **Những đồng xu bao quanh** – tài sản và giá trị tích lũy
+
+Biểu tượng trung tâm của lá bài là:  
+**Sự giàu có bền vững không thuộc về một người, mà thuộc về một dòng chảy.**
+
+Ten of Pentacles cho thấy:
+thành công thật sự không nằm ở việc bạn có bao nhiêu,  
+mà ở **việc những gì bạn tạo ra có thể tồn tại bao lâu**.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Ten of Pentacles
+
+Ten of Pentacles mang năng lượng của **nguyên tố Đất (Earth)** ở trạng thái **ổn định và hoàn chỉnh**, thường được liên kết với **Sao Thổ (Saturn)** – hành tinh của **cấu trúc, thời gian và sự bền vững dài hạn**.
+
+Về cung hoàng đạo, lá bài này có sự tương đồng mạnh với **Ma Kết** – cung của **trách nhiệm, truyền thống và xây dựng cho tương lai lâu dài**.  
+Đặc biệt với **Ma Kết**, Ten of Pentacles phản ánh rất rõ tinh thần **xây không chỉ cho hiện tại, mà cho thế hệ sau**. Nếu anh muốn soi chiếu nhịp này theo chu kỳ, có thể tham khảo **[Tử vi cung Ma Kết năm 2026](/tu-vi/nam-2026/ma-ket/)** như một gợi ý nhẹ, đúng tinh thần di sản và trách nhiệm lâu dài.
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Ten of Pentacles
 
-### 🏡 Sự ổn định và an cư
+### Di sản và sự bền vững
 
-Ten of Pentacles xuôi phản ánh:
-- Ổn định tài chính lâu dài
-- Môi trường sống an toàn
-- Cảm giác “có chỗ để quay về”
+Ten of Pentacles xuôi cho thấy:
+- Gia đình ổn định
+- Tài chính bền vững
+- Nền tảng vững chắc cho tương lai
 
-Đây là trạng thái:
-👉 *Không lo thiếu thốn – không sợ ngày mai.*
-
----
-
-### 👨‍👩‍👧‍👦 Gia đình và cộng đồng
-
-Lá bài nhấn mạnh:
-- Giá trị gia đình
-- Sự gắn kết
-- Truyền thống và trách nhiệm
-
-Ten of Pentacles cho thấy:
-👉 *Ta không sống tách rời – ta là một phần của dòng chảy lớn hơn.*
+Đây là giai đoạn của:
+**viên mãn – an toàn – tiếp nối**.
 
 ---
 
-### 🧱 Di sản và giá trị lâu dài
+### Thành quả vượt khỏi cá nhân
 
-Không chỉ là tài sản vật chất,  
-di sản còn bao gồm:
-- Cách sống
-- Niềm tin
-- Những giá trị được truyền lại
+Lá bài xuất hiện khi:
+- Bạn nghĩ xa hơn bản thân
+- Quan tâm đến gia đình, con cháu, cộng đồng
+- Muốn để lại điều gì đó có ý nghĩa
 
-Đây là câu hỏi cốt lõi của lá bài:
-👉 *Bạn muốn điều gì tiếp tục tồn tại sau khi bạn đã đi qua?*
+Ten of Pentacles nhắc rằng:  
+👉 **Giá trị lớn nhất là giá trị còn lại sau ta.**
+
+---
+
+### Truyền thống và cội rễ
+
+Ten of Pentacles xuôi cũng liên quan đến:
+- Gia đình
+- Dòng họ
+- Truyền thống được giữ gìn
 
 ---
 
 ## Ten of Pentacles trong các khía cạnh đời sống
 
-### 🔹 Trong công việc & tài chính
+### Trong tình cảm
+Ten of Pentacles phản ánh:
+- Mối quan hệ hướng đến lâu dài
+- Gia đình, hôn nhân
+- Sự gắn kết bền vững
 
+---
+
+### Trong công việc & cuộc sống
+Trong công việc, Ten of Pentacles cho thấy:
+- Sự nghiệp ổn định
+- Doanh nghiệp gia đình
 - Tài sản tích lũy lâu dài
-- Kinh doanh gia đình
-- Kế hoạch tài chính bền vững
 
-Lá bài khuyên:
-- Nghĩ dài hạn
-- Tránh quyết định chỉ vì lợi ích ngắn hạn
+Đây là lúc **xây cho bền hơn là cho nhanh**.
 
 ---
 
-### 🔹 Trong tình cảm
+## Ten of Pentacles (Ngược) – Rạn nứt nền móng hoặc giá trị lung lay
 
-Ten of Pentacles trong tình cảm phản ánh:
-- Mối quan hệ hướng đến hôn nhân, gia đình
-- Cam kết lâu dài
-- Chung tay xây dựng tương lai
-
-Đây là tình yêu:
-👉 *Không chỉ yêu nhau, mà còn cùng nhau dựng một mái nhà.*
-
----
-
-### 🔹 Trong đời sống nội tâm
-
-Lá bài phản ánh:
-- Cảm giác thuộc về
-- Sự an tâm nội tại
-- Ý thức về vị trí của mình trong dòng đời
-
-Ten of Pentacles nhắc ta:
-👉 *Con người chỉ thật sự an yên khi biết mình đang thuộc về đâu.*
-
----
-
-## Ten of Pentacles (Ngược) – Lung lay nền tảng và giá trị
-
-Khi **Ten of Pentacles xuất hiện ở vị trí ngược**, nó phản ánh:
+Khi **Ten of Pentacles xuất hiện ở vị trí ngược**, lá bài phản ánh:
 - Bất ổn gia đình
 - Tranh chấp tài sản
 - Giá trị truyền thống bị lung lay
 
 ---
 
-### ⚠️ Ý nghĩa chính
+### Ý nghĩa chính
 
-Ten of Pentacles ngược cho thấy:
-- Sự đổ vỡ trong cấu trúc bền vững
+Ten of Pentacles ngược thường liên quan đến:
 - Mâu thuẫn thế hệ
-- Chạy theo thành công cá nhân mà bỏ quên gốc rễ
-
-Sự giàu có lúc này **không còn mang lại cảm giác an toàn**.
-
----
-
-### 🧠 Góc nhìn tâm lý
-
-Ở trạng thái ngược, lá bài phản ánh:
-- Mất kết nối với nguồn cội
-- Áp lực phải duy trì hình ảnh “ổn định”
-- Sợ làm thất vọng gia đình hoặc xã hội
-
-Đây là lời nhắc:
-👉 *Di sản không phải là gánh nặng – trừ khi ta đánh mất ý nghĩa thật của nó.*
+- Bất an về an toàn lâu dài
+- Mất kết nối với cội rễ
 
 ---
 
-### 🧭 Lời khuyên khi Ten of Pentacles ngược xuất hiện
+### Góc nhìn tâm lý
 
-- Xem lại giá trị cốt lõi
-- Hàn gắn kết nối gia đình hoặc cộng đồng
-- Định nghĩa lại “bền vững” theo cách lành mạnh
+Ở trạng thái ngược, Ten of Pentacles cho thấy:
+- Sợ mất nền móng
+- Áp lực phải gánh trách nhiệm quá lớn
 
-Bền vững không đến từ việc giữ nguyên mọi thứ,  
-mà từ **khả năng thích nghi mà không đánh mất gốc rễ**.
+Lá bài nhắc rằng:  
+**Di sản không chỉ là tài sản, mà còn là cách ta sống và đối xử với nhau.**
 
 ---
 
-## 🔗Để nhìn trọn vẹn mạch Pentacles, bạn có thể đọc lại:
+### Lời khuyên khi Ten of Pentacles ngược xuất hiện
 
-- **[Nine of Pentacles – Tự Chủ Và Sung Túc](/tarot/la-bai/nine-of-pentacles/)**  
-- **[Ace of Pentacles – Hạt Giống Thịnh Vượng](/tarot/la-bai/ace-of-pentacles/)**  
+- Rà soát lại giá trị cốt lõi
+- Hàn gắn mối quan hệ gia đình
+- Đừng đánh đổi con người để giữ vật chất
+
+---
+
+## 👉 Khép trục số của Suit of Pentacles
+
+**[Suit of Pentacles – Hành Trình Xây Dựng Giá Trị](/tarot/suit-of-pentacles/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Ten of Pentacles
 
 **Xuôi:**
-- 🏡 Ổn định và an cư
-- 👨‍👩‍👧‍👦 Gia đình và gắn kết
-- 🧱 Di sản bền vững
+- Di sản  
+- Gia đình  
+- Bền vững lâu dài  
 
 **Ngược:**
-- ⚠️ Lung lay nền tảng
-- 🧠 Mâu thuẫn giá trị
-- 🧭 Cần tái định nghĩa “bền vững”
+- Lung lay nền móng  
+- Mâu thuẫn thế hệ  
+- Bất an dài hạn  
 
 Ten of Pentacles nhắc ta rằng:  
-**Thành công trọn vẹn nhất là khi những gì ta xây dựng không chỉ nuôi sống ta, mà còn nâng đỡ những người đến sau.**
+**Thành công lớn nhất không phải là thứ ta có khi đứng trên đỉnh,  
+mà là thứ vẫn còn đứng vững khi ta rời đi.**
 
-👉 Xem toàn bộ mạch: **[Suit of Pentacles – Con Đường Vật Chất](/tarot/la-bai/suit-of-pentacles/)**
+---
+
+## 🔗 Để nhìn lại toàn bộ Suit of Pentacles, bạn có thể tham khảo thêm:
+
+- **[Nine of Pentacles – Tự Chủ Và Đủ Đầy](/tarot/la-bai/nine-of-pentacles/)**  
+- **[Ace of Pentacles – Hạt Giống Và Cơ Hội](/tarot/la-bai/ace-of-pentacles/)**  
+- **[Bộ Ẩn Phụ – Suit of Pentacles](/tarot/la-bai/suit-of-pentacles/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
+
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Ten of Pentacles
+
+**Ten of Pentacles có phải là lá bài gia đình không?**  
+Đúng. Nó nói về gia đình, di sản và sự ổn định lâu dài.
+
+**Ten of Pentacles trong tình yêu nói lên điều gì?**  
+Một mối quan hệ hướng đến hôn nhân, gia đình và tương lai bền vững.
+
+**Ten of Pentacles ngược có đáng lo không?**  
+Đáng chú ý nếu có mâu thuẫn gia đình hoặc bất an về nền tảng lâu dài.
+
+**Ten of Pentacles dạy bài học gì?**  
+Rằng giá trị lớn nhất là những gì ta để lại cho người đến sau – không chỉ bằng tài sản, mà bằng cách sống.

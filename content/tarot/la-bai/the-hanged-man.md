@@ -122,174 +122,205 @@ reading:
 
 ---
 
-## Tổng quan về lá The Hanged Man
+## The Hanged Man là gì?
 
-**The Hanged Man** không nói về thất bại.  
-Nó nói về **một sự tạm dừng tự nguyện**.
+**The Hanged Man** là lá bài đại diện cho **sự buông bỏ có ý thức, tạm dừng chủ động và thay đổi góc nhìn**, xuất hiện khi con người đã thấy rõ sự thật nhưng **chưa thể đi tiếp bằng cách cũ**.
 
-Sau **Death** – khi một chu kỳ đã kết thúc,  
-The Hanged Man xuất hiện không để bắt đầu ngay,  
-mà để hỏi:
+Nếu Justice là đối diện sự thật không né tránh,  
+thì The Hanged Man là **chấp nhận dừng lại để cho sự thật đó thấm sâu**.
 
-> *Bạn đã thật sự buông chưa?*
-
-Đây là khoảnh khắc **đứng giữa hai bờ**:  
-- chưa tiến  
-- chưa quay lại  
-- chỉ **ở yên để nhìn rõ hơn**
+> Không phải bị treo,  
+> mà là **tự nguyện đứng yên để nhìn đời theo cách khác**.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá The Hanged Man
 
-Hình ảnh quen thuộc của The Hanged Man thường là:
-- Một người treo ngược bằng một chân
-- Gương mặt bình thản
-- Hào quang quanh đầu
-- Không có biểu hiện đau đớn
+**The Hanged Man** thuộc nhóm **Major Arcana** – đại diện cho **bước ngoặt nhận thức thông qua sự hy sinh tạm thời**, nơi hành động bị hoãn lại để trí tuệ được mở ra.
 
-Những biểu tượng này cho thấy:
-👉 **Sự hy sinh không đến từ ép buộc, mà từ lựa chọn có ý thức**.
+The Hanged Man xuất hiện khi:
+- Mọi nỗ lực cũ không còn hiệu quả
+- Cần đổi góc nhìn thay vì đổi mục tiêu
+- Sự phát triển đòi hỏi buông bỏ kiểm soát
 
-Việc bị treo ngược không phải trừng phạt,  
-mà là **đổi góc nhìn hoàn toàn**.
+Nếu:
+- The Hermit là tìm hiểu bên trong
+- Justice là cân bằng sự thật
+
+thì The Hanged Man là:  
+**“Buông cách cũ – để thấy con đường mới.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Hình ảnh quen thuộc của The Hanged Man thường bao gồm:
+- **Nhân vật treo ngược bằng một chân** – sự đảo chiều góc nhìn
+- **Vầng hào quang quanh đầu** – giác ngộ từ tĩnh lặng
+- **Tư thế bình thản** – hy sinh tự nguyện, không cưỡng bức
+
+Điểm then chốt của lá bài này là:  
+**Sự tiến bộ đôi khi đến từ việc không tiến lên.**
+
+The Hanged Man không thúc đẩy hành động,  
+nó **mời gọi sự chấp nhận và kiên nhẫn**.
+
+---
+
+## Năng lượng chiêm tinh và sự buông xả
+
+The Hanged Man thường được liên kết với **cung Song Ngư (Pisces)** – cung hoàng đạo đại diện cho **sự buông xả, trực giác, lòng trắc ẩn và ranh giới mờ giữa cái tôi và dòng chảy lớn**.
+
+Năng lượng Song Ngư trong The Hanged Man thể hiện qua:
+- Chấp nhận điều chưa thể thay đổi
+- Tin vào tiến trình tự nhiên
+- Sẵn sàng hy sinh lợi ích ngắn hạn cho hiểu biết dài hạn
+
+Trong đời sống, năng lượng này thường xuất hiện khi con người:
+- Đã làm hết sức nhưng chưa đến lúc
+- Cần học bài học kiên nhẫn
+- Phải từ bỏ cách nhìn cũ để trưởng thành
+
+Nếu muốn quan sát cách những giai đoạn “dừng lại để chuyển hóa” này vận hành theo chu kỳ, có thể tham khảo thêm **[Tử vi cung Song Ngư năm 2026](/tu-vi/nam-2026/song-ngu/)** để thấy rõ mối liên hệ giữa buông xả và giác ngộ nội tâm.
+
+The Hanged Man nhắc rằng:  
+**Không phải mọi sự chậm trễ đều là thất bại.**
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của The Hanged Man
 
-### ⏸️ Tạm dừng để chuyển hóa
+### Buông bỏ và chấp nhận
 
-The Hanged Man xuôi phản ánh:
-- Một giai đoạn chậm lại
-- Không hành động vội vàng
-- Đợi sự hiểu biết sâu hơn xuất hiện
+The Hanged Man xuôi cho thấy:
+- Sự tạm dừng cần thiết
+- Chấp nhận hoàn cảnh hiện tại
+- Buông bỏ kiểm soát
 
-Đây là lúc:
-- Càng cố tiến càng bế
-- Dừng lại thì mọi thứ dần sáng
-
----
-
-### 🔄 Đảo góc nhìn
-
-The Hanged Man không thay đổi hoàn cảnh,  
-nó **thay đổi cách ta nhìn hoàn cảnh**.
-
-Khi góc nhìn đổi:
-- Vấn đề cũ có ý nghĩa mới
-- Điều từng “bế tắc” trở thành lối mở
+Đây là lá bài của:  
+**dừng lại để hiểu sâu hơn.**
 
 ---
 
-### 🕊️ Buông kiểm soát
+### Thay đổi góc nhìn
 
-Lá bài này dạy rằng:
-👉 *Không phải lúc nào chủ động cũng là hành động.*
+Lá bài này xuất hiện khi:
+- Cách nhìn cũ không còn phù hợp
+- Cần đảo chiều tư duy
+- Trực giác cần được lắng nghe
 
-Có những giai đoạn:
-- Buông là tiến
-- Không làm là làm rất nhiều
+The Hanged Man nhắc rằng:  
+👉 **Câu trả lời nằm ở cách bạn nhìn vấn đề, không phải ở vấn đề.**
+
+---
+
+### Hy sinh có ý thức
+
+The Hanged Man cho thấy:
+- Sự hy sinh tạm thời
+- Từ bỏ lợi ích trước mắt
+- Đầu tư cho chuyển hóa lâu dài
 
 ---
 
 ## The Hanged Man trong các khía cạnh đời sống
 
-### 🔹 Trong tình cảm
+### Trong tình cảm
+The Hanged Man cho thấy giai đoạn **tạm lắng để hiểu nhau sâu hơn**. Có thể là chờ đợi, nhường nhịn, hoặc buông kỳ vọng cũ để mối quan hệ chuyển sang tầng mới.
 
-- Tạm ngưng để nhìn rõ mối quan hệ
-- Không ép tiến – không ép dứt
-- Chấp nhận trạng thái “chưa rõ”
-
-The Hanged Man khuyên:
-👉 *Đừng quyết khi lòng còn rối.*
-
----
-
-### 🔹 Trong công việc & sự nghiệp
-
-- Kế hoạch bị chậm
-- Quyết định chưa nên đưa ra
-- Cần đổi cách tiếp cận
-
-Đây là lúc:
-👉 *Lùi lại để thấy toàn cảnh.*
+### Trong công việc & đời sống
+Trong công việc, The Hanged Man báo hiệu:
+- Trì hoãn có chủ đích
+- Xem lại chiến lược
+- Không nên thúc ép tiến độ
 
 ---
 
-### 🔹 Trong đời sống nội tâm
+## The Hanged Man (Ngược) – Khi sự trì hoãn trở thành mắc kẹt
 
-- Buông cái tôi hành động
-- Quan sát bản thân trong tĩnh lặng
-- Trưởng thành từ chấp nhận
+Khi **The Hanged Man xuất hiện ở vị trí ngược**, lá bài cho thấy:
+- Trì hoãn vô thức
+- Sợ buông bỏ
+- Mắc kẹt trong chờ đợi không cần thiết
 
-The Hanged Man cho thấy:
-👉 *Không phải mọi chuyển hóa đều ồn ào.*
+### Ý nghĩa chính
+
+The Hanged Man ngược thường biểu hiện:
+- Hy sinh vô ích
+- Không chịu đổi góc nhìn
+- Chấp nhận trong bất lực
+
+Đây không phải là buông xả, mà là:  
+**từ bỏ quyền lựa chọn.**
 
 ---
 
-## The Hanged Man (Ngược) – Khi sự dừng lại trở thành mắc kẹt
+### Góc nhìn tâm lý
 
-Khi **The Hanged Man xuất hiện ở vị trí ngược**, sự tạm dừng mất ý nghĩa.
-
-### ⚠️ Ý nghĩa chính
-
-The Hanged Man ngược phản ánh:
-- Trì hoãn kéo dài
+Ở trạng thái ngược, The Hanged Man phản ánh:
+- Sợ hành động
 - Sợ thay đổi
-- Hoặc tự biến mình thành nạn nhân
+- Nhầm lẫn giữa kiên nhẫn và né tránh
 
-Không phải đang dừng để hiểu,  
-mà là **đứng yên vì sợ**.
-
----
-
-### 🧠 Góc nhìn tâm lý
-
-Ở trạng thái ngược, lá bài cho thấy:
-- Mắc kẹt trong suy nghĩ
-- Không chịu buông cái tôi cũ
-- Hoặc chờ đợi người khác quyết thay
+Lá bài nhắc:  
+**Buông bỏ là hành động có ý thức, không phải đầu hàng.**
 
 ---
 
-### 🧭 Lời khuyên khi The Hanged Man ngược xuất hiện
+### Lời khuyên khi The Hanged Man ngược xuất hiện
 
-- Phân biệt giữa “dừng có ý thức” và “trốn tránh”
-- Hỏi lại: *Mình đang sợ điều gì?*
-- Chuẩn bị cho bước tiếp theo, dù chưa đi ngay
-
-Dừng  
-phải dẫn đến **hiểu sâu hơn**,  
-không phải tê liệt.
+- Kiểm tra lại điều mình đang hy sinh
+- Xem sự chờ đợi có còn ý nghĩa không
+- Chọn buông hoặc chọn hành động – nhưng phải tỉnh táo
 
 ---
 
-## 🔗Để hiểu rõ mạch buông – chuyển hóa của The Hanged Man, bạn có thể đọc thêm:
+## 👉 Xem toàn bộ mạch nhận thức
 
-- **[Death – Kết Thúc Và Chuyển Hóa](/tarot/la-bai/death/)**  
-- **[Temperance – Cân Bằng Và Chữa Lành](/tarot/la-bai/temperance/)**  
-- **[The Hermit – Ẩn Sĩ Nội Tâm](/tarot/la-bai/the-hermit/)**  
-- **[The Fool – Khởi Hành Tỉnh Thức](/tarot/la-bai/the-fool/)**  
+**[Major Arcana – Hành Trình Nhận Thức](/tarot/la-bai/major-arcana/)**  
+
+---
+
+## Đọc tiếp các hướng liên quan
+
+- **[Justice – Sự thật & cân bằng](/tarot/la-bai/justice/)**
+- **[The Hermit – Chiêm nghiệm & trí tuệ](/tarot/la-bai/the-hermit/)**
+- **[Death – Kết thúc & tái sinh](/tarot/la-bai/death/)**
+- **[Hướng dẫn đọc Tarot theo chiều sâu tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa The Hanged Man
 
 **Xuôi:**
-- ⏸️ Tạm dừng có ý thức
-- 🔄 Đảo góc nhìn
-- 🕊️ Buông kiểm soát
+- Buông bỏ  
+- Tạm dừng  
+- Đổi góc nhìn  
+- Chuyển hóa nội tâm  
 
 **Ngược:**
-- ⚠️ Mắc kẹt
-- 🧠 Trì hoãn vì sợ
-- 🧭 Cần chuyển từ dừng sang hiểu
+- Mắc kẹt  
+- Trì hoãn vô thức  
+- Hy sinh vô ích  
+- Né tránh thay đổi  
 
-**The Hanged Man nhắc ta rằng:**  
-*Có những giai đoạn trong đời,  
-ta không cần đi đâu cả.  
-Chỉ cần đủ yên  
-để nhìn mọi thứ bằng một đôi mắt mới.*
+The Hanged Man nhắc ta rằng:  
+**Khi ta dám buông cách nhìn cũ,  
+thế giới sẽ tự xoay lại  
+để lộ ra con đường mới.**
 
-👉 Xem toàn bộ mạch chuyển hóa: **[Major Arcana – Hành Trình Thức Tỉnh](/tarot/la-bai/major-arcana/)**
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá The Hanged Man
+
+**The Hanged Man có phải là lá bài xấu không?**  
+Không. Đây là lá bài của chuyển hóa thông qua tĩnh lặng.
+
+**The Hanged Man xuất hiện sau Justice có ý nghĩa gì?**  
+Cho thấy sau khi thấy sự thật, cần thời gian để tích hợp và buông bỏ góc nhìn cũ.
+
+**The Hanged Man ngược có đáng lo không?**  
+Không, nhưng là lời nhắc cần phân biệt giữa kiên nhẫn và mắc kẹt.
+
+**The Hanged Man thường dẫn tới lá nào?**  
+Thường nối sang **Death** – khi sự buông bỏ đã đủ sâu để tái sinh.

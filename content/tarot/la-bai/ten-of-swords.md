@@ -116,180 +116,207 @@ reading:
       và sự kiên nhẫn.
 
 ---
+## Ten of Swords là gì?
 
-## Tổng quan về lá Ten of Swords
+**Ten of Swords** là lá bài đại diện cho **kết thúc đau đớn nhưng không thể trì hoãn** –  
+khi mọi thứ đã đi quá xa,  
+và **đau không còn là tín hiệu, mà là dấu chấm hết**.
 
-**Ten of Swords** là điểm **chạm đáy** của Suit of Swords.  
-Sau **Nine of Swords – lo âu và dằn vặt**, tâm trí **không còn sức chống đỡ**.
+Nếu Nine of Swords là nỗi sợ gặm nhấm trong đêm,  
+thì Ten of Swords là **bình minh đến sau một đêm không ngủ** –  
+không vì hy vọng,  
+mà vì **không còn gì để mất thêm nữa**.
 
-👉 *Mọi thứ sụp xuống – cùng lúc.*
-
-Đây là lá bài của:
-- Sụp đổ hoàn toàn
-- Kết thúc đau đớn
-- Sự thật không thể chối bỏ
-
-Ten of Swords không đến để giày vò thêm,  
-mà đến để **kết thúc một vòng lặp độc hại**.
+> Có những kết thúc không đến để trừng phạt,  
+> mà để **ngăn ta tiếp tục tự hủy hoại mình**.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá Ten of Swords
 
-Hình ảnh quen thuộc của Ten of Swords thường là:
-- Một người nằm gục
-- Mười thanh kiếm đâm vào lưng
-- Bầu trời tối phía sau
-- Bình minh le lói ở đường chân trời
+**Ten of Swords** thuộc nhóm **Swords (Kiếm)** trong Tarot – đại diện cho **sự sụp đổ của nhận thức cũ và kết thúc không thể tránh**.  
+Trong **Minor Arcana**, số **10** mang ý nghĩa của **đỉnh điểm – hoàn tất – chu kỳ buộc phải đóng lại**.
 
-Biểu tượng này nói rất rõ:
-👉 *Mọi thứ đã xảy ra xong rồi. Không còn gì để chống đỡ nữa.*
+Ten of Swords không nói về thất bại nhỏ,  
+mà nói về:
+- Chạm đáy
+- Bị phản bội, đâm sau lưng (theo nghĩa tinh thần)
+- Và sự thật rằng **không còn đường quay lại**
 
-Điều quan trọng là:
-👉 *Mặt trời đang mọc.*
+Nếu:
+- Eight of Swords là tự trói
+- Nine of Swords là tự hành hạ
+
+thì Ten of Swords là:  
+**“Mọi thứ đã kết thúc – dù tôi có sẵn sàng hay không.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Trong hình ảnh truyền thống của Ten of Swords, ta thường thấy:
+- **Một người nằm gục với mười thanh kiếm trên lưng** – đau đớn cực hạn
+- **Bầu trời đen phía sau** – đêm tối đã qua
+- **Ánh sáng nơi chân trời** – kết thúc mở ra chu kỳ khác
+
+Biểu tượng trung tâm của lá bài là:  
+**Không có cú đâm nào tiếp theo – vì đây đã là điểm cuối.**
+
+Ten of Swords cho thấy:
+bạn không cần cố chịu thêm,  
+bởi **sự kết thúc này đã hoàn tất vai trò của nó**.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Ten of Swords
+
+Ten of Swords mang năng lượng của **nguyên tố Khí (Air)** ở trạng thái **sụp đổ hoàn toàn**, thường được liên kết với **Sao Thủy (Mercury)** trong **Song Tử** – biểu trưng cho **sự quá tải của tâm trí, thông tin và lời nói gây tổn thương**.
+
+Với **Song Tử**, lá bài này phản ánh:
+- Tâm trí bị bào mòn bởi suy nghĩ lặp lại
+- Những lời nói gây đau kéo dài
+- Và khoảnh khắc nhận ra rằng **im lặng là cứu cánh duy nhất**
+
+Trong những giai đoạn mà **tâm trí đã đi quá giới hạn**, việc nhìn lại nhịp nghỉ – nói – nghĩ theo thời gian có thể giúp tránh lặp lại vòng cũ. Nếu anh muốn soi chiếu chu kỳ này, có thể tham khảo **[Tử vi cung Song Tử năm 2026](/tu-vi/nam-2026/song-tu/)** như một gợi ý nhẹ, đúng tinh thần kết thúc để tái cấu trúc.
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Ten of Swords
 
-### 🗡️ Sụp đổ và kết thúc đau đớn
+### Chạm đáy và kết thúc
+
+Ten of Swords xuôi cho thấy:
+- Sụp đổ
+- Bị tổn thương sâu
+- Không còn khả năng chịu đựng
+
+Đây là giai đoạn của:
+**kết thúc – buộc dừng – không thể tiếp tục**.
+
+---
+
+### Không còn đường lùi
+
+Lá bài xuất hiện khi:
+- Mọi dấu hiệu đều đã rõ
+- Níu kéo chỉ kéo dài đau đớn
+- Kết thúc là điều cần thiết
+
+Ten of Swords nhắc rằng:  
+👉 **Có những kết thúc đến để cứu ta khỏi đau thêm.**
+
+---
+
+### Ánh sáng sau điểm cuối
 
 Ten of Swords xuôi phản ánh:
-- Cú sốc tinh thần
-- Cảm giác bị phản bội
-- Niềm tin tan vỡ hoàn toàn
-
-Đây là nỗi đau:
-👉 *Không thể cứu vãn – và không cần cứu nữa.*
-
----
-
-### 🧠 Chạm đáy nhận thức
-
-Lá bài cho thấy:
-- Không còn khả năng tự lừa dối
-- Không còn lý do để bào chữa
-- Mọi ảo tưởng bị xé toạc
-
-Ten of Swords nhắc:
-👉 *Khi mọi thứ sụp đổ, sự thật lộ diện trọn vẹn.*
-
----
-
-### 🌅 Điểm kết thúc – cũng là điểm xoay chiều
-
-Mười thanh kiếm là con số **tối đa**.  
-Không thể đau hơn.  
-Không thể tệ hơn.
-
-Điều đó có nghĩa là:
-👉 *Từ đây chỉ có thể đi lên.*
+- Đau là thật
+- Nhưng không kéo dài mãi
+- Vì **chu kỳ đã khép**
 
 ---
 
 ## Ten of Swords trong các khía cạnh đời sống
 
-### 🔹 Trong công việc & mối quan hệ
-
-- Mất niềm tin
-- Đổ vỡ hoàn toàn
-- Chấm dứt không thể đảo ngược
-
-Lá bài khuyên:
-- Đừng níu kéo cái đã chết
-- Tập trung vào điều có thể tái sinh
+### Trong tình cảm
+Ten of Swords phản ánh:
+- Chia tay dứt khoát
+- Phản bội
+- Mối quan hệ không thể cứu vãn
 
 ---
 
-### 🔹 Trong tình cảm
+### Trong công việc & cuộc sống
+Trong công việc, Ten of Swords cho thấy:
+- Thất bại lớn
+- Nghỉ việc
+- Dự án buộc dừng
 
-Ten of Swords trong tình cảm cho thấy:
-- Chia tay đau đớn
-- Bị phản bội
-- Kết thúc không còn đường quay lại
-
-Nhưng cũng là lúc:
-👉 *Sự thật được phơi bày hoàn toàn.*
+Đây là lúc **chấp nhận kết thúc để không kéo dài kiệt quệ**.
 
 ---
 
-### 🔹 Trong đời sống nội tâm
+## Ten of Swords (Ngược) – Chưa buông hoặc hồi sinh sau đổ nát
 
-Lá bài phản ánh:
-- Kiệt quệ tinh thần
-- Tâm trí không còn sức chống đỡ
-- Buộc phải buông
-
-Ten of Swords đặt ra câu hỏi:
-👉 *Bạn còn đang cố bảo vệ điều gì – khi nó đã làm bạn gục ngã?*
+Khi **Ten of Swords xuất hiện ở vị trí ngược**, lá bài phản ánh:
+- Đã qua đỉnh đau
+- Hoặc cố bám vào tàn dư
+- Chưa chịu đóng hẳn cánh cửa
 
 ---
 
-## Ten of Swords (Ngược) – Tái sinh sau sụp đổ
+### Ý nghĩa chính
 
-Khi **Ten of Swords xuất hiện ở vị trí ngược**, đây là dấu hiệu rất quan trọng.
-
----
-
-### ⚠️ Ý nghĩa chính
-
-Ten of Swords ngược cho thấy:
-- Nỗi đau đã qua đỉnh
+Ten of Swords ngược thường liên quan đến:
 - Bắt đầu hồi phục
-- Nhận thức mới hình thành
-
-Không phải quên nỗi đau,  
-mà là:
-👉 *Không để nó tiếp tục giết mình.*
+- Đau giảm dần
+- Nhưng cần dứt khoát hơn
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Góc nhìn tâm lý
 
-Ở trạng thái ngược, lá bài phản ánh:
-- Rút ra bài học từ sụp đổ
-- Thức tỉnh khỏi mô thức cũ
-- Dám xây lại từ nền đất trống
+Ở trạng thái ngược, Ten of Swords cho thấy:
+- Vết thương đã qua giai đoạn nguy hiểm
+- Nhưng ký ức vẫn còn
 
-Đây là khoảnh khắc:
-👉 *Cái tôi cũ chết đi – nhận thức mới ra đời.*
-
----
-
-### 🧭 Lời khuyên khi Ten of Swords ngược xuất hiện
-
-- Đừng quay lại điều đã sụp
-- Cho phép mình bắt đầu lại
-- Tin rằng sự kết thúc này có ý nghĩa
-
-Không phải mọi kết thúc đều là thất bại.  
-Một số kết thúc  
-**là giải thoát**.
+Lá bài nhắc rằng:  
+**Hồi sinh chỉ xảy ra khi ta cho phép kết thúc hoàn toàn.**
 
 ---
 
-## 🔗Để hiểu trọn vẹn mạch sụp đổ và thức tỉnh của Swords, bạn có thể đọc thêm:
+### Lời khuyên khi Ten of Swords ngược xuất hiện
 
-- **[Eight of Swords – Mắc Kẹt Trong Tư Duy](/tarot/la-bai/eight-of-swords/)**  
-- **[Nine of Swords – Lo Âu Và Dằn Vặt](/tarot/la-bai/nine-of-swords/)**  
-- **[Ace of Swords – Sự Thật Và Nhận Thức Mới](/tarot/la-bai/ace-of-swords/)**  
-- **[Suit of Swords – Con Đường Tư Duy](/tarot/la-bai/suit-of-swords/)**  
+- Đóng lại chương cũ
+- Không quay lại nơi đã làm mình gãy
+- Chuẩn bị tinh thần cho chu kỳ mới
+
+---
+
+## 👉 Khép trục đêm tối của Suit of Swords
+
+**[Suit of Swords – Hành Trình Nhận Thức](/tarot/la-bai/suit-of-swords/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Ten of Swords
 
 **Xuôi:**
-- 🗡️ Sụp đổ hoàn toàn
-- 💥 Kết thúc đau đớn
-- 🧠 Không còn ảo tưởng
+- Chạm đáy  
+- Kết thúc bắt buộc  
+- Không thể tiếp tục  
 
 **Ngược:**
-- 🌅 Thức tỉnh
-- 🌱 Tái sinh nhận thức
-- 🧭 Bắt đầu chu kỳ mới
+- Hồi phục  
+- Đau giảm  
+- Chưa dứt hẳn  
 
 Ten of Swords nhắc ta rằng:  
-**Có những nỗi đau không đến để hủy diệt – mà để chấm dứt một cái tôi đã sống quá lâu.**
+**Không có sự kết thúc nào đau đến mức không cho phép bắt đầu lại –  
+chỉ có những khởi đầu cần một kết thúc đủ sâu.**
 
-👉 Xem toàn bộ mạch: **[Suit of Swords – Con Đường Tư Duy](/tarot/la-bai/suit-of-swords/)**
+---
+
+## 🔗 Để tiếp tục hành trình sau điểm cuối, bạn có thể tham khảo thêm:
+
+- **[Nine of Swords – Ám Ảnh Trong Đêm](/tarot/la-bai/nine-of-swords/)**  
+- **[Ace of Swords – Sự Thật Và Khởi Đầu Mới](/tarot/la-bai/ace-of-swords/)**  
+- **[Bộ Ẩn Phụ – Suit of Swords](/tarot/la-bai/suit-of-swords/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
+
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Ten of Swords
+
+**Ten of Swords có phải là lá bài xấu nhất không?**  
+Không. Đây là lá bài đau nhất, nhưng cũng là lá bài không thể đau thêm nữa.
+
+**Ten of Swords trong tình yêu có ý nghĩa gì?**  
+Thường là kết thúc dứt khoát, không còn khả năng cứu vãn.
+
+**Ten of Swords ngược có tích cực không?**  
+Có thể, nếu đó là giai đoạn hồi phục sau khi đã chạm đáy.
+
+**Ten of Swords dạy bài học gì?**  
+Rằng có những thứ chỉ kết thúc khi ta cho phép nó kết thúc hoàn toàn.

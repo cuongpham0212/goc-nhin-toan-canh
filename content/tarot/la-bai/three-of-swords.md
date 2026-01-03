@@ -112,177 +112,202 @@ reading:
       bước qua tổn thương.
 
 ---
+## Three of Swords là gì?
 
-## Tổng quan về lá Three of Swords
+**Three of Swords** là lá bài đại diện cho **nỗi đau không thể né tránh** –  
+khi sự thật đã được nhìn thấy, và **trái tim buộc phải cảm nhận hệ quả của nó**.
 
-**Three of Swords** là khoảnh khắc mà **sự thật cuối cùng cũng xuyên qua lớp phòng thủ**.  
-Nếu Two of Swords là bịt mắt để tránh nhìn, thì Three là:
+Nếu Two of Swords là giai đoạn che mắt để trì hoãn lựa chọn,  
+thì Three of Swords là khoảnh khắc **tấm bịt rơi xuống** –  
+và nỗi đau xuất hiện, rõ ràng, sắc bén, không vòng vo.
 
-👉 *Mở mắt ra – và đau.*
-
-Đây là lá bài của:
-- Tổn thương tinh thần
-- Vỡ mộng
-- Sự thật gây đau nhưng không thể phủ nhận
-
-Three of Swords không đến để phá hủy,  
-mà để **xé toang ảo tưởng còn sót lại**.
+> Không phải vì ta yếu nên đau,  
+> mà vì **ta đã đủ tỉnh để không tự lừa mình nữa**.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá Three of Swords
 
-Hình ảnh quen thuộc của Three of Swords thường là:
-- Một trái tim bị ba thanh kiếm đâm xuyên
-- Bầu trời u ám, mưa rơi
+**Three of Swords** thuộc nhóm **Swords (Kiếm)** trong Tarot – đại diện cho **sự thật gây tổn thương, xung đột cảm xúc và nỗi đau tinh thần**.  
+Trong **Minor Arcana**, số **3** mang ý nghĩa của **hệ quả – sự bộc lộ – điều không thể che giấu**.
 
-Biểu tượng này mang thông điệp rất trực diện:
-👉 *Đây không phải nỗi đau mơ hồ – mà là nỗi đau có nguyên nhân rõ ràng.*
+Three of Swords không nói về bi kịch vô nghĩa,  
+mà nói về:
+- Một sự thật làm đau
+- Một tổn thương cần được nhìn thẳng
+- Và quá trình cắt bỏ ảo tưởng để sống thật hơn
 
-Ba thanh kiếm đại diện cho:
-- Sự thật
-- Lời nói
-- Nhận thức
+Nếu:
+- Ace of Swords là “tôi đã thấy”
+- Two of Swords là “tôi chưa dám chọn”
 
-Nỗi đau đến từ **việc hiểu ra**, không phải từ việc mơ hồ.
+thì Three of Swords là:  
+**“Tôi đau – vì tôi đã chọn nhìn thẳng.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Trong hình ảnh truyền thống của Three of Swords, ta thường thấy:
+- **Một trái tim bị ba thanh kiếm đâm xuyên** – nỗi đau trực diện
+- **Mưa xám phía sau** – cảm xúc u ám, buồn bã
+- **Không có con người** – nỗi đau nội tâm, không ai thay thế được
+
+Biểu tượng trung tâm của lá bài là:  
+**Nỗi đau đến từ sự thật, không đến từ sự yếu đuối.**
+
+Three of Swords cho thấy:
+trái tim không vỡ vì bị tấn công bất ngờ,  
+mà vì **cuối cùng ta dám để sự thật chạm tới nó**.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Three of Swords
+
+Three of Swords mang năng lượng của **nguyên tố Khí (Air)** kết hợp với **Sao Thổ (Saturn)** trong **Thiên Bình** – biểu trưng cho **nỗi đau từ các mối quan hệ, công lý không trọn vẹn và bài học trưởng thành qua mất mát**.
+
+Với **Thiên Bình**, lá bài này phản ánh sâu sắc:
+- Tổn thương đến từ sự mất cân bằng
+- Nỗi đau khi hòa khí không thể giữ
+- Và việc phải chấp nhận rằng **không có lựa chọn nào làm tất cả đều ổn**
+
+Trong những giai đoạn mà **một mối quan hệ hoặc niềm tin sụp đổ**, việc quan sát lại cách ta tìm kiếm công bằng và sự thật có thể giúp quá trình chữa lành diễn ra đúng hướng. Nếu anh muốn soi chiếu nhịp này theo chu kỳ cá nhân, có thể tham khảo **[Tử vi cung Thiên Bình năm 2026](/tu-vi/nam-2026/thien-binh/)** như một gợi ý nhẹ, đúng tinh thần đối diện và tái cân bằng.
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Three of Swords
 
-### 💔 Tổn thương và đau lòng
+### Nỗi đau tinh thần
 
-Three of Swords xuôi phản ánh:
-- Bị tổn thương bởi lời nói hoặc sự thật
-- Trái tim tan vỡ
-- Cảm giác bị phản bội hoặc thất vọng sâu sắc
+Three of Swords xuôi cho thấy:
+- Trái tim bị tổn thương
+- Sự thật làm đau
+- Nỗi buồn không thể phủ nhận
 
-Đây là nỗi đau:
-👉 *Không thể phủ nhận, không thể làm ngơ.*
-
----
-
-### 🧠 Vỡ mộng và tỉnh thức
-
-Lá bài cho thấy:
-- Nhận ra điều mình từng tin là sai
-- Ảo tưởng sụp đổ
-- Sự thật hiện ra trần trụi
-
-Dù đau, nhưng đây là bước:
-👉 *Không thể bỏ qua trên con đường trưởng thành.*
+Đây là giai đoạn của:
+**đau đớn – buồn bã – vỡ mộng**.
 
 ---
 
-### 🗣️ Nỗi đau từ lời nói
+### Không còn chỗ cho né tránh
 
-Three of Swords thường liên quan đến:
-- Những lời nói gây tổn thương
-- Sự thật được nói ra không khéo
-- Giao tiếp thiếu cảm thông
+Lá bài xuất hiện khi:
+- Bạn không thể tiếp tục giả vờ
+- Không thể “ổn” như trước
+- Và cần cho phép mình đau
 
-Lời nói lúc này **sắc như kiếm**.
+Three of Swords nhắc rằng:  
+👉 **Đau là một phần của quá trình tỉnh thức.**
+
+---
+
+### Nỗi đau có ý nghĩa
+
+Three of Swords xuôi không đến để phá hủy,  
+mà để **dọn chỗ cho sự thật và trưởng thành**.
 
 ---
 
 ## Three of Swords trong các khía cạnh đời sống
 
-### 🔹 Trong tình cảm
-
-- Tan vỡ
-- Chia tay
-- Phát hiện sự thật đau lòng
-
-Three of Swords không nói rằng tình yêu chưa từng tồn tại,  
-mà nói rằng:
-👉 *Tình yêu ấy đã va vào sự thật.*
+### Trong tình cảm
+Three of Swords phản ánh:
+- Chia ly
+- Phản bội
+- Hoặc sự thật làm tan vỡ hình ảnh cũ về một mối quan hệ
 
 ---
 
-### 🔹 Trong công việc & mối quan hệ
-
-- Mâu thuẫn
+### Trong công việc & cuộc sống
+Trong công việc, Three of Swords cho thấy:
 - Thất vọng
-- Niềm tin bị lung lay
+- Mâu thuẫn
+- Cần chấp nhận sự thật để đi tiếp
 
-Lá bài nhắc:
-- Đừng né tránh cảm xúc
-- Nhưng cũng đừng để nỗi đau biến thành cay độc
-
----
-
-### 🔹 Trong đời sống nội tâm
-
-Lá bài phản ánh:
-- Sự đau đớn tinh thần
-- Tâm trí bị ám ảnh bởi một sự thật
-
-Three of Swords đặt ra câu hỏi:
-👉 *Bạn đang cho phép nỗi đau dạy bạn điều gì?*
+Đây là lúc **thà đau vì thật, còn hơn yên ổn giả tạo**.
 
 ---
 
-## Three of Swords (Ngược) – Chữa lành hoặc dồn nén
+## Three of Swords (Ngược) – Chữa lành hoặc dồn nén nỗi đau
 
-Khi **Three of Swords xuất hiện ở vị trí ngược**, nỗi đau bắt đầu chuyển pha.
-
----
-
-### ⚠️ Ý nghĩa chính
-
-Three of Swords ngược cho thấy:
+Khi **Three of Swords xuất hiện ở vị trí ngược**, lá bài phản ánh:
 - Bắt đầu chữa lành
-- Hoặc cố gắng chôn giấu nỗi đau
-
-Sự khác biệt nằm ở:
-👉 *Bạn đang đối diện, hay đang nén lại?*
+- Hoặc cố kìm nén nỗi đau chưa được xử lý
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Ý nghĩa chính
 
-Ở trạng thái ngược, lá bài phản ánh:
-- Nỗi đau chưa được xử lý
-- Hoặc quá trình hồi phục đang diễn ra
-
-Đây là giai đoạn:
-👉 *Học cách mang vết thương mà không để nó điều khiển mình.*
+Three of Swords ngược thường liên quan đến:
+- Quá trình hồi phục
+- Nỗi đau dần lắng
+- Hoặc sự phủ nhận cảm xúc
 
 ---
 
-### 🧭 Lời khuyên khi Three of Swords ngược xuất hiện
+### Góc nhìn tâm lý
 
-- Cho phép mình buồn
-- Tìm không gian an toàn để chữa lành
-- Không vội vàng “ổn” khi chưa sẵn sàng
+Ở trạng thái ngược, Three of Swords cho thấy:
+- Bạn có thể đang lành lại
+- Hoặc đang cố “ổn” quá sớm
 
-Nỗi đau không biến mất vì bị chối bỏ,  
-mà vì **được nhìn nhận và thấu hiểu**.
+Lá bài nhắc rằng:  
+**Chữa lành không đến từ việc phủ nhận nỗi đau.**
 
 ---
 
-## 🔗Để hiểu trọn mạch tổn thương và phục hồi của Swords, bạn có thể đọc thêm:
+### Lời khuyên khi Three of Swords ngược xuất hiện
 
-- **[Ace of Swords – Sự Thật Và Nhận Thức Mới](/tarot/la-bai/ace-of-swords/)**  
-- **[Two of Swords – Lưỡng Lự Và Né Tránh](/tarot/la-bai/two-of-swords/)**  
-- **[Four of Swords – Nghỉ Ngơi Và Hồi Phục Tinh Thần](/tarot/la-bai/four-of-swords/)**  
-- **[Suit of Swords – Con Đường Tư Duy](/tarot/la-bai/suit-of-swords/)**  
+- Cho phép mình buồn đúng mức
+- Đừng vội tha thứ nếu chưa hiểu hết nỗi đau
+- Lắng nghe trái tim một cách trung thực
+
+---
+
+## 👉 Tiếp mạch nhận thức của Suit of Swords
+
+**[Suit of Swords – Hành Trình Nhận Thức](/tarot/la-bai/suit-of-swords/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Three of Swords
 
 **Xuôi:**
-- 💔 Tổn thương sâu sắc
-- 🧠 Vỡ mộng
-- 🗡️ Sự thật gây đau
+- Đau lòng  
+- Tổn thương  
+- Sự thật gây đau  
 
 **Ngược:**
-- 🌱 Bắt đầu chữa lành
-- ⚠️ Hoặc dồn nén cảm xúc
-- 🧭 Cần xử lý nỗi đau đúng cách
+- Chữa lành  
+- Hồi phục  
+- Xử lý nỗi đau  
 
 Three of Swords nhắc ta rằng:  
-**Sự thật có thể làm tim đau – nhưng chính nó mới mở ra con đường chữa lành thật sự.**
+**Nỗi đau không đến để hủy diệt,  
+mà để kết thúc những ảo tưởng không còn phù hợp.**
 
-👉 Xem toàn bộ mạch: **[Suit of Swords – Con Đường Tư Duy](/tarot/la-bai/suit-of-swords/)**
+---
+
+## 🔗 Để tiếp tục mạch Suit of Swords, bạn có thể tham khảo thêm:
+
+- **[Two of Swords – Biết Nhưng Chưa Dám Chọn](/tarot/la-bai/two-of-swords/)**  
+- **[Four of Swords – Nghỉ Ngơi Và Hồi Phục](/tarot/la-bai/four-of-swords/)**  
+- **[Bộ Ẩn Phụ – Suit of Swords](/tarot/la-bai/suit-of-swords/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
+
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Three of Swords
+
+**Three of Swords có phải là lá bài xấu không?**  
+Không. Đây là lá bài đau, nhưng cần thiết để trưởng thành.
+
+**Three of Swords trong tình yêu có ý nghĩa gì?**  
+Thường liên quan đến chia ly, phản bội hoặc sự thật khó chấp nhận.
+
+**Three of Swords ngược có tốt không?**  
+Có, nếu đó là quá trình chữa lành thật sự.
+
+**Three of Swords có liên quan đến tổn thương tâm lý không?**  
+Rất rõ. Đây là một trong những lá bài phản ánh tổn thương tinh thần sâu sắc nhất của Tarot.

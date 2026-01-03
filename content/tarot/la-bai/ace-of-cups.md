@@ -236,7 +236,7 @@ Ace of Cups ngược không đòi hỏi thay đổi tức thì, chỉ cần **nh
 
 - **[Two of Cups – Sự Kết Nối Hai Chiều](/tarot/la-bai/two-of-cups/)**  
 - **[Page of Cups – Thông Điệp Từ Cảm Xúc](/tarot/la-bai/page-of-cups/)**  
-- **[Bộ Ẩn Phụ – Suit of Cups](/tarot/suit/cups/)**  
+- **[Bộ Ẩn Phụ – Suit of Cups](/tarot/la-bai/suit-of-cups/)**  
 - **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---

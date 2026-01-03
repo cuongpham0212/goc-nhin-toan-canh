@@ -115,180 +115,207 @@ reading:
       dù cần thời gian và sự kiên nhẫn.
 
 ---
+## Nine of Swords là gì?
 
-## Tổng quan về lá Nine of Swords
+**Nine of Swords** là lá bài đại diện cho **nỗi sợ âm thầm gặm nhấm từ bên trong** –  
+khi ban ngày bạn vẫn sống, vẫn làm việc,  
+nhưng đêm xuống, **tâm trí không cho phép bạn yên**.
 
-**Nine of Swords** là khoảnh khắc mà **nhà tù tư duy của Eight of Swords bắt đầu vang tiếng vọng**.  
-Không còn là bị trói bên ngoài, mà là:
+Nếu Eight of Swords là tự trói mình trong nỗi sợ ban ngày,  
+thì Nine of Swords là **nỗi sợ đã vượt qua hàng rào lý trí** –  
+nó không cần hoàn cảnh nữa,  
+chỉ cần **ký ức, ân hận, hoặc những câu hỏi chưa có lời đáp**.
 
-👉 *Bị tra vấn bởi chính tâm trí của mình.*
-
-Đây là lá bài của:
-- Lo âu
-- Dằn vặt
-- Nỗi sợ tinh thần
-
-Nine of Swords không nói rằng bạn đang gặp nguy hiểm,  
-mà nói rằng **tâm trí bạn đang tự làm mình đau**.
+> Có những nỗi đau không la hét,  
+> chỉ **đánh thức ta lúc nửa đêm**.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá Nine of Swords
 
-Hình ảnh quen thuộc của Nine of Swords thường là:
-- Một người ngồi bật dậy giữa đêm
-- Hai tay ôm đầu
-- Chín thanh kiếm treo trên tường
-- Không gian tối và nặng nề
+**Nine of Swords** thuộc nhóm **Swords (Kiếm)** trong Tarot – đại diện cho **lo âu, ám ảnh và dằn vặt tinh thần**.  
+Trong **Minor Arcana**, số **9** mang ý nghĩa của **đỉnh điểm tâm lý – khi nỗi sợ tích tụ đủ lâu**.
 
-Biểu tượng này cho thấy:
-👉 *Không phải ác mộng đến từ bên ngoài – mà từ bên trong.*
+Nine of Swords không nói về nguy hiểm bên ngoài,  
+mà nói về:
+- Áp lực tinh thần kéo dài
+- Tự trách, hối hận
+- Và nỗi sợ không được nói ra
 
-Những thanh kiếm không chạm vào cơ thể,  
-nhưng **chạm trực tiếp vào tâm trí**.
+Nếu:
+- Seven of Swords là giấu sự thật  
+- Eight of Swords là mắc kẹt trong niềm tin  
+
+thì Nine of Swords là:  
+**“Tôi không còn trốn được trong chính đầu mình.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Trong hình ảnh truyền thống của Nine of Swords, ta thường thấy:
+- **Một người ngồi bật dậy trên giường** – mất ngủ
+- **Hai tay che mặt** – dằn vặt, xấu hổ, sợ hãi
+- **Những thanh kiếm treo phía trên** – suy nghĩ lơ lửng, không buông
+
+Biểu tượng trung tâm của lá bài là:  
+**Nỗi đau tinh thần không cần kẻ thù – nó tự tồn tại trong tâm trí.**
+
+Nine of Swords cho thấy:
+bạn không bị trừng phạt,  
+bạn chỉ đang **mang quá nhiều điều chưa được giải tỏa**.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Nine of Swords
+
+Nine of Swords mang năng lượng của **nguyên tố Khí (Air)** kết hợp với **Sao Hỏa (Mars)** trong **Song Tử** – biểu trưng cho **tâm trí hoạt động quá mức, lo âu lặp vòng và căng thẳng thần kinh**.
+
+Với **Song Tử**, lá bài này phản ánh:
+- Suy nghĩ không ngừng nghỉ
+- Tự đối thoại tiêu cực
+- Và việc bị mắc kẹt trong những kịch bản “nếu như…”
+
+Trong những giai đoạn mà **tâm trí không chịu ngủ cùng cơ thể**, việc quan sát lại nhịp suy nghĩ và áp lực tinh thần theo thời gian là rất cần thiết. Nếu anh muốn soi chiếu chu kỳ này, có thể tham khảo **[Tử vi cung Song Tử năm 2026](/tu-vi/nam-2026/song-tu/)** như một gợi ý nhẹ, đúng tinh thần chăm sóc sức khỏe tinh thần.
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Nine of Swords
 
-### 🌑 Lo âu và mất ngủ
+### Lo âu và ám ảnh
+
+Nine of Swords xuôi cho thấy:
+- Mất ngủ
+- Lo lắng kéo dài
+- Dằn vặt vì quá khứ hoặc tương lai
+
+Đây là giai đoạn của:
+**ám ảnh – sợ hãi – tự trách**.
+
+---
+
+### Nỗi sợ không được nói ra
+
+Lá bài xuất hiện khi:
+- Bạn không chia sẻ
+- Không dám nói mình yếu
+- Và để nỗi sợ tự lớn lên trong im lặng
+
+Nine of Swords nhắc rằng:  
+👉 **Nỗi sợ lớn nhất thường là nỗi sợ ta không nói ra.**
+
+---
+
+### Đau nhiều hơn thực tế
 
 Nine of Swords xuôi phản ánh:
-- Lo lắng kéo dài
-- Mất ngủ
-- Suy nghĩ tiêu cực lặp đi lặp lại
-
-Đây là trạng thái:
-👉 *Cơ thể mệt – nhưng đầu óc không chịu nghỉ.*
-
----
-
-### 🧠 Dằn vặt và tội lỗi
-
-Lá bài cho thấy:
-- Tự trách bản thân
-- Ám ảnh về sai lầm quá khứ
-- Phóng đại vấn đề trong đầu
-
-Nine of Swords nhắc:
-👉 *Không phải mọi suy nghĩ đều là sự thật.*
-
----
-
-### 🔁 Vòng lặp sợ hãi
-
-Tâm trí lúc này:
-- Tự tạo ra kịch bản xấu nhất
-- Lặp lại những câu hỏi “giá như…”
-
-Nỗi sợ lớn nhất:
-👉 *Không phải điều đã xảy ra – mà là điều ta tưởng tượng.*
+- Tâm trí phóng đại nỗi đau
+- Khổ nhiều hơn điều đang xảy ra
 
 ---
 
 ## Nine of Swords trong các khía cạnh đời sống
 
-### 🔹 Trong công việc & áp lực tinh thần
-
-- Stress
-- Áp lực thành tích
-- Sợ sai, sợ bị đánh giá
-
-Lá bài khuyên:
-- Nhìn lại thực tế
-- Phân biệt giữa nguy cơ thật và nỗi sợ tưởng tượng
+### Trong tình cảm
+Nine of Swords phản ánh:
+- Lo mất
+- Ghen ngầm
+- Hoặc tự trách vì những gì đã nói, đã làm
 
 ---
 
-### 🔹 Trong tình cảm
+### Trong công việc & cuộc sống
+Trong công việc, Nine of Swords cho thấy:
+- Áp lực tinh thần cao
+- Sợ sai
+- Sợ bị đánh giá
 
-Nine of Swords trong tình cảm cho thấy:
-- Ghen tuông
-- Sợ mất
-- Tự tưởng tượng kịch bản đau lòng
-
-Đây là lúc cần hỏi:
-👉 *Nỗi sợ này đến từ thực tế, hay từ bất an bên trong mình?*
+Đây là lúc **tâm trí cần được lắng xuống, không phải bị thúc ép**.
 
 ---
 
-### 🔹 Trong đời sống nội tâm
+## Nine of Swords (Ngược) – Giải tỏa dần hoặc suy sụp tinh thần
 
-Lá bài phản ánh:
-- Tự trừng phạt tinh thần
-- Áp lực đạo đức quá mức
-- Không cho phép bản thân sai
-
-Nine of Swords đặt ra câu hỏi:
-👉 *Bạn đang đối xử với bản thân như một người thầy, hay một quan tòa?*
+Khi **Nine of Swords xuất hiện ở vị trí ngược**, lá bài phản ánh:
+- Bắt đầu nói ra
+- Hoặc ngược lại, kiệt quệ vì dồn nén quá lâu
 
 ---
 
-## Nine of Swords (Ngược) – Ánh sáng bắt đầu lọt vào
+### Ý nghĩa chính
 
-Khi **Nine of Swords xuất hiện ở vị trí ngược**, đây là dấu hiệu chuyển pha quan trọng.
-
----
-
-### ⚠️ Ý nghĩa chính
-
-Nine of Swords ngược cho thấy:
-- Lo âu bắt đầu giảm
-- Nỗi sợ được gọi tên
-- Có sự hỗ trợ hoặc nhận thức mới
-
-Không phải đã hết đau,  
-mà là:
-👉 *Không còn một mình trong nỗi đau.*
+Nine of Swords ngược thường liên quan đến:
+- Tìm được người để chia sẻ
+- Nhận diện gốc rễ lo âu
+- Hoặc chạm đáy tinh thần
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Góc nhìn tâm lý
 
-Ở trạng thái ngược, lá bài phản ánh:
-- Dám nói ra nỗi sợ
-- Bắt đầu tìm sự trợ giúp
-- Nhận ra mình đã tự trách quá nhiều
+Ở trạng thái ngược, Nine of Swords cho thấy:
+- Cần sự hỗ trợ
+- Không nên chịu đựng một mình
 
-Đây là giai đoạn:
-👉 *Từ bóng tối bước ra ánh sáng yếu ớt.*
-
----
-
-### 🧭 Lời khuyên khi Nine of Swords ngược xuất hiện
-
-- Chia sẻ với người đáng tin
-- Nhẹ nhàng với bản thân
-- Nhận diện nỗi sợ thay vì chống lại nó
-
-Lo âu tan đi  
-không phải vì bị đè nén,  
-mà vì **được lắng nghe**.
+Lá bài nhắc rằng:  
+**Không ai mạnh lên nhờ việc đau khổ trong im lặng quá lâu.**
 
 ---
 
-## 🔗Để theo dõi trọn mạch dằn vặt và chuyển hóa của Swords, bạn có thể đọc thêm:
+### Lời khuyên khi Nine of Swords ngược xuất hiện
 
-- **[Seven of Swords – Trốn Tránh Và Tự Lừa Dối](/tarot/la-bai/seven-of-swords/)**  
-- **[Eight of Swords – Mắc Kẹt Trong Tư Duy](/tarot/la-bai/eight-of-swords/)**  
-- **[Ten of Swords – Kết Thúc Đau Đớn Và Thức Tỉnh](/tarot/la-bai/ten-of-swords/)**  
-- **[Suit of Swords – Con Đường Tư Duy](/tarot/la-bai/suit-of-swords/)**  
+- Nói ra điều khiến bạn sợ
+- Ngủ nghỉ đúng mức
+- Tìm sự giúp đỡ chuyên môn nếu cần
+
+---
+
+## 👉 Tiếp mạch đêm tối của Suit of Swords
+
+**[Suit of Swords – Hành Trình Nhận Thức](/tarot/la-bai/suit-of-swords/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Nine of Swords
 
 **Xuôi:**
-- 🌑 Lo âu và mất ngủ
-- 🧠 Dằn vặt tinh thần
-- 🔁 Vòng lặp sợ hãi
+- Lo âu  
+- Mất ngủ  
+- Ám ảnh tinh thần  
 
 **Ngược:**
-- 🌱 Ánh sáng bắt đầu xuất hiện
-- 🧠 Nhận diện nỗi sợ
-- 🧭 Cần được hỗ trợ
+- Giải tỏa  
+- Nhận hỗ trợ  
+- Chạm đáy để hồi phục  
 
 Nine of Swords nhắc ta rằng:  
-**Nỗi sợ lớn nhất thường không sống ngoài đời – mà sống trong đầu ta. Và điều đó có thể được chữa lành.**
+**Nỗi sợ lớn nhất không phải là điều sẽ xảy ra,  
+mà là việc ta phải đối diện nó một mình trong đêm.**
 
-👉 Xem toàn bộ mạch: **[Suit of Swords – Con Đường Tư Duy](/tarot/la-bai/suit-of-swords/)**
+---
+
+## 🔗 Để tiếp tục mạch Suit of Swords, bạn có thể tham khảo thêm:
+
+- **[Eight of Swords – Tự Giam Mình Trong Sợ Hãi](/tarot/la-bai/eight-of-swords/)**  
+- **[Ten of Swords – Kết Thúc Đau Đớn Nhưng Dứt Khoát](/tarot/la-bai/ten-of-swords/)**  
+- **[Bộ Ẩn Phụ – Suit of Swords](/tarot/la-bai/suit-of-swords/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
+
+---
+## Các câu hỏi thường gặp khi trải bài với lá Nine of Swords
+
+**Nine of Swords có phải là lá bài xấu không?**  
+Không hẳn. Đây là lá bài phản ánh trạng thái tâm lý nặng nề, lo âu và dằn vặt, chứ không phải điềm báo tai họa sắp xảy ra.
+
+**Nine of Swords trong tình yêu có ý nghĩa gì?**  
+Thường liên quan đến lo sợ mất mát, tự trách bản thân, hoặc ám ảnh vì những điều đã nói, đã làm trong mối quan hệ.
+
+**Nine of Swords có liên quan đến trầm cảm hoặc lo âu không?**  
+Có liên quan mạnh về mặt biểu tượng. Lá bài này thường xuất hiện khi người trải bài đang chịu áp lực tinh thần lớn và cần được hỗ trợ, chia sẻ.
+
+**Nine of Swords ngược có tích cực không?**  
+Có thể tích cực nếu đó là dấu hiệu bắt đầu nói ra nỗi sợ và tìm cách giải tỏa. Tuy nhiên, nó cũng có thể cảnh báo sự kiệt quệ nếu nỗi lo bị dồn nén quá lâu.
+
+**Nine of Swords dạy bài học gì?**  
+Rằng nỗi sợ lớn nhất không nằm ở thực tại, mà ở việc ta để tâm trí tự hành hạ mình trong im lặng, đặc biệt khi không cho phép bản thân được giúp đỡ.

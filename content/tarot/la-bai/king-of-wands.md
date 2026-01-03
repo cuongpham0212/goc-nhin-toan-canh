@@ -112,174 +112,208 @@ reading:
       chứ không chỉ nhất thời.
 
 ---
+## King of Wands là gì?
 
-## Tổng quan về lá King of Wands
+**King of Wands** là lá bài đại diện cho **người đã đi đủ xa để biến lửa thành tầm nhìn** –  
+không còn hành động vì bốc đồng, cũng không chỉ tỏa sáng vì bản thân,  
+mà **chịu trách nhiệm cho hướng đi của cả một hành trình**.
 
-Nếu **Queen of Wands** là:
-👉 *Lửa chín – lan tỏa – thu hút*  
+Nếu Queen of Wands là làm chủ lửa bên trong,  
+thì King of Wands là lúc **lửa trở thành ngọn hải đăng** –  
+soi đường cho người khác, và giữ cho hành trình không lạc hướng.
 
-thì **King of Wands** là:
-👉 *Lửa đứng trụ – dẫn đường – định hướng.*
-
-Đây là lá bài của:
-- Tầm nhìn dài hạn
-- Lãnh đạo bằng cảm hứng
-- Làm chủ hành trình sống
-
-King of Wands không cần chứng minh mình cháy,  
-vì **mọi người tự tìm đến ánh lửa đó**.
+> Khi bạn không chỉ hỏi “tôi muốn gì”,  
+> mà bắt đầu tự hỏi **“điều này sẽ dẫn ai đi cùng tôi?”**
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá King of Wands
 
-Hình ảnh quen thuộc của King of Wands thường là:
-- Một vị vua ngồi vững trên ngai
-- Cây gậy dựng thẳng
-- Sư tử và salamander (kỳ giông lửa) xung quanh
+**King of Wands** thuộc nhóm **Wands (Gậy)** trong Tarot – đại diện cho **tầm nhìn, lãnh đạo và định hướng dài hạn**.  
+Trong **Minor Arcana**, **King** là cấp độ của **trách nhiệm – làm chủ – dẫn dắt có ý thức**.
 
-Biểu tượng này cho thấy:
-👉 *Lửa đã được làm chủ hoàn toàn.*
+King of Wands không nói về quyền lực áp đặt,  
+mà nói về:
+- Khả năng nhìn xa
+- Sự nhất quán trong hành động
+- Và trách nhiệm với hệ quả mình tạo ra
 
-Không bốc đồng như Knight,  
-không chỉ lan tỏa như Queen,  
-mà **đứng trụ và dẫn đường**.
+Nếu:
+- Page of Wands là tia lửa tò mò  
+- Knight of Wands là hành động bốc lửa  
+- Queen of Wands là bản sắc tự tin  
+
+thì King of Wands là:  
+**“Tôi biết mình đang đi đâu – và vì sao.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Trong hình ảnh truyền thống của King of Wands, ta thường thấy:
+- **Nhà vua ngồi vững trên ngai** – sự ổn định nội tâm
+- **Cây gậy cầm chắc trong tay** – quyền chủ động hành động
+- **Ánh nhìn hướng thẳng** – tầm nhìn rõ ràng, không do dự
+
+Biểu tượng trung tâm của lá bài là:  
+**Lãnh đạo không đến từ quyền lực,  
+mà từ khả năng chịu trách nhiệm cho hướng đi.**
+
+King of Wands cho thấy:
+bạn không cần kiểm soát mọi người,  
+chỉ cần **giữ vững tầm nhìn để người khác tự nguyện bước theo**.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của King of Wands
+
+King of Wands mang năng lượng của **nguyên tố Lửa** ở trạng thái **chín muồi và định hướng**, thường được liên hệ với **Mặt Trời (Sun)** trong **Sư Tử** – biểu trưng cho **quyền uy tự nhiên, tầm nhìn lãnh đạo và trách nhiệm đi kèm với sự tỏa sáng**.
+
+Với **Sư Tử**, King of Wands thể hiện mặt trưởng thành nhất của lửa:
+- Không còn cần chứng minh
+- Không cần tranh giành vị trí
+- Mà **đứng ở trung tâm vì đã đủ vững để gánh trách nhiệm**
+
+Trong những giai đoạn mà một người **bước vào vai trò dẫn dắt hoặc trở thành điểm tựa cho người khác**, việc hiểu rõ cách tầm nhìn cá nhân vận hành theo thời gian là rất quan trọng. Nếu anh muốn soi chiếu thêm chu kỳ này dưới góc nhìn chiêm tinh, có thể tham khảo **[Tử vi cung Sư Tử năm 2026](/tu-vi/nam-2026/su-tu/)** như một gợi ý nhẹ, đúng nhịp.
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của King of Wands
 
-### 👑 Lãnh đạo bằng tầm nhìn
+### Tầm nhìn và lãnh đạo
+
+King of Wands xuôi cho thấy:
+- Khả năng nhìn xa
+- Định hướng rõ ràng
+- Người khác tin tưởng vào hướng đi bạn đề ra
+
+Đây là trạng thái của:
+**lãnh đạo – chủ động – nhất quán**.
+
+---
+
+### Dẫn đường bằng trách nhiệm
+
+Lá bài xuất hiện khi:
+- Bạn giữ vai trò quyết định
+- Ảnh hưởng của bạn lan rộng
+- Và mỗi lựa chọn đều mang hệ quả lớn
+
+King of Wands nhắc rằng:  
+👉 **Lãnh đạo thật sự là dám chịu trách nhiệm cho lựa chọn của mình.**
+
+---
+
+### Làm chủ lửa, không bị lửa chi phối
 
 King of Wands xuôi phản ánh:
-- Khả năng nhìn xa
-- Dám dẫn đầu
-- Dám chịu trách nhiệm
-
-Đây là kiểu lãnh đạo:
-👉 *Người khác đi theo vì tin – không vì sợ.*
-
----
-
-### 🔥 Làm chủ ngọn lửa
-
-Lá bài cho thấy:
-- Đam mê không còn chi phối
-- Năng lượng được điều phối thông minh
-
-King of Wands là:
-👉 *Người cầm lửa – không để lửa cầm mình.*
-
----
-
-### 🌍 Truyền cảm hứng bền vững
-
-Không tạo động lực nhất thời,  
-King of Wands:
-- Xây dựng hướng đi
-- Tạo hệ sinh thái hành động
-
-Đây là sự trưởng thành cao nhất của Wands.
+- Biết khi nào cần hành động
+- Khi nào cần kiên nhẫn
+- Và không để cảm xúc nhất thời làm lệch hướng
 
 ---
 
 ## King of Wands trong các khía cạnh đời sống
 
-### 🔹 Trong công việc & sự nghiệp
-
-- Nhà sáng lập
-- Người dẫn dắt
-- Người có tầm nhìn chiến lược
-
-Lá bài khuyên:
-- Tin vào hướng đi dài hạn
-- Đừng micromanage – hãy truyền lửa
+### Trong tình cảm
+King of Wands phản ánh:
+- Sự chín chắn trong cam kết
+- Dẫn dắt mối quan hệ bằng tầm nhìn dài hạn
+- Không kiểm soát, nhưng rất rõ ràng
 
 ---
 
-### 🔹 Trong tình cảm
+### Trong công việc & cuộc sống
+Trong công việc, King of Wands báo hiệu:
+- Vai trò lãnh đạo
+- Khởi xướng dự án lớn
+- Hoặc trở thành người định hướng cho tập thể
 
-King of Wands trong tình cảm phản ánh:
-- Sự ổn định trong đam mê
-- Yêu nhưng không chiếm hữu
-- Tạo cảm giác an toàn về hướng đi
-
-Đây là kiểu yêu:
-👉 *Ở bên người này, ta thấy tương lai.*
+Đây là lúc **dẫn đường, không phải gánh thay**.
 
 ---
 
-### 🔹 Trong đời sống nội tâm
+## King of Wands (Ngược) – Lạm quyền hoặc mất phương hướng
 
-Lá bài phản ánh:
-- Sự thống nhất giữa đam mê và lý trí
-- Biết mình sống vì điều gì
-
-King of Wands đặt câu hỏi:
-👉 *Nếu bạn dẫn dắt cuộc đời mình, bạn sẽ dẫn nó đi đâu?*
+Khi **King of Wands xuất hiện ở vị trí ngược**, lá bài phản ánh:
+- Lạm quyền
+- Quyết định thiếu nhất quán
+- Hoặc mất kết nối với tầm nhìn ban đầu
 
 ---
 
-## King of Wands (Ngược) – Độc đoán hoặc mất lửa
+### Ý nghĩa chính
 
-Khi **King of Wands xuất hiện ở vị trí ngược**, quyền lực bị lệch.
-
----
-
-### ⚠️ Ý nghĩa chính
-
-King of Wands ngược cho thấy:
-- Áp đặt tầm nhìn
-- Nóng nảy khi bị phản biện
-- Hoặc mất đam mê nhưng vẫn cố giữ quyền
-
-Vấn đề không phải thiếu năng lực,  
-mà là:
-👉 *Mất kết nối với lửa gốc.*
+King of Wands ngược thường liên quan đến:
+- Cái tôi lấn át trách nhiệm
+- Hành động bốc đồng trong vai trò lãnh đạo
+- Hoặc dẫn dắt người khác mà chính mình không rõ đường
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Góc nhìn tâm lý
 
-Ở trạng thái ngược, lá bài phản ánh:
-- Đồng nhất bản thân với vai trò lãnh đạo
-- Sợ mất vị trí
+Ở trạng thái ngược, King of Wands cho thấy:
+- Lửa vẫn mạnh, nhưng thiếu định hướng
+- Cần quay lại với lý do mình bắt đầu
 
-Đây là lời nhắc:
-👉 *Lãnh đạo thật không đến từ ngai – mà từ tầm nhìn.*
-
----
-
-### 🧭 Lời khuyên khi King of Wands ngược xuất hiện
-
-- Kết nối lại với đam mê ban đầu
-- Lắng nghe thay vì áp đặt
-- Cho phép người khác cùng giữ lửa
+Lá bài nhắc rằng:  
+**Quyền lực không đi kèm tầm nhìn sẽ sớm tự thiêu chính nó.**
 
 ---
 
-## 🔗Để nhìn trọn hành trình của Wands, bạn có thể đọc lại:
+### Lời khuyên khi King of Wands ngược xuất hiện
 
-- **[Queen of Wands – Tự Tin Và Làm Chủ Năng Lượng](/tarot/la-bai/queen-of-wands/)**  
-- **[Ace of Wands – Tia Lửa Khởi Đầu](/tarot/la-bai/ace-of-wands/)**  
-- **[Ten of Wands – Gánh Nặng Và Quá Tải](/tarot/la-bai/ten-of-wands/)**  
-- **[Suit of Wands – Con Đường Hành Động](/tarot/la-bai/suit-of-wands/)**  
+- Xem lại tầm nhìn dài hạn
+- Tách cái tôi khỏi vai trò lãnh đạo
+- Dẫn dắt bằng giá trị, không bằng quyền lực
+
+---
+
+## 👉 Khép mạch Hoàng Gia Wands
+
+**[Suit of Wands – Hành Trình Hành Động](/tarot/la-bai/suit-of-wands/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa King of Wands
 
 **Xuôi:**
-- 👑 Tầm nhìn
-- 🔥 Làm chủ đam mê
-- 🌍 Dẫn dắt và truyền cảm hứng
+- Tầm nhìn  
+- Lãnh đạo  
+- Trách nhiệm lớn  
 
 **Ngược:**
-- ⚠️ Độc đoán
-- 🌫️ Mất lửa
-- 🧭 Cần quay về tầm nhìn gốc
+- Lạm quyền  
+- Mất định hướng  
+- Cái tôi lấn át  
 
 King of Wands nhắc ta rằng:  
-**Trưởng thành không phải là dập tắt đam mê – mà là cầm đuốc đủ vững để soi đường cho chính mình và người khác.**
+**Ngọn lửa lớn nhất không phải để đốt cháy,  
+mà để soi đường – cho mình và cho người khác.**
 
-👉 Khép mạch hành động tại đây: **[Suit of Wands – Con Đường Hành Động](/tarot/la-bai/suit-of-wands/)**
+---
+
+## 🔗 Để hiểu trọn vẹn Hoàng Gia Wands, bạn có thể tham khảo thêm:
+
+- **[Queen of Wands – Bản Sắc Và Sức Hút Tự Nhiên](/tarot/la-bai/queen-of-wands/)**  
+- **[Page of Wands – Tia Lửa Đầu Tiên](/tarot/la-bai/page-of-wands/)**  
+- **[Bộ Ẩn Phụ – Suit of Wands](/tarot/la-bai/suit-of-wands/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
+
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá King of Wands
+
+**King of Wands có phải là lá bài quyền lực không?**  
+Có, nhưng là quyền lực gắn với tầm nhìn và trách nhiệm.
+
+**King of Wands trong tình yêu nói lên điều gì?**  
+Sự chín chắn, định hướng rõ ràng và cam kết dài hạn.
+
+**King of Wands ngược có nguy hiểm không?**  
+Có thể, nếu cái tôi lấn át tầm nhìn và trách nhiệm.
+
+**King of Wands có liên quan đến lãnh đạo không?**  
+Rất mạnh. Đây là một trong những lá lãnh đạo rõ nét nhất của Tarot.

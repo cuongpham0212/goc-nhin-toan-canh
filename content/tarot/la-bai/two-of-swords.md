@@ -106,176 +106,203 @@ reading:
       là cảm xúc không dễ chịu.
 
 ---
+## Two of Swords là gì?
 
-## Tổng quan về lá Two of Swords
+**Two of Swords** là lá bài đại diện cho **trạng thái lưỡng lự sau khi đã biết sự thật** –  
+khi bạn **nhìn thấy rõ**, nhưng **chưa sẵn sàng để cắt bỏ một bên**.
 
-**Two of Swords** xuất hiện ngay sau khoảnh khắc tỉnh thức của **Ace of Swords**.  
-Nếu Ace là *thấy ra sự thật*, thì Two là:
+Nếu Ace of Swords là khoảnh khắc ánh sáng bật lên,  
+thì Two of Swords là lúc **ánh sáng ấy chiếu thẳng vào một lựa chọn khó** –  
+và bạn chọn **đứng yên**, không phải vì không biết,  
+mà vì **biết quá rõ cái giá của việc chọn**.
 
-👉 *Thấy rồi… nhưng chưa muốn nhìn.*
-
-Đây là lá bài của:
-- Lưỡng lự
-- Né tránh
-- Xung đột nội tâm chưa được giải quyết
-
-Two of Swords không nói rằng bạn không biết,  
-mà nói rằng **bạn biết – nhưng chưa sẵn sàng đối diện**.
+> Có những lúc ta không mù quáng,  
+> chỉ là **chưa đủ sức để đối diện với hậu quả của sự thật**.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá Two of Swords
 
-Hình ảnh quen thuộc của Two of Swords thường là:
-- Một người phụ nữ bịt mắt
-- Cầm hai thanh kiếm bắt chéo
-- Biển lặng phía sau
+**Two of Swords** thuộc nhóm **Swords (Kiếm)** trong Tarot – đại diện cho **xung đột nội tâm, quyết định lý trí và sự né tránh tạm thời**.  
+Trong **Minor Arcana**, số **2** mang ý nghĩa của **đối lập – cân bằng mong manh – giằng co**.
 
-Biểu tượng này mang thông điệp rất rõ:
-👉 *Sự yên tĩnh bên ngoài che giấu một căng thẳng bên trong.*
+Two of Swords không nói về thiếu thông tin,  
+mà nói về:
+- Hai lựa chọn đều có giá
+- Hai hướng đều khiến đau
+- Và việc trì hoãn như một cơ chế tự vệ
 
-Bịt mắt không làm sự thật biến mất,  
-chỉ khiến quyết định **bị trì hoãn**.
+Nếu:
+- Ace of Swords là “tôi đã thấy”
+
+thì Two of Swords là:  
+**“Tôi biết – nhưng tôi chưa thể chọn.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Trong hình ảnh truyền thống của Two of Swords, ta thường thấy:
+- **Một người bịt mắt** – không muốn nhìn thêm
+- **Hai thanh kiếm bắt chéo** – thế cân bằng căng cứng
+- **Biển lặng phía sau** – cảm xúc bị kìm nén
+
+Biểu tượng trung tâm của lá bài là:  
+**Sự im lặng được dùng để trì hoãn nỗi đau.**
+
+Two of Swords cho thấy:
+bạn đang giữ cân bằng bằng cách **không nghiêng về bên nào** –  
+một trạng thái có thể giữ được trong chốc lát,  
+nhưng **không thể kéo dài mãi**.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Two of Swords
+
+Two of Swords mang năng lượng của **nguyên tố Khí (Air)** kết hợp với **Mặt Trăng (Moon)** trong **Thiên Bình** – biểu trưng cho **xung đột giữa lý trí và cảm xúc, giữa công bằng và nỗi sợ làm tổn thương**.
+
+Với **Thiên Bình**, lá bài này thể hiện rất rõ:
+- Mong muốn giữ hòa khí
+- Tránh đưa ra quyết định làm mất cân bằng
+- Và xu hướng trì hoãn để không phải đối diện cảm xúc khó
+
+Trong những giai đoạn mà **bạn biết mình cần chọn, nhưng vẫn mong có con đường không làm ai đau**, việc quan sát lại nhịp vận hành của các mối quan hệ và quyết định theo thời gian có thể mang lại thêm góc nhìn. Nếu anh muốn soi chiếu chu kỳ này, có thể tham khảo **[Tử vi cung Thiên Bình năm 2026](/tu-vi/nam-2026/thien-binh/)** như một gợi ý nhẹ, đúng tinh thần cân bằng của lá bài.
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Two of Swords
 
-### ⚖️ Lưỡng lự và kẹt giữa hai lựa chọn
+### Lưỡng lự và né tránh quyết định
+
+Two of Swords xuôi cho thấy:
+- Bạn đang đứng giữa hai lựa chọn
+- Chưa muốn (hoặc chưa thể) chọn bên nào
+- Dùng lý trí để che chắn cảm xúc
+
+Đây là giai đoạn của:
+**trì hoãn – phòng thủ – giữ cân bằng tạm thời**.
+
+---
+
+### Biết nhưng chưa dám chọn
+
+Lá bài xuất hiện khi:
+- Bạn đã hiểu vấn đề
+- Nhưng sợ hậu quả của quyết định
+- Nên chọn im lặng hoặc đứng yên
+
+Two of Swords nhắc rằng:  
+👉 **Không chọn cũng là một lựa chọn – và nó cũng có cái giá của nó.**
+
+---
+
+### Cân bằng mong manh
 
 Two of Swords xuôi phản ánh:
-- Không biết nên chọn hướng nào
-- Sợ chọn sai
-- Sợ mất cân bằng nếu quyết định
-
-Đây là trạng thái:
-👉 *Giữ nguyên để khỏi phải đối diện hậu quả.*
-
----
-
-### 🧠 Né tránh sự thật
-
-Lá bài cho thấy:
-- Cố giữ trung lập
-- Không muốn nghe thêm thông tin
-- Tránh đối thoại sâu
-
-Two of Swords nhắc:
-👉 *Tránh né không phải là trung lập – mà là trì hoãn.*
-
----
-
-### 🛡️ Phòng thủ cảm xúc
-
-Hai thanh kiếm tạo thành lá chắn:
-- Bảo vệ bản thân khỏi đau đớn
-- Nhưng cũng chặn luôn sự thật
-
-Sự phòng thủ này **có lý do**,  
-nhưng không thể kéo dài mãi.
+- Một trạng thái “tạm ổn”
+- Nhưng đòi hỏi nhiều năng lượng để giữ
 
 ---
 
 ## Two of Swords trong các khía cạnh đời sống
 
-### 🔹 Trong công việc & quyết định
-
-- Phải chọn hướng đi
-- Tránh đưa ra quyết định khó
-- Bị kẹt giữa hai phương án
-
-Lá bài khuyên:
-- Thu thập thêm thông tin
-- Nhưng đừng trì hoãn vô hạn
+### Trong tình cảm
+Two of Swords phản ánh:
+- Né tránh đối thoại quan trọng
+- Không muốn làm tổn thương ai
+- Nhưng cũng không thật sự bình an
 
 ---
 
-### 🔹 Trong tình cảm
-
-Two of Swords trong tình cảm cho thấy:
-- Tránh nói chuyện thẳng thắn
-- Né tránh xung đột
-- Giữ im lặng để “yên ổn”
-
-Nhưng sự im lặng này:
-👉 *Không chữa lành – chỉ dồn nén.*
+### Trong công việc & cuộc sống
+Trong công việc, Two of Swords cho thấy:
+- Quyết định bị trì hoãn
+- Thiếu sự rõ ràng
+- Cần đối diện sự thật thay vì giữ cân bằng giả tạo
 
 ---
 
-### 🔹 Trong đời sống nội tâm
+## Two of Swords (Ngược) – Bế tắc hoặc buộc phải chọn
 
-Lá bài phản ánh:
-- Xung đột giữa lý trí và cảm xúc
-- Sợ sự thật sẽ phá vỡ trạng thái hiện tại
-
-Two of Swords đặt ra câu hỏi:
-👉 *Bạn đang giữ sự bình yên, hay đang trốn tránh sự thật?*
+Khi **Two of Swords xuất hiện ở vị trí ngược**, lá bài phản ánh:
+- Căng thẳng tăng cao
+- Cân bằng sụp đổ
+- Hoặc hoàn cảnh buộc bạn phải quyết
 
 ---
 
-## Two of Swords (Ngược) – Quyết định bị ép buộc
+### Ý nghĩa chính
 
-Khi **Two of Swords xuất hiện ở vị trí ngược**, trạng thái né tránh không còn hiệu quả.
-
----
-
-### ⚠️ Ý nghĩa chính
-
-Two of Swords ngược phản ánh:
-- Sự thật tràn vào
+Two of Swords ngược thường liên quan đến:
+- Trốn tránh quá lâu
+- Sự thật không còn bị che
 - Quyết định không thể trì hoãn
-- Áp lực buộc phải chọn
-
-Lá bài cho thấy:
-👉 *Khi ta không chọn, cuộc đời sẽ chọn thay.*
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Góc nhìn tâm lý
 
-Ở trạng thái ngược, lá bài phản ánh:
-- Căng thẳng kéo dài
-- Mệt mỏi vì giữ cân bằng giả tạo
-- Sự thật bắt đầu rò rỉ
+Ở trạng thái ngược, Two of Swords cho thấy:
+- Cơ chế phòng thủ đã mệt
+- Sự thật bắt đầu gõ cửa mạnh hơn
 
-Đây là giai đoạn:
-👉 *Hoặc mở mắt – hoặc bị buộc phải nhìn.*
-
----
-
-### 🧭 Lời khuyên khi Two of Swords ngược xuất hiện
-
-- Tháo bỏ sự phòng thủ
-- Dám nhìn thẳng vấn đề
-- Chấp nhận rằng sự thật có thể gây đau – nhưng cần thiết
-
-Quyết định không mang lại bình yên ngay,  
-nhưng **trì hoãn chắc chắn mang lại bế tắc**.
+Lá bài nhắc rằng:  
+**Không phải lúc nào im lặng cũng bảo vệ được ta.**
 
 ---
 
-## 🔗Để hiểu sâu hơn mạch tư duy của Swords, bạn có thể đọc thêm:
+### Lời khuyên khi Two of Swords ngược xuất hiện
 
-- **[Ace of Swords – Sự Thật Và Nhận Thức Mới](/tarot/la-bai/ace-of-swords/)**  
-- **[Three of Swords – Tổn Thương Và Sự Thật Đau Đớn](/tarot/la-bai/three-of-swords/)**  
-- **[Four of Swords – Nghỉ Ngơi Và Hồi Phục Tinh Thần](/tarot/la-bai/four-of-swords/)**  
-- **[Suit of Swords – Con Đường Tư Duy](/tarot/la-bai/suit-of-swords/)**  
+- Nhìn thẳng vào nỗi sợ thật sự
+- Chấp nhận rằng không có lựa chọn hoàn hảo
+- Chọn điều ít phản bội chính mình nhất
+
+---
+
+## 👉 Tiếp mạch nhận thức của Suit of Swords
+
+**[Suit of Swords – Hành Trình Nhận Thức](/tarot/la-bai/suit-of-swords/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Two of Swords
 
 **Xuôi:**
-- ⚖️ Lưỡng lự
-- 🛡️ Né tránh
-- 🧠 Phòng thủ trước sự thật
+- Lưỡng lự  
+- Né tránh  
+- Cân bằng tạm thời  
 
 **Ngược:**
-- ⚠️ Bị ép phải quyết
-- 🧠 Sự thật tràn vào
-- 🧭 Không thể trì hoãn nữa
+- Bế tắc  
+- Buộc phải chọn  
+- Căng thẳng vỡ ra  
 
 Two of Swords nhắc ta rằng:  
-**Bịt mắt không làm sự thật biến mất – nó chỉ làm khoảnh khắc đối diện trở nên khó khăn hơn.**
+**Biết sự thật là một chuyện,  
+dám sống cùng hệ quả của nó lại là chuyện khác.**
 
-👉 Xem toàn bộ mạch: **[Suit of Swords – Con Đường Tư Duy](/tarot/la-bai/suit-of-swords/)**
+---
+
+## 🔗 Để tiếp tục mạch Suit of Swords, bạn có thể tham khảo thêm:
+
+- **[Ace of Swords – Sự Thật Được Soi Sáng](/tarot/la-bai/ace-of-swords/)**  
+- **[Three of Swords – Nỗi Đau Không Né Tránh](/tarot/la-bai/three-of-swords/)**  
+- **[Bộ Ẩn Phụ – Suit of Swords](/tarot/la-bai/suit-of-swords/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
+
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Two of Swords
+
+**Two of Swords có phải là trốn tránh không?**  
+Có, nhưng là trốn tránh để tự bảo vệ trong ngắn hạn.
+
+**Two of Swords trong tình yêu nói lên điều gì?**  
+Tránh đối thoại quan trọng vì sợ làm tổn thương.
+
+**Two of Swords ngược có xấu không?**  
+Không xấu, nhưng báo hiệu bạn không thể trì hoãn thêm.
+
+**Two of Swords có liên quan đến quyết định lớn không?**  
+Rất rõ. Đây là lá bài của những quyết định khó và không thể tránh.

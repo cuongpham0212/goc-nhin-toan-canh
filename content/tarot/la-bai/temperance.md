@@ -123,172 +123,201 @@ reading:
 
 ---
 
-## Tổng quan về lá Temperance
+## Temperance là gì?
 
-Nếu **Death** là:
-👉 *Kết thúc không thể quay đầu*  
+**Temperance** là lá bài đại diện cho **sự cân bằng, chữa lành và tái hòa hợp**, xuất hiện sau những biến động lớn để giúp con người **ổn định lại nội tâm và tìm ra nhịp sống mới**.
 
-thì **Temperance** là:
-👉 *Học cách sống lại – nhưng không vội.*
+Nếu Death là sự kết thúc không thể tránh,  
+thì Temperance là **quá trình hồi phục sau khi đã buông bỏ**.
 
-Đây là lá bài của:
-- Chữa lành
-- Điều hòa
-- Cân bằng lại sau biến động
-
-Temperance không đưa bạn lên cao,  
-cũng không kéo bạn xuống sâu,  
-mà **đưa bạn về đúng nhịp sống của mình**.
+> Không vội vàng tiến lên,  
+> không quay lại quá khứ,  
+> Temperance dạy ta **ở lại với sự vừa đủ**.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá Temperance
 
-Hình ảnh quen thuộc của Temperance thường là:
-- Một thiên thần đứng giữa đất và nước
-- Rót nước qua lại giữa hai chiếc cốc
-- Một chân trên đất, một chân trong nước
+**Temperance** thuộc nhóm **Major Arcana** – đại diện cho **giai đoạn điều chỉnh sâu, mang tính dài hạn trong hành trình phát triển cá nhân**.  
+Đây là lá bài của **sự dung hòa**, nơi các thái cực đối lập bắt đầu tìm được tiếng nói chung.
 
-Biểu tượng này mang thông điệp:
-👉 *Chữa lành không phải là xóa bỏ, mà là dung hợp.*
+Temperance xuất hiện khi:
+- Một chu kỳ lớn vừa kết thúc
+- Con người đang trong giai đoạn hồi phục
+- Cần học cách sống tiếp mà không phủ nhận điều đã qua
 
-Nước được rót **không đổ hết**,  
-cho thấy sự **điều chỉnh tinh tế, có ý thức**.
+Nếu:
+- Death là “chết đi để tái sinh”
+- The Devil là “đối diện ràng buộc”
+
+thì Temperance là:  
+**“Học cách sống lại – nhưng khác đi.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Hình ảnh quen thuộc của Temperance thường bao gồm:
+- **Thiên thần rót nước giữa hai chiếc cốc** – sự pha trộn, điều hòa
+- **Một chân trên đất – một chân dưới nước** – cân bằng giữa thực tế và cảm xúc
+- **Dòng nước chảy ngược tự nhiên** – quá trình chữa lành không tuyến tính
+
+Điểm then chốt của lá bài này là:  
+**Chữa lành không phải là quên đi, mà là hòa hợp với trải nghiệm đã có.**
+
+Temperance không xóa đi vết thương,  
+mà giúp con người **không còn bị vết thương chi phối**.
+
+---
+
+## Năng lượng chiêm tinh và quá trình hồi phục
+
+Temperance thường được liên kết với **cung Nhân Mã (Sagittarius)** – cung hoàng đạo đại diện cho **sự điều chỉnh niềm tin, mở rộng nhận thức và tìm lại ý nghĩa sống**.
+
+Năng lượng Nhân Mã trong Temperance thể hiện qua:
+- Tìm lại phương hướng sau biến cố
+- Học từ trải nghiệm thay vì phủ nhận nó
+- Chữa lành thông qua hiểu biết và chấp nhận
+
+Trong đời sống, năng lượng này thường xuất hiện khi con người bắt đầu đặt lại câu hỏi:
+*“Sau tất cả, mình sẽ sống thế nào cho đúng?”*  
+*“Điều gì cần giữ – điều gì cần buông tiếp?”*
+
+Nếu muốn nhìn rõ cách những giai đoạn tái định hướng như vậy vận hành theo thời gian, có thể tham khảo thêm **[Tử vi cung Nhân Mã năm 2026](/tu-vi/nam-2026/nhan-ma/)** để hiểu sâu hơn về hành trình điều chỉnh và mở rộng sau biến động.
+
+Temperance nhắc rằng:  
+**Chữa lành là một tiến trình – không phải một đích đến.**
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Temperance
 
-### ⚖️ Cân bằng và điều hòa
+### Cân bằng và điều hòa
 
-Temperance xuôi phản ánh:
-- Tìm lại nhịp sống ổn định
-- Không cực đoan
-- Không ép mình “phải ổn ngay”
+Temperance xuôi cho thấy:
+- Nội tâm bắt đầu ổn định
+- Cảm xúc không còn cực đoan
+- Các mặt đối lập dần hòa hợp
 
-Đây là trạng thái:
-👉 *Mình đang lành – từng chút một.*
-
----
-
-### 🌿 Chữa lành sâu
-
-Lá bài cho thấy:
-- Sự phục hồi nội tâm
-- Kết nối lại thân – tâm – trí
-
-Temperance không chữa lành bằng cao trào,  
-mà bằng **nhịp đều đặn và dịu dàng**.
+Đây là lá bài của:  
+**đủ – vừa – không quá.**
 
 ---
 
-### 🔄 Dung hợp các mặt đối lập
+### Chữa lành từng bước
 
-Temperance dạy:
-- Không phủ nhận quá khứ
-- Không bị quá khứ điều khiển
+Lá bài này xuất hiện khi:
+- Bạn đang hồi phục sau tổn thương
+- Cần thời gian để tái cấu trúc cuộc sống
+- Không nên ép mình “ổn” quá sớm
 
-Đây là khả năng:
-👉 *Mang cả bóng tối lẫn ánh sáng vào cùng một cuộc sống.*
+Temperance nhắc rằng:  
+👉 **Mọi sự chữa lành đều cần nhịp riêng.**
+
+---
+
+### Tái hòa hợp với chính mình
+
+Temperance không thúc ép thay đổi lớn,  
+mà khuyến khích **sống hài hòa với phiên bản hiện tại của bản thân**.
 
 ---
 
 ## Temperance trong các khía cạnh đời sống
 
-### 🔹 Trong tình cảm
+### Trong tình cảm
+Temperance cho thấy giai đoạn **hàn gắn, điều chỉnh và thấu hiểu lẫn nhau**. Đây có thể là lúc hai người học cách yêu chậm hơn, lành hơn, hoặc tái định nghĩa mối quan hệ sau biến cố.
 
-Temperance trong tình cảm phản ánh:
-- Hàn gắn
-- Học cách yêu chậm
-- Xây dựng lại niềm tin
-
-Đây không phải tình yêu mãnh liệt,  
-mà là tình yêu **có khả năng lành**.
-
----
-
-### 🔹 Trong công việc & định hướng sống
-
-- Điều chỉnh nhịp làm việc
-- Tìm lại sự bền vững
-- Không lao đầu như trước
-
-Temperance khuyên:
-👉 *Đừng quay lại guồng cũ – hãy tạo guồng mới.*
+### Trong công việc & đời sống
+Trong công việc, Temperance báo hiệu:
+- Tìm lại nhịp làm việc phù hợp
+- Tránh cực đoan, tránh quá tải
+- Học cách phối hợp thay vì đối đầu
 
 ---
 
-### 🔹 Trong đời sống nội tâm
+## Temperance (Ngược) – Khi sự mất cân bằng còn tồn tại
 
-Lá bài phản ánh:
-- Sự bình tĩnh sau bão
-- Khả năng tự điều chỉnh cảm xúc
+Khi **Temperance xuất hiện ở vị trí ngược**, lá bài cho thấy **sự mất nhịp trong quá trình hồi phục**.
 
-Temperance đặt câu hỏi:
-👉 *Bạn có đang cho mình đủ chậm để thật sự hồi phục không?*
+### Ý nghĩa chính
 
----
+Temperance ngược thường biểu hiện:
+- Quá vội vàng muốn ổn
+- Tránh né cảm xúc chưa xử lý
+- Hoặc rơi vào cực đoan mới
 
-## Temperance (Ngược) – Lệch nhịp và mất cân bằng
-
-Khi **Temperance xuất hiện ở vị trí ngược**, quá trình lành bị cản trở.
-
----
-
-### ⚠️ Ý nghĩa chính
-
-Temperance ngược cho thấy:
-- Quá vội quay lại
-- Cực đoan cảm xúc
-- Thiếu kiên nhẫn với quá trình chữa lành
-
-Không phải vì không lành được,  
-mà vì:
-👉 *Bạn đang đòi kết quả quá sớm.*
+Đây không phải là thất bại, mà là:  
+**chữa lành chưa đủ sâu.**
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Góc nhìn tâm lý
 
-Ở trạng thái ngược, lá bài phản ánh:
-- Sợ sự yên lặng
-- Sợ phải đối diện với khoảng trống bên trong
+Ở trạng thái ngược, Temperance phản ánh:
+- Chưa chấp nhận hoàn toàn điều đã qua
+- Ép bản thân “tích cực”
+- Hoặc mất kiên nhẫn với tiến trình nội tâm
 
-Nhưng:
-👉 *Chính sự yên lặng đó mới là nơi chữa lành xảy ra.*
-
----
-
-### 🧭 Lời khuyên khi Temperance ngược xuất hiện
-
-- Giảm tốc thêm nữa
-- Lắng nghe cơ thể
-- Đừng so sánh tiến trình của mình với ai khác
+Lá bài nhắc:  
+**Không có sự cân bằng nào đến từ việc phủ nhận cảm xúc.**
 
 ---
 
-## 🔗Để theo dõi mạch thức tỉnh của Major Arcana, bạn có thể đọc thêm:
+### Lời khuyên khi Temperance ngược xuất hiện
 
-- **[Death – Kết Thúc Và Tái Sinh](/tarot/la-bai/death/)**  
-- **[The Devil – Ràng Buộc Và Bóng Tối](/tarot/la-bai/the-devil/)**  
-- **[Judgement – Thức Tỉnh Và Gọi Tên Chính Mình](/tarot/la-bai/judgement/)**  
-- **[Major Arcana – Hành Trình Thức Tỉnh](/tarot/la-bai/major-arcana/)**  
+- Giảm tốc
+- Lắng nghe cơ thể và cảm xúc
+- Cho phép mình hồi phục đúng nhịp
+
+---
+
+## 👉 Xem toàn bộ mạch nhận thức
+
+**[Major Arcana – Hành Trình Nhận Thức](/tarot/la-bai/major-arcana/)**  
+
+---
+
+## Đọc tiếp các hướng liên quan
+
+- **[Death – Kết thúc & tái sinh](/tarot/la-bai/death/)**
+- **[The Devil – Ràng buộc & ảo tưởng](/tarot/la-bai/the-devil/)**
+- **[The Star – Hy vọng & hồi phục](/tarot/la-bai/the-star/)**
+- **[Hướng dẫn đọc Tarot theo chiều sâu tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Temperance
 
 **Xuôi:**
-- ⚖️ Cân bằng
-- 🌿 Chữa lành
-- 🔄 Dung hợp
+- Cân bằng  
+- Chữa lành  
+- Điều hòa  
+- Tái hòa hợp  
 
 **Ngược:**
-- ⚠️ Lệch nhịp
-- 🧠 Vội vàng
-- 🧭 Cần chậm lại
+- Mất nhịp  
+- Quá vội  
+- Chữa lành nửa vời  
+- Ép bản thân ổn  
 
 Temperance nhắc ta rằng:  
-**Sau cái chết của bản ngã cũ, điều quan trọng không phải là sống mạnh – mà là sống đúng nhịp.**
+**Sau khi thế giới cũ sụp đổ,  
+điều quan trọng không phải là xây mới nhanh bao nhiêu,  
+mà là xây lại sao cho mình còn ở được trong đó.**
 
-👉 Xem toàn bộ mạch chuyển hóa: **[Major Arcana – Hành Trình Thức Tỉnh](/tarot/la-bai/major-arcana/)**
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Temperance
+
+**Temperance có phải là lá bài chữa lành không?**  
+Có. Đây là lá bài chữa lành sâu và bền nhất trong Major Arcana.
+
+**Temperance sau Death có ý nghĩa gì?**  
+Nó cho thấy quá trình hồi phục và tái cân bằng sau một kết thúc lớn.
+
+**Temperance ngược có đáng lo không?**  
+Không, nhưng là lời nhắc cần chậm lại và lắng nghe bản thân hơn.
+
+**Temperance thường dẫn tới lá nào?**  
+Thường mở đường cho The Devil hoặc The Star trong các mạch nhận thức sâu.

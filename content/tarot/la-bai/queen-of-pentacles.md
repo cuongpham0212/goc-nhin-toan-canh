@@ -114,177 +114,202 @@ reading:
 
 ---
 
-## Tổng quan về lá Queen of Pentacles
+## Queen of Pentacles là gì?
 
-**Queen of Pentacles** là hình ảnh của **sự đủ đầy biết chăm sóc**.  
-Sau khi Knight of Pentacles đã đi đường dài bằng kỷ luật và bền bỉ, Queen xuất hiện để nói:
+**Queen of Pentacles** là lá bài đại diện cho **sự đủ đầy mang tính nuôi dưỡng** –  
+không ồn ào, không phô trương,  
+mà **hiện diện qua cách sống, cách chăm sóc và cách giữ vững nhịp đời**.
 
-👉 *Giờ là lúc biến thành quả thành sự sống – thành nơi nương tựa.*
+Nếu Nine of Pentacles là tự chủ và tận hưởng thành quả cá nhân,  
+thì Queen of Pentacles là **đem sự đủ đầy đó lan tỏa ra xung quanh** –  
+tạo cảm giác an toàn cho người khác  
+mà **không đánh đổi chính mình**.
 
-Đây là lá bài của:
-- Nuôi dưỡng
-- Chăm sóc
-- Sự an toàn cả vật chất lẫn tinh thần
-
-Queen of Pentacles không chỉ “có”,  
-mà **biết giữ, biết dùng và biết chia sẻ một cách ấm áp**.
+> Đây là sự giàu có không làm ai thấy nhỏ bé,  
+> vì nó được đặt trên nền vững và lòng bao dung.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá Queen of Pentacles
 
-Hình ảnh quen thuộc của Queen of Pentacles thường là:
-- Một người phụ nữ ngồi vững trên ngai
-- Hai tay nâng niu đồng Pentacle
-- Cảnh vật xung quanh xanh tốt, yên bình
+**Queen of Pentacles** thuộc nhóm **Pentacles (Tiền/Xu)** trong Tarot – đại diện cho **chăm sóc, ổn định và giá trị sống bền vững**.  
+Trong **Minor Arcana – Hoàng Gia**, Queen tượng trưng cho **sự nuôi dưỡng trưởng thành và trí tuệ đời sống**.
 
-Biểu tượng này truyền tải thông điệp:
-👉 *Sự thịnh vượng thật sự là khi ta có thể nuôi dưỡng sự sống quanh mình.*
+Queen of Pentacles không cai trị bằng mệnh lệnh,  
+mà bằng:
+- Sự hiện diện vững chãi
+- Khả năng chăm sóc cả vật chất lẫn tinh thần
+- Và nhịp sống cân bằng
 
-Pentacle không bị nắm chặt như Four,  
-mà được **ôm giữ bằng sự trân trọng**.
+Nếu:
+- Page of Pentacles là học cách gieo  
+- Knight of Pentacles là làm đều, đi chậm  
+- King of Pentacles là xây dựng và giữ trụ  
+
+thì Queen of Pentacles là:  
+**“Tôi sống đủ – và tạo ra không gian đủ cho người khác.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Trong hình ảnh truyền thống của Queen of Pentacles, ta thường thấy:
+- **Nữ hoàng ngồi giữa thiên nhiên** – gắn kết đất mẹ
+- **Đồng xu nâng niu trên tay** – trân trọng giá trị
+- **Tư thế thư thái** – đủ đầy từ bên trong
+
+Biểu tượng trung tâm của lá bài là:  
+**Nuôi dưỡng là một sức mạnh thầm lặng.**
+
+Queen of Pentacles cho thấy:
+bạn không cần gồng lên để mạnh,  
+chỉ cần **đứng vững và chăm đúng chỗ**.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Queen of Pentacles
+
+Queen of Pentacles mang năng lượng của **nguyên tố Đất (Earth)** kết hợp với **Sao Kim (Venus)** – biểu trưng cho **sự nuôi dưỡng, cảm giác đủ đầy và khả năng tạo không gian an toàn**.
+
+Về cung hoàng đạo, lá bài này có sự tương đồng mạnh với **Kim Ngưu** – cung của **ổn định, chăm sóc và tận hưởng giá trị sống một cách lành mạnh**.  
+Đặc biệt với **Kim Ngưu**, Queen of Pentacles phản ánh rất rõ phong thái **chăm mình – chăm đời – giữ nhịp sống bền**. Nếu anh muốn soi chiếu nhịp sống này theo chu kỳ, có thể tham khảo **[Tử vi cung Kim Ngưu năm 2026](/tu-vi/nam-2026/kim-nguu/)** như một gợi ý nhẹ, đúng tinh thần nuôi dưỡng và ổn định.
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Queen of Pentacles
 
-### 🌿 Nuôi dưỡng và chăm sóc
+### Nuôi dưỡng và ổn định
 
-Queen of Pentacles xuôi phản ánh:
-- Sự quan tâm thực tế
-- Chăm sóc bằng hành động
-- Tạo cảm giác an toàn cho người khác
+Queen of Pentacles xuôi cho thấy:
+- Chăm sóc bản thân tốt
+- Tạo an toàn cho người khác
+- Sống thực tế nhưng không khô cứng
 
-Đây là kiểu yêu thương:
-👉 *Không phô trương, nhưng luôn hiện diện.*
-
----
-
-### 🏡 Đủ đầy và ổn định
-
-Lá bài cho thấy:
-- Sự ổn định tài chính
-- Môi trường sống ấm áp
-- Biết tận hưởng những điều giản dị
-
-Queen of Pentacles là:
-👉 *Giàu theo cách khiến người khác thấy yên tâm khi ở cạnh.*
+Đây là giai đoạn của:
+**đủ đầy – ấm áp – bền vững**.
 
 ---
 
-### 🧠 Kết nối với thân – tâm
+### Giá trị trở thành phong thái
 
-Không chỉ vật chất,  
-lá bài còn nói về:
-- Chăm sóc sức khỏe
-- Lắng nghe cơ thể
-- Giữ nhịp sống lành mạnh
+Lá bài xuất hiện khi:
+- Bạn không cần chứng minh mình có gì
+- Mọi thứ toát ra qua cách sống
 
-Đây là sự đủ đầy **từ bên trong ra ngoài**.
+Queen of Pentacles nhắc rằng:  
+👉 **Giàu nhất là khi không cần khoe giàu.**
+
+---
+
+### Cân bằng cho – giữ
+
+Queen of Pentacles xuôi cũng phản ánh:
+- Cho đi có giới hạn
+- Chăm người khác mà không quên mình
 
 ---
 
 ## Queen of Pentacles trong các khía cạnh đời sống
 
-### 🔹 Trong công việc & tài chính
-
-- Quản lý tài chính tốt
-- Biết đầu tư cho sự ổn định lâu dài
-- Tạo môi trường làm việc đáng tin cậy
-
-Lá bài khuyên:
-- Chăm sóc nền tảng trước khi mở rộng
-- Đặt con người lên trước lợi nhuận ngắn hạn
+### Trong tình cảm
+Queen of Pentacles phản ánh:
+- Yêu bằng sự hiện diện
+- Chăm sóc bằng hành động
+- Mang lại cảm giác an toàn
 
 ---
 
-### 🔹 Trong tình cảm
+### Trong công việc & cuộc sống
+Trong công việc, Queen of Pentacles cho thấy:
+- Quản lý tốt
+- Chăm lo hậu cần, nền tảng
+- Xây dựng môi trường làm việc ổn định
 
-Queen of Pentacles trong tình cảm phản ánh:
-- Tình yêu mang tính nuôi dưỡng
-- Quan tâm bằng hành động thực tế
-- Sự hiện diện đều đặn
-
-Đây là tình yêu:
-👉 *Khi ở bên người kia, ta cảm thấy được về nhà.*
+Đây là lúc **giữ nhịp để mọi thứ vận hành trơn tru**.
 
 ---
 
-### 🔹 Trong đời sống nội tâm
+## Queen of Pentacles (Ngược) – Quá tải vì cho quá nhiều
 
-Lá bài phản ánh:
-- Sự an tâm nội tại
-- Lòng tự trọng vững vàng
-- Biết chăm sóc chính mình
-
-Queen of Pentacles đặt ra câu hỏi:
-👉 *Bạn có đang đối xử với bản thân bằng sự dịu dàng mà bạn dành cho người khác?*
+Khi **Queen of Pentacles xuất hiện ở vị trí ngược**, lá bài phản ánh:
+- Hy sinh bản thân quá mức
+- Quên chăm mình
+- Hoặc bám vào an toàn vật chất
 
 ---
 
-## Queen of Pentacles (Ngược) – Cạn kiệt hoặc lệ thuộc
+### Ý nghĩa chính
 
-Khi **Queen of Pentacles xuất hiện ở vị trí ngược**, nó phản ánh:
-- Cho đi quá nhiều
-- Bỏ quên bản thân
-- Hoặc lệ thuộc vào sự an toàn vật chất
-
----
-
-### ⚠️ Ý nghĩa chính
-
-Queen of Pentacles ngược cho thấy:
-- Kiệt sức vì chăm sóc người khác
-- Đánh mất ranh giới cá nhân
-- Đồng nhất giá trị bản thân với khả năng “lo cho người khác”
-
-Sự nuôi dưỡng lúc này **không còn lành mạnh**.
+Queen of Pentacles ngược thường liên quan đến:
+- Kiệt sức
+- Lo cho người khác nhưng bỏ quên bản thân
+- Bất an khi thiếu kiểm soát
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Góc nhìn tâm lý
 
-Ở trạng thái ngược, lá bài phản ánh:
-- Sợ thiếu thốn
-- Sợ mất vai trò
-- Chăm sóc để được cần đến
+Ở trạng thái ngược, Queen of Pentacles cho thấy:
+- Nỗi sợ thiếu thốn quay lại
+- Cho đi để cảm thấy có giá trị
 
-Đây là lời nhắc:
-👉 *Nuôi dưỡng không đồng nghĩa với hy sinh chính mình.*
+Lá bài nhắc rằng:  
+**Chăm người khác không thay thế được việc chăm chính mình.**
 
 ---
 
-### 🧭 Lời khuyên khi Queen of Pentacles ngược xuất hiện
+### Lời khuyên khi Queen of Pentacles ngược xuất hiện
 
 - Quay lại chăm sóc bản thân
-- Đặt ranh giới rõ ràng
-- Nhận sự hỗ trợ thay vì chỉ cho đi
-
-Sự đủ đầy chỉ bền vững  
-khi **người nuôi dưỡng cũng được nuôi dưỡng**.
+- Thiết lập ranh giới
+- Nhớ rằng đủ đầy bắt đầu từ bên trong
 
 ---
 
-## 🔗Để hoàn tất mạch Court Pentacles, bạn có thể đọc tiếp:
+## 👉 Bước vào Hoàng Gia của Suit of Pentacles
 
-- **[Knight of Pentacles – Kiên Trì Và Bền Bỉ](/tarot/la-bai/knight-of-pentacles/)**  
-- **[King of Pentacles – Lãnh Đạo Và Thịnh Vượng](/tarot/la-bai/king-of-pentacles/)**  
+**[Suit of Pentacles – Hành Trình Xây Dựng Giá Trị](/tarot/la-bai/suit-of-pentacles/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Queen of Pentacles
 
 **Xuôi:**
-- 🌿 Nuôi dưỡng và chăm sóc
-- 🏡 Đủ đầy và an toàn
-- 🧠 Kết nối thân – tâm
+- Nuôi dưỡng  
+- Ổn định  
+- Phong thái đủ đầy  
 
 **Ngược:**
-- ⚠️ Cạn kiệt
-- 🧠 Lệ thuộc
-- 🧭 Cần chăm sóc chính mình
+- Quá tải  
+- Hy sinh quá mức  
+- Bất an vật chất  
 
 Queen of Pentacles nhắc ta rằng:  
-**Sự thịnh vượng đẹp nhất là khi ta tạo ra nơi chốn an toàn – cho mình và cho người khác.**
+**Giá trị thật sự không nằm ở thứ ta giữ,  
+mà ở không gian an toàn ta tạo ra cho đời – và cho chính mình.**
 
-👉 Xem toàn bộ mạch: **[Suit of Pentacles – Con Đường Vật Chất](/tarot/la-bai/suit-of-pentacles/)**
+---
+
+## 🔗 Để tiếp tục Hoàng Gia Pentacles, bạn có thể tham khảo thêm:
+
+- **[Nine of Pentacles – Tự Chủ Và Đủ Đầy](/tarot/la-bai/nine-of-pentacles/)**  
+- **[King of Pentacles – Trụ Cột Và Trách Nhiệm](/tarot/la-bai/king-of-pentacles/)**  
+- **[Bộ Ẩn Phụ – Suit of Pentacles](/tarot/la-bai/suit-of-pentacles/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
+
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Queen of Pentacles
+
+**Queen of Pentacles có phải là lá bài về người mẹ không?**  
+Có thể, nhưng rộng hơn là năng lượng nuôi dưỡng, ổn định và chăm sóc lành mạnh.
+
+**Queen of Pentacles trong tình yêu nói lên điều gì?**  
+Một tình yêu ấm áp, thực tế và tạo cảm giác an toàn lâu dài.
+
+**Queen of Pentacles ngược có đáng lo không?**  
+Chỉ khi bạn đang cho đi quá nhiều mà quên chăm sóc chính mình.
+
+**Queen of Pentacles dạy bài học gì?**  
+Rằng phong thái sống đủ đầy bắt đầu từ việc biết chăm mình một cách vững vàng.

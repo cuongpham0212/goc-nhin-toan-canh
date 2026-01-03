@@ -110,177 +110,207 @@ reading:
       tự giải thoát mình.
 
 ---
+## Eight of Swords là gì?
 
-## Tổng quan về lá Eight of Swords
+**Eight of Swords** là lá bài đại diện cho **trạng thái tự giam mình trong sợ hãi và niềm tin giới hạn** –  
+khi bên ngoài tưởng như bị trói buộc,  
+nhưng sâu bên trong, **xiềng xích nằm ở cách ta nhìn chính mình**.
 
-**Eight of Swords** là hệ quả tự nhiên của **Seven of Swords**.  
-Khi ta dùng trí tuệ để trốn tránh sự thật,  
-cuối cùng ta sẽ **tự xây cho mình một nhà tù**.
+Nếu Seven of Swords là né tránh bằng chiến lược,  
+thì Eight of Swords là **mắc kẹt vì niềm tin rằng “tôi không thể khác đi”** –  
+không phải vì không có lối ra,  
+mà vì **chưa dám tin rằng mình có quyền bước ra**.
 
-👉 *Không ai nhốt bạn cả – ngoài chính suy nghĩ của bạn.*
-
-Đây là lá bài của:
-- Mắc kẹt tâm lý
-- Sợ hãi và bất lực
-- Tự giới hạn bản thân
-
-Eight of Swords không nói rằng bạn không có lối thoát,  
-mà nói rằng **bạn chưa dám tin là mình có**.
+> Có những chiếc dây không siết chặt,  
+> nhưng ta đứng yên vì **sợ nếu bước, mình sẽ ngã**.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá Eight of Swords
 
-Hình ảnh quen thuộc của Eight of Swords thường là:
-- Một người bị bịt mắt và trói tay
-- Bao quanh bởi tám thanh kiếm
-- Không gian hẹp nhưng vẫn còn lối đi
+**Eight of Swords** thuộc nhóm **Swords (Kiếm)** trong Tarot – đại diện cho **nhận thức, nỗi sợ và sự tự giới hạn**.  
+Trong **Minor Arcana**, số **8** mang ý nghĩa của **cấu trúc tinh thần – vòng lặp – niềm tin lặp lại**.
 
-Biểu tượng này cho thấy:
-👉 *Nhà tù này không kín – nhưng nỗi sợ khiến ta đứng yên.*
+Eight of Swords không nói về nhà tù thật,  
+mà nói về:
+- Nỗi sợ tự dựng
+- Niềm tin rằng mình bất lực
+- Và việc đánh mất quyền lựa chọn của chính mình
 
-Những thanh kiếm đại diện cho:
-- Niềm tin giới hạn
-- Suy nghĩ tiêu cực
-- Những câu chuyện ta tự kể với mình
+Nếu:
+- Six of Swords là rời đi để yên  
+- Seven of Swords là đi vòng để tự vệ  
+
+thì Eight of Swords là:  
+**“Tôi đứng yên vì tin rằng mình không có lựa chọn.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Trong hình ảnh truyền thống của Eight of Swords, ta thường thấy:
+- **Một người bị bịt mắt và trói tay** – không nhìn thấy khả năng
+- **Những thanh kiếm dựng quanh** – giới hạn tâm trí
+- **Khoảng trống phía trước** – lối ra vẫn tồn tại
+
+Biểu tượng trung tâm của lá bài là:  
+**Nhà tù này được dựng bằng nỗi sợ, không phải bằng tường đá.**
+
+Eight of Swords cho thấy:
+bạn không bị giữ lại bởi hoàn cảnh,  
+mà bởi **niềm tin rằng mình không đủ khả năng để thoát ra**.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Eight of Swords
+
+Eight of Swords mang năng lượng của **nguyên tố Khí (Air)** kết hợp với **Sao Thổ (Saturn)** trong **Song Tử** – biểu trưng cho **những khuôn mẫu tư duy cứng nhắc, nỗi sợ sai và áp lực tinh thần kéo dài**.
+
+Với **Song Tử**, lá bài này phản ánh:
+- Tâm trí hoạt động liên tục
+- Suy nghĩ chồng chéo
+- Và khả năng tự thuyết phục mình rằng “không còn cách nào khác”
+
+Trong những giai đoạn mà **suy nghĩ trở thành gánh nặng**, việc quan sát lại cách bạn tự nói chuyện với chính mình theo thời gian có thể mở ra lối thoát. Nếu anh muốn soi chiếu chu kỳ này, có thể tham khảo **[Tử vi cung Song Tử năm 2026](/tu-vi/nam-2026/song-tu/)** như một gợi ý nhẹ, đúng tinh thần tháo gỡ nhận thức của lá bài.
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Eight of Swords
 
-### 🔒 Mắc kẹt và bất lực
+### Tự giới hạn và sợ hãi
+
+Eight of Swords xuôi cho thấy:
+- Cảm giác bị kẹt
+- Thiếu lựa chọn
+- Sợ hành động
+
+Đây là giai đoạn của:
+**bất lực – lo âu – tự nghi ngờ**.
+
+---
+
+### Bị trói bởi niềm tin
+
+Lá bài xuất hiện khi:
+- Bạn tin rằng mình không đủ khả năng
+- Sợ hậu quả nếu bước ra
+- Và chọn đứng yên cho an toàn
+
+Eight of Swords nhắc rằng:  
+👉 **Không phải mọi giới hạn đều là thật.**
+
+---
+
+### Lối ra tồn tại
 
 Eight of Swords xuôi phản ánh:
-- Cảm giác không có lựa chọn
-- Bị kẹt trong hoàn cảnh
-- Tin rằng mình không thể thay đổi
-
-Đây là trạng thái:
-👉 *Bị giam bởi suy nghĩ, không phải bởi thực tế.*
-
----
-
-### 🧠 Tự trói bằng niềm tin
-
-Lá bài cho thấy:
-- Niềm tin “tôi không thể”
-- Sợ sai, sợ thất bại
-- Sợ hậu quả nếu hành động
-
-Nhưng những sợi dây này:
-👉 *Có thể tháo – nếu ta dám thử.*
-
----
-
-### 🌫️ Bịt mắt trước lối thoát
-
-Eight of Swords không phủ nhận khó khăn,  
-nhưng chỉ ra rằng:
-👉 *Bạn chưa nhìn thấy lối đi vì đang quay mặt khỏi nó.*
+- Lối thoát vẫn có
+- Nhưng cần thay đổi cách nhìn
 
 ---
 
 ## Eight of Swords trong các khía cạnh đời sống
 
-### 🔹 Trong công việc & quyết định
-
-- Cảm giác bị kẹt trong công việc
-- Không dám thay đổi
-- Tin rằng mình không có lựa chọn khác
-
-Lá bài khuyên:
-- Xem lại những giả định của mình
-- Có thể lối thoát nhỏ hơn bạn nghĩ – nhưng vẫn tồn tại
-
----
-
-### 🔹 Trong tình cảm
-
-Eight of Swords trong tình cảm cho thấy:
+### Trong tình cảm
+Eight of Swords phản ánh:
 - Ở lại vì sợ cô đơn
-- Không dám nói ra nhu cầu
-- Tin rằng mình “không xứng đáng hơn”
-
-Nhà tù lúc này:
-👉 *Được xây từ nỗi sợ mất mát.*
+- Nghĩ rằng mình không xứng đáng hơn
+- Tự trói mình trong mối quan hệ không lành
 
 ---
 
-### 🔹 Trong đời sống nội tâm
+### Trong công việc & cuộc sống
+Trong công việc, Eight of Swords cho thấy:
+- Nghĩ rằng mình không đủ giỏi
+- Sợ thay đổi
+- Sợ thất bại
 
-Lá bài phản ánh:
-- Tự chỉ trích
-- Áp lực tinh thần kéo dài
-- Mất niềm tin vào khả năng của bản thân
-
-Eight of Swords đặt ra câu hỏi:
-👉 *Nếu tháo băng bịt mắt, bạn có thật sự không có lối đi không?*
+Đây là lúc **thoát ra khỏi cái bẫy “tôi không thể”**.
 
 ---
 
-## Eight of Swords (Ngược) – Nhận ra lối thoát
+## Eight of Swords (Ngược) – Tháo trói và tỉnh thức
 
-Khi **Eight of Swords xuất hiện ở vị trí ngược**, đây là dấu hiệu rất quan trọng.
-
----
-
-### ⚠️ Ý nghĩa chính
-
-Eight of Swords ngược cho thấy:
-- Nhận ra mình tự trói
-- Bắt đầu nghi ngờ niềm tin giới hạn
-- Có tia sáng của tự do
-
-Không phải đã thoát hoàn toàn,  
-mà là:
-👉 *Đã thấy cửa.*
+Khi **Eight of Swords xuất hiện ở vị trí ngược**, lá bài phản ánh:
+- Nhận ra giới hạn không còn hiệu lực
+- Bắt đầu nhìn thấy lối ra
+- Tự giải phóng nhận thức
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Ý nghĩa chính
 
-Ở trạng thái ngược, lá bài phản ánh:
-- Bắt đầu thay đổi góc nhìn
-- Nhận ra quyền lựa chọn của mình
-
-Đây là khoảnh khắc:
-👉 *Sức mạnh quay trở lại từ bên trong.*
+Eight of Swords ngược thường liên quan đến:
+- Tỉnh thức
+- Tự tin trở lại
+- Dám bước dù còn sợ
 
 ---
 
-### 🧭 Lời khuyên khi Eight of Swords ngược xuất hiện
+### Góc nhìn tâm lý
 
-- Tháo từng sợi dây nhỏ
-- Đặt câu hỏi cho những niềm tin cũ
-- Tin rằng bạn có nhiều lựa chọn hơn bạn nghĩ
+Ở trạng thái ngược, Eight of Swords cho thấy:
+- Nỗi sợ không biến mất ngay
+- Nhưng không còn kiểm soát bạn
 
-Tự do không đến từ việc phá nhà tù,  
-mà từ **nhận ra cánh cửa chưa bao giờ khóa**.
+Lá bài nhắc rằng:  
+**Can đảm không phải là không sợ,  
+mà là bước đi dù còn sợ.**
 
 ---
 
-## 🔗Để theo dõi trọn mạch tự trói và thức tỉnh của Swords, bạn có thể đọc thêm:
+### Lời khuyên khi Eight of Swords ngược xuất hiện
 
-- **[Six of Swords – Rời Đi Và Chuyển Dịch](/tarot/la-bai/six-of-swords/)**  
-- **[Seven of Swords – Trốn Tránh Và Tự Lừa Dối](/tarot/la-bai/seven-of-swords/)**  
-- **[Nine of Swords – Lo Âu Và Ám Ảnh](/tarot/la-bai/nine-of-swords/)**  
-- **[Suit of Swords – Con Đường Tư Duy](/tarot/la-bai/suit-of-swords/)**  
+- Tháo từng niềm tin giới hạn
+- Tìm sự hỗ trợ nếu cần
+- Bước một bước nhỏ ra khỏi vòng lặp
+
+---
+
+## 👉 Tiếp mạch tự do của Suit of Swords
+
+**[Suit of Swords – Hành Trình Nhận Thức](/tarot/la-bai/suit-of-swords/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Eight of Swords
 
 **Xuôi:**
-- 🔒 Mắc kẹt
-- 🧠 Tự trói bằng niềm tin
-- 🌫️ Không thấy lối thoát
+- Tự giới hạn  
+- Sợ hãi  
+- Bất lực  
 
 **Ngược:**
-- 🌱 Nhận ra lựa chọn
-- 🧠 Bắt đầu tháo gỡ
-- 🧭 Tia sáng tự do
+- Tháo trói  
+- Tỉnh thức  
+- Giành lại quyền lựa chọn  
 
 Eight of Swords nhắc ta rằng:  
-**Nhà tù đáng sợ nhất không có song sắt – mà được dựng lên từ những gì ta tin về chính mình.**
+**Bạn không bị trói vì không có lối ra,  
+mà vì chưa tin mình xứng đáng với tự do.**
 
-👉 Xem toàn bộ mạch: **[Suit of Swords – Con Đường Tư Duy](/tarot/la-bai/suit-of-swords/)**
+---
+
+## 🔗 Để tiếp tục mạch Suit of Swords, bạn có thể tham khảo thêm:
+
+- **[Seven of Swords – Trốn Tránh Và Chiến Lược](/tarot/la-bai/seven-of-swords/)**  
+- **[Nine of Swords – Ám Ảnh Và Lo Âu Ban Đêm](/tarot/la-bai/nine-of-swords/)**  
+- **[Bộ Ẩn Phụ – Suit of Swords](/tarot/la-bai/suit-of-swords/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
+
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Eight of Swords
+
+**Eight of Swords có phải là lá bài xấu không?**  
+Không. Đây là lá bài chỉ ra giới hạn nhận thức, không phải số phận cố định.
+
+**Eight of Swords trong tình yêu nói lên điều gì?**  
+Ở lại vì sợ mất, sợ không có lựa chọn khác.
+
+**Eight of Swords ngược có tích cực không?**  
+Rất tích cực. Nó cho thấy quá trình tự giải phóng đã bắt đầu.
+
+**Eight of Swords dạy bài học gì?**  
+Rằng tự do bắt đầu từ việc thay đổi cách bạn nhìn chính mình.

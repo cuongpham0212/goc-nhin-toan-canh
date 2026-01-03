@@ -157,6 +157,7 @@ Năng lượng của Cự Giải trong Three of Cups không nằm ở việc m�
 
 Nếu bạn quan tâm đến sự vận hành các mối quan hệ của cung này theo dòng thời gian, có thể tham khảo thêm:  
 **[Tử vi cung Cự Giải năm 2026](/tu-vi/nam-2026/cu-giai/)**
+
 ---
 
 ## Ý nghĩa xuôi (Upright) của Three of Cups
@@ -246,7 +247,7 @@ là cách để **tìm lại niềm vui chân thật**.
 
 ## 👉 Xem toàn bộ mạch cảm xúc
 
-**[Suit of Cups – Hành Trình Cảm Xúc](/tarot/suit-of-cups/)**
+**[Suit of Cups – Hành Trình Cảm Xúc](/tarot/la-bai/suit-of-cups/)**
 
 ---
 

@@ -113,181 +113,208 @@ reading:
       chứ không phải
       một vũ khí để áp đặt.
 ---
+## King of Swords là gì?
 
-## Tổng quan về lá King of Swords
+**King of Swords** là lá bài đại diện cho **quyền lực của trí tuệ đã chín muồi** –  
+không còn bốc đồng, không còn phản ứng theo cảm xúc,  
+mà là **khả năng giữ trật tự, ra quyết định công bằng và chịu trách nhiệm đến cùng**.
 
-**King of Swords** là đỉnh cao của Suit of Swords.  
-Sau khi:
-- Page học hỏi  
-- Knight hành động  
-- Queen đặt ranh giới  
+Nếu Knight of Swords là tốc độ và xông pha,  
+thì King of Swords là **người dừng lại, nhìn toàn cục và đặt ra luật chơi** –  
+không để cơn bão quyết định hướng đi,  
+mà **dùng lý trí để dẫn đường qua bão**.
 
-→ King xuất hiện để **đứng trụ và phán xét công bằng**.
-
-Đây là lá bài của:
-- Trí tuệ đã chín
-- Nguyên tắc rõ ràng
-- Khả năng lãnh đạo bằng lý trí
-
-King of Swords không cần tranh luận,  
-vì **sự rõ ràng của ông đã là câu trả lời**.
+> Đây là trí tuệ của người không cần thắng từng trận,  
+> vì **họ đang giữ cho cả cuộc chơi không sụp đổ**.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá King of Swords
 
-Hình ảnh quen thuộc của King of Swords thường là:
-- Một vị vua ngồi thẳng trên ngai
-- Thanh kiếm dựng đứng, vững chắc
-- Ánh nhìn điềm tĩnh, không dao động
+**King of Swords** thuộc nhóm **Swords (Kiếm)** trong Tarot – đại diện cho **luật lệ, công lý, tư duy chiến lược và tầm nhìn dài hạn**.  
+Trong **Minor Arcana – Hoàng Gia**, King tượng trưng cho **thẩm quyền tối cao của nhận thức và trách nhiệm lãnh đạo**.
 
-Biểu tượng này truyền tải:
-👉 *Sự thật không cần gào thét – nó đứng vững bằng chính nó.*
+King of Swords không cai trị bằng cảm xúc,  
+mà bằng:
+- Nguyên tắc rõ ràng
+- Quyết định nhất quán
+- Trách nhiệm với hệ quả
 
-Thanh kiếm lúc này:
-- Không dùng để chiến đấu
-- Mà để **giữ trật tự và công lý**
+Nếu:
+- Page of Swords là học hỏi  
+- Knight of Swords là hành động  
+- Queen of Swords là ranh giới và tỉnh táo  
+
+thì King of Swords là:  
+**“Tôi chịu trách nhiệm cho cấu trúc mà tôi tạo ra.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Trong hình ảnh truyền thống của King of Swords, ta thường thấy:
+- **Nhà vua ngồi vững trên ngai** – sự ổn định
+- **Thanh kiếm thẳng đứng** – luật lệ minh bạch
+- **Ánh nhìn nghiêm nghị** – quyết đoán, không cảm tính
+
+Biểu tượng trung tâm của lá bài là:  
+**Công lý không cần phải ồn ào để có sức nặng.**
+
+King of Swords cho thấy:
+bạn không cần chứng minh mình thông minh,  
+bạn **chứng minh bằng cách giữ cho hệ thống vận hành công bằng**.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của King of Swords
+
+King of Swords mang năng lượng mạnh mẽ của **nguyên tố Khí (Air)** kết hợp với **Sao Thổ (Saturn)** – biểu trưng cho **kỷ luật, cấu trúc và tư duy chiến lược dài hạn**.  
+Trong chiêm tinh, lá bài này thường được liên hệ với **Bảo Bình ở trạng thái trưởng thành** – nơi lý tưởng được đặt vào khuôn khổ thực tế.
+
+Với **Bảo Bình**, King of Swords phản ánh:
+- Tư duy hệ thống
+- Khả năng lãnh đạo bằng tầm nhìn
+- Và trách nhiệm với cộng đồng, không chỉ cá nhân
+
+Trong những giai đoạn mà **bạn phải đưa ra quyết định ảnh hưởng lâu dài đến nhiều người**, việc nhìn lại chu kỳ phát triển và nguyên tắc cốt lõi của mình theo thời gian là rất quan trọng. Nếu anh muốn soi chiếu nhịp trưởng thành này, có thể tham khảo **[Tử vi cung Bảo Bình năm 2026](/tu-vi/nam-2026/bao-binh/)** như một gợi ý nhẹ.
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của King of Swords
 
-### ⚖️ Công bằng và khách quan
+### Lãnh đạo bằng lý trí
+
+King of Swords xuôi cho thấy:
+- Quyết định dựa trên sự thật
+- Luật lệ rõ ràng
+- Không thiên vị
+
+Đây là giai đoạn của:
+**ổn định – công bằng – tầm nhìn xa**.
+
+---
+
+### Trách nhiệm đi kèm quyền lực
+
+Lá bài xuất hiện khi:
+- Bạn ở vị trí phải quyết định
+- Không thể làm hài lòng tất cả
+- Nhưng phải làm điều đúng
+
+King of Swords nhắc rằng:  
+👉 **Quyền lực thật sự luôn đi kèm trách nhiệm.**
+
+---
+
+### Tư duy dài hạn
 
 King of Swords xuôi phản ánh:
-- Phán đoán dựa trên sự thật
-- Không thiên vị cảm xúc
-- Ra quyết định rõ ràng
-
-Đây là kiểu công bằng:
-👉 *Không làm hài lòng tất cả – nhưng đúng.*
-
----
-
-### 🧠 Làm chủ trí tuệ
-
-Lá bài cho thấy:
-- Kiểm soát tư duy
-- Không bị cảm xúc dẫn dắt
-- Nhìn vấn đề từ trên cao
-
-King of Swords hiểu rằng:
-👉 *Cảm xúc có thể được lắng nghe – nhưng không phải lúc nào cũng được quyết định.*
-
----
-
-### 👑 Lãnh đạo bằng nguyên tắc
-
-King of Swords đại diện cho:
-- Luật lệ
-- Tiêu chuẩn
-- Sự nhất quán
-
-Đây là kiểu lãnh đạo:
-👉 *Rõ ràng để người khác yên tâm.*
+- Nhìn xa hơn cảm xúc hiện tại
+- Ưu tiên sự bền vững
 
 ---
 
 ## King of Swords trong các khía cạnh đời sống
 
-### 🔹 Trong công việc & quyết định lớn
-
-- Ra quyết định khó
-- Quản lý bằng nguyên tắc
-- Đối mặt sự thật dù không dễ chịu
-
-Lá bài khuyên:
-- Đừng né tránh sự thật
-- Đặt tiêu chuẩn rõ ràng ngay từ đầu
+### Trong tình cảm
+King of Swords phản ánh:
+- Ranh giới rõ ràng
+- Tôn trọng trí tuệ lẫn nhau
+- Không thao túng cảm xúc
 
 ---
 
-### 🔹 Trong tình cảm
+### Trong công việc & cuộc sống
+Trong công việc, King of Swords cho thấy:
+- Lãnh đạo
+- Pháp lý, quản trị
+- Ra quyết định chiến lược
 
-King of Swords trong tình cảm phản ánh:
-- Rõ ràng về ranh giới
-- Không chơi trò mập mờ
-- Tôn trọng sự thật của nhau
-
-Đây là tình yêu:
-👉 *Có lý trí – nhưng không vô cảm.*
+Đây là lúc **giữ kỷ luật để bảo vệ toàn cục**.
 
 ---
 
-### 🔹 Trong đời sống nội tâm
+## King of Swords (Ngược) – Độc đoán hoặc lạnh lùng quá mức
 
-Lá bài phản ánh:
-- Sự trưởng thành nhận thức
-- Không còn tự lừa dối
-- Biết mình đúng ở đâu và sai ở đâu
-
-King of Swords đặt ra câu hỏi:
-👉 *Bạn có dám sống đúng với sự thật của mình, ngay cả khi điều đó khiến bạn cô đơn?*
+Khi **King of Swords xuất hiện ở vị trí ngược**, lá bài phản ánh:
+- Áp đặt
+- Thiếu linh hoạt
+- Hoặc dùng lý trí để kiểm soát người khác
 
 ---
 
-## King of Swords (Ngược) – Độc đoán hoặc lạnh lùng
+### Ý nghĩa chính
 
-Khi **King of Swords xuất hiện ở vị trí ngược**, trí tuệ bị biến dạng.
-
----
-
-### ⚠️ Ý nghĩa chính
-
-King of Swords ngược cho thấy:
-- Áp đặt quan điểm
-- Cứng nhắc
-- Dùng lý trí để kiểm soát người khác
-
-Sự công bằng lúc này:
-👉 *Trở thành quyền lực lạnh lùng.*
+King of Swords ngược thường liên quan đến:
+- Độc đoán
+- Phán xét nặng nề
+- Mất kết nối con người
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Góc nhìn tâm lý
 
-Ở trạng thái ngược, lá bài phản ánh:
-- Sợ mất quyền kiểm soát
-- Đồng nhất bản thân với “đúng – sai”
+Ở trạng thái ngược, King of Swords cho thấy:
+- Sợ mất kiểm soát
+- Dùng luật lệ để che bất an
 
-Đây là lời nhắc:
-👉 *Trí tuệ thật sự không cần thống trị.*
+Lá bài nhắc rằng:  
+**Luật lệ không thay thế được sự thấu hiểu.**
 
 ---
 
-### 🧭 Lời khuyên khi King of Swords ngược xuất hiện
+### Lời khuyên khi King of Swords ngược xuất hiện
 
 - Mềm lại trong giao tiếp
-- Nhớ rằng công bằng cần lòng nhân
-- Lắng nghe trước khi phán xét
-
-Nguyên tắc không nên  
-**giết chết sự sống**.
+- Lắng nghe trước khi phán quyết
+- Nhớ rằng con người không phải là sơ đồ
 
 ---
 
-## 🔗Để nhìn lại toàn bộ hành trình tư duy của Swords, bạn có thể đọc thêm:
+## 👉 Khép Hoàng Gia của Suit of Swords
 
-- **[Queen of Swords – Rõ Ràng Và Trung Thực](/tarot/la-bai/queen-of-swords/)**  
-- **[Ten of Swords – Kết Thúc Đau Đớn Và Thức Tỉnh](/tarot/la-bai/ten-of-swords/)**  
-- **[Ace of Swords – Sự Thật Và Nhận Thức Mới](/tarot/la-bai/ace-of-swords/)**  
-- **[Suit of Swords – Con Đường Tư Duy](/tarot/la-bai/suit-of-swords/)**  
+**[Suit of Swords – Hành Trình Nhận Thức](/tarot/la-bai/suit-of-swords/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa King of Swords
 
 **Xuôi:**
-- ⚖️ Công bằng
-- 🧠 Làm chủ trí tuệ
-- 👑 Lãnh đạo bằng nguyên tắc
+- Luật lệ  
+- Công bằng  
+- Tầm nhìn dài hạn  
 
 **Ngược:**
-- ⚠️ Độc đoán
-- 🧊 Lạnh lùng
-- 🧭 Cần cân bằng lại giữa lý trí và nhân tính
+- Độc đoán  
+- Lạnh lùng  
+- Kiểm soát quá mức  
 
 King of Swords nhắc ta rằng:  
-**Đỉnh cao của trí tuệ không phải là thắng người khác – mà là đứng vững trong sự thật của chính mình.**
+**Trí tuệ lớn nhất không phải là thắng ai đó,  
+mà là giữ cho trật tự tồn tại sau mọi biến động.**
 
-👉 Xem toàn bộ mạch: **[Suit of Swords – Con Đường Tư Duy](/tarot/la-bai/suit-of-swords/)**
+---
+
+## 🔗 Để nhìn lại toàn bộ Hoàng Gia của Swords, bạn có thể tham khảo thêm:
+
+- **[Queen of Swords – Ranh Giới Và Tỉnh Táo](/tarot/la-bai/queen-of-swords/)**  
+- **[Knight of Swords – Hành Động Nhanh Và Quyết Liệt](/tarot/la-bai/knight-of-swords/)**  
+- **[Page of Swords – Khởi Đầu Nhận Thức](/tarot/la-bai/page-of-swords/)**  
+- **[Bộ Ẩn Phụ – Suit of Swords](/tarot/la-bai/suit-of-swords/)**
+
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá King of Swords
+
+**King of Swords có phải là người lạnh lùng không?**  
+Không. Đây là sự điềm tĩnh đến từ trách nhiệm và kinh nghiệm, không phải vô cảm.
+
+**King of Swords trong tình yêu nói lên điều gì?**  
+Sự tôn trọng, giao tiếp rõ ràng và ranh giới lành mạnh.
+
+**King of Swords ngược có nguy hiểm không?**  
+Chỉ nguy hiểm nếu lý trí bị dùng để kiểm soát thay vì dẫn dắt.
+
+**King of Swords dạy bài học gì?**  
+Rằng quyền lực thật sự là khả năng giữ công bằng khi không ai khác làm được.

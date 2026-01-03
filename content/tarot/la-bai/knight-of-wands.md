@@ -111,177 +111,205 @@ reading:
       yếu tố làm bạn tự cản đường mình.
 
 ---
+## Knight of Wands là gì?
 
-## Tổng quan về lá Knight of Wands
+**Knight of Wands** là lá bài đại diện cho **lửa đang lao về phía trước** –  
+một nguồn năng lượng **bốc đồng, mạnh mẽ và không chịu đứng yên**.
 
-Nếu **Page of Wands** là:
-👉 *“Mình muốn thử”*  
+Nếu Page of Wands là tia lửa tò mò,  
+thì Knight of Wands là lúc **tia lửa ấy bùng thành ngọn lửa chạy** –  
+chạy nhanh, chạy xa, đôi khi **chạy trước cả suy nghĩ**.
 
-thì **Knight of Wands** là:
-👉 *“Đi liền bây giờ.”*
-
-Đây là lá bài của:
-- Hành động nhanh
-- Táo bạo
-- Đam mê bùng nổ
-
-Knight of Wands không chờ đủ điều kiện,  
-vì:
-👉 *Lửa trong người đang cháy quá mạnh.*
+> Khi bạn không chờ đủ chắc chắn,  
+> mà **đi vì cảm thấy mình phải đi ngay lúc này**.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá Knight of Wands
 
-Hình ảnh quen thuộc của Knight of Wands thường là:
-- Một kỵ sĩ phi ngựa
-- Ngựa đang nhảy dựng
-- Cây gậy giơ cao, chuyển động mạnh
+**Knight of Wands** thuộc nhóm **Wands (Gậy)** trong Tarot – đại diện cho **hành động, chuyển động và khát vọng trải nghiệm**.  
+Trong **Minor Arcana**, **Knight** là cấp độ của **thử nghiệm – bứt phá – va chạm với thực tế**.
 
-Biểu tượng này cho thấy:
-👉 *Năng lượng không ổn định – nhưng rất mạnh.*
+Knight of Wands không nói về sự ổn định,  
+mà nói về:
+- Đam mê bùng nổ
+- Quyết định nhanh
+- Và hành trình đầy nhiệt nhưng khó đoán
 
-Không có sự đứng yên,  
-chỉ có **tiến lên**.
+Nếu:
+- Page of Wands là “tôi thấy có gì đó thú vị”
+- Queen of Wands là “tôi là chính mình”
+
+thì Knight of Wands là:  
+**“Tôi phải đi – ngay bây giờ.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Trong hình ảnh truyền thống của Knight of Wands, ta thường thấy:
+- **Hiệp sĩ phi ngựa nước đại** – chuyển động không chờ đợi
+- **Ngựa dựng cao, sẵn sàng lao tới** – năng lượng chưa được thuần hóa
+- **Sa mạc phía sau** – môi trường khắc nghiệt, thử thách thật
+
+Biểu tượng trung tâm của lá bài là:  
+**Hành động mang sức sống lớn, nhưng cũng mang rủi ro tương xứng.**
+
+Knight of Wands cho thấy:
+bạn đang sống rất thật với đam mê,  
+nhưng **cần học cách không để lửa thiêu rụi chính mình**.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Knight of Wands
+
+Knight of Wands mang năng lượng của **nguyên tố Lửa** ở trạng thái **bốc đồng và chuyển động mạnh**, thường được liên hệ với **Sao Hỏa (Mars)** trong **Nhân Mã** – biểu trưng cho **khát vọng tự do, hành động theo niềm tin và tinh thần phiêu lưu không giới hạn**.
+
+Với **Nhân Mã**, Knight of Wands phản ánh rất rõ:
+- Nhu cầu đi xa
+- Không chịu bị trói buộc
+- Và hành động dựa trên lý tưởng cá nhân
+
+Trong những giai đoạn mà **bạn cảm thấy mình không thể đứng yên thêm được nữa**, việc quan sát lại cách lý tưởng và hành động va vào thực tế có thể mang lại nhiều bài học. Nếu anh muốn soi chiếu nhịp này theo chu kỳ thời gian, có thể tham khảo thêm **[Tử vi cung Nhân Mã năm 2026](/tu-vi/nam-2026/nhan-ma/)** như một gợi ý nhẹ.
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Knight of Wands
 
-### 🐎 Hành động táo bạo
+### Hành động bốc lửa
 
-Knight of Wands xuôi phản ánh:
+Knight of Wands xuôi cho thấy:
 - Quyết định nhanh
-- Dám làm điều người khác ngại
-- Không sợ rủi ro ban đầu
+- Đam mê mạnh
+- Không ngại thử và sai
 
-Đây là tinh thần:
-👉 *“Làm trước, tính sau.”*
-
----
-
-### 🔥 Đam mê dẫn đường
-
-Lá bài cho thấy:
-- Hành động vì cảm hứng
-- Năng lượng sáng tạo cao
-
-Knight of Wands nhắc:
-👉 *Đam mê có thể đưa bạn rất xa – rất nhanh.*
+Đây là giai đoạn của:
+**xông pha – trải nghiệm – bứt phá**.
 
 ---
 
-### ⚡ Tốc độ cao, ít kiểm soát
+### Dám đi, dám thử
 
-Điểm yếu song hành:
-- Dễ chán
-- Dễ bỏ giữa chừng
-- Dễ đốt sạch năng lượng
+Lá bài xuất hiện khi:
+- Bạn không còn muốn chờ
+- Cảm thấy mình phải hành động ngay
+- Và sẵn sàng đối mặt rủi ro
 
-Đây là câu hỏi then chốt:
-👉 *Bạn đang chạy về phía điều gì – hay chỉ đang chạy?*
+Knight of Wands nhắc rằng:  
+👉 **Không phải mọi con đường đều cần được vạch sẵn mới bước đi.**
+
+---
+
+### Nhiệt huyết lan tỏa
+
+Knight of Wands xuôi còn phản ánh:
+- Năng lượng truyền cảm hứng
+- Khiến người khác bị cuốn theo đà của bạn
+- Nhưng cũng dễ gây mệt nếu không tiết chế
 
 ---
 
 ## Knight of Wands trong các khía cạnh đời sống
 
-### 🔹 Trong công việc & dự án
-
-- Startup nhanh
-- Quyết định liều
-- Bùng nổ ban đầu
-
-Lá bài khuyên:
-- Tận dụng tốc độ
-- Nhưng cần người giữ nhịp
+### Trong tình cảm
+Knight of Wands phản ánh:
+- Tình cảm đến nhanh
+- Đam mê mạnh
+- Nhưng dễ thay đổi nếu thiếu chiều sâu
 
 ---
 
-### 🔹 Trong tình cảm
+### Trong công việc & cuộc sống
+Trong công việc, Knight of Wands báo hiệu:
+- Những bước đi táo bạo
+- Quyết định nhanh
+- Cơ hội đi xa, đi khác lối cũ
 
-Knight of Wands trong tình cảm phản ánh:
-- Đam mê mãnh liệt
-- Thu hút mạnh
-- Nhưng dễ “đến nhanh – đi nhanh”
-
-Đây là kiểu yêu:
-👉 *Cháy rực – nhưng khó giữ lâu.*
+Đây là lúc **hành động trước – học sau**, chấp nhận va chạm.
 
 ---
 
-### 🔹 Trong đời sống nội tâm
+## Knight of Wands (Ngược) – Bốc đồng hoặc mất phương hướng
 
-Lá bài phản ánh:
-- Khao khát sống thật
-- Ghét bị kìm hãm
-- Muốn phá vỡ giới hạn cũ
-
-Knight of Wands đặt câu hỏi:
-👉 *Bạn đang chạy vì tự do, hay vì sợ đứng yên?*
-
----
-
-## Knight of Wands (Ngược) – Nóng nảy hoặc mất phương hướng
-
-Khi **Knight of Wands xuất hiện ở vị trí ngược**, lửa mất kiểm soát.
-
----
-
-### ⚠️ Ý nghĩa chính
-
-Knight of Wands ngược cho thấy:
+Khi **Knight of Wands xuất hiện ở vị trí ngược**, lá bài phản ánh:
 - Hành động thiếu suy nghĩ
-- Bốc đồng gây hậu quả
-- Đam mê thành phá hoại
-
-Vấn đề không phải là lửa,  
-mà là:
-👉 *Không có hướng.*
+- Nóng vội
+- Hoặc đam mê đổi hướng liên tục
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Ý nghĩa chính
 
-Ở trạng thái ngược, lá bài phản ánh:
-- Sợ cam kết
-- Sợ chậm lại
-- Sợ phải đối diện chiều sâu
-
-Đây là lời nhắc:
-👉 *Không phải mọi chuyển động đều là tiến bộ.*
+Knight of Wands ngược thường liên quan đến:
+- Bắt đầu nhiều nhưng không kết thúc
+- Chạy theo cảm hứng nhất thời
+- Hoặc tự đốt năng lượng của mình
 
 ---
 
-### 🧭 Lời khuyên khi Knight of Wands ngược xuất hiện
+### Góc nhìn tâm lý
 
-- Dừng lại để nhìn hướng
-- Chuyển bớt năng lượng sang kỷ luật
-- Đừng đốt mình vì hứng khởi nhất thời
+Ở trạng thái ngược, Knight of Wands cho thấy:
+- Lửa mạnh nhưng không có điểm tựa
+- Dễ kiệt sức vì chạy quá nhanh
+
+Lá bài nhắc rằng:  
+**Không phải mọi đam mê đều cần được theo đuổi ngay lập tức.**
 
 ---
 
-## 🔗Để theo dõi mạch hành động của Wands, bạn có thể đọc thêm:
+### Lời khuyên khi Knight of Wands ngược xuất hiện
 
-- **[Page of Wands – Hứng Khởi Và Khám Phá](/tarot/la-bai/page-of-wands/)**  
-- **[Queen of Wands – Tự Tin Và Ổn Định Nội Lực](/tarot/la-bai/queen-of-wands/)**  
-- **[Ace of Wands – Tia Lửa Khởi Đầu](/tarot/la-bai/ace-of-wands/)**  
-- **[Suit of Wands – Con Đường Hành Động](/tarot/la-bai/suit-of-wands/)**  
+- Chậm lại một nhịp
+- Kiểm tra động cơ thật sự
+- Học cách hoàn thành trước khi bắt đầu cái mới
+
+---
+
+## 👉 Xem toàn bộ mạch hành động
+
+**[Suit of Wands – Hành Trình Hành Động](/tarot/la-bai/suit-of-wands/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Knight of Wands
 
 **Xuôi:**
-- 🐎 Táo bạo
-- 🔥 Đam mê mạnh
-- ⚡ Hành động nhanh
+- Đam mê  
+- Hành động nhanh  
+- Phiêu lưu  
 
 **Ngược:**
-- ⚠️ Bốc đồng
-- 🌪️ Thiếu định hướng
-- 🧭 Cần kiểm soát nhịp
+- Bốc đồng  
+- Thiếu kiên định  
+- Dễ kiệt sức  
 
 Knight of Wands nhắc ta rằng:  
-**Đam mê có thể đưa ta đi rất xa – nhưng chỉ sự trưởng thành mới cho phép ta ở lại.**
+**Sống hết mình là điều đáng quý,  
+nhưng học cách đi đủ xa mới là trưởng thành.**
 
-👉 Xem toàn bộ mạch: **[Suit of Wands – Con Đường Hành Động](/tarot/la-bai/suit-of-wands/)**
+---
+
+## 🔗 Để hiểu sâu hơn Hoàng Gia Wands, bạn có thể tham khảo thêm:
+
+- **[Page of Wands – Tia Lửa Đầu Tiên](/tarot/la-bai/page-of-wands/)**  
+- **[Queen of Wands – Bản Sắc Và Sức Hút](/tarot/la-bai/queen-of-wands/)**  
+- **[King of Wands – Tầm Nhìn Và Trách Nhiệm](/tarot/la-bai/king-of-wands/)**  
+- **[Bộ Ẩn Phụ – Suit of Wands](/tarot/la-bai/suit-of-wands/)**
+
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Knight of Wands
+
+**Knight of Wands có phải là lá bài liều lĩnh không?**  
+Có, nhưng là liều lĩnh của người đang sống thật với đam mê.
+
+**Knight of Wands trong tình yêu có bền không?**  
+Thường rất nồng nhiệt, nhưng cần thêm chiều sâu để bền lâu.
+
+**Knight of Wands ngược có nguy hiểm không?**  
+Có thể, nếu bạn liên tục hành động mà không dừng lại để nhìn lại.
+
+**Knight of Wands có liên quan đến tự do không?**  
+Rất mạnh. Đây là một trong những lá bài tự do rõ nhất của Tarot.

@@ -123,175 +123,207 @@ reading:
 
 ---
 
-## Tổng quan về lá Seven of Swords
+## Seven of Swords là gì?
 
-**Seven of Swords** xuất hiện khi ta đã rời khỏi xung đột bên ngoài (**Six of Swords**),  
-nhưng **xung đột bên trong vẫn còn**.
+**Seven of Swords** là lá bài đại diện cho **sự thật không được nói ra một cách trực diện** –  
+khi ai đó **chọn đi vòng**, chọn giữ lại thông tin,  
+hoặc **rút lui trong im lặng để bảo vệ lợi ích của mình**.
 
-👉 *Không đánh trực diện nữa – mà lén lút đi đường vòng.*
+Nếu Six of Swords là rời đi để yên,  
+thì Seven of Swords là **rời đi nhưng vẫn mang theo toan tính** –  
+không hẳn xấu, không hẳn tốt,  
+chỉ là **không đủ an toàn để nói thẳng**.
 
-Đây là lá bài của:
-- Trốn tránh
-- Mưu mẹo
-- Tự lừa dối tinh vi
-
-Seven of Swords không nói về cái ác rõ ràng,  
-mà nói về **sự thiếu trung thực với chính mình**.
+> Có những lúc con người không dối trá để hại người khác,  
+> mà để **tránh một sự thật họ chưa sẵn sàng đối diện**.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá Seven of Swords
 
-Hình ảnh quen thuộc của Seven of Swords thường là:
-- Một người lén lút mang theo những thanh kiếm
-- Quay đầu nhìn lại
-- Những thanh kiếm còn bỏ lại phía sau
+**Seven of Swords** thuộc nhóm **Swords (Kiếm)** trong Tarot – đại diện cho **chiến lược, né tránh và hành động sau hậu trường**.  
+Trong **Minor Arcana**, số **7** mang ý nghĩa của **thử thách nhận thức – lệch khỏi chuẩn mực – tìm đường riêng**.
 
-Biểu tượng này cho thấy:
-👉 *Không dám lấy tất cả – cũng không dám đối diện.*
+Seven of Swords không nói về ác ý thuần túy,  
+mà nói về:
+- Sự phòng thủ tinh vi
+- Nỗi sợ đối đầu trực diện
+- Và việc chọn cách “không nói hết”
 
-Đây là trạng thái:
-- Không hoàn toàn rời bỏ
-- Nhưng cũng không đủ can đảm để ở lại và giải quyết
+Nếu:
+- Five of Swords là hơn thua
+- Six of Swords là rời đi để yên
+
+thì Seven of Swords là:  
+**“Tôi đi theo cách có lợi nhất cho mình – dù không minh bạch.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Trong hình ảnh truyền thống của Seven of Swords, ta thường thấy:
+- **Một người lén lấy kiếm** – hành động âm thầm
+- **Ánh mắt ngoái lại** – lo sợ bị phát hiện
+- **Kiếm không đủ số** – không trọn vẹn, không sạch sẽ
+
+Biểu tượng trung tâm của lá bài là:  
+**Sự thật bị giữ lại luôn tạo ra khoảng trống niềm tin.**
+
+Seven of Swords cho thấy:
+khi ta không thể nói thẳng,  
+**ta chọn chiến lược – nhưng chiến lược luôn có giá của nó**.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Seven of Swords
+
+Seven of Swords mang năng lượng của **nguyên tố Khí (Air)** kết hợp với **Sao Thủy (Mercury)** trong **Bảo Bình** – biểu trưng cho **trí tuệ chiến lược, tư duy khác biệt và xu hướng hành động ngoài khuôn khổ**.
+
+Với **Bảo Bình**, lá bài này phản ánh:
+- Suy nghĩ độc lập
+- Không muốn bị kiểm soát
+- Và xu hướng giữ khoảng cách bằng lý trí
+
+Trong những giai đoạn mà **bạn chọn im lặng thay vì đối đầu**, việc nhìn lại động cơ thật sự rất quan trọng: là để bảo vệ mình, hay để tránh trách nhiệm? Nếu anh muốn soi chiếu nhịp này theo chu kỳ thời gian, có thể tham khảo **[Tử vi cung Bảo Bình năm 2026](/tu-vi/nam-2026/bao-binh/)** như một gợi ý nhẹ, đúng tinh thần tỉnh táo của lá bài.
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Seven of Swords
 
-### 🐍 Trốn tránh và né trách nhiệm
+### Trốn tránh và chiến lược
+
+Seven of Swords xuôi cho thấy:
+- Hành động sau lưng
+- Né tránh đối thoại trực diện
+- Giữ bí mật cho mục đích cá nhân
+
+Đây là giai đoạn của:
+**toan tính – phòng thủ – giữ đường lui**.
+
+---
+
+### Sự thật không được nói ra
+
+Lá bài xuất hiện khi:
+- Có điều gì đó bị giấu
+- Không ai nói hết sự thật
+- Và niềm tin bị treo lơ lửng
+
+Seven of Swords nhắc rằng:  
+👉 **Im lặng có thể là chiến lược, nhưng không bao giờ là trung lập.**
+
+---
+
+### Tự bảo vệ hay tự cô lập
 
 Seven of Swords xuôi phản ánh:
-- Tránh đối diện vấn đề
-- Chọn lối đi tắt
-- Né trách nhiệm bằng lý do “khôn ngoan”
-
-Nhưng sự khôn ngoan này:
-👉 *Không mang lại bình yên.*
-
----
-
-### 🧠 Mưu mẹo trí tuệ
-
-Lá bài cho thấy:
-- Dùng trí tuệ để biện minh
-- Lý giải hợp lý cho hành vi né tránh
-- Che giấu sự thật bằng lời nói khéo léo
-
-Swords lúc này **không để tìm sự thật**,  
-mà để **né sự thật**.
-
----
-
-### 🎭 Tự lừa dối
-
-Điều nguy hiểm nhất của Seven of Swords là:
-- Không lừa người khác
-- Mà lừa chính mình
-
-Sự tự lừa dối này:
-👉 *Giữ ta an toàn tạm thời, nhưng làm tổn thương lâu dài.*
+- Nhu cầu bảo vệ bản thân
+- Nhưng cũng mang nguy cơ bị cô lập
 
 ---
 
 ## Seven of Swords trong các khía cạnh đời sống
 
-### 🔹 Trong công việc & mối quan hệ
-
-- Thiếu minh bạch
-- Lách luật
-- Tránh nói thẳng vấn đề
-
-Lá bài nhắc:
-- Cái giá của sự không trung thực sẽ đến muộn, nhưng chắc chắn
+### Trong tình cảm
+Seven of Swords phản ánh:
+- Giữ bí mật
+- Không nói hết cảm xúc
+- Hoặc tránh đối thoại vì sợ hậu quả
 
 ---
 
-### 🔹 Trong tình cảm
+### Trong công việc & cuộc sống
+Trong công việc, Seven of Swords cho thấy:
+- Chiến lược hậu trường
+- Làm việc không minh bạch
+- Hoặc ai đó không nói thật
 
-Seven of Swords trong tình cảm phản ánh:
-- Giấu cảm xúc
-- Né tránh đối thoại
-- Hoặc sống hai mặt với chính mình
-
-Đây là lúc cần hỏi:
-👉 *Mình đang bảo vệ ai – hay đang trốn khỏi nỗi sợ của chính mình?*
+Đây là lúc **quan sát kỹ hành vi hơn lời nói**.
 
 ---
 
-### 🔹 Trong đời sống nội tâm
+## Seven of Swords (Ngược) – Bị lộ hoặc đối diện sự thật
 
-Lá bài phản ánh:
-- Tự hợp lý hóa hành vi
-- Trốn tránh việc nhìn sâu vào bên trong
-
-Seven of Swords đặt ra câu hỏi:
-👉 *Bạn đang thành thật với bản thân đến mức nào?*
+Khi **Seven of Swords xuất hiện ở vị trí ngược**, lá bài phản ánh:
+- Bí mật bị phơi bày
+- Chiến lược không còn hiệu quả
+- Hoặc buộc phải nói thật
 
 ---
 
-## Seven of Swords (Ngược) – Sự thật lộ diện
+### Ý nghĩa chính
 
-Khi **Seven of Swords xuất hiện ở vị trí ngược**, lớp che chắn bắt đầu rạn nứt.
-
----
-
-### ⚠️ Ý nghĩa chính
-
-Seven of Swords ngược cho thấy:
-- Bí mật bị lộ
-- Không thể tiếp tục lừa dối
-- Sự thật bắt kịp ta
-
-Đây là thời điểm:
-👉 *Hoặc đối diện – hoặc bị phơi bày.*
+Seven of Swords ngược thường liên quan đến:
+- Sự thật lộ diện
+- Đối diện hậu quả
+- Hoặc quay lại con đường minh bạch
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Góc nhìn tâm lý
 
-Ở trạng thái ngược, lá bài phản ánh:
-- Mệt mỏi vì diễn vai
-- Nhu cầu sống thật hơn
-- Mong muốn thoát khỏi sự dối trá nội tâm
+Ở trạng thái ngược, Seven of Swords cho thấy:
+- Trốn tránh đã mệt
+- Không nói thật khiến áp lực tăng
 
-Sự nhẹ nhõm chỉ đến  
-khi **mặt nạ được tháo xuống**.
-
----
-
-### 🧭 Lời khuyên khi Seven of Swords ngược xuất hiện
-
-- Thành thật với chính mình
-- Dám nói ra điều khó nói
-- Chấp nhận hậu quả để được tự do
-
-Sự thật có thể làm bạn lo sợ trong khoảnh khắc,  
-nhưng **sự giả dối sẽ làm bạn tù túng rất lâu**.
+Lá bài nhắc rằng:  
+**Sự thật được nói ra có thể gây sốc,  
+nhưng sự thật bị giấu luôn gây rạn nứt.**
 
 ---
 
-## 🔗Để hiểu trọn mạch né tránh và thức tỉnh của Swords, bạn có thể đọc thêm:
+### Lời khuyên khi Seven of Swords ngược xuất hiện
 
-- **[Five of Swords – Tranh Thắng Và Cái Giá Phải Trả](/tarot/la-bai/five-of-swords/)**  
-- **[Six of Swords – Rời Đi Và Chuyển Dịch](/tarot/la-bai/six-of-swords/)**  
-- **[Eight of Swords – Mắc Kẹt Trong Tư Duy](/tarot/la-bai/eight-of-swords/)**  
-- **[Suit of Swords – Con Đường Tư Duy](/tarot/la-bai/suit-of-swords/)**  
+- Thành thật với chính mình trước
+- Đánh giá lại chiến lược đang dùng
+- Chọn minh bạch nếu có thể
+
+---
+
+## 👉 Tiếp mạch nhận thức của Suit of Swords
+
+**[Suit of Swords – Hành Trình Nhận Thức](/tarot/la-bai/suit-of-swords/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Seven of Swords
 
 **Xuôi:**
-- 🐍 Trốn tránh
-- 🧠 Mưu mẹo trí tuệ
-- 🎭 Tự lừa dối
+- Trốn tránh  
+- Chiến lược  
+- Giữ bí mật  
 
 **Ngược:**
-- ⚠️ Sự thật lộ diện
-- 🧠 Mệt mỏi vì dối trá
-- 🧭 Cần sống thật
+- Bị lộ  
+- Đối diện sự thật  
+- Minh bạch trở lại  
 
 Seven of Swords nhắc ta rằng:  
-**Trí tuệ dùng để trốn tránh sẽ quay lại giam cầm chính ta – chỉ sự trung thực mới mở được cánh cửa tự do.**
+**Chiến lược có thể giúp ta đi xa,  
+nhưng chỉ sự thật mới giúp ta đi cùng người khác.**
 
-👉 Xem toàn bộ mạch: **[Suit of Swords – Con Đường Tư Duy](/tarot/la-bai/suit-of-swords/)**
+---
+
+## 🔗 Để tiếp tục mạch Suit of Swords, bạn có thể tham khảo thêm:
+
+- **[Six of Swords – Rời Đi Để Yên](/tarot/la-bai/six-of-swords/)**  
+- **[Eight of Swords – Tự Giam Mình Trong Sợ Hãi](/tarot/la-bai/eight-of-swords/)**  
+- **[Bộ Ẩn Phụ – Suit of Swords](/tarot/la-bai/suit-of-swords/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
+
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Seven of Swords
+
+**Seven of Swords có phải là lá bài nói về dối trá không?**  
+Có thể, nhưng không phải lúc nào cũng là ác ý. Thường là né tránh hoặc tự bảo vệ.
+
+**Seven of Swords trong tình yêu có ý nghĩa gì?**  
+Giữ bí mật, không nói hết cảm xúc, hoặc tránh đối thoại vì sợ mất mát.
+
+**Seven of Swords ngược có tốt không?**  
+Có thể tốt, vì sự thật được phơi bày giúp làm rõ tình hình.
+
+**Seven of Swords dạy bài học gì?**  
+Rằng không phải chiến lược nào cũng giúp giữ được niềm tin lâu dài.

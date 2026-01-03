@@ -109,182 +109,200 @@ reading:
       trước khi đưa ra bất kỳ quyết định quan trọng nào.
 
 ---
+## Ace of Swords là gì?
 
-## Tổng quan về lá Ace of Swords
+**Ace of Swords** là lá bài đại diện cho **khoảnh khắc sự thật được soi sáng** –  
+khi màn sương mù tan đi, và một điều gì đó **trở nên rõ ràng đến mức không thể chối cãi**.
 
-**Ace of Swords** là khoảnh khắc **lưỡi kiếm được rút lên khỏi bóng tối**.  
-Nó không mang theo sự dễ chịu, nhưng mang theo **sự thật**.
+Nếu Page of Swords là lúc bạn quan sát và đặt câu hỏi,  
+thì Ace of Swords là khoảnh khắc **câu trả lời xuất hiện** –  
+sắc bén, trực diện, và đôi khi **đau hơn ta mong đợi**.
 
-Nếu Ace of Cups là khởi đầu cảm xúc,  
-Ace of Pentacles là hạt giống vật chất,  
-Ace of Wands là tia lửa hành động,  
-thì Ace of Swords là:
-
-👉 *Khoảnh khắc ta nhìn thấy – và không thể giả vờ như chưa từng thấy.*
-
-Đây là lá bài của:
-- Nhận thức mới
-- Sự thật được soi sáng
-- Quyết định dựa trên lý trí
+> Sự thật không đến để an ủi,  
+> mà đến để **giải phóng**.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá Ace of Swords
 
-Hình ảnh quen thuộc của Ace of Swords thường là:
-- Một bàn tay vươn ra từ mây
-- Nắm chặt một thanh kiếm dựng thẳng
-- Vương miện và vòng nguyệt quế treo trên lưỡi kiếm
+**Ace of Swords** thuộc nhóm **Swords (Kiếm)** trong Tarot – đại diện cho **sự thật, nhận thức và quyết định dựa trên lý trí**.  
+Trong **Minor Arcana**, **Ace (1)** mang ý nghĩa của **khởi đầu thuần khiết – sự khai mở rõ ràng**.
 
-Biểu tượng này mang thông điệp rõ ràng:
-👉 *Trí tuệ có thể giải phóng, nhưng cũng có thể làm tổn thương.*
+Ace of Swords không nói về cảm xúc,  
+mà nói về:
+- Sự thật trần trụi
+- Nhận thức rạch ròi
+- Và khoảnh khắc “tôi đã hiểu”
 
-Thanh kiếm tượng trưng cho:
-- Lý trí
-- Ngôn từ
-- Quyết định sắc bén
+Nếu:
+- Ace of Cups là khởi đầu cảm xúc
+- Ace of Wands là khởi đầu hành động
+
+thì Ace of Swords là:  
+**“Tôi nhìn thẳng – và tôi không thể giả vờ không thấy nữa.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Trong hình ảnh truyền thống của Ace of Swords, ta thường thấy:
+- **Một thanh kiếm vươn thẳng lên trời** – sự thật không cong
+- **Vương miện trên đỉnh kiếm** – chiến thắng của nhận thức
+- **Mây bị xé toạc** – ảo tưởng bị cắt bỏ
+
+Biểu tượng trung tâm của lá bài là:  
+**Sự thật có thể làm đau, nhưng luôn giải phóng.**
+
+Ace of Swords cho thấy:
+bạn không còn bị mắc kẹt trong mập mờ,  
+dù cái giá phải trả là **mất đi những ảo ảnh từng che chở bạn**.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Ace of Swords
+
+Ace of Swords mang năng lượng của **nguyên tố Khí (Air)** ở trạng thái **thuần khiết và sắc bén**, thường được liên hệ với **Sao Thủy (Mercury)** – hành tinh của tư duy, ngôn ngữ và nhận thức rõ ràng.
+
+Ở cấp độ cung hoàng đạo, Ace of Swords cộng hưởng mạnh với các **cung Khí** như **Song Tử, Thiên Bình và Bảo Bình** – những cung gắn với tư duy logic, công lý và sự thật khách quan.
+
+Trong những giai đoạn mà **một sự thật buộc phải được nói ra**, hoặc một quyết định cần được đưa ra một cách dứt khoát, việc hiểu cách tư duy vận hành theo thời gian có thể giúp tránh rơi vào cực đoan. Nếu anh muốn soi chiếu thêm nhịp này theo chu kỳ cá nhân, có thể tham khảo **[Tử vi cung Thiên Bình năm 2026](/tu-vi/nam-2026/thien-binh/)** như một gợi ý định hướng nhẹ, đúng tinh thần công bằng và rạch ròi của lá bài.
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Ace of Swords
 
-### 🧠 Sự thật được phơi bày
+### Sự thật được soi sáng
 
-Ace of Swords xuôi phản ánh:
-- Một sự thật quan trọng được nhận ra
-- Khoảnh khắc “à, thì ra là vậy”
-- Nhận thức rõ ràng sau thời gian mơ hồ
+Ace of Swords xuôi cho thấy:
+- Một sự thật lộ diện
+- Một nhận thức mới xuất hiện
+- Không còn chỗ cho mập mờ
 
-Sự thật này có thể:
-- Không dễ chịu
-- Nhưng cần thiết để tiến lên
-
----
-
-### ✂️ Cắt bỏ ảo tưởng
-
-Lá bài cho thấy:
-- Thời điểm cắt đứt sự tự lừa dối
-- Nhìn thẳng vấn đề thay vì né tránh
-- Dám gọi đúng tên sự việc
-
-Ace of Swords nhắc:
-👉 *Không có tự do nếu ta không trung thực với chính mình.*
+Đây là giai đoạn của:
+**rõ ràng – tỉnh táo – quyết đoán**.
 
 ---
 
-### 🗣️ Giao tiếp thẳng thắn
+### Cắt qua ảo tưởng
 
-Ace of Swords cũng liên quan đến:
-- Nói rõ điều cần nói
-- Đặt ranh giới bằng lời
-- Giao tiếp minh bạch
+Lá bài xuất hiện khi:
+- Bạn buộc phải nhìn thẳng
+- Không thể tiếp tục tự dối mình
+- Và cần đưa ra quyết định dựa trên sự thật
 
-Sự rõ ràng lúc này **giải phóng nhiều hơn là gây tổn thương**.
+Ace of Swords nhắc rằng:  
+👉 **Thấy rõ là bước đầu của tự do.**
+
+---
+
+### Khởi đầu bằng nhận thức
+
+Ace of Swords xuôi không hứa hẹn dễ dàng,  
+nhưng hứa hẹn **đúng đắn**.
 
 ---
 
 ## Ace of Swords trong các khía cạnh đời sống
 
-### 🔹 Trong công việc & học tập
+### Trong tình cảm
+Ace of Swords phản ánh:
+- Một cuộc nói chuyện thẳng thắn
+- Sự thật được nói ra
+- Hoặc quyết định rõ ràng về mối quan hệ
 
-- Ý tưởng mới
+---
+
+### Trong công việc & cuộc sống
+Trong công việc, Ace of Swords báo hiệu:
 - Quyết định quan trọng
-- Suy nghĩ sáng suốt
+- Lập luận sắc bén
+- Cần nói thẳng, làm rõ
 
-Lá bài khuyên:
-- Dựa vào dữ kiện
-- Tránh để cảm xúc làm mờ 판단 (judgement)
-
----
-
-### 🔹 Trong tình cảm
-
-Ace of Swords trong tình cảm cho thấy:
-- Cần một cuộc nói chuyện thẳng thắn
-- Sự thật cần được nói ra
-- Rõ ràng về mong muốn và giới hạn
-
-Đây không phải lúc né tránh,  
-mà là lúc **nói để hiểu – không phải nói để thắng**.
+Đây là lúc **rõ ràng còn quan trọng hơn hòa khí giả tạo**.
 
 ---
 
-### 🔹 Trong đời sống nội tâm
+## Ace of Swords (Ngược) – Sự thật bị bóp méo hoặc né tránh
 
-Lá bài phản ánh:
-- Sự tỉnh thức tinh thần
-- Nhận ra mô thức suy nghĩ cũ
-- Bắt đầu tư duy độc lập
-
-Ace of Swords đặt ra câu hỏi:
-👉 *Bạn đang sống theo sự thật của mình, hay theo những niềm tin mượn từ người khác?*
+Khi **Ace of Swords xuất hiện ở vị trí ngược**, lá bài phản ánh:
+- Tránh né sự thật
+- Nói dối hoặc tự lừa mình
+- Nhận thức bị che mờ
 
 ---
 
-## Ace of Swords (Ngược) – Nhầm lẫn và tự lừa dối
+### Ý nghĩa chính
 
-Khi **Ace of Swords xuất hiện ở vị trí ngược**, nó phản ánh:
-- Sự mơ hồ
-- Hiểu sai sự thật
-- Hoặc cố tình né tránh điều đã biết
-
----
-
-### ⚠️ Ý nghĩa chính
-
-Ace of Swords ngược cho thấy:
-- Giao tiếp lệch lạc
-- Tin vào thông tin sai
-- Tự hợp lý hóa để tránh đối diện sự thật
-
-Lưỡi kiếm lúc này **bị cùn hoặc quay ngược vào trong**.
+Ace of Swords ngược thường liên quan đến:
+- Thông tin sai lệch
+- Tư duy rối loạn
+- Quyết định dựa trên sợ hãi
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Góc nhìn tâm lý
 
-Ở trạng thái ngược, lá bài phản ánh:
-- Sợ sự thật
-- Sợ phải thay đổi suy nghĩ
-- Bám víu vào câu chuyện quen thuộc dù biết nó không đúng
+Ở trạng thái ngược, Ace of Swords cho thấy:
+- Bạn biết sự thật, nhưng chưa dám đối diện
+- Hoặc bị mắc kẹt trong lý lẽ tự biện hộ
 
-Đây là lời nhắc:
-👉 *Sự mơ hồ kéo dài còn gây đau hơn sự thật rõ ràng.*
-
----
-
-### 🧭 Lời khuyên khi Ace of Swords ngược xuất hiện
-
-- Kiểm tra lại niềm tin của mình
-- Tìm thông tin từ nhiều góc nhìn
-- Dám đặt câu hỏi khó cho bản thân
-
-Rõ ràng không đến từ việc né tránh,  
-mà từ **sự trung thực triệt để**.
+Lá bài nhắc rằng:  
+**Không nhìn sự thật không làm nó biến mất.**
 
 ---
 
-## 🔗Để tiếp tục mạch tư duy của Swords, bạn có thể đọc thêm:
+### Lời khuyên khi Ace of Swords ngược xuất hiện
 
-- **[Two of Swords – Lưỡng Lự Và Né Tránh](/tarot/la-bai/two-of-swords/)**  
-- **[Three of Swords – Tổn Thương Và Sự Thật Đau Đớn](/tarot/la-bai/three-of-swords/)**  
+- Kiểm chứng lại thông tin
+- Thành thật với chính mình
+- Đừng dùng lý trí để che giấu nỗi sợ
+
+---
+
+## 👉 Mở trục sự thật của Suit of Swords
+
+**[Suit of Swords – Hành Trình Nhận Thức](/tarot/la-bai/suit-of-swords/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Ace of Swords
 
 **Xuôi:**
-- 🧠 Nhận thức rõ ràng
-- ✂️ Cắt bỏ ảo tưởng
-- 🗣️ Giao tiếp thẳng thắn
+- Sự thật  
+- Rạch ròi  
+- Quyết định rõ ràng  
 
 **Ngược:**
-- ⚠️ Mơ hồ và hiểu sai
-- 🧠 Tự lừa dối
-- 🧭 Cần đối diện sự thật
+- Né tránh  
+- Bóp méo sự thật  
+- Rối loạn nhận thức  
 
 Ace of Swords nhắc ta rằng:  
-**Sự thật có thể sắc bén – nhưng chính nó mới mở ra con đường tự do.**
+**Sự thật có thể cắt đau,  
+nhưng chỉ nó mới cắt đứt được xiềng xích ảo tưởng.**
 
-👉 Xem toàn bộ mạch: **[Suit of Swords – Con Đường Tư Duy](/tarot/la-bai/suit-of-swords/)**
+---
+
+## 🔗 Để tiếp tục mạch Suit of Swords, bạn có thể tham khảo thêm:
+
+- **[Page of Swords – Quan Sát Và Đặt Câu Hỏi](/tarot/la-bai/page-of-swords/)**  
+- **[Two of Swords – Tránh Né Và Lưỡng Lự](/tarot/la-bai/two-of-swords/)**  
+- **[Bộ Ẩn Phụ – Suit of Swords](/tarot/la-bai/suit-of-swords/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
+
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Ace of Swords
+
+**Ace of Swords có phải là lá bài lạnh lùng không?**  
+Không. Đây là lá bài trung thực – đôi khi lạnh vì sự thật vốn không chiều cảm xúc.
+
+**Ace of Swords trong tình yêu có đáng sợ không?**  
+Không, nếu bạn sẵn sàng nói thật và nghe thật.
+
+**Ace of Swords ngược có nguy hiểm không?**  
+Có thể, nếu bạn cố tình tránh né điều mình đã thấy rõ.
+
+**Ace of Swords có liên quan đến quyết định lớn không?**  
+Rất mạnh. Đây là lá bài của những quyết định không thể trì hoãn.

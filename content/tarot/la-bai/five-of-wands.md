@@ -108,175 +108,210 @@ reading:
       sẽ dần quay trở lại.
 
 ---
+## Five of Wands là gì?
 
-## Tổng quan về lá Five of Wands
+**Five of Wands** là lá bài đại diện cho **xung đột phát sinh sau khi đã ổn định** –  
+khi các cá nhân, cái tôi và năng lượng hành động **bắt đầu va vào nhau**.
 
-Nếu **Four of Wands** là khoảnh khắc *“chúng ta cùng vui”*,  
-thì **Five of Wands** là lúc:
+Nếu Four of Wands là khoảnh khắc an trú và ăn mừng bước đầu,  
+thì Five of Wands là lúc **thực tế lên tiếng** –  
+nơi những khác biệt, cạnh tranh và mâu thuẫn **không thể né tránh**.
 
-👉 *“Nhưng ai đúng? Ai giỏi hơn? Ai dẫn dắt?”*
-
-Đây là lá bài của:
-- Cạnh tranh
-- Xung đột
-- Nhiều ý chí cùng va chạm
-
-Five of Wands không phải chiến tranh thật sự,  
-mà là **sự hỗn loạn của những ngọn lửa chưa biết hòa làm một**.
+> Khi mọi người cùng bước vào sân chơi,  
+> va chạm là điều tất yếu –  
+> và chính nó làm lộ ra năng lực thật sự của mỗi người.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá Five of Wands
 
-Hình ảnh quen thuộc của Five of Wands thường là:
-- Năm người cầm gậy
-- Mỗi người đánh theo hướng khác
-- Không có mục tiêu chung rõ ràng
+**Five of Wands** thuộc nhóm **Wands (Gậy)** trong Tarot – đại diện cho **hành động, động lực và sự thể hiện cái tôi**.  
+Trong **Minor Arcana**, số **5** mang ý nghĩa của **xáo trộn – thử thách – phá vỡ thế cân bằng cũ**.
 
-Biểu tượng này cho thấy:
-👉 *Năng lượng nhiều – nhưng tản mát.*
+Five of Wands không nói về thù địch sâu sắc,  
+mà nói về:
+- Sự cạnh tranh
+- Bất đồng quan điểm
+- Và quá trình va chạm cần thiết để trưởng thành
 
-Những cây gậy không nhắm vào kẻ thù,  
-mà **đụng vào nhau vì thiếu điều phối**.
+Nếu:
+- Four of Wands là “chúng ta đang ổn”
+  
+thì Five of Wands là:  
+**“Giờ mỗi người bắt đầu muốn chứng minh mình là ai.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Trong hình ảnh truyền thống của Five of Wands, ta thường thấy:
+- **Nhiều người cầm gậy va vào nhau** – xung đột đa chiều
+- **Không có kẻ thắng rõ ràng** – mâu thuẫn chưa ngã ngũ
+- **Năng lượng hỗn loạn nhưng sống động** – động lực đang bị phân tán
+
+Biểu tượng cốt lõi của lá bài là:  
+**Xung đột không phải để phá hủy, mà để tôi luyện.**
+
+Five of Wands cho thấy:
+khi nhiều ngọn lửa cùng cháy,  
+**nhiệt tăng lên – nhưng ánh sáng cũng rõ hơn**.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Five of Wands
+
+Five of Wands mang năng lượng của **nguyên tố Lửa** ở trạng thái **phân tán và va chạm**, thường được liên hệ với **Sao Thổ (Saturn)** trong **Sư Tử** – biểu trưng cho **bài học về cái tôi, kỷ luật và cách khẳng định bản thân trong tập thể**.
+
+Với **Sư Tử**, Five of Wands phản ánh rất rõ giai đoạn:
+- Muốn được công nhận
+- Muốn tỏa sáng
+- Nhưng phải học cách **va chạm mà không làm tổn thương chính mình và người khác**
+
+Trong đời sống, đây thường là những giai đoạn **nhiều tiếng nói cùng xuất hiện**, buộc ta phải học cách đứng vững trong tập thể. Nếu bạn từng tò mò vì sao có những năm **áp lực cạnh tranh và nhu cầu khẳng định bản thân tăng mạnh**, việc quan sát các chu kỳ cá nhân theo thời gian có thể mở ra thêm góc nhìn – chẳng hạn qua những phân tích định hướng như **[Tử vi cung Sư Tử năm 2026](/tu-vi/nam-2026/su-tu/)**.
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Five of Wands
 
-### ⚔️ Cạnh tranh và va chạm
+### Cạnh tranh và va chạm
 
-Five of Wands xuôi phản ánh:
-- Cạnh tranh trong tập thể
-- Ý kiến trái chiều
-- Cái tôi muốn được công nhận
+Five of Wands xuôi cho thấy:
+- Nhiều ý kiến trái chiều
+- Cạnh tranh trong nhóm
+- Hoặc mâu thuẫn chưa được điều phối
 
-Đây là trạng thái:
-👉 *Ai cũng muốn thể hiện mình.*
-
----
-
-### 🔥 Năng lượng hỗn loạn
-
-Lá bài cho thấy:
-- Nhiều động lực cùng lúc
-- Thiếu lãnh đạo hoặc mục tiêu chung
-
-Five of Wands nhắc:
-👉 *Không thiếu năng lượng – thiếu sự phối hợp.*
+Đây là giai đoạn của:
+**xung lực mạnh – cái tôi cao – năng lượng phân tán**.
 
 ---
 
-### 🧠 Bài học về hợp tác
+### Xung đột cần thiết cho phát triển
 
-Xung đột ở đây:
-- Không nhằm hủy diệt
-- Mà để lộ ra khác biệt
+Lá bài xuất hiện khi:
+- Mọi người đều muốn thể hiện
+- Chưa có tiếng nói chung
+- Nhưng tiềm năng phát triển rất lớn
 
-Nếu biết xử lý,  
-Five of Wands có thể:
-👉 *Mài sắc kỹ năng và bản lĩnh.*
+Five of Wands nhắc rằng:  
+👉 **Không phải xung đột nào cũng xấu – vấn đề là cách ta bước qua nó.**
+
+---
+
+### Thử thách bản lĩnh cá nhân
+
+Five of Wands xuôi còn là:
+- Bài kiểm tra khả năng đứng vững
+- Cách bạn giữ bản sắc giữa đám đông
+- Và mức độ trưởng thành khi đối diện va chạm
 
 ---
 
 ## Five of Wands trong các khía cạnh đời sống
 
-### 🔹 Trong công việc & đội nhóm
+### Trong tình cảm
+Five of Wands phản ánh:
+- Căng thẳng do khác biệt quan điểm
+- Cạnh tranh cái tôi
+- Hoặc mâu thuẫn nhỏ nhưng lặp lại
 
-- Cạnh tranh nội bộ
-- Tranh luận ý tưởng
-- Xung đột vai trò
-
-Lá bài khuyên:
-- Rõ vai – rõ mục tiêu
-- Đừng biến bất đồng thành cá nhân
+Lá bài cho thấy **cần học cách lắng nghe**, không chỉ khẳng định mình.
 
 ---
 
-### 🔹 Trong tình cảm
+### Trong công việc & cuộc sống
+Trong công việc, Five of Wands báo hiệu:
+- Môi trường cạnh tranh cao
+- Nhiều người cùng muốn chứng tỏ năng lực
+- Hoặc thiếu sự phối hợp rõ ràng
 
-Five of Wands trong tình cảm phản ánh:
-- Ghen tuông
-- Tranh cãi
-- Ai cũng muốn “đúng”
-
-Đây là lúc cần hỏi:
-👉 *Mình muốn thắng, hay muốn hiểu nhau?*
+Đây là lúc **học cách làm việc trong xung đột**, thay vì né tránh nó.
 
 ---
 
-### 🔹 Trong đời sống nội tâm
+## Five of Wands (Ngược) – Tránh né xung đột hoặc xung đột nội tâm
 
-Lá bài phản ánh:
-- Mâu thuẫn bên trong
-- Nhiều mong muốn kéo về nhiều hướng
-
-Five of Wands đặt ra câu hỏi:
-👉 *Bạn đang dùng năng lượng để xây, hay để chứng minh?*
+Khi **Five of Wands xuất hiện ở vị trí ngược**, lá bài phản ánh:
+- Tránh va chạm
+- Dồn nén bất đồng
+- Hoặc xung đột chuyển vào bên trong
 
 ---
 
-## Five of Wands (Ngược) – Tránh xung đột hoặc kìm nén
+### Ý nghĩa chính
 
-Khi **Five of Wands xuất hiện ở vị trí ngược**, xung đột không biến mất mà bị nén lại.
+Five of Wands ngược thường liên quan đến:
+- Sợ đối đầu
+- Né cạnh tranh
+- Hoặc mệt mỏi vì xung đột kéo dài
 
----
-
-### ⚠️ Ý nghĩa chính
-
-Five of Wands ngược cho thấy:
-- Né tránh va chạm
-- Không dám nói thật
-- Năng lượng bị dồn nén
-
-Điều này dẫn tới:
-👉 *Căng thẳng âm ỉ.*
+Không phải vì không có mâu thuẫn,  
+mà vì **bạn không muốn tiếp tục chiến đấu theo cách cũ**.
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Góc nhìn tâm lý
 
-Ở trạng thái ngược, lá bài phản ánh:
-- Sợ mất hòa khí
-- Hy sinh tiếng nói cá nhân
+Ở trạng thái ngược, Five of Wands cho thấy:
+- Nhu cầu hòa giải
+- Hoặc mong muốn rút lui để bảo toàn năng lượng
 
-Nhưng:
-👉 *Xung đột bị né tránh sẽ quay lại mạnh hơn.*
-
----
-
-### 🧭 Lời khuyên khi Five of Wands ngược xuất hiện
-
-- Dám nói rõ
-- Chấp nhận khác biệt
-- Biến mâu thuẫn thành đối thoại
-
-Hòa hợp thật  
-đến từ **minh bạch**, không phải né tránh.
+Lá bài nhắc rằng:  
+**Không phải cuộc chiến nào cũng cần phải tham gia.**
 
 ---
 
-## 🔗Để theo dõi mạch hành động của Wands, bạn có thể đọc thêm:
+### Lời khuyên khi Five of Wands ngược xuất hiện
 
-- **[Four of Wands – Ổn Định Và Ăn Mừng](/tarot/la-bai/four-of-wands/)**  
-- **[Six of Wands – Chiến Thắng Và Ghi Nhận](/tarot/la-bai/six-of-wands/)**  
-- **[Three of Wands – Mở Rộng Và Chờ Đợi](/tarot/la-bai/three-of-wands/)**  
-- **[Suit of Wands – Con Đường Hành Động](/tarot/la-bai/suit-of-wands/)**  
+- Chọn lọc những xung đột đáng để giải quyết
+- Đừng để cái tôi dẫn dắt mọi phản ứng
+- Tìm cách điều phối thay vì đối đầu trực diện
+
+---
+
+## 👉 Xem toàn bộ mạch hành động
+
+**[Suit of Wands – Hành Trình Hành Động](/tarot/la-bai/suit-of-wands/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Five of Wands
 
 **Xuôi:**
-- ⚔️ Cạnh tranh
-- 🔥 Nhiều cái tôi
-- 🧠 Học cách hợp tác
+- Cạnh tranh  
+- Va chạm  
+- Xung đột cần thiết  
 
 **Ngược:**
-- ⚠️ Né tránh xung đột
-- 🌫️ Căng thẳng dồn nén
-- 🧭 Cần đối thoại rõ ràng
+- Tránh né  
+- Dồn nén  
+- Rút lui khỏi xung đột  
 
 Five of Wands nhắc ta rằng:  
-**Xung đột không phải dấu hiệu sai đường – mà là bài kiểm tra xem bạn có đủ trưởng thành để đi tiếp cùng người khác hay không.**
+**Xung đột không phải dấu hiệu sai đường,  
+mà là thử thách để ta học cách đứng vững giữa nhiều ngọn lửa.**
 
-👉 Xem toàn bộ mạch: **[Suit of Wands – Con Đường Hành Động](/tarot/la-bai/suit-of-wands/)**
+---
+
+## 🔗 Để hiểu sâu hơn mạch hành động trong Tarot, bạn có thể tham khảo thêm:
+
+- **[Four of Wands – Nền Tảng Và Ổn Định](/tarot/la-bai/four-of-wands/)**  
+- **[Six of Wands – Chiến Thắng Và Ghi Nhận](/tarot/la-bai/six-of-wands/)**  
+- **[Bộ Ẩn Phụ – Suit of Wands](/tarot/la-bai/suit-of-wands/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
+
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Five of Wands
+
+**Five of Wands có phải là lá bài xấu không?**  
+Không. Đây là lá bài của thử thách và trưởng thành qua va chạm.
+
+**Five of Wands trong tình yêu có ý nghĩa gì?**  
+Thường là mâu thuẫn do cái tôi hoặc khác biệt quan điểm.
+
+**Five of Wands ngược nói lên điều gì?**  
+Cho thấy nhu cầu tránh xung đột hoặc tìm cách hòa giải.
+
+**Five of Wands có liên quan đến cạnh tranh công việc không?**  
+Có. Đây là lá bài rất điển hình cho môi trường cạnh tranh cao.

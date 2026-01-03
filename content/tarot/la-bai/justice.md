@@ -139,168 +139,206 @@ reading:
 
 ---
 
-## Tổng quan về lá Justice
+## Justice là gì?
 
-**Justice** không xuất hiện để xét xử người khác.  
-Nó xuất hiện khi ta đã đủ trưởng thành để **tự nhìn lại chính mình**.
+**Justice** là lá bài đại diện cho **sự thật, công bằng và trách nhiệm cá nhân**, xuất hiện khi con người đã đủ tỉnh táo để **nhìn thẳng vào hậu quả của lựa chọn mình đã đưa ra**.
 
-Sau **The World** – khi vòng hành trình đã khép trọn,  
-Justice đặt ra một câu hỏi rất đời:
+Nếu The Hermit là hành trình soi chiếu bên trong,  
+thì Justice là **khoảnh khắc mang sự thật đó ra ánh sáng**.
 
-> *Những gì mình đang sống, có thật sự đúng với sự thật bên trong không?*
-
-Justice không đòi hỏi hoàn hảo.  
-Nó chỉ yêu cầu **trung thực**.
+> Không thiên vị,  
+> không cảm tính,  
+> Justice yêu cầu ta **chịu trách nhiệm cho điều mình đã chọn**.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá Justice
+
+**Justice** thuộc nhóm **Major Arcana** – đại diện cho **giai đoạn cân bằng nghiệp quả và tái lập trật tự**, nơi mọi hành động đều được nhìn nhận một cách rõ ràng.
+
+Justice xuất hiện khi:
+- Sự thật cần được gọi tên
+- Một quyết định mang tính đạo đức phải được đưa ra
+- Hậu quả của quá khứ bắt đầu hiển lộ
+
+Nếu:
+- The Hermit là hiểu mình
+- Strength là làm chủ bản thân
+
+thì Justice là:  
+**“Sống đúng với điều mình đã hiểu.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
 
 Hình ảnh quen thuộc của Justice thường bao gồm:
-- Một nhân vật ngồi ngay ngắn
-- Thanh kiếm dựng thẳng
-- Cán cân cân bằng
-- Phông nền tĩnh, đối xứng
+- **Thanh kiếm dựng thẳng** – sự thật rõ ràng, không vòng vo
+- **Cán cân cân bằng** – công bằng và hậu quả tương xứng
+- **Tư thế ngồi vững** – không dao động bởi cảm xúc
 
-Những biểu tượng này cho thấy:
-👉 **Sự rõ ràng, minh bạch và cân bằng nội tâm**.
+Điểm then chốt của lá bài này là:  
+**Công bằng không cảm xúc – nhưng không vô nhân tính.**
 
-Thanh kiếm không dùng để tấn công,  
-mà để **cắt bỏ ảo tưởng**.
+Justice không trừng phạt,  
+nó **đưa mọi thứ về đúng vị trí của nó**.
+
+---
+
+## Năng lượng chiêm tinh và nguyên tắc cân bằng
+
+Justice thường được liên kết với **cung Thiên Bình (Libra)** – cung hoàng đạo đại diện cho **cân bằng, đạo đức, luật nhân quả và sự công chính**.
+
+Năng lượng Thiên Bình trong Justice thể hiện qua:
+- Mong muốn công bằng cho tất cả các bên
+- Quyết định dựa trên nguyên tắc
+- Trách nhiệm với lựa chọn cá nhân
+
+Trong đời sống, năng lượng này thường xuất hiện khi con người:
+- Phải đối diện với hệ quả của quá khứ
+- Đứng trước lựa chọn đúng – sai rõ ràng
+- Không thể tiếp tục sống mập mờ
+
+Nếu muốn quan sát cách các chu kỳ “cân bằng – trả quả” vận hành theo thời gian, có thể tham khảo thêm **[Tử vi cung Thiên Bình năm 2026](/tu-vi/nam-2026/thien-binh/)** để thấy rõ mối liên hệ giữa lựa chọn cá nhân và sự cân bằng dài hạn.
+
+Justice nhắc rằng:  
+**Không có sự công bằng nào đến từ né tránh sự thật.**
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Justice
 
-### ⚖️ Sự công bằng và trung thực
+### Sự thật và minh bạch
 
-Justice xuôi phản ánh:
-- Nhìn sự việc đúng như nó là
-- Không bóp méo vì cảm xúc
-- Không đổ lỗi hay né tránh
+Justice xuôi cho thấy:
+- Sự thật được phơi bày
+- Vấn đề được nhìn nhận rõ ràng
+- Quyết định dựa trên lý trí
 
-Đây là giai đoạn:
-- Chịu trách nhiệm cho lựa chọn
-- Sống nhất quán giữa suy nghĩ – lời nói – hành động
-
----
-
-### 🧭 Nhân quả và hệ quả
-
-Justice không trừng phạt.  
-Nó chỉ nhắc rằng:
-👉 *Mọi lựa chọn đều để lại dấu vết.*
-
-Hiểu được điều này, ta không còn sợ nhân quả,  
-mà **chủ động sống có ý thức**.
+Đây là lá bài của:  
+**đúng – sai rạch ròi**.
 
 ---
 
-### 🪞 Tự soi chiếu nội tâm
+### Trách nhiệm và hậu quả
 
-Justice là chiếc gương:
-- Không phán xét
-- Không tô hồng
-- Không che giấu
+Lá bài này xuất hiện khi:
+- Bạn cần chịu trách nhiệm cho lựa chọn của mình
+- Hành động quá khứ bắt đầu có kết quả
+- Không thể đổ lỗi cho hoàn cảnh
 
-Chỉ phản chiếu lại **sự thật đang có**.
+Justice nhắc rằng:  
+👉 **Mọi lựa chọn đều có giá của nó.**
+
+---
+
+### Quyết định công bằng
+
+Justice khuyến khích:
+- Lựa chọn dựa trên nguyên tắc
+- Tôn trọng sự thật dù không dễ chịu
+- Cân bằng lợi ích các bên một cách minh bạch
 
 ---
 
 ## Justice trong các khía cạnh đời sống
 
-### 🔹 Trong tình cảm
+### Trong tình cảm
+Justice cho thấy sự cần thiết của **thẳng thắn và công bằng** trong mối quan hệ. Đây có thể là lúc nói rõ ranh giới, trách nhiệm, hoặc đưa ra quyết định dứt khoát.
 
-- Cần sự rõ ràng
-- Trung thực với cảm xúc
-- Đối thoại thẳng thắn
-
-Justice không chọn bên nào,  
-chỉ yêu cầu **công bằng cho cả hai**.
-
----
-
-### 🔹 Trong công việc & sự nghiệp
-
-- Quyết định dựa trên nguyên tắc
-- Minh bạch – rõ ràng
-- Không đi đường tắt
-
-Đây là lúc:
-👉 *Làm đúng, dù không dễ.*
+### Trong công việc & đời sống
+Trong công việc, Justice báo hiệu:
+- Quyết định pháp lý hoặc hợp đồng
+- Đánh giá công bằng
+- Kết quả dựa trên năng lực thực sự
 
 ---
 
-### 🔹 Trong đời sống nội tâm
+## Justice (Ngược) – Khi sự thật bị bóp méo
 
-- Nhận trách nhiệm cho đời mình
-- Không tự thương hại
-- Không tự kết tội
-
-Justice giúp ta:
-👉 *Đứng vững trong sự thật của chính mình.*
-
----
-
-## Justice (Ngược) – Khi sự thật bị né tránh
-
-Khi **Justice xuất hiện ở vị trí ngược**, sự cân bằng bị lệch.
-
-### ⚠️ Ý nghĩa chính
-
-Justice ngược phản ánh:
+Khi **Justice xuất hiện ở vị trí ngược**, lá bài cho thấy:
 - Thiên vị
-- Tự lừa dối
-- Trốn tránh trách nhiệm
+- Bất công
+- Tự dối mình hoặc dối người
 
-Không phải vì không biết sự thật,  
-mà vì **chưa sẵn sàng đối diện**.
+### Ý nghĩa chính
 
----
+Justice ngược thường biểu hiện:
+- Né tránh trách nhiệm
+- Biện minh cho sai lầm
+- Đánh giá lệch do cảm xúc
 
-### 🧠 Góc nhìn tâm lý
-
-Ở trạng thái ngược, lá bài cho thấy:
-- Tự bào chữa quá mức
-- Đổ lỗi cho hoàn cảnh
-- Hoặc khắt khe với bản thân một cách cực đoan
+Đây không phải là thiếu sự thật, mà là:  
+**không muốn nhìn sự thật.**
 
 ---
 
-### 🧭 Lời khuyên khi Justice ngược xuất hiện
+### Góc nhìn tâm lý
 
-- Dừng việc biện minh
-- Nhìn lại sự thật một cách công bằng
-- Cân bằng giữa trách nhiệm và lòng trắc ẩn
+Ở trạng thái ngược, Justice phản ánh:
+- Mâu thuẫn nội tâm
+- Xung đột giữa điều đúng và điều muốn
+- Áp lực đạo đức chưa được giải quyết
 
-Công bằng  
-không cần khắc nghiệt.
+Lá bài nhắc:  
+**Bạn không thể cân bằng nếu tự lừa mình.**
 
 ---
 
-## 🔗Để hiểu rõ vị trí của Justice trong Major Arcana, bạn có thể đọc thêm:
+### Lời khuyên khi Justice ngược xuất hiện
 
-- **[The World – Sự Hoàn Tất Trọn Vẹn](/tarot/la-bai/the-world/)**  
-- **[Judgement – Tiếng Gọi Thức Tỉnh](/tarot/la-bai/judgement/)**  
-- **[The Sun – Ánh Sáng Sự Sống](/tarot/la-bai/the-sun/)**  
-- **[The Moon – Vầng Trăng Nội Tâm](/tarot/la-bai/the-moon/)**  
+- Thành thật với bản thân
+- Nhìn lại lựa chọn cũ
+- Chấp nhận hậu quả để tái cân bằng
+
+---
+
+## 👉 Xem toàn bộ mạch nhận thức
+
+**[Major Arcana – Hành Trình Nhận Thức](/tarot/la-bai/major-arcana/)**  
+
+---
+
+## Đọc tiếp các hướng liên quan
+
+- **[The Hermit – Chiêm nghiệm & trí tuệ](/tarot/la-bai/the-hermit/)**
+- **[Strength – Nội lực & bản lĩnh](/tarot/la-bai/strength/)**
+- **[The Hanged Man – Buông & đảo chiều nhận thức](/tarot/la-bai/the-hanged-man/)**
+- **[Hướng dẫn đọc Tarot theo chiều sâu tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Justice
 
 **Xuôi:**
-- ⚖️ Công bằng
-- 🧭 Trách nhiệm
-- 🪞 Sự thật
+- Công bằng  
+- Sự thật  
+- Trách nhiệm  
+- Cân bằng nhân quả  
 
 **Ngược:**
-- ⚠️ Né tránh sự thật
-- 🧠 Thiên lệch nội tâm
-- 🧭 Cần tái cân bằng
+- Thiên vị  
+- Né tránh  
+- Bất công  
+- Tự dối mình  
 
-**Justice nhắc ta rằng:**  
-*Sống đúng không phải lúc nào cũng dễ,  
-nhưng luôn giúp ta đứng thẳng trước chính mình.*
+Justice nhắc ta rằng:  
+**Sự bình an chỉ đến  
+khi ta dám sống đúng với sự thật  
+mà mình đã nhìn thấy.**
 
-👉 Xem toàn bộ mạch chuyển hóa: **[Major Arcana – Hành Trình Thức Tỉnh](/tarot/la-bai/major-arcana/)**
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Justice
+
+**Justice có phải là lá bài pháp lý không?**  
+Có thể, nhưng cốt lõi vẫn là sự thật và trách nhiệm.
+
+**Justice xuất hiện sau The Hermit có ý nghĩa gì?**  
+Cho thấy đã đủ hiểu mình để đối diện sự thật khách quan.
+
+**Justice ngược có xấu không?**  
+Không, nhưng là lời nhắc cần điều chỉnh lại nhận thức và lựa chọn.
+
+**Justice thường dẫn tới lá nào?**  
+Thường nối sang **The Hanged Man** – buông bỏ góc nhìn cũ để cân bằng sâu hơn.

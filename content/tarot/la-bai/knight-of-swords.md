@@ -112,177 +112,207 @@ reading:
       thay vì lúc nào
       cũng phải là người đi đầu.
 
+---
+## Knight of Swords là gì?
+
+**Knight of Swords** là lá bài đại diện cho **hành động bùng nổ của trí tuệ** –  
+khi sự thật đã rõ,  
+và **không còn thời gian cho do dự hay cân nhắc quá lâu**.
+
+Nếu Queen of Swords là sự tỉnh táo sau đổ nát,  
+thì Knight of Swords là **cú lao thẳng vào đời với thanh kiếm đã rút** –  
+nói ngay, làm ngay,  
+chấp nhận va chạm để không bỏ lỡ khoảnh khắc.
+
+> Có những lúc, nghĩ thêm không làm ta thông minh hơn,  
+> mà chỉ khiến **thời điểm trôi qua**.
 
 ---
 
 ## Tổng quan về lá Knight of Swords
 
-**Knight of Swords** xuất hiện sau **Page of Swords – tư duy mới** như một phản xạ tự nhiên:
+**Knight of Swords** thuộc nhóm **Swords (Kiếm)** trong Tarot – đại diện cho **tốc độ tư duy, hành động quyết liệt và sự thẳng thắn đến mức gây sốc**.  
+Trong **Minor Arcana – Hoàng Gia**, Knight tượng trưng cho **động năng – sự xông pha – dám đi đầu**.
 
-👉 *Biết rồi – thì phải làm ngay.*
+Knight of Swords không nói về sự tinh tế,  
+mà nói về:
+- Quyết định nhanh
+- Tư duy sắc bén
+- Và hành động không vòng vo
 
-Đây là lá bài của:
-- Hành động nhanh
-- Quyết liệt
-- Lý tưởng mạnh mẽ
+Nếu:
+- Page of Swords là tò mò  
+- Queen of Swords là tỉnh táo  
 
-Knight of Swords không chịu được sự chần chừ.  
-Anh ta tin rằng **tốc độ là chính nghĩa**.
+thì Knight of Swords là:  
+**“Tôi biết đủ để hành động – và tôi hành động ngay.”**
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Biểu tượng và hình ảnh cốt lõi
 
-Hình ảnh quen thuộc của Knight of Swords thường là:
-- Một hiệp sĩ lao về phía trước
-- Thanh kiếm giơ cao
-- Gió thổi dữ dội, ngựa phi nhanh
+Trong hình ảnh truyền thống của Knight of Swords, ta thường thấy:
+- **Hiệp sĩ phi ngựa lao thẳng về phía trước** – không ngoái lại
+- **Kiếm giơ cao** – sự thật được đưa ra công khai
+- **Gió mạnh và mây cuộn** – tốc độ và căng thẳng
 
-Biểu tượng này cho thấy:
-👉 *Trí tuệ đã bật động cơ – nhưng chưa kịp gắn phanh.*
+Biểu tượng trung tâm của lá bài là:  
+**Sự thật được nói ra bằng chuyển động, không chỉ bằng lời.**
 
-Chuyển động nhanh đại diện cho:
-- Quyết tâm
-- Lý tưởng
-- Nhưng cũng là **thiếu kiên nhẫn**
+Knight of Swords cho thấy:
+bạn không chờ hoàn cảnh hoàn hảo,  
+bạn **tạo chuyển động để hoàn cảnh phải thay đổi**.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Knight of Swords
+
+Knight of Swords mang năng lượng mạnh của **nguyên tố Khí (Air)** kết hợp với **Sao Hỏa (Mars)** trong **Song Tử** – biểu trưng cho **tư duy nhanh, phản xạ mạnh và hành động bốc đồng dựa trên lý trí**.
+
+Với **Song Tử**, lá bài này phản ánh:
+- Sự linh hoạt trí tuệ
+- Khả năng xử lý thông tin nhanh
+- Nhưng cũng tiềm ẩn nguy cơ nói và làm quá nhanh
+
+Trong những giai đoạn mà **bạn cần quyết định gấp hoặc đối mặt trực diện**, việc quan sát nhịp độ hành động theo thời gian giúp tránh tự đẩy mình vào va chạm không cần thiết. Nếu anh muốn soi chiếu chu kỳ này, có thể tham khảo **[Tử vi cung Song Tử năm 2026](/tu-vi/nam-2026/song-tu/)** như một gợi ý nhẹ.
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Knight of Swords
 
-### ⚔️ Hành động nhanh và quyết liệt
+### Hành động nhanh và dứt khoát
 
-Knight of Swords xuôi phản ánh:
+Knight of Swords xuôi cho thấy:
 - Quyết định nhanh
-- Hành động ngay
-- Không thích chờ đợi
+- Lao thẳng vào vấn đề
+- Không sợ đối đầu
 
-Đây là trạng thái:
-👉 *Thấy sai là phải sửa liền.*
-
----
-
-### 🧠 Lý tưởng mạnh mẽ
-
-Lá bài cho thấy:
-- Niềm tin vào “điều đúng”
-- Muốn bảo vệ sự thật
-- Sẵn sàng tranh luận đến cùng
-
-Nhưng vấn đề là:
-👉 *Không phải ai cũng sẵn sàng nghe.*
+Đây là giai đoạn của:
+**tốc độ – quyết liệt – chủ động**.
 
 ---
 
-### 🗣️ Giao tiếp sắc bén
+### Nói thẳng, làm thẳng
 
-Knight of Swords thường đi kèm:
-- Nói thẳng
-- Nói nhanh
-- Nói thiếu cảm thông
+Lá bài xuất hiện khi:
+- Cần nói ra sự thật
+- Cần hành động ngay
+- Chần chừ sẽ khiến cơ hội mất đi
 
-Swords lúc này **sắc nhưng thiếu độ mềm**.
+Knight of Swords nhắc rằng:  
+👉 **Thời điểm cũng quan trọng như sự thật.**
+
+---
+
+### Nguy cơ của sự quá nhanh
+
+Knight of Swords xuôi cũng cảnh báo:
+- Dễ làm người khác bị sốc
+- Dễ gây xung đột vì thiếu tinh tế
 
 ---
 
 ## Knight of Swords trong các khía cạnh đời sống
 
-### 🔹 Trong công việc & tranh luận
-
-- Phản ứng nhanh
-- Giải quyết khủng hoảng
-- Dám nói điều người khác né
-
-Nhưng lá bài khuyên:
-- Chậm lại để không gây phản tác dụng
+### Trong tình cảm
+Knight of Swords phản ánh:
+- Tình cảm đến nhanh
+- Nói thẳng cảm xúc
+- Nhưng dễ gây tổn thương nếu thiếu lắng nghe
 
 ---
 
-### 🔹 Trong tình cảm
+### Trong công việc & cuộc sống
+Trong công việc, Knight of Swords cho thấy:
+- Ra quyết định nhanh
+- Dẫn đầu thay đổi
+- Phù hợp xử lý khủng hoảng
 
-Knight of Swords trong tình cảm cho thấy:
-- Muốn làm rõ mọi thứ ngay
-- Không chịu được mập mờ
-
-Điều này có thể:
-👉 *Giải quyết nhanh – hoặc làm tổn thương nhanh.*
+Đây là lúc **ai chậm sẽ bị bỏ lại**.
 
 ---
 
-### 🔹 Trong đời sống nội tâm
+## Knight of Swords (Ngược) – Bốc đồng hoặc mất phương hướng
 
-Lá bài phản ánh:
+Khi **Knight of Swords xuất hiện ở vị trí ngược**, lá bài phản ánh:
+- Hành động thiếu kiểm soát
+- Nói nhiều hơn nghĩ
+- Hoặc tê liệt vì quá tải thông tin
+
+---
+
+### Ý nghĩa chính
+
+Knight of Swords ngược thường liên quan đến:
+- Bốc đồng
+- Sai thời điểm
+- Hoặc mất phương hướng
+
+---
+
+### Góc nhìn tâm lý
+
+Ở trạng thái ngược, Knight of Swords cho thấy:
 - Tâm trí chạy quá nhanh
-- Thiếu khoảng lặng
+- Không kịp kết nối với cảm xúc
 
-Knight of Swords đặt ra câu hỏi:
-👉 *Bạn đang hành động vì sự thật, hay vì cơn bốc đồng của cái tôi mới tỉnh?*
-
----
-
-## Knight of Swords (Ngược) – Mất kiểm soát và gây tổn thương
-
-Khi **Knight of Swords xuất hiện ở vị trí ngược**, tốc độ trở thành nguy cơ.
+Lá bài nhắc rằng:  
+**Không phải mọi sự thật đều cần nói trong cùng một nhịp thở.**
 
 ---
 
-### ⚠️ Ý nghĩa chính
+### Lời khuyên khi Knight of Swords ngược xuất hiện
 
-Knight of Swords ngược cho thấy:
-- Hành động thiếu suy nghĩ
-- Gây xung đột không cần thiết
-- Nói ra những điều không thể rút lại
-
-Đây là trạng thái:
-👉 *Đúng lý – sai thời điểm.*
+- Chậm lại một nhịp
+- Kiểm tra động cơ hành động
+- Lắng nghe trước khi phản ứng
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+## 👉 Tiếp mạch Hoàng Gia của Suit of Swords
 
-Ở trạng thái ngược, lá bài phản ánh:
-- Nóng vội
-- Không lắng nghe
-- Bị lý tưởng dẫn dắt mù quáng
-
-Trí tuệ không đi cùng kiên nhẫn  
-sẽ trở thành **vũ khí tự hại**.
-
----
-
-### 🧭 Lời khuyên khi Knight of Swords ngược xuất hiện
-
-- Chậm lại
-- Nghe thêm một lần nữa
-- Hỏi: “Việc này có cần làm ngay không?”
-
-Không phải mọi trận chiến  
-đều cần đánh tức thì.
-
----
-
-## 🔗Để theo dõi trọn mạch trưởng thành của Swords, bạn có thể đọc thêm:
-
-- **[Page of Swords – Tò Mò Và Tư Duy Mới](/tarot/la-bai/page-of-swords/)**  
-- **[Queen of Swords – Rõ Ràng Và Trung Thực](/tarot/la-bai/queen-of-swords/)**  
-- **[Ace of Swords – Sự Thật Và Nhận Thức Mới](/tarot/la-bai/ace-of-swords/)**  
-- **[Suit of Swords – Con Đường Tư Duy](/tarot/la-bai/suit-of-swords/)**  
+**[Suit of Swords – Hành Trình Nhận Thức](/tarot/la-bai/suit-of-swords/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Knight of Swords
 
 **Xuôi:**
-- ⚔️ Hành động nhanh
-- 🧠 Lý tưởng mạnh
-- 🗣️ Nói thẳng, quyết liệt
+- Nhanh  
+- Quyết liệt  
+- Dẫn đầu  
 
 **Ngược:**
-- ⚠️ Bốc đồng
-- 🧨 Gây tổn thương
-- 🧭 Cần chậm lại
+- Bốc đồng  
+- Vội vàng  
+- Lạc hướng  
 
 Knight of Swords nhắc ta rằng:  
-**Trí tuệ mới thức tỉnh rất mạnh – nhưng chỉ khi đi cùng kiên nhẫn, nó mới trở thành sức mạnh thật sự.**
+**Trí tuệ không chỉ là hiểu –  
+mà là dám hành động khi thời điểm đã tới.**
 
-👉 Xem toàn bộ mạch: **[Suit of Swords – Con Đường Tư Duy](/tarot/la-bai/suit-of-swords/)**
+---
+
+## 🔗 Để hoàn chỉnh Hoàng Gia của Swords, bạn có thể tham khảo thêm:
+
+- **[Queen of Swords – Tỉnh Táo Và Ranh Giới](/tarot/la-bai/queen-of-swords/)**  
+- **[King of Swords – Luật Lệ Và Trách Nhiệm](/tarot/la-bai/king-of-swords/)**  
+- **[Page of Swords – Tò Mò Và Khởi Đầu Nhận Thức](/tarot/la-bai/page-of-swords/)**  
+- **[Bộ Ẩn Phụ – Suit of Swords](/tarot/la-bai/suit-of-swords/)**
+
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Knight of Swords
+
+**Knight of Swords có phải là người nóng vội không?**  
+Có thể, nếu không kiểm soát nhịp độ. Đây là lá bài của tốc độ và quyết liệt.
+
+**Knight of Swords trong tình yêu nói lên điều gì?**  
+Cảm xúc đến nhanh, nói thẳng, nhưng cần học cách lắng nghe để tránh làm đau nhau.
+
+**Knight of Swords ngược có nguy hiểm không?**  
+Chỉ nguy hiểm nếu bạn hành động khi chưa đủ thông tin hoặc quá căng thẳng.
+
+**Knight of Swords dạy bài học gì?**  
+Rằng hành động đúng lúc là sức mạnh – nhưng hành động thiếu tỉnh táo có thể phá vỡ nhiều thứ.

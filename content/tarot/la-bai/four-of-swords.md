@@ -109,182 +109,204 @@ reading:
       quay trở lại mạnh hơn.
 
 ---
+## Four of Swords là gì?
 
-## Tổng quan về lá Four of Swords
+**Four of Swords** là lá bài đại diện cho **khoảng dừng cần thiết sau tổn thương** –  
+khi bạn không còn sức để phân tích, không còn năng lượng để đối diện,  
+và điều quan trọng nhất lúc này là **được yên**.
 
-**Four of Swords** đến sau nỗi đau của **Three of Swords** như một lời thì thầm:
+Nếu Three of Swords là nỗi đau không thể né,  
+thì Four of Swords là khoảnh khắc **bạn cho phép mình đặt thanh kiếm xuống** –  
+không chiến đấu, không tranh luận, không cố hiểu thêm nữa.
 
-👉 *Dừng lại đi. Bạn đã đi quá xa rồi.*
-
-Nếu Three of Swords là khoảnh khắc **tim bị xuyên thủng bởi sự thật**,  
-thì Four of Swords là:
-
-👉 *Nằm xuống – thở – và để vết thương được khép lại.*
-
-Đây là lá bài của:
-- Nghỉ ngơi
-- Tĩnh lặng
-- Hồi phục tinh thần
-
-Không phải từ bỏ,  
-mà là **tạm dừng để không gãy đổ**.
+> Có những lúc, chữa lành không đến từ việc làm thêm,  
+> mà từ **việc ngừng lại đúng lúc**.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá Four of Swords
 
-Hình ảnh quen thuộc của Four of Swords thường là:
-- Một người nằm yên trên mộ đá
-- Ba thanh kiếm treo phía trên
-- Một thanh kiếm nằm dưới thân
+**Four of Swords** thuộc nhóm **Swords (Kiếm)** trong Tarot – đại diện cho **nghỉ ngơi, hồi phục tinh thần và khoảng lặng cần thiết**.  
+Trong **Minor Arcana**, số **4** mang ý nghĩa của **ổn định – cấu trúc – nền tảng tạm thời**.
 
-Biểu tượng này truyền tải thông điệp sâu sắc:
-👉 *Xung đột chưa biến mất, nhưng tạm thời được đặt sang một bên.*
+Four of Swords không nói về trốn tránh,  
+mà nói về:
+- Tạm rút lui để hồi phục
+- Lấy lại nhịp thở tinh thần
+- Và chuẩn bị cho chặng tiếp theo
 
-Ba thanh kiếm phía trên là:
-- Những suy nghĩ
-- Những ký ức
-- Những nỗi đau còn đó
+Nếu:
+- Two of Swords là né tránh vì sợ
+- Three of Swords là đau vì thật
 
-Nhưng cơ thể và tâm trí **cần nghỉ trước đã**.
+thì Four of Swords là:  
+**“Tôi dừng lại để không tự làm mình tổn thương thêm.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Trong hình ảnh truyền thống của Four of Swords, ta thường thấy:
+- **Một người nằm yên trên phiến đá** – trạng thái nghỉ ngơi
+- **Ba thanh kiếm treo phía trên** – ký ức của những tổn thương đã qua
+- **Một thanh kiếm đặt phía dưới** – sẵn sàng, nhưng chưa cần dùng
+
+Biểu tượng trung tâm của lá bài là:  
+**Hồi phục không phải là từ bỏ, mà là tạm dừng có ý thức.**
+
+Four of Swords cho thấy:
+bạn vẫn còn hành trình phía trước,  
+nhưng **không cần phải đi tiếp ngay lúc này**.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Four of Swords
+
+Four of Swords mang năng lượng của **nguyên tố Khí (Air)** ở trạng thái **tĩnh và hồi phục**, thường được liên hệ với **Sao Mộc (Jupiter)** trong **Thiên Bình** – biểu trưng cho **sự chữa lành thông qua cân bằng, tĩnh tâm và tái lập hòa hợp nội tại**.
+
+Với **Thiên Bình**, lá bài này phản ánh:
+- Nhu cầu lấy lại cân bằng sau xung đột
+- Khoảng nghỉ để tâm trí không bị kéo lệch
+- Và việc chọn yên tĩnh như một hành động tự bảo vệ
+
+Trong những giai đoạn mà **tinh thần đã chịu quá nhiều va đập**, việc quan sát lại nhịp nghỉ – làm – nghỉ theo thời gian có thể giúp tránh kiệt quệ kéo dài. Nếu anh muốn soi chiếu chu kỳ hồi phục này, có thể tham khảo **[Tử vi cung Thiên Bình năm 2026](/tu-vi/nam-2026/thien-binh/)** như một gợi ý nhẹ, đúng tinh thần cân bằng của lá bài.
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Four of Swords
 
-### 🛌 Nghỉ ngơi và phục hồi
+### Nghỉ ngơi và hồi phục
 
-Four of Swords xuôi phản ánh:
-- Cơ thể và tâm trí kiệt sức
-- Cần thời gian tĩnh lặng
-- Không nên đưa ra quyết định lớn
+Four of Swords xuôi cho thấy:
+- Cần nghỉ
+- Cần yên
+- Cần không gian riêng
 
-Đây là giai đoạn:
-👉 *Không hành động cũng là một hành động đúng.*
-
----
-
-### 🧠 Tạm dừng tư duy quá mức
-
-Lá bài cho thấy:
-- Suy nghĩ liên tục đã gây hại
-- Tâm trí cần được “tắt tiếng” một lúc
-
-Four of Swords nhắc:
-👉 *Bạn không thể nghĩ mình ra khỏi nỗi đau – bạn cần nghỉ để lành.*
+Đây là giai đoạn của:
+**tĩnh lặng – phục hồi – chữa lành**.
 
 ---
 
-### 🕊️ Chữa lành trong im lặng
+### Tạm dừng để không gãy
 
-Sự hồi phục lúc này:
-- Không ồn ào
-- Không cần giải thích
-- Chỉ cần không gian an toàn
+Lá bài xuất hiện khi:
+- Bạn đã cố gắng quá lâu
+- Đau đã đủ
+- Và tiếp tục sẽ chỉ làm nặng thêm
 
-Yên tĩnh **là thuốc**.
+Four of Swords nhắc rằng:  
+👉 **Nghỉ ngơi cũng là một quyết định khôn ngoan.**
+
+---
+
+### Khoảng lặng có chủ đích
+
+Four of Swords xuôi không phải là trốn chạy,  
+mà là **chọn im lặng để tái cấu trúc nội tâm**.
 
 ---
 
 ## Four of Swords trong các khía cạnh đời sống
 
-### 🔹 Trong công việc & áp lực tinh thần
-
-- Burnout
-- Căng thẳng kéo dài
-- Cần nghỉ phép hoặc giảm nhịp
-
-Lá bài khuyên:
-- Đừng cố gắng “chịu đựng”
-- Nghỉ đúng lúc để không trả giá lớn hơn
+### Trong tình cảm
+Four of Swords phản ánh:
+- Cần khoảng cách lành mạnh
+- Tạm ngưng đối thoại căng thẳng
+- Cho cả hai thời gian lắng xuống
 
 ---
 
-### 🔹 Trong tình cảm
+### Trong công việc & cuộc sống
+Trong công việc, Four of Swords báo hiệu:
+- Nghỉ phép
+- Giảm nhịp
+- Không nên đưa ra quyết định lớn lúc này
 
-Four of Swords trong tình cảm cho thấy:
-- Cần khoảng lặng sau xung đột
-- Tạm dừng để cả hai hồi phục
-- Không nên ép nói chuyện ngay
-
-Im lặng lúc này:
-👉 *Không phải là lạnh nhạt – mà là tự bảo vệ.*
+Đây là lúc **nghỉ để không gãy**.
 
 ---
 
-### 🔹 Trong đời sống nội tâm
+## Four of Swords (Ngược) – Kiệt quệ hoặc không cho mình nghỉ
 
-Lá bài phản ánh:
-- Tâm trí mệt mỏi
-- Cần thời gian một mình
-- Nhu cầu quay về bên trong
-
-Four of Swords đặt ra câu hỏi:
-👉 *Bạn đã cho mình nghỉ ngơi thật sự bao lâu rồi?*
+Khi **Four of Swords xuất hiện ở vị trí ngược**, lá bài phản ánh:
+- Không chịu nghỉ
+- Cố gắng quá mức
+- Hoặc sợ dừng lại vì lo mất kiểm soát
 
 ---
 
-## Four of Swords (Ngược) – Không cho phép mình nghỉ
+### Ý nghĩa chính
 
-Khi **Four of Swords xuất hiện ở vị trí ngược**, đây là dấu hiệu đáng lưu ý.
-
----
-
-### ⚠️ Ý nghĩa chính
-
-Four of Swords ngược phản ánh:
-- Tránh nghỉ ngơi
-- Sợ đối diện sự trống rỗng
-- Ép mình tiếp tục khi chưa sẵn sàng
-
-Lá bài cảnh báo:
-👉 *Không nghỉ ngơi không làm bạn mạnh hơn – chỉ làm bạn kiệt quệ hơn.*
+Four of Swords ngược thường liên quan đến:
+- Burnout kéo dài
+- Tâm trí không được nghỉ
+- Sự mệt mỏi tích tụ
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Góc nhìn tâm lý
 
-Ở trạng thái ngược, lá bài phản ánh:
-- Chạy trốn sự yên tĩnh
-- Dùng bận rộn để né cảm xúc
+Ở trạng thái ngược, Four of Swords cho thấy:
+- Cơ thể và tâm trí đều đang cầu cứu
+- Nghỉ ngơi không còn là lựa chọn, mà là nhu cầu
 
-Nhưng chữa lành **không thể vội**.
-
----
-
-### 🧭 Lời khuyên khi Four of Swords ngược xuất hiện
-
-- Cho phép bản thân dừng lại
-- Tìm không gian an toàn để nghỉ
-- Nhận sự hỗ trợ nếu cần
-
-Sự hồi phục bắt đầu  
-khi **ta cho mình quyền được yếu**.
+Lá bài nhắc rằng:  
+**Không ai có thể hồi phục khi không được phép dừng lại.**
 
 ---
 
-## 🔗Để theo dõi trọn mạch tư duy và hồi phục của Swords, bạn có thể đọc thêm:
+### Lời khuyên khi Four of Swords ngược xuất hiện
 
-- **[Ace of Swords – Sự Thật Và Nhận Thức Mới](/tarot/la-bai/ace-of-swords/)**  
-- **[Two of Swords – Lưỡng Lự Và Né Tránh](/tarot/la-bai/two-of-swords/)**  
-- **[Three of Swords – Tổn Thương Và Sự Thật Gây Đau](/tarot/la-bai/three-of-swords/)**  
-- **[Suit of Swords – Con Đường Tư Duy](/tarot/la-bai/suit-of-swords/)**  
+- Dừng lại dù chỉ một nhịp
+- Giảm bớt kích thích và thông tin
+- Cho phép mình không phải mạnh mẽ
+
+---
+
+## 👉 Tiếp mạch hồi phục của Suit of Swords
+
+**[Suit of Swords – Hành Trình Nhận Thức](/tarot/la-bai/suit-of-swords/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Four of Swords
 
 **Xuôi:**
-- 🛌 Nghỉ ngơi cần thiết
-- 🧠 Hồi phục tinh thần
-- 🕊️ Chữa lành trong tĩnh lặng
+- Nghỉ ngơi  
+- Hồi phục  
+- Tĩnh lặng cần thiết  
 
 **Ngược:**
-- ⚠️ Không cho phép mình nghỉ
-- 🧠 Né tránh sự yên tĩnh
-- 🧭 Cần dừng lại trước khi kiệt sức
+- Kiệt quệ  
+- Không chịu nghỉ  
+- Burnout  
 
 Four of Swords nhắc ta rằng:  
-**Không phải lúc nào tiến lên cũng là mạnh mẽ – đôi khi, nằm xuống để lành mới là can đảm nhất.**
+**Sau khi đã đau đủ,  
+điều dũng cảm nhất đôi khi là cho mình được yên.**
 
-👉 Xem toàn bộ mạch: **[Suit of Swords – Con Đường Tư Duy](/tarot/la-bai/suit-of-swords/)**
+---
+
+## 🔗 Để tiếp tục mạch Suit of Swords, bạn có thể tham khảo thêm:
+
+- **[Three of Swords – Nỗi Đau Không Né Tránh](/tarot/la-bai/three-of-swords/)**  
+- **[Five of Swords – Thắng Bại Và Cái Giá Phải Trả](/tarot/la-bai/five-of-swords/)**  
+- **[Bộ Ẩn Phụ – Suit of Swords](/tarot/la-bai/suit-of-swords/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
+
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Four of Swords
+
+**Four of Swords có phải là trốn tránh không?**  
+Không. Đây là nghỉ ngơi có ý thức để hồi phục.
+
+**Four of Swords trong tình yêu nói lên điều gì?**  
+Cần khoảng lặng để cảm xúc lắng xuống trước khi nói tiếp.
+
+**Four of Swords ngược có đáng lo không?**  
+Có, nếu bạn liên tục ép mình mà không cho phép nghỉ.
+
+**Four of Swords có liên quan đến chữa lành không?**  
+Rất rõ. Đây là lá bài của hồi phục tinh thần và tái tạo nội lực.

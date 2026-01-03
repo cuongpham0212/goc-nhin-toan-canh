@@ -115,175 +115,206 @@ reading:
       mà không tự làm mình kiệt quệ.
 
 ---
+## Ten of Wands là gì?
 
-## Tổng quan về lá Ten of Wands
+**Ten of Wands** là lá bài đại diện cho **điểm quá tải của hành động** –  
+khi một người **đã gánh quá nhiều, đi quá xa, và không còn chỗ để phân bổ thêm sức lực**.
 
-**Ten of Wands** là khoảnh khắc hành động **đi quá xa**.  
-Sau **Nine of Wands – mệt nhưng còn chống đỡ**, đến đây câu chuyện rất rõ:
+Nếu Nine of Wands là “tôi vẫn còn đứng, dù đã rất mệt”,  
+thì Ten of Wands là khoảnh khắc **đôi vai đã cúi xuống** –  
+không phải vì yếu, mà vì **đã ôm quá nhiều thứ không còn cần thiết**.
 
-👉 *Không buông – thì gãy.*
-
-Đây là lá bài của:
-- Gánh nặng
-- Trách nhiệm chồng chất
-- Quá tải kéo dài
-
-Ten of Wands không nói bạn yếu,  
-mà nói rằng **bạn đã mang quá nhiều so với sức mình**.
+> Có những lúc ta không gục ngã vì kẻ thù,  
+> mà vì **chính trách nhiệm mình tự mang lấy**.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá Ten of Wands
 
-Hình ảnh quen thuộc của Ten of Wands thường là:
-- Một người cúi gập
-- Ôm mười cây gậy
-- Không thấy rõ đường phía trước
+**Ten of Wands** thuộc nhóm **Wands (Gậy)** trong Tarot – đại diện cho **ý chí, nỗ lực và gánh nặng hành động**.  
+Trong **Minor Arcana**, số **10** mang ý nghĩa của **đỉnh điểm – quá tải – kết thúc một chu kỳ**.
 
-Biểu tượng này cho thấy:
-👉 *Trọng lượng che khuất tầm nhìn.*
+Ten of Wands không nói về thất bại,  
+mà nói về:
+- Việc ôm đồm quá nhiều
+- Trách nhiệm chồng chất
+- Và sự kiệt quệ đến từ “không biết buông”
 
-Người này vẫn đang đi,  
-nhưng **không còn nhìn thấy vì sao mình phải đi nữa**.
+Nếu:
+- Eight of Wands là tăng tốc
+- Nine of Wands là chịu đựng
+
+thì Ten of Wands là:  
+**“Tôi đã đi đến giới hạn – và cần dừng lại.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Trong hình ảnh truyền thống của Ten of Wands, ta thường thấy:
+- **Một người cúi người mang bó gậy nặng** – gánh nặng rõ ràng
+- **Tầm nhìn bị che khuất** – không còn nhìn thấy đường xa
+- **Đích đến ở rất gần** – nhưng lại là đoạn khó nhất
+
+Biểu tượng trung tâm của lá bài là:  
+**Không phải con đường dài làm ta mệt,  
+mà là việc mang theo quá nhiều thứ không còn cần thiết.**
+
+Ten of Wands cho thấy:
+bạn không thiếu sức mạnh,  
+chỉ đang **dùng sai cách**.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Ten of Wands
+
+Ten of Wands mang năng lượng của **nguyên tố Lửa** ở trạng thái **bị đè nén và quá tải**, thường được liên hệ với **Sao Thổ (Saturn)** trong **Nhân Mã** – biểu trưng cho **trách nhiệm kéo dài, lý tưởng bị gánh nặng thực tế làm nặng vai**.
+
+Với **Nhân Mã**, Ten of Wands phản ánh rất rõ:
+- Hành trình đi xa vì niềm tin
+- Gánh vác trách nhiệm thay người khác
+- Và cảm giác “nếu tôi không làm, sẽ không ai làm”
+
+Trong những giai đoạn mà **niềm tin biến thành gánh nặng**, việc nhìn lại lý do mình bắt đầu trở nên đặc biệt quan trọng. Nếu bạn từng cảm thấy mình đang **gánh nhiều hơn phần đời cho phép**, việc quan sát lại chu kỳ cá nhân theo thời gian – chẳng hạn qua những phân tích định hướng như **[Tử vi cung Nhân Mã năm 2026](/tu-vi/nam-2026/nhan-ma/)** – có thể giúp soi rõ hơn điểm cần buông và điểm cần giữ.
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Ten of Wands
 
-### 🪵 Gánh nặng và trách nhiệm
+### Gánh nặng và quá tải
+
+Ten of Wands xuôi cho thấy:
+- Trách nhiệm chồng chất
+- Áp lực kéo dài
+- Không còn khoảng thở
+
+Đây là giai đoạn của:
+**quá tải – mệt mỏi – căng cứng**.
+
+---
+
+### Ôm đồm quá nhiều
+
+Lá bài xuất hiện khi:
+- Bạn làm quá phần của mình
+- Không nhờ giúp đỡ
+- Hoặc không cho phép bản thân nghỉ
+
+Ten of Wands nhắc rằng:  
+👉 **Không phải trách nhiệm nào cũng cần bạn gánh đến cùng.**
+
+---
+
+### Sức mạnh bị tiêu hao
 
 Ten of Wands xuôi phản ánh:
-- Trách nhiệm quá nhiều
-- Ôm đồm mọi thứ
-- Không biết nhờ hỗ trợ
-
-Đây là trạng thái:
-👉 *“Mình phải làm hết.”*
-
----
-
-### 😮‍💨 Quá tải kéo dài
-
-Lá bài cho thấy:
-- Kiệt sức thể chất
-- Căng thẳng tinh thần
-- Mất kết nối với niềm vui ban đầu
-
-Ten of Wands nhắc:
-👉 *Hành động không nghỉ sẽ bào mòn ngọn lửa.*
-
----
-
-### 🔥 Ngọn lửa bị đè nặng
-
-Wands vốn là:
-- Đam mê
-- Sinh lực
-- Ý chí sống
-
-Nhưng ở Ten:
-👉 *Ngọn lửa bị biến thành gánh nặng.*
+- Ý chí vẫn còn
+- Nhưng sức lực đã cạn
+- Và nguy cơ sụp đổ nếu tiếp tục cố
 
 ---
 
 ## Ten of Wands trong các khía cạnh đời sống
 
-### 🔹 Trong công việc & trách nhiệm
-
-- Ôm quá nhiều vai trò
-- Làm thay người khác
-- Không dám từ chối
-
-Lá bài khuyên:
-- Phân chia lại trách nhiệm
-- Đặt giới hạn rõ ràng
+### Trong tình cảm
+Ten of Wands phản ánh:
+- Mối quan hệ nặng nề
+- Một người gánh cảm xúc cho cả hai
+- Yêu nhưng kiệt sức
 
 ---
 
-### 🔹 Trong tình cảm
+### Trong công việc & cuộc sống
+Trong công việc, Ten of Wands báo hiệu:
+- Quá nhiều trách nhiệm
+- Không được chia sẻ công bằng
+- Cần tái cấu trúc lại vai trò
 
-Ten of Wands trong tình cảm phản ánh:
-- Gánh cảm xúc thay người khác
-- Một người gồng cả mối quan hệ
-
-Đây là lúc cần hỏi:
-👉 *Mình đang yêu, hay đang gánh?*
-
----
-
-### 🔹 Trong đời sống nội tâm
-
-Lá bài phản ánh:
-- Áp lực tự thân
-- Đồng nhất giá trị bản thân với sự hy sinh
-
-Ten of Wands đặt ra câu hỏi:
-👉 *Nếu buông bớt, bạn có thật sự mất giá trị không?*
+Đây là lúc **học cách buông bớt**, không phải cố thêm.
 
 ---
 
-## Ten of Wands (Ngược) – Buông bỏ hoặc sụp đổ
+## Ten of Wands (Ngược) – Buông gánh hoặc sụp đổ
 
-Khi **Ten of Wands xuất hiện ở vị trí ngược**, hai khả năng xảy ra.
-
----
-
-### ⚠️ Ý nghĩa chính
-
-Ten of Wands ngược cho thấy:
-- Bắt đầu buông bớt gánh nặng  
-**hoặc**
-- Gãy vì không còn sức
-
-Điểm khác biệt nằm ở:
-👉 *Bạn buông chủ động hay buông vì kiệt quệ.*
+Khi **Ten of Wands xuất hiện ở vị trí ngược**, lá bài phản ánh:
+- Buông bỏ trách nhiệm không còn phù hợp
+- Hoặc sụp đổ vì quá tải kéo dài
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Ý nghĩa chính
 
-Ở trạng thái ngược, lá bài phản ánh:
-- Học cách nói “không”
-- Nhận ra giới hạn con người
-
-Buông bớt không phải thất bại,  
-mà là **tái cấu trúc sức sống**.
+Ten of Wands ngược thường liên quan đến:
+- Học cách nói “đủ rồi”
+- Nhờ giúp đỡ
+- Hoặc chấp nhận giới hạn của bản thân
 
 ---
 
-### 🧭 Lời khuyên khi Ten of Wands ngược xuất hiện
+### Góc nhìn tâm lý
 
-- Xem lại điều gì thực sự là trách nhiệm của bạn
-- Nhờ hỗ trợ
-- Trả lại gánh nặng không thuộc về mình
+Ở trạng thái ngược, Ten of Wands cho thấy:
+- Một quyết định khó nhưng cần thiết
+- Buông bớt để còn tiếp tục sống
 
-Ngọn lửa chỉ cháy bền  
-khi **không bị đè nát**.
+Lá bài nhắc rằng:  
+**Buông không phải là bỏ cuộc,  
+mà là chọn sống tiếp một cách lành mạnh hơn.**
 
 ---
 
-## 🔗Để theo dõi mạch hành động của Wands, bạn có thể đọc thêm:
+### Lời khuyên khi Ten of Wands ngược xuất hiện
 
-- **[Nine of Wands – Mệt Mỏi Nhưng Chưa Bỏ Cuộc](/tarot/la-bai/nine-of-wands/)**  
-- **[Ace of Wands – Tia Lửa Khởi Đầu](/tarot/la-bai/ace-of-wands/)**  
-- **[Page of Wands – Hứng Khởi Và Khám Phá](/tarot/la-bai/page-of-wands/)**  
-- **[Suit of Wands – Con Đường Hành Động](/tarot/la-bai/suit-of-wands/)**  
+- Rà soát lại điều gì thật sự là trách nhiệm của bạn
+- Học cách chia sẻ gánh nặng
+- Cho phép mình nghỉ trước khi sụp
+
+---
+
+## 👉 Xem toàn bộ mạch hành động
+
+**[Suit of Wands – Hành Trình Hành Động](/tarot/la-bai/suit-of-wands/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Ten of Wands
 
 **Xuôi:**
-- 🪵 Gánh nặng
-- 😮‍💨 Quá tải
-- 🔥 Ngọn lửa bị đè
+- Gánh nặng  
+- Quá tải  
+- Kiệt sức  
 
 **Ngược:**
-- 🌱 Buông bớt
-- 🧭 Tái cấu trúc trách nhiệm
-- ⚠️ Tránh gãy đổ
+- Buông bỏ  
+- Giải phóng  
+- Hồi phục  
 
 Ten of Wands nhắc ta rằng:  
-**Không phải buông vì yếu – mà vì muốn đi tiếp lâu dài.**
+**Bạn không được sinh ra để gánh cả thế giới,  
+mà để sống trọn vẹn trong phần đời của chính mình.**
 
-👉 Xem toàn bộ mạch: **[Suit of Wands – Con Đường Hành Động](/tarot/la-bai/suit-of-wands/)**
+---
+
+## 🔗 Để hiểu sâu hơn mạch hành động trong Tarot, bạn có thể tham khảo thêm:
+
+- **[Nine of Wands – Kiệt Sức Nhưng Không Bỏ Cuộc](/tarot/la-bai/nine-of-wands/)**  
+- **[Page of Wands – Tia Lửa Mới Sau Gánh Nặng](/tarot/la-bai/page-of-wands/)**  
+- **[Bộ Ẩn Phụ – Suit of Wands](/tarot/la-bai/suit-of-wands/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
+
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Ten of Wands
+
+**Ten of Wands có phải là lá bài tiêu cực không?**  
+Không. Đây là lá bài cảnh báo – không phải phán quyết.
+
+**Ten of Wands trong tình yêu nói lên điều gì?**  
+Thường là một bên đang gánh quá nhiều cảm xúc và trách nhiệm.
+
+**Ten of Wands ngược có tốt không?**  
+Có, nếu đó là sự buông bỏ có ý thức.
+
+**Ten of Wands có liên quan đến burnout không?**  
+Rất rõ. Đây là lá bài phản ánh burnout ở mức cao nhất trong Suit Gậy.

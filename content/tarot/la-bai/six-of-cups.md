@@ -262,7 +262,7 @@ Lá bài nhắc:
 
 ## 👉 Xem toàn bộ mạch cảm xúc
 
-**[Suit of Cups – Hành Trình Cảm Xúc](/tarot/suit-of-cups/)**  
+**[Suit of Cups – Hành Trình Cảm Xúc](/tarot/la-bai/suit-of-cups/)**  
 - **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
@@ -292,7 +292,6 @@ mà là nơi để lấy lại sự dịu dàng cho hành trình phía trước.
 - **[Three of Cups – Cộng hưởng & niềm vui chia sẻ](/tarot/la-bai/three-of-cups/)**
 - **[Four of Cups – Thờ ơ & quá tải cảm xúc](/tarot/la-bai/four-of-cups/)**
 - **[Five of Cups – Mất mát & tiếc nuối](/tarot/la-bai/five-of-cups/)**
-- **[Bộ Ẩn Phụ – Suit of Cups](/tarot/suit-of-cups/)**
 
 --- 
 

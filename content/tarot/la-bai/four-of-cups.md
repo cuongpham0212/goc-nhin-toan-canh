@@ -107,6 +107,7 @@ reading:
       cảm nhận trở lại.
 
 ---
+
 ## Four of Cups là gì?
 
 **Four of Cups** là lá bài đại diện cho trạng thái **thờ ơ cảm xúc**, khi tâm trí đã quá tải bởi những trải nghiệm trước đó và buộc phải **quay vào bên trong để tạm ngắt kết nối với thế giới bên ngoài**.
@@ -254,7 +255,7 @@ Lá bài nhắc:
 
 ## 👉 Xem toàn bộ mạch cảm xúc
 
-**[Suit of Cups – Hành Trình Cảm Xúc](/tarot/suit-of-cups/)**  
+**[Suit of Cups – Hành Trình Cảm Xúc](/tarot/la-bai/suit-of-cups/)**  
 
 ---
 

@@ -123,170 +123,205 @@ reading:
 
 ---
 
-## Tổng quan về lá Strength
+## Strength là gì?
 
-**Strength** không phải là sức mạnh áp đảo.  
-Nó xuất hiện khi ta đã đủ trưởng thành để hiểu rằng:
+**Strength** là lá bài đại diện cho **sức mạnh nội tâm, sự điềm tĩnh và khả năng làm chủ bản năng**, xuất hiện khi con người phải đối diện với biến động mà **không thể dùng kiểm soát hay ép buộc để vượt qua**.
 
-> *Không phải cái gì cũng cần chiến thắng.*
+Nếu Wheel of Fortune là bánh xe số phận xoay chuyển,  
+thì Strength là **cách ta đứng vững khi bánh xe đang quay**.
 
-Sau **Justice** – khi ta đã nhìn thẳng vào sự thật và trách nhiệm,  
-**Strength** dạy ta cách **ở lại với chính mình**,  
-không cưỡng ép, không đàn áp, cũng không bỏ mặc.
-
-Đây là sức mạnh **từ bên trong**,  
-âm thầm nhưng bền bỉ.
+> Không phải sức mạnh nào cũng ồn ào,  
+> có những sức mạnh **chỉ hiện diện khi ta đủ tĩnh**.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá Strength
 
-Hình ảnh quen thuộc của Strength thường là:
-- Một người phụ nữ dịu dàng
-- Một con sư tử đại diện cho bản năng
-- Không có dây xích, không có vũ khí
-- Ký hiệu vô cực phía trên đầu
+**Strength** thuộc nhóm **Major Arcana** – đại diện cho **năng lực làm chủ bên trong**, nơi con người học cách chiến thắng không phải bằng áp đặt, mà bằng **sự thấu hiểu và kiên nhẫn**.
 
-Những biểu tượng này cho thấy:
-👉 **Bản năng không bị tiêu diệt, mà được thuần hóa**.
+Strength xuất hiện khi:
+- Bạn đang ở giữa biến động
+- Cảm xúc mạnh nhưng cần được dẫn dắt
+- Sự việc đòi hỏi bản lĩnh hơn là hành động gấp
 
-Sư tử không bị khuất phục vì sợ,  
-mà vì **được hiểu và được chấp nhận**.
+Nếu:
+- Wheel of Fortune là thay đổi ngoài tầm tay
+- The Hermit là rút lui để hiểu
+
+thì Strength là:  
+**“Ở lại – đối diện – và giữ vững mình.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Hình ảnh quen thuộc của Strength thường bao gồm:
+- **Người phụ nữ dịu dàng thuần hóa sư tử** – sức mạnh mềm
+- **Sư tử há miệng nhưng không tấn công** – bản năng được dẫn dắt
+- **Dấu vô cực trên đầu** – sức mạnh tinh thần bền bỉ
+
+Điểm then chốt của lá bài này là:  
+**Sức mạnh thật sự không đến từ việc đàn áp bản năng,  
+mà từ khả năng sống chung với nó một cách tỉnh thức.**
+
+Strength không chối bỏ cảm xúc mạnh,  
+nó **dạy ta cách ôm lấy và chuyển hóa chúng**.
+
+---
+
+## Năng lượng chiêm tinh và sức mạnh bên trong
+
+Strength thường được liên kết với **cung Sư Tử (Leo)** – cung hoàng đạo đại diện cho **sinh lực, bản lĩnh, trái tim can đảm và sự tự tin lành mạnh**.
+
+Năng lượng Sư Tử trong Strength thể hiện qua:
+- Can đảm đối diện khó khăn
+- Tự tin không phô trương
+- Sức mạnh xuất phát từ trái tim
+
+Trong đời sống, năng lượng này thường xuất hiện khi con người:
+- Không thể né tránh thử thách
+- Cần giữ bình tĩnh trước áp lực
+- Phải lựa chọn yêu thương thay vì kiểm soát
+
+Nếu muốn quan sát cách nội lực được tôi luyện qua các chu kỳ thử thách, có thể tham khảo thêm **[Tử vi cung Sư Tử năm 2026](/tu-vi/nam-2026/su-tu/)** để thấy rõ mối liên hệ giữa bản lĩnh cá nhân và khả năng dẫn dắt cảm xúc.
+
+Strength nhắc rằng:  
+**Can đảm không phải là không sợ,  
+mà là không để nỗi sợ điều khiển hành động.**
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Strength
 
-### 🦁 Sức mạnh mềm và tự chủ
+### Nội lực và điềm tĩnh
 
-Strength xuôi phản ánh:
-- Khả năng giữ bình tĩnh trong áp lực
-- Làm chủ cảm xúc mà không kìm nén
-- Không phản ứng bốc đồng
+Strength xuôi cho thấy:
+- Sự vững vàng nội tâm
+- Khả năng kiểm soát cảm xúc
+- Bản lĩnh trước nghịch cảnh
 
-Đây là sức mạnh:
-- Không ồn ào
-- Không cần chứng minh
-- Nhưng rất khó lay chuyển
+Đây là lá bài của:  
+**sức mạnh mềm nhưng bền**.
 
 ---
 
-### 🌿 Thuần hóa bản năng
+### Lòng trắc ẩn và kiên nhẫn
 
-Strength không yêu cầu ta chối bỏ:
-- Giận dữ
-- Ham muốn
-- Nỗi sợ
+Lá bài này xuất hiện khi:
+- Cần giải quyết vấn đề bằng thấu hiểu
+- Không nên đối đầu trực diện
+- Kiên nhẫn sẽ mang lại kết quả tốt hơn ép buộc
 
-Nó yêu cầu:
-👉 *Nhận diện – chấp nhận – dẫn dắt.*
-
-Khi bản năng được lắng nghe,  
-nó **không còn cần gào thét**.
+Strength nhắc rằng:  
+👉 **Dịu dàng đúng lúc chính là sức mạnh.**
 
 ---
 
-### 🤍 Kiên nhẫn và lòng trắc ẩn
+### Làm chủ bản năng
 
-Sức mạnh thật sự của Strength nằm ở:
-- Kiên nhẫn với chính mình
-- Trắc ẩn với phần yếu đuối
-- Không tự ép mình phải “mạnh mẽ”
+Strength cho thấy khả năng:
+- Dẫn dắt ham muốn
+- Kiểm soát cơn giận
+- Chuyển hóa năng lượng thô thành hành động có ý thức
 
 ---
 
 ## Strength trong các khía cạnh đời sống
 
-### 🔹 Trong tình cảm
+### Trong tình cảm
+Strength thể hiện mối quan hệ dựa trên **sự tôn trọng, kiên nhẫn và thấu cảm**. Đây là giai đoạn yêu bằng trái tim vững vàng, không chiếm hữu.
 
-- Yêu bằng sự bình tĩnh
-- Không kiểm soát, không thao túng
-- Biết khi nào nên tiến, khi nào nên lùi
-
-Strength cho thấy:
-👉 *Yêu không cần thắng – chỉ cần hiểu.*
-
----
-
-### 🔹 Trong công việc & sự nghiệp
-
-- Kiên trì theo đuổi mục tiêu
-- Không nóng vội
-- Dẫn dắt bằng uy tín, không bằng áp lực
-
-Đây là kiểu sức mạnh:
-👉 *Khiến người khác tin, không phải sợ.*
+### Trong công việc & đời sống
+Trong công việc, Strength báo hiệu:
+- Áp lực cao nhưng có thể vượt qua
+- Lãnh đạo bằng uy tín thay vì quyền lực
+- Giữ bình tĩnh để xử lý tình huống khó
 
 ---
 
-### 🔹 Trong đời sống nội tâm
+## Strength (Ngược) – Khi nội lực bị suy yếu
 
-- Làm chủ cảm xúc
-- Không tự đánh nhau với bản thân
-- Biết dừng đúng lúc
+Khi **Strength xuất hiện ở vị trí ngược**, lá bài cho thấy:
+- Thiếu tự tin
+- Cảm xúc lấn át lý trí
+- Dễ phản ứng thái quá
 
-Strength giúp ta:
-👉 *Sống hòa thuận với chính mình.*
+### Ý nghĩa chính
 
----
+Strength ngược thường biểu hiện:
+- Mất kiểm soát cảm xúc
+- Nghi ngờ bản thân
+- Trốn tránh thử thách
 
-## Strength (Ngược) – Khi nội lực bị nghi ngờ
-
-Khi **Strength xuất hiện ở vị trí ngược**, sức mạnh bên trong bị lung lay.
-
-### ⚠️ Ý nghĩa chính
-
-Strength ngược phản ánh:
-- Tự nghi ngờ
-- Mất kiên nhẫn
-- Hoặc dùng sức mạnh sai cách (quá cứng hoặc quá mềm)
+Đây không phải là yếu đuối, mà là:  
+**chưa kết nối được với sức mạnh bên trong.**
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Góc nhìn tâm lý
 
-Ở trạng thái ngược, lá bài cho thấy:
-- Kìm nén cảm xúc quá lâu
-- Hoặc buông xuôi bản năng
-- Sợ đối diện phần yếu đuối của mình
+Ở trạng thái ngược, Strength phản ánh:
+- Sợ đối diện bản thân
+- Đồng nhất giá trị với kết quả bên ngoài
+- Chưa tin vào nội lực sẵn có
 
----
-
-### 🧭 Lời khuyên khi Strength ngược xuất hiện
-
-- Quay lại lắng nghe cơ thể và cảm xúc
-- Dịu dàng hơn với chính mình
-- Tin rằng nội lực vẫn đang ở đó
-
-Sức mạnh thật  
-không biến mất –  
-chỉ cần được **nhắc nhớ**.
+Lá bài nhắc:  
+**Bạn mạnh hơn bạn nghĩ – chỉ là bạn chưa tin đủ.**
 
 ---
 
-## 🔗Để hiểu rõ mạch trưởng thành nội tâm quanh Strength, bạn có thể đọc thêm:
+### Lời khuyên khi Strength ngược xuất hiện
 
-- **[Justice – Sự Công Bằng Tỉnh Thức](/tarot/la-bai/justice/)**  
-- **[The World – Sự Hoàn Tất Trọn Vẹn](/tarot/la-bai/the-world/)**  
-- **[Judgement – Tiếng Gọi Thức Tỉnh](/tarot/la-bai/judgement/)**  
-- **[The Sun – Ánh Sáng Sự Sống](/tarot/la-bai/the-sun/)**  
+- Quay về với nhịp thở
+- Nhận diện cảm xúc trước khi hành động
+- Từng bước xây lại sự tự tin
+
+---
+
+## 👉 Xem toàn bộ mạch nhận thức
+
+**[Major Arcana – Hành Trình Nhận Thức](/tarot/la-bai/major-arcana/)**  
+
+---
+
+## Đọc tiếp các hướng liên quan
+
+- **[Wheel of Fortune – Chu kỳ & bước ngoặt](/tarot/la-bai/wheel-of-fortune/)**
+- **[The Hermit – Tìm đường bên trong](/tarot/la-bai/the-hermit/)**
+- **[The Sun – Sinh lực & ánh sáng](/tarot/la-bai/the-sun/)**
+- **[Hướng dẫn đọc Tarot theo chiều sâu tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Strength
 
 **Xuôi:**
-- 🦁 Sức mạnh mềm
-- 🌿 Thuần hóa bản năng
-- 🤍 Tự chủ – kiên nhẫn
+- Nội lực  
+- Điềm tĩnh  
+- Kiên nhẫn  
+- Can đảm mềm  
 
 **Ngược:**
-- ⚠️ Tự nghi ngờ
-- 🧠 Nội lực bị kìm nén hoặc lệch hướng
-- 🧭 Cần quay về với sự dịu dàng
+- Thiếu tự tin  
+- Mất kiểm soát cảm xúc  
+- Trốn tránh thử thách  
 
-**Strength nhắc ta rằng:**  
-*Sức mạnh lớn nhất không phải là thắng được thế giới,  
-mà là không còn phải đánh nhau với chính mình.*
+Strength nhắc ta rằng:  
+**Sức mạnh lớn nhất không nằm ở việc chế ngự thế giới,  
+mà ở khả năng làm chủ chính mình giữa biến động.**
 
-👉 Xem toàn bộ mạch chuyển hóa: **[Major Arcana – Hành Trình Thức Tỉnh](/tarot/la-bai/major-arcana/)**
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Strength
+
+**Strength có phải là lá bài hành động không?**  
+Không. Đây là lá bài của nội lực và kiểm soát cảm xúc.
+
+**Strength xuất hiện sau Wheel of Fortune có ý nghĩa gì?**  
+Cho thấy cần dùng bản lĩnh nội tâm để vượt qua thay đổi khách quan.
+
+**Strength ngược có xấu không?**  
+Không. Nó nhắc bạn cần quay về kết nối lại với sức mạnh bên trong.
+
+**Strength thường dẫn tới lá nào?**  
+Thường nối sang **The Hermit** – giai đoạn chiêm nghiệm sâu hơn.

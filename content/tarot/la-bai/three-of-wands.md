@@ -110,174 +110,210 @@ reading:
       có thời gian để phát triển.
 
 ---
+## Three of Wands là gì?
 
-## Tổng quan về lá Three of Wands
+**Three of Wands** là lá bài đại diện cho **sự mở rộng sau khi đã chọn hướng** –  
+khi ta **đã quyết định bước đi**, và giờ là lúc **đưa tầm nhìn ra xa hơn, chờ phản hồi từ thế giới**.
 
-**Three of Wands** đến sau khoảnh khắc lựa chọn của **Two of Wands**.  
-Hướng đi đã được xác định, hành động ban đầu đã gieo, và giờ là lúc:
+Nếu Two of Wands là khoảnh khắc cân nhắc giữa các khả năng,  
+thì Three of Wands là lúc **niềm tin được đặt ra phía trước** –  
+khi ta đứng ở ranh giới hiện tại và **nhìn về những gì đang đến**.
 
-👉 *Đứng lại – nhìn xa – chờ tín hiệu quay về.*
-
-Đây là lá bài của:
-- Mở rộng
-- Kiên nhẫn
-- Niềm tin vào tầm nhìn đã chọn
-
-Three of Wands không còn phân vân,  
-nhưng cũng **chưa lao vào hành động tiếp theo**.
+> Khi con đường đã được chọn,  
+> ta không còn nhìn vào bên trong nữa,  
+> mà hướng mắt ra ngoài để chờ tín hiệu hồi đáp.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá Three of Wands
 
-Hình ảnh quen thuộc của Three of Wands thường là:
-- Một người đứng trên cao
-- Nhìn ra biển lớn
-- Những con thuyền đang đi xa
+**Three of Wands** thuộc nhóm **Wands (Gậy)** trong Tarot – đại diện cho **hành động, tầm nhìn và sự mở rộng**.  
+Trong **Minor Arcana**, số **3** mang ý nghĩa của **phát triển – lan tỏa – bước ra thế giới**.
 
-Biểu tượng này cho thấy:
-👉 *Điều bạn gửi đi đã rời bến – giờ là lúc chờ nó quay về.*
+Three of Wands không nói về hành động gấp gáp,  
+mà nói về:
+- Tầm nhìn dài hơn
+- Sự kiên nhẫn sau quyết định
+- Và niềm tin rằng điều mình gieo sẽ bắt đầu phản hồi
 
-Ba cây gậy tượng trưng cho:
-- Nền tảng đã có
-- Hướng đi đã chọn
-- Không gian đang mở ra phía trước
+Nếu:
+- Ace of Wands là “tôi muốn bắt đầu”
+- Two of Wands là “tôi chọn hướng đi”
+
+thì Three of Wands là:  
+**“Tôi đã đi – và đang chờ thế giới trả lời.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Trong hình ảnh truyền thống của Three of Wands, ta thường thấy:
+- **Nhân vật quay lưng về phía người xem** – không còn nhìn lại
+- **Ba cây gậy cắm vững** – nền tảng đã hình thành
+- **Biển và tàu thuyền ở xa** – cơ hội, kết quả, tín hiệu đang đến
+
+Biểu tượng trung tâm của lá bài là:  
+**Sự mở rộng đòi hỏi niềm tin và thời gian.**
+
+Three of Wands nhắc rằng:
+bạn đã làm phần của mình –  
+giờ là lúc **kiên nhẫn chờ dòng đời vận hành**.
+
+---
+
+## Hành tinh và cung hoàng đạo đại diện của Three of Wands
+
+Three of Wands mang năng lượng của **nguyên tố Lửa** ở trạng thái **hướng ngoại và mở rộng**, thường được liên kết với **Mặt Trời (Sun)** trong **Bạch Dương** – biểu trưng cho **tầm nhìn tiên phong, niềm tin vào con đường đã chọn và khát vọng đi xa hơn giới hạn hiện tại**.
+
+Với **Bạch Dương**, năng lượng của Three of Wands thể hiện rất rõ qua:
+- Sự tự tin sau quyết định
+- Khả năng chờ đợi kết quả mà không đánh mất động lực
+- Và tinh thần mở đường cho những điều chưa từng thử
+
+Nếu bạn quan tâm đến cách **động lực hành động và các quyết định mở rộng** của cung này vận hành trong một giai đoạn cụ thể, có thể tham khảo thêm  
+**[Tử vi cung Bạch Dương năm 2026](/tu-vi/nam-2026/bach-duong/)** để có góc nhìn rõ hơn về nhịp tiến – lùi và các cơ hội đang hình thành.
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Three of Wands
 
-### 🌍 Mở rộng và phát triển
+### Mở rộng tầm nhìn
 
-Three of Wands xuôi phản ánh:
-- Mở rộng tầm nhìn
-- Nghĩ tới thị trường, thế giới, tương lai xa hơn
-- Không bó hẹp trong hiện tại
+Three of Wands xuôi cho thấy:
+- Bạn đã chọn hướng đúng
+- Có nền tảng để đi xa hơn
+- Và đang ở giai đoạn **nhìn ra thế giới**
 
-Đây là trạng thái:
-👉 *Mình đã đi đúng hướng – giờ hãy đi xa hơn.*
-
----
-
-### ⏳ Chờ đợi có ý thức
-
-Lá bài cho thấy:
-- Chờ đợi không phải thụ động
-- Quan sát phản hồi từ thực tế
-- Sẵn sàng điều chỉnh khi cần
-
-Three of Wands nhắc:
-👉 *Kiên nhẫn là một dạng sức mạnh.*
+Đây là thời điểm của:
+**kỳ vọng – chiến lược – tầm nhìn dài hạn**.
 
 ---
 
-### 🔥 Niềm tin vào tầm nhìn
+### Chờ tín hiệu và kết quả
 
-Khác với do dự,  
-Three of Wands mang năng lượng:
-- Tin tưởng
-- Bình tĩnh
-- Không hoảng loạn khi kết quả chưa đến ngay
+Lá bài xuất hiện khi:
+- Bạn đã bắt đầu một hành trình
+- Đã gieo hạt
+- Và giờ cần **kiên nhẫn chờ phản hồi**
+
+Three of Wands nhắc rằng:  
+👉 **Không phải mọi kết quả đều đến ngay – nhưng chúng đang trên đường.**
+
+---
+
+### Niềm tin vào con đường đã chọn
+
+Three of Wands xuôi cho thấy:
+bạn không còn hoài nghi như trước,  
+mà bắt đầu **tin vào lựa chọn của chính mình**.
 
 ---
 
 ## Three of Wands trong các khía cạnh đời sống
 
-### 🔹 Trong công việc & dự án
+### Trong tình cảm
+Three of Wands phản ánh:
+- Mong muốn đưa mối quan hệ đi xa hơn
+- Hoặc chờ đợi sự hồi đáp từ người kia
 
-- Dự án đã khởi động
-- Đang chờ kết quả
-- Nghĩ tới mở rộng quy mô
-
-Lá bài khuyên:
-- Đừng rút lui quá sớm
-- Cho kế hoạch thời gian để vận hành
+Đây là giai đoạn **mở lòng và quan sát**, thay vì thúc ép.
 
 ---
 
-### 🔹 Trong tình cảm
+### Trong công việc & cuộc sống
+Trong công việc, Three of Wands báo hiệu:
+- Mở rộng dự án
+- Hợp tác xa
+- Hoặc chờ kết quả từ kế hoạch đã triển khai
 
-Three of Wands trong tình cảm phản ánh:
-- Mối quan hệ đang phát triển
-- Chưa có kết luận rõ ràng
-- Cần thời gian để thấy hướng đi chung
-
-Đây là lúc:
-👉 *Không thúc ép – không rút lui.*
+Lá bài cho thấy **hướng đi đúng**, nhưng cần thêm thời gian.
 
 ---
 
-### 🔹 Trong đời sống nội tâm
+## Three of Wands (Ngược) – Thiếu kiên nhẫn hoặc tầm nhìn hẹp
 
-Lá bài phản ánh:
-- Sự trưởng thành trong hành động
-- Biết chờ đúng thời điểm
-
-Three of Wands đặt ra câu hỏi:
-👉 *Bạn có đủ tin vào lựa chọn của mình để chờ đợi kết quả không?*
+Khi **Three of Wands xuất hiện ở vị trí ngược**, lá bài phản ánh:
+- Sự nôn nóng
+- Thiếu niềm tin vào quá trình
+- Hoặc sợ mở rộng ra ngoài vùng quen thuộc
 
 ---
 
-## Three of Wands (Ngược) – Nóng vội hoặc mất niềm tin
+### Ý nghĩa chính
 
-Khi **Three of Wands xuất hiện ở vị trí ngược**, sự chờ đợi trở nên khó chịu.
+Three of Wands ngược thường liên quan đến:
+- Kỳ vọng quá sớm
+- Thất vọng vì kết quả chưa đến
+- Hoặc thu mình lại vì sợ rủi ro
 
----
-
-### ⚠️ Ý nghĩa chính
-
-Three of Wands ngược cho thấy:
-- Thiếu kiên nhẫn
-- Nghi ngờ lựa chọn đã đưa ra
-- Muốn thấy kết quả ngay
-
-Vấn đề không nằm ở hướng đi,  
-mà ở:
-👉 *Sự vội vàng.*
+Không phải vì con đường sai,  
+mà vì **bạn chưa cho nó đủ thời gian**.
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Góc nhìn tâm lý
 
-Ở trạng thái ngược, lá bài phản ánh:
-- Sợ rằng mình đã chọn sai
-- Không chịu được khoảng trống chờ đợi
+Ở trạng thái ngược, Three of Wands cho thấy:
+- Sự bất an khi phải chờ đợi
+- Nỗi sợ rằng lựa chọn của mình không được đáp lại
 
-Nhưng:
-👉 *Mọi hành trình đều có đoạn không thấy gì rõ ràng.*
-
----
-
-### 🧭 Lời khuyên khi Three of Wands ngược xuất hiện
-
-- Kiểm tra lại kỳ vọng
-- Cho tiến trình thêm thời gian
-- Nhớ rằng mở rộng luôn cần độ trễ
+Lá bài nhắc rằng:  
+**Mở rộng luôn đi kèm với khoảng trống của niềm tin.**
 
 ---
 
-## 🔗Để theo dõi mạch hành động của Wands, bạn có thể đọc thêm:
+### Lời khuyên khi Three of Wands ngược xuất hiện
 
-- **[Two of Wands – Lựa Chọn Và Định Hướng](/tarot/la-bai/two-of-wands/)**  
-- **[Four of Wands – Ổn Định Và Ăn Mừng](/tarot/la-bai/four-of-wands/)**  
-- **[Ace of Wands – Tia Lửa Khởi Đầu](/tarot/la-bai/ace-of-wands/)**  
-- **[Suit of Wands – Con Đường Hành Động](/tarot/la-bai/suit-of-wands/)**  
+- Kiểm tra lại kỳ vọng của mình
+- Nhìn xa hơn kết quả tức thời
+- Tin vào quá trình đã khởi động
+
+---
+
+## 👉 Xem toàn bộ mạch hành động
+
+**[Suit of Wands – Hành Trình Hành Động](/tarot/la-bai/suit-of-wands/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Three of Wands
 
 **Xuôi:**
-- 🌍 Mở rộng
-- ⏳ Chờ đợi có ý thức
-- 🔥 Tin vào tầm nhìn
+- Mở rộng  
+- Chờ tín hiệu  
+- Tầm nhìn dài hạn  
 
 **Ngược:**
-- ⚠️ Nóng vội
-- 🌫️ Mất niềm tin
-- 🧭 Cần kiên nhẫn
+- Nôn nóng  
+- Thu hẹp tầm nhìn  
+- Thiếu kiên nhẫn  
 
 Three of Wands nhắc ta rằng:  
-**Khi đã chọn hướng và gửi mình ra biển lớn, điều khôn ngoan nhất là đứng vững – nhìn xa – và chờ đúng lúc để đi tiếp.**
+**Khi đã chọn hướng và bước đi,  
+điều quan trọng tiếp theo là đủ tin để chờ thế giới hồi đáp.**
 
-👉 Xem toàn bộ mạch: **[Suit of Wands – Con Đường Hành Động](/tarot/la-bai/suit-of-wands/)**
+---
+
+## 🔗 Để hiểu sâu hơn mạch hành động trong Tarot, bạn có thể tham khảo thêm:
+
+- **[Two of Wands – Lựa Chọn Và Định Hướng](/tarot/la-bai/two-of-wands/)**  
+- **[Four of Wands – Nền Tảng Và Ổn Định](/tarot/la-bai/four-of-wands/)**  
+- **[Bộ Ẩn Phụ – Suit of Wands](/tarot/la-bai/suit-of-wands/)**  
+- **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
+
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Three of Wands
+
+**Three of Wands có phải là lá bài chờ đợi không?**  
+Có, nhưng là sự chờ đợi có niềm tin và tầm nhìn.
+
+**Three of Wands trong tình yêu nói lên điều gì?**  
+Thường là mong muốn phát triển mối quan hệ và chờ phản hồi từ đối phương.
+
+**Three of Wands ngược có xấu không?**  
+Không xấu, nhưng nhắc bạn điều chỉnh kỳ vọng và sự kiên nhẫn.
+
+**Three of Wands có liên quan đến mở rộng sự nghiệp không?**  
+Có. Đây là lá bài của tầm nhìn, hợp tác và mở rộng cơ hội.

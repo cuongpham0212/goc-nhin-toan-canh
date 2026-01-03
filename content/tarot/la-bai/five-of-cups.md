@@ -251,7 +251,7 @@ Lá bài nhắc:
 
 ## 👉 Xem toàn bộ mạch cảm xúc
 
-**[Suit of Cups – Hành Trình Cảm Xúc](/tarot/suit-of-cups/)**  
+**[Suit of Cups – Hành Trình Cảm Xúc](/ttarot/la-bai/suit-of-cups/)**  
 - **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---
@@ -278,7 +278,7 @@ nhưng vẫn có thể quay lại với những gì còn đứng vững.**
 
 - **[Two of Cups – Sự Kết Nối Hai Chiều](/tarot/la-bai/two-of-cups/)**  
 - **[Page of Cups – Thông Điệp Từ Cảm Xúc](/tarot/la-bai/page-of-cups/)**  
-- **[Bộ Ẩn Phụ – Suit of Cups](/tarot/suit/cups/)**  
+- **[Bộ Ẩn Phụ – Suit of Cups](/tarot/la-bai/suit-of-cups/)**  
 - **[Hướng dẫn đọc Tarot theo góc nhìn tâm lý](/tarot/)**
 
 ---

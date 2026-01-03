@@ -120,173 +120,206 @@ reading:
 
 ---
 
-## Tổng quan về lá Death
+## Death là gì?
 
-**Death** không nói về cái chết theo nghĩa vật lý.  
-Nó nói về **thời điểm đã xong**.
+**Death** là lá bài đại diện cho **sự kết thúc tất yếu**, quá trình **lột bỏ – chuyển hóa – tái sinh**, nơi một chu kỳ buộc phải khép lại để nhường chỗ cho điều mới.
 
-Sau **The High Priestess** – khi ta đã chạm tới chiều sâu và sự thật ẩn,  
-**Death** xuất hiện để nói một câu rất ngắn:
+Death không nói về cái chết thể xác,  
+mà nói về **cái chết của một phiên bản cũ**.
 
-> *Đến lúc rồi.*
-
-Không phải kết thúc vì sai lầm,  
-mà là **kết thúc vì đã đi đủ**.
-
-Đây là lá bài của **độ chín**,  
-không phải của mất mát.
+> Không phải mọi kết thúc đều là mất mát,  
+> có những kết thúc là **điều kiện cần để sự sống tiếp tục.**
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá Death
 
-Hình ảnh quen thuộc của Death thường bao gồm:
-- Nhân vật mang dáng dấp thần chết
-- Mặt đất trống trải
-- Ánh sáng le lói ở đường chân trời
-- Những hình ảnh cũ đang tan rã
+**Death** thuộc nhóm **Major Arcana** – đại diện cho **những bước ngoặt lớn, không thể đảo ngược trong hành trình đời sống**.  
+Đây là lá bài mang tính **chuyển trục**, nơi con người không còn quyền giữ nguyên trạng.
 
-Những biểu tượng này cho thấy:
-👉 **Không có chuyển hóa nào xảy ra nếu không có kết thúc**.
+Death xuất hiện khi:
+- Một vai trò không còn phù hợp
+- Một mối quan hệ đã hoàn thành sứ mệnh
+- Một bản sắc cũ không thể tiếp tục mang theo
 
-Death không phá hủy sự sống,  
-nó **dọn chỗ cho sự sống mới**.
+Nếu:
+- The Devil là nhận diện ràng buộc
+- The Tower là sụp đổ cưỡng bức
+
+thì Death là:  
+**“Buông có ý thức – để được tái sinh.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
+
+Hình ảnh quen thuộc của lá Death thường bao gồm:
+- **Bộ xương / kỵ sĩ** – thứ không thể bị hủy hoại
+- **Cờ đen – hoa trắng** – kết thúc và khởi đầu song song
+- **Mặt trời mọc phía xa** – sự sống tiếp diễn sau đêm tối
+
+Điểm then chốt của lá bài này là:  
+**Chỉ những gì đã chết mới có thể tái sinh.**
+
+Death không đến để trừng phạt,  
+mà đến để **cắt bỏ điều đã hết vai trò**.
+
+---
+
+## Năng lượng chiêm tinh và quá trình chuyển hóa
+
+Death thường được liên kết với **cung Bọ Cạp (Scorpio)** – cung hoàng đạo đại diện cho **sự chuyển hóa sâu, cái chết biểu tượng và khả năng tái sinh mạnh mẽ**.
+
+Năng lượng Bọ Cạp trong lá Death thể hiện qua:
+- Dám đối diện sự thật khó chịu
+- Không thỏa hiệp với nửa vời
+- Chấp nhận mất mát để đổi lấy chiều sâu
+
+Trong đời sống, năng lượng này thường xuất hiện ở những giai đoạn mà con người buộc phải:
+- Từ bỏ một phiên bản cũ của mình
+- Cắt đứt một mối liên kết đã mục ruỗng
+- Hoặc bước qua một ngưỡng thay đổi không thể quay lại
+
+Nếu muốn nhìn rõ cách những chu kỳ chuyển hóa như vậy vận hành theo thời gian, có thể tham khảo thêm **[Tử vi cung Bọ Cạp năm 2026](/tu-vi/nam-2026/bo-cap/)** để hiểu rõ hơn về nhịp điệu “chết – tái sinh” của cung này.
+
+Death nhắc rằng:  
+**Thay đổi thật sự luôn bắt đầu từ bên trong.**
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Death
 
-### 🍂 Kết thúc tự nhiên
+### Kết thúc tất yếu
 
-Death xuôi phản ánh:
+Death xuôi cho thấy:
 - Một giai đoạn đã hoàn tất
-- Một vai trò không còn phù hợp
-- Một mối liên kết cần được khép lại
+- Không thể tiếp tục như cũ
+- Cần chấp nhận đóng lại cánh cửa cũ
 
-Đây không phải lúc níu kéo,  
-mà là lúc **gật đầu và bước qua**.
-
----
-
-### 🔄 Chuyển hóa sâu sắc
-
-Death không lấy đi vô ích.  
-Nó **chuyển đổi**.
-
-Khi buông đúng lúc:
-- Năng lượng được giải phóng
-- Không gian mới được mở ra
-- Sự sống tái cấu trúc ở tầng sâu hơn
+Đây không phải là lựa chọn, mà là:  
+**điều đã đến hạn.**
 
 ---
 
-### 🕊️ Buông để nhẹ
+### Chuyển hóa sâu sắc
 
-Buông trong Death không phải bỏ cuộc,  
-mà là:
-👉 *Không mang theo cái đã hết hạn.*
+Lá bài này xuất hiện khi:
+- Bạn đang ở ngưỡng lột xác
+- Những gì không còn phù hợp bắt đầu rơi rụng
+- Một bản ngã cũ đang chết đi
 
-Nhẹ đi  
-là dấu hiệu của đúng thời điểm.
+Death yêu cầu:  
+👉 **Buông hoàn toàn – không giữ lại một phần.**
+
+---
+
+### Dọn đường cho khởi đầu mới
+
+Death không kết thúc câu chuyện,  
+nó **dọn nền cho chương tiếp theo**.
+
+Chỉ khi dám để cái cũ chết đi,  
+con người mới có chỗ cho điều mới bước vào.
 
 ---
 
 ## Death trong các khía cạnh đời sống
 
-### 🔹 Trong tình cảm
+### Trong tình cảm
+Death cho thấy sự kết thúc cần thiết của một mối quan hệ, hoặc sự thay đổi sâu sắc trong cách yêu. Có thể là chia tay, cũng có thể là **chết đi một cách yêu cũ để sinh ra cách yêu mới**.
 
-- Kết thúc một mối quan hệ đã đi đến giới hạn
-- Buông vai trò cũ trong mối quan hệ
-- Chuyển từ bám víu sang trưởng thành
+### Trong công việc & đời sống
+Trong công việc, Death báo hiệu:
+- Chuyển nghề
+- Thay đổi vai trò
+- Hoặc kết thúc một hướng đi đã cạn năng lượng
 
-Death không phủ nhận yêu thương,  
-nó chỉ nói:
-👉 *Hình thức này đã xong.*
-
----
-
-### 🔹 Trong công việc & sự nghiệp
-
-- Kết thúc một hướng đi
-- Đóng lại một dự án
-- Rời bỏ môi trường không còn phù hợp
-
-Đây là lúc:
-👉 *Dọn chỗ cho hướng mới xuất hiện.*
+Không dễ chịu,  
+nhưng **cần thiết để tiến hóa**.
 
 ---
 
-### 🔹 Trong đời sống nội tâm
+## Death (Ngược) – Khi con người chống lại sự kết thúc
 
-- Buông niềm tin cũ
-- Thoát khỏi bản ngã đã lỗi thời
-- Chấp nhận mình không còn là người cũ nữa
+Khi **Death xuất hiện ở vị trí ngược**, lá bài cho thấy **sự kháng cự với thay đổi**.
 
-Death cho thấy:
-👉 *Bạn đã khác rồi.*
+### Ý nghĩa chính
 
----
+Death ngược thường biểu hiện:
+- Níu kéo quá khứ
+- Sợ mất kiểm soát
+- Trì hoãn điều không thể tránh
 
-## Death (Ngược) – Khi sự kết thúc bị trì hoãn
-
-Khi **Death xuất hiện ở vị trí ngược**, sự chuyển hóa bị kẹt lại.
-
-### ⚠️ Ý nghĩa chính
-
-Death ngược phản ánh:
-- Sợ thay đổi
-- Níu kéo điều đã hết
-- Hoặc cố hồi sinh cái không còn sống
-
-Điều này thường dẫn đến:
-👉 *Mệt mỏi kéo dài.*
+Đây không phải là tránh được kết thúc, mà là:  
+**kéo dài sự đau đớn.**
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Góc nhìn tâm lý
 
-Ở trạng thái ngược, lá bài cho thấy:
-- Đồng nhất bản thân với quá khứ
-- Sợ trống rỗng
-- Hoặc chưa sẵn sàng bước sang chương mới
+Ở trạng thái ngược, Death phản ánh:
+- Nỗi sợ trống rỗng sau khi buông
+- Đồng nhất bản thân với vai trò cũ
+- Chưa sẵn sàng bước qua ngưỡng mới
 
----
-
-### 🧭 Lời khuyên khi Death ngược xuất hiện
-
-- Nhìn thẳng điều đã kết thúc
-- Tự hỏi: *Mình đang giữ vì yêu, hay vì sợ?*
-- Cho phép bản thân buông
-
-Không có tái sinh nào  
-đến từ **níu kéo**.
+Lá bài nhắc:  
+**Điều chết đi không phải là bạn – mà là thứ bạn không còn cần.**
 
 ---
 
-## 🔗Để hiểu rõ mạch chuyển hóa quanh Death, bạn có thể đọc thêm:
+### Lời khuyên khi Death ngược xuất hiện
 
-- **[The High Priestess – Trí Tuệ Ẩn Sâu](/tarot/la-bai/the-high-priestess/)**  
-- **[The Tower – Tòa Tháp Sụp Đổ](/tarot/la-bai/the-tower/)**  
-- **[Temperance – Cân Bằng Và Chữa Lành](/tarot/la-bai/temperance/)**  
-- **[The Star – Ngôi Sao Hy Vọng](/tarot/la-bai/the-star/)**  
+- Thành thật với điều đã hết hạn
+- Đừng cố hồi sinh thứ đã hoàn thành vai trò
+- Tin rằng khoảng trống sẽ được lấp đầy đúng lúc
+
+---
+
+## 👉 Xem toàn bộ mạch chuyển hóa
+
+**[Major Arcana – Hành Trình Nhận Thức](/tarot/la-bai/major-arcana/)**  
+
+---
+
+## Đọc tiếp các hướng liên quan
+
+- **[Temperance – Cân bằng & chữa lành](/tarot/la-bai/temperance/)**
+- **[The Devil – Ràng buộc & ảo tưởng](/tarot/la-bai/the-devil/)**
+- **[The Tower – Sụp đổ & thức tỉnh](/tarot/la-bai/the-tower/)**
+- **[Hướng dẫn đọc Tarot theo chiều sâu tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Death
 
 **Xuôi:**
-- 🍂 Kết thúc tự nhiên
-- 🔄 Chuyển hóa
-- 🕊️ Buông đúng lúc
+- Kết thúc tất yếu  
+- Chuyển hóa sâu  
+- Buông bỏ triệt để  
+- Mở đường tái sinh  
 
 **Ngược:**
-- ⚠️ Trì hoãn kết thúc
-- 🧠 Níu kéo quá khứ
-- 🧭 Cần chấp nhận để bước tiếp
+- Sợ thay đổi  
+- Níu kéo quá khứ  
+- Trì hoãn đau đớn  
+- Kháng cự chuyển hóa  
 
-**Death nhắc ta rằng:**  
-*Kết thúc không phải là mất mát,  
-mà là dấu hiệu cho thấy  
-một chu kỳ đã sống trọn vẹn.*
+Death nhắc ta rằng:  
+**Không có tái sinh nào xảy ra  
+nếu ta không cho phép một phần cũ của mình chết đi.**
 
-👉 Xem toàn bộ mạch chuyển hóa: **[Major Arcana – Hành Trình Thức Tỉnh](/tarot/la-bai/major-arcana/)**
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Death
+
+**Death có phải là lá bài xấu không?**  
+Không. Đây là một trong những lá bài cần thiết nhất cho sự trưởng thành.
+
+**Death trong tình yêu có phải chia tay không?**  
+Có thể, nhưng cũng có thể là sự thay đổi sâu trong cách yêu.
+
+**Death ngược nguy hiểm không?**  
+Không nguy hiểm, nhưng kéo dài đau đớn nếu không dám buông.
+
+**Death thường đi kèm lá nào?**  
+Thường đi cùng Temperance, The Devil hoặc The Tower trong các trải bài chuyển hóa lớn.

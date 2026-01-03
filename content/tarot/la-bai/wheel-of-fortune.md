@@ -120,180 +120,206 @@ reading:
 
 ---
 
-## Tổng quan về lá Wheel of Fortune
+## Wheel of Fortune là gì?
 
-**Wheel of Fortune** xuất hiện sau **The Hermit** –  
-khi con người đã đủ tĩnh để nhận ra một sự thật đơn giản:
+**Wheel of Fortune** là lá bài đại diện cho **chu kỳ, bước ngoặt và sự vận hành của số phận**, nơi con người nhận ra rằng không phải mọi thứ đều nằm trong tầm kiểm soát – nhưng **cách ta đáp lại biến động thì có**.
 
-> *Không phải mọi thứ đều phụ thuộc vào nỗ lực cá nhân.*
+Nếu The Fool là khởi hành,  
+thì Wheel of Fortune là **khoảnh khắc bánh xe bắt đầu quay**.
 
-Sau khi đã:
-- Nhìn thẳng sự thật (Justice)
-- Làm chủ nội tâm (Strength)
-- Rút vào để chín muồi (The Hermit)
-
-Wheel of Fortune nhắc rằng:
-👉 **Cuộc sống vận hành theo chu kỳ**,  
-và ta chỉ có thể **thuận theo**, không thể điều khiển toàn bộ.
+> Không đứng yên mãi ở một vị trí,  
+> không đi mãi theo một hướng,  
+> Wheel of Fortune nhắc ta rằng **đời sống luôn chuyển động**.
 
 ---
 
-## Biểu tượng và ý nghĩa hình ảnh
+## Tổng quan về lá Wheel of Fortune
+
+**Wheel of Fortune** thuộc nhóm **Major Arcana** – đại diện cho **những thay đổi mang tính khách quan**, đến từ chu kỳ lớn hơn cá nhân.
+
+Lá bài này xuất hiện khi:
+- Một giai đoạn sắp đổi chiều
+- Cơ hội hoặc thử thách bất ngờ xuất hiện
+- Con người đứng trước ngã rẽ do hoàn cảnh tạo ra
+
+Nếu:
+- The Magician là chủ động tạo
+- The World là hoàn tất chu kỳ
+
+thì Wheel of Fortune là:  
+**“Sự xoay chuyển – nơi cá nhân gặp dòng chảy lớn.”**
+
+---
+
+## Biểu tượng và hình ảnh cốt lõi
 
 Hình ảnh quen thuộc của Wheel of Fortune thường bao gồm:
-- Một bánh xe lớn xoay tròn
-- Các sinh thể lên – xuống quanh bánh xe
-- Biểu tượng bốn sinh thể cố định ở bốn góc
-- Chữ và ký hiệu tượng trưng cho quy luật vũ trụ
+- **Bánh xe lớn đang xoay** – chu kỳ không ngừng
+- **Các sinh thể lên – xuống quanh bánh xe** – thăng trầm của số phận
+- **Bốn biểu tượng ở bốn góc** – trật tự vũ trụ và quy luật phổ quát
 
-Những biểu tượng này thể hiện:
-👉 **Sự thay đổi liên tục của vận mệnh**,  
-trong khi **quy luật nền tảng vẫn bất biến**.
+Điểm then chốt của lá bài này là:  
+**Không có vị trí nào là vĩnh viễn.**
 
-Bánh xe không đứng yên để chờ ai,  
-nhưng cũng **không nhắm vào riêng ai**.
+Wheel of Fortune không hứa hẹn thuận lợi hay khó khăn,  
+mà khẳng định **sự thay đổi là điều không tránh**.
+
+---
+
+## Năng lượng chiêm tinh và dòng chảy vận mệnh
+
+Wheel of Fortune thường được liên kết với **Mộc tinh (Jupiter)** – hành tinh đại diện cho **mở rộng, cơ hội, niềm tin và quy luật lớn của cuộc sống**.
+
+Ở mặt sáng, năng lượng này mang lại:
+- Cơ hội bất ngờ
+- May mắn đến đúng lúc
+- Sự mở rộng nhận thức
+
+Ở mặt thử thách, nó buộc con người:
+- Đối diện với thay đổi ngoài ý muốn
+- Học cách thích nghi
+- Tin vào dòng chảy lớn hơn cái tôi
+
+Trong chiêm tinh học, Mộc tinh gắn liền với **cung Nhân Mã (Sagittarius)** – nơi con người học cách **nhìn đời như một hành trình, không phải một điểm đến cố định**. Ở những giai đoạn bánh xe đời sống xoay mạnh, việc giữ niềm tin và tầm nhìn dài hạn trở nên đặc biệt quan trọng; nếu muốn quan sát cách những chu kỳ mở rộng như vậy vận hành theo thời gian, có thể tham khảo **[Tử vi cung Nhân Mã năm 2026](/tu-vi/nam-2026/nhan-ma/)** để có thêm góc nhìn tổng thể.
+
+Wheel of Fortune nhắc rằng:  
+**May mắn đến với người sẵn sàng di chuyển cùng dòng chảy.**
 
 ---
 
 ## Ý nghĩa xuôi (Upright) của Wheel of Fortune
 
-### 🔄 Chu kỳ thay đổi tự nhiên
+### Bước ngoặt và cơ hội
 
-Wheel of Fortune xuôi phản ánh:
-- Thời vận chuyển động
-- Hoàn cảnh thay đổi
-- Một giai đoạn mới đang mở ra
+Wheel of Fortune xuôi cho thấy:
+- Thời vận thay đổi
+- Cơ hội mới mở ra
+- Mọi thứ bắt đầu xoay theo hướng khác
 
-Đây là lúc:
-- Không bám quá khứ
-- Không sợ tương lai
-- Chấp nhận sự xoay chuyển như một phần của đời sống
+Đây là lá bài của:  
+**đúng thời – đúng lúc**.
 
 ---
 
-### 🌱 Thuận thời thay vì cưỡng cầu
+### Dòng chảy thuận lợi
 
-Lá bài này nhấn mạnh:
-👉 *Không phải cố gắng nhiều hơn là tốt hơn.*
+Lá bài này xuất hiện khi:
+- Sự việc tiến triển nhanh hơn dự kiến
+- Bạn được “đẩy” sang giai đoạn mới
+- Những nỗ lực trước đó bắt đầu có kết quả
 
-Có những lúc:
-- Dừng lại là đúng
-- Chờ đợi là khôn ngoan
-- Hành động sớm hoặc muộn đều lệch nhịp
-
-Thuận thời  
-là một dạng trí tuệ.
+Wheel of Fortune nhắc rằng:  
+👉 **Hãy nắm lấy cơ hội khi bánh xe đang lên.**
 
 ---
 
-### 🧭 Nhận diện vai trò của nhân duyên
+### Quy luật lớn hơn cá nhân
 
-Wheel of Fortune cho thấy:
-- Có những cuộc gặp gỡ không do ta chọn
-- Có những mất mát không phải lỗi của ta
-- Có những cơ hội chỉ đến đúng lúc
+Wheel of Fortune cũng nhắc:
+- Không nên quá tự mãn khi đang thuận
+- Không tuyệt vọng khi đang xuống
 
-Hiểu điều này, ta:
-👉 *Bớt trách mình, bớt oán đời.*
+Mọi thứ đều nằm trong **chu kỳ lên – xuống tự nhiên**.
 
 ---
 
 ## Wheel of Fortune trong các khía cạnh đời sống
 
-### 🔹 Trong tình cảm
+### Trong tình cảm
+Wheel of Fortune cho thấy sự thay đổi bất ngờ trong mối quan hệ: gặp gỡ định mệnh, bước ngoặt mới, hoặc hoàn cảnh buộc hai người phải điều chỉnh cách gắn kết.
 
-- Duyên đến – duyên đi
-- Mối quan hệ thay đổi vai trò
-- Cần linh hoạt và chấp nhận
-
-Wheel of Fortune không hứa hẹn lâu dài,  
-nhưng hứa hẹn **đúng thời điểm**.
-
----
-
-### 🔹 Trong công việc & sự nghiệp
-
-- Thời vận thay đổi
-- Cơ hội mới xuất hiện
-- Hoặc một chu kỳ cũ khép lại
-
-Đây là lúc:
-👉 *Quan sát – thích nghi – hành động đúng lúc.*
+### Trong công việc & đời sống
+Trong công việc, đây là lá bài của:
+- Thời cơ
+- Chuyển hướng
+- Vận hội mới xuất hiện nhanh chóng
 
 ---
 
-### 🔹 Trong đời sống nội tâm
+## Wheel of Fortune (Ngược) – Khi chống lại dòng chảy
 
-- Buông bớt gánh nặng kiểm soát
-- Chấp nhận vô thường
-- Tâm thế linh hoạt hơn
+Khi **Wheel of Fortune xuất hiện ở vị trí ngược**, lá bài cho thấy:
+- Kháng cự thay đổi
+- Cảm giác “kém may”
+- Lặp lại một vòng cũ chưa học xong bài học
 
-Wheel of Fortune dạy ta:
-👉 *Không chống lại dòng chảy.*
+### Ý nghĩa chính
 
----
+Wheel of Fortune ngược thường biểu hiện:
+- Trì trệ do cố kiểm soát
+- Không chịu thích nghi
+- Bài học bị lặp lại
 
-## Wheel of Fortune (Ngược) – Khi con người chống lại chu kỳ
-
-Khi **Wheel of Fortune xuất hiện ở vị trí ngược**, sự xoay chuyển bị cản trở.
-
-### ⚠️ Ý nghĩa chính
-
-Wheel of Fortune ngược phản ánh:
-- Cố chấp
-- Sợ thay đổi
-- Hoặc muốn kiểm soát quá mức
-
-Điều này thường dẫn đến:
-👉 *Mệt mỏi và bế tắc không cần thiết.*
+Đây không phải là xui rủi, mà là:  
+**chu kỳ chưa được hiểu trọn.**
 
 ---
 
-### 🧠 Góc nhìn tâm lý
+### Góc nhìn tâm lý
 
-Ở trạng thái ngược, lá bài cho thấy:
-- Chưa chấp nhận vô thường
-- Đổ lỗi cho hoàn cảnh
-- Hoặc quá ám ảnh với “đúng – sai – được – mất”
+Ở trạng thái ngược, Wheel of Fortune phản ánh:
+- Sợ mất vị trí quen thuộc
+- Bám chặt quá khứ
+- Thiếu niềm tin vào dòng chảy
 
----
-
-### 🧭 Lời khuyên khi Wheel of Fortune ngược xuất hiện
-
-- Dừng việc cưỡng ép dòng chảy
-- Lùi lại quan sát toàn cảnh
-- Chấp nhận rằng không phải lúc nào mình cũng điều khiển được
-
-Buông  
-không phải thua,  
-mà là **hiểu đúng vị trí của mình**.
+Lá bài nhắc:  
+**Càng chống lại, bánh xe quay càng nặng nề.**
 
 ---
 
-## 🔗Để hiểu rõ mạch vận hành sau The Hermit, bạn có thể đọc thêm:
+### Lời khuyên khi Wheel of Fortune ngược xuất hiện
 
-- **[The Hermit – Ẩn Sĩ Nội Tâm](/tarot/la-bai/the-hermit/)**  
-- **[Strength – Sức Mạnh Mềm](/tarot/la-bai/strength/)**  
-- **[Justice – Sự Công Bằng Tỉnh Thức](/tarot/la-bai/justice/)**  
-- **[The World – Sự Hoàn Tất Trọn Vẹn](/tarot/la-bai/the-world/)**  
+- Chấp nhận thay đổi
+- Quan sát chu kỳ đang diễn ra
+- Điều chỉnh thay vì chống cự
+
+---
+
+## 👉 Xem toàn bộ mạch nhận thức
+
+**[Major Arcana – Hành Trình Nhận Thức](/tarot/la-bai/major-arcana/)**  
+
+---
+
+## Đọc tiếp các hướng liên quan
+
+- **[The Fool – Khởi hành & tự do](/tarot/la-bai/the-fool/)**
+- **[Judgement – Tiếng gọi & thức tỉnh](/tarot/la-bai/judgement/)**
+- **[The World – Hoàn tất & hợp nhất](/tarot/la-bai/the-world/)**
+- **[Hướng dẫn đọc Tarot theo chiều sâu tâm lý](/tarot/)**
 
 ---
 
 ## Tóm tắt ý nghĩa Wheel of Fortune
 
 **Xuôi:**
-- 🔄 Chu kỳ vận hành
-- 🌱 Thuận thời
-- 🧭 Nhân duyên – thời vận
+- Bước ngoặt  
+- Cơ hội  
+- Dòng chảy thuận  
+- Thời vận đổi chiều  
 
 **Ngược:**
-- ⚠️ Cố chấp – chống lại thay đổi
-- 🧠 Ám ảnh kiểm soát
-- 🧭 Cần linh hoạt hơn
+- Trì trệ  
+- Lặp chu kỳ  
+- Kháng cự thay đổi  
+- Thiếu thích nghi  
 
-**Wheel of Fortune nhắc ta rằng:**  
-*Cuộc sống không yêu cầu ta điều khiển bánh xe.  
-Nó chỉ yêu cầu ta học cách  
-đứng vững khi bánh xe xoay.*
+Wheel of Fortune nhắc ta rằng:  
+**Không ai điều khiển được bánh xe số phận,  
+nhưng ai cũng có thể học cách bước cùng nhịp quay của nó.**
 
-👉 Xem toàn bộ mạch chuyển hóa: **[Major Arcana – Hành Trình Thức Tỉnh](/tarot/la-bai/major-arcana/)**
+---
+
+## Các câu hỏi thường gặp khi trải bài với lá Wheel of Fortune
+
+**Wheel of Fortune có phải là lá bài may mắn không?**  
+Có thể, nhưng là may mắn đi kèm thay đổi.
+
+**Wheel of Fortune xuất hiện báo hiệu điều gì?**  
+Báo hiệu bước ngoặt và chu kỳ mới đang mở ra.
+
+**Wheel of Fortune ngược có xấu không?**  
+Không. Nó cho thấy bạn cần học bài học của chu kỳ trước.
+
+**Wheel of Fortune thường dẫn tới lá nào?**  
+Thường nối sang **Strength** hoặc **The Hermit**, tùy cách con người đáp lại thay đổi.
