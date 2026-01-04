@@ -3,19 +3,12 @@
 <body class="tarot-before">
 <div class="tarot-page">
 
-  <!-- OVERLAY -->
+  <!-- ================= OVERLAY ================= -->
   <div id="tarot-overlay" class="tarot-overlay" hidden>
-
-    <!-- ⭐ STAR FIELD (BACKGROUND NĂNG LƯỢNG) -->
     <canvas id="stars-canvas"></canvas>
-
-    <!-- 🌑 RITUAL CORE -->
     <div class="tarot-overlay-box">
-
-      <!-- 🌍 CENTRAL PLANET -->
       <div class="tarot-orb"></div>
 
-      <!-- 🛰 ORBIT 1 -->
       <div class="orbit-tilt tilt-1">
         <div class="orbit-rotate rotate-1">
           <div class="satellite-orbit">
@@ -24,7 +17,6 @@
         </div>
       </div>
 
-      <!-- 🛰 ORBIT 2 -->
       <div class="orbit-tilt tilt-2">
         <div class="orbit-rotate rotate-2">
           <div class="satellite-orbit">
@@ -33,36 +25,69 @@
         </div>
       </div>
 
-      <!-- ✨ RITUAL TEXT -->
       <div class="tarot-overlay-text">
         Đang kết nối với trường năng lượng…
       </div>
-
     </div>
-    <!-- END .tarot-overlay-box -->
-
   </div>
-  <!-- END #tarot-overlay -->
+  <!-- ================= END OVERLAY ================= -->
+
 
   <section class="tarot-wrap">
-    <div class="tarot-panel" id="tarotPanel">
 
+    <!-- ================= PANEL ================= -->
+    <div class="tarot-panel">
+
+      <!-- ===== BLOCK 1: GIỚI THIỆU ===== -->
       <header class="tarot-header">
         <h1>{{ .Title }}</h1>
         {{ with .Content }}
-        <div class="tarot-intro">{{ . }}</div>
+        <div class="tarot-intro">
+          {{ . }}
+        </div>
         {{ end }}
       </header>
 
       <section class="tarot-guide">
         <p>
-          Hãy hít thở sâu, tập trung vào câu hỏi trong lòng bạn.
-          Khi sẵn sàng, hãy <strong>chọn 3 lá bài</strong> theo trực giác.
+          Hãy hít thở sâu, thả lỏng tâm trí và tập trung vào câu hỏi trong lòng bạn.
+          Việc chọn bài hoàn toàn dựa trên <strong>trực giác</strong>.
         </p>
       </section>
 
+      <!-- ===== BLOCK 2: STACK + SHUFFLE ===== -->
+      <section class="tarot-deck-area">
+
+        <div class="tarot-deck-row">
+
+          <!-- STACK -->
+          <div class="tarot-deck-stack">
+            <div class="tarot-deck">
+              <img src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp" alt="">
+              <img src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp" alt="">
+              <img src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp" alt="">
+              <img src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp" alt="">
+            </div>
+          </div>
+
+          <!-- SHUFFLE BUTTON -->
+          <div class="tarot-shuffle-box">
+            <button class="tarot-btn" type="button">
+              Xào bài
+            </button>
+          </div>
+
+        </div>
+        <!-- 🔮 SPREAD STAGE – LAYER ĐỘC LẬP -->
+        <div class="tarot-spread-area"></div>
+        <div class="tarot-spread-spacer"></div>
+
+      </section>
+
+      <!-- ===== BLOCK 3: 3 SLOT CHỌN ===== -->
       <section class="tarot-selected">
         <h2>Ba lá bạn đã chọn</h2>
+
         <div class="tarot-selected-cards">
           {{ range $i, $label := slice "QUÁ KHỨ" "HIỆN TẠI" "HƯỚNG ĐI" }}
           <div class="tarot-slot-wrap">
@@ -75,13 +100,18 @@
         </div>
       </section>
 
+      <!-- ===== ACTION ===== -->
       <div class="tarot-action">
-        <button id="reveal-reading" class="tarot-btn is-disabled" disabled>
+        <button id="reveal-reading"
+                class="tarot-btn is-disabled"
+                disabled>
           Xem luận giải
         </button>
       </div>
 
+      <!-- ===== READING (HIỆN SAU OVERLAY) ===== -->
       <article id="tarot-reading" class="tarot-reading" hidden>
+
         <h2>Luận giải trải bài Tarot 3 lá</h2>
 
         <section class="tarot-reading-block">
@@ -100,22 +130,25 @@
         </section>
 
         <div class="tarot-action" style="margin-top:3.5rem">
-          <button id="reset-tarot" class="tarot-btn">
+          <button id="reset-tarot" class="tarot-btn" type="button">
             Trải bài khác
           </button>
         </div>
+
       </article>
 
     </div>
+    <!-- ================= END PANEL ================= -->
+
   </section>
 
+  <!-- DATA TAROT -->
   {{ partial "tarot/data.html" . }}
-</div>
-</body>
 
+</div>
+
+<!-- ================= JS ================= -->
 {{ $js := resources.Get "js/tarot/draw-one.js" | resources.Minify }}
 <script defer src="{{ $js.RelPermalink }}"></script>
-{{ $overlay := resources.Get "js/tarot/tarot-overlay.js" | resources.Minify }}
-<script defer src="{{ $overlay.RelPermalink }}"></script>
 
 {{ end }}

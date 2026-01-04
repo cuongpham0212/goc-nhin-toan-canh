@@ -1,115 +1,204 @@
 /* =========================================================
-   TAROT – TRẢI BÀI 3 LÁ (FINAL STABLE)
-   OVERLAY – ANIMATION – FLIP (LOCKED)
+   TAROT CORE LAYOUT (FINAL – NO OVERSPACE)
    ========================================================= */
 
-/* =========================
-   BODY STATE
-   ========================= */
+/* ===== BODY STATE ===== */
 body.tarot-before .tarot-wrap {
   background: rgba(0, 0, 0, 0.18);
 }
-
 body.tarot-after .tarot-wrap {
   background: rgba(0, 0, 0, 0.52);
 }
 
-/* =========================
-   PAGE ROOT
-   ========================= */
+/* ===== PAGE ROOT ===== */
 .tarot-page {
   min-height: 100svh;
   background: url("https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/hinh-nen-vu-tru-34.jpg.webp")
     center / cover no-repeat;
 }
 
-/* =========================
-   WRAPPER
-   ========================= */
+/* ===== WRAPPER ===== */
 .tarot-wrap {
-  min-height: 100%;
-  padding: 4.5rem 1.5rem;
+  padding: 4rem 1.5rem;
   display: flex;
   justify-content: center;
-  align-items: flex-start;
-  isolation: isolate;
-  transition: background 0.8s ease;
 }
 
-/* =========================
-   PANEL
-   ========================= */
+/* ===== PANEL ===== */
 .tarot-panel {
   width: 100%;
-  max-width: 860px;
-  padding: 3.25rem 3rem 3.75rem;
-  background: rgba(15, 23, 42, 0.18);
-  backdrop-filter: blur(14px);
+  max-width: 1200px;
+  padding: 3rem;
+  background: rgba(15, 23, 42, 0.08);
+  backdrop-filter: blur(10px);
   border-radius: 30px;
+  position: relative;
 }
 
-.tarot-panel.is-active {
-  background: rgba(15, 23, 42, 0.6);
-  box-shadow: 0 60px 160px rgba(0,0,0,0.75);
-}
-
-/* =========================
-   TEXT – BOOST VISIBILITY
-   ========================= */
+/* ===== TEXT ===== */
 .tarot-header h1 {
   color: #f9fafb;
-  text-shadow:
-    0 4px 26px rgba(0,0,0,0.9),
-    0 0 52px rgba(99,102,241,0.45);
-}
-
-/* các dòng anh tô / tiêu đề khu vực */
-.tarot-selected h2,
-.tarot-slot-label,
-.tarot-reading h2,
-.tarot-reading-block h3 {
-  color: #f8fafc;
-  background: rgba(99,102,241,0.15);
-  padding: 0.25em 0.6em;
-  border-radius: 6px;
-  display: inline-block;
-
-  box-shadow:
-    0 0 18px rgba(99,102,241,0.45),
-    inset 0 0 0 1px rgba(255,255,255,0.15);
 }
 
 .tarot-intro,
-.tarot-guide,
-.tarot-reading-text {
+.tarot-guide {
   color: #e5e7eb;
-  text-shadow: 0 2px 16px rgba(0,0,0,0.8);
 }
 
-/* =========================
-   REMOVE BULLETS / NUMBERS
-   ========================= */
 .tarot-intro ul,
-.tarot-intro ol,
-.tarot-guide ul,
-.tarot-guide ol,
-.tarot-reading ul,
-.tarot-reading ol {
-  list-style: none !important;
-  padding-left: 0 !important;
-  margin-left: 0 !important;
+.tarot-intro ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
-.tarot-intro li,
-.tarot-guide li,
-.tarot-reading li {
-  margin: 0.6rem 0;
-  line-height: 1.75;
+/* ===== DECK ROW ===== */
+.tarot-deck-row {
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+  margin: 3rem 0 2rem;
 }
 
-/* =========================
-   SELECTED CARDS
-   ========================= */
+/* ===== TAROT DECK – REAL THICK STACK ===== */
+.tarot-deck {
+  position: relative;
+  width: 150px;
+  height: 250px;
+  perspective: 1200px;
+  animation: tarot-float 4.5s ease-in-out infinite;
+}
+
+.tarot-deck img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 16px;
+  object-fit: cover;
+
+  /* 🔥 CHỈ DÙNG BIẾN – KHÔNG VIẾT transform CỨNG */
+  transform:
+    translate(var(--sx, 0px), var(--sy, 0px))
+    rotate(var(--sr, 0deg))
+    translateZ(var(--sz, 0px));
+
+  transition: transform 0.6s ease;
+  will-change: transform;
+}
+
+@keyframes tarot-float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-8px); }
+}
+
+/* ===== TAROT DECK FLOAT + SHADOW ===== */
+.tarot-deck-stack {
+  position: relative;
+}
+
+.tarot-deck-stack::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: -26px;
+  width: 140px;
+  height: 36px;
+  background: radial-gradient(
+    ellipse at center,
+    rgba(0,0,0,0.45),
+    rgba(0,0,0,0) 70%
+  );
+  transform: translateX(-50%);
+  filter: blur(6px);
+  animation: deck-shadow 4.5s ease-in-out infinite;
+}
+
+@keyframes deck-shadow {
+  0%, 100% {
+    transform: translateX(-50%) scale(1);
+    opacity: 0.45;
+  }
+  50% {
+    transform: translateX(-50%) scale(0.85);
+    opacity: 0.25;
+  }
+}
+
+/* =========================================================
+   SPREAD AREA – FIXED HEIGHT (KEY FIX)
+   ========================================================= */
+.tarot-spread-area {
+  position: relative;
+  width: 100%;
+  max-width: 1200px;
+  margin-top: 2rem;
+
+  /* 🔥 CHỈ CHỪA ĐẤT VỪA ĐỦ */
+  height: 260px;
+
+  overflow: visible;
+  z-index: 20;
+  pointer-events: auto;
+}
+
+body.tarot-after .tarot-spread-area {
+  pointer-events: none;
+}
+
+/* ===== SPREAD CARD ===== */
+.tarot-spread-card {
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+
+  opacity: 0;                /* 🔥 trạng thái trước khi bắn */
+  pointer-events: none;      /* 🔥 chỉ bật sau khi bắn */
+
+  width: 96px;
+  height: 144px;
+  border-radius: 14px;
+  object-fit: cover;
+  cursor: pointer;
+
+  --x: 0px;
+  --y: 0px;
+  --r: 0deg;
+  --flip: 0deg;
+
+  transform:
+    translateX(var(--x))
+    translateY(var(--y))
+    rotate(var(--r))
+    rotate(var(--flip));
+
+  will-change: transform;
+}
+
+.tarot-spread-card.is-dealt {
+  opacity: 1;
+  pointer-events: auto;
+  transition:
+    transform 0.45s ease,
+    opacity 0.3s ease;
+}
+
+/* ===== VISIBILITY ===== */
+body:not(.tarot-shuffled) .tarot-spread-area {
+  opacity: 0;
+  pointer-events: none;
+}
+
+body.tarot-shuffled .tarot-spread-area {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* ===== SELECTED ===== */
+.tarot-selected {
+  margin-top: 2.2rem;
+}
+
 .tarot-selected-cards {
   display: flex;
   justify-content: center;
@@ -120,71 +209,35 @@ body.tarot-after .tarot-wrap {
   width: 170px;
   height: 255px;
   border-radius: 16px;
-  background: rgba(255,255,255,0.06);
   border: 1px dashed rgba(255,255,255,0.3);
-  perspective: 1400px;
-  overflow: hidden;
-  cursor: pointer;
+  position: relative;          /* 🔥 BẮT BUỘC */
+  overflow: hidden;            /* 🔥 */
+  background: none;            /* 🔥 bỏ nền */
 }
 
-/* =========================
-   TAROT FLIP – GPU LOCKED
-   ========================= */
-.tarot-card {
-  width: 100%;
-  height: 100%;
+.tarot-slot::before,
+.tarot-slot::after {
+  content: none !important;
+  display: none !important;
+}
+
+.tarot-slot img {
   position: relative;
-
-  transform-style: preserve-3d;
-  transition: transform 0.9s cubic-bezier(.55,.15,.25,1);
-
-  /* 🔒 KHÓA GPU LAYER */
-  will-change: transform;
-  transform: translateZ(0);
+  z-index: 2;
 }
 
-.tarot-card.is-flipped {
-  transform: rotateY(180deg) translateZ(0);
+.tarot-slot img.tarot-selected-card {
+  position: relative;
+  z-index: 10;
+  background: none;
 }
 
-.tarot-face {
-  position: absolute;
-  inset: 0;
-
-  backface-visibility: hidden;
-  -webkit-backface-visibility: hidden;
-
-  /* 🔒 mỗi mặt là 1 layer */
-  transform: translateZ(0);
-}
-
-.tarot-face.back {
-  transform: rotateY(0deg) translateZ(0);
-}
-
-.tarot-face.front {
-  transform: rotateY(180deg) translateZ(0);
-}
-
-.tarot-face img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-}
-
-/* lá ngược */
-.tarot-card.is-reversed .tarot-face.front img {
-  transform: rotate(180deg);
-}
-
-/* =========================
-   ACTION
-   ========================= */
+/* ===== BUTTON ===== */
 .tarot-action {
-  margin: 3rem 0;
-  display: flex;
-  justify-content: center;
+  margin: 2.2rem 0 1.2rem;
+  text-align: center;
+  position: relative;
+  z-index: 100; /* 🔥 CAO HƠN SPREAD */
 }
 
 .tarot-btn {
@@ -192,65 +245,42 @@ body.tarot-after .tarot-wrap {
   border-radius: 999px;
   background: linear-gradient(135deg, #6366f1, #8b5cf6);
   color: #fff;
-  font-size: 0.95rem;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
   border: none;
   cursor: pointer;
-
-  box-shadow:
-    0 14px 36px rgba(99,102,241,0.55),
-    inset 0 0 0 1px rgba(255,255,255,0.25);
 }
 
-/* =========================
-   MOBILE
-   ========================= */
+/* ===== STATE ===== */
+body.tarot-shuffled .tarot-deck-stack,
+body.tarot-shuffled .tarot-shuffle-box {
+  display: none;
+}
+
+/* ===== READING ===== */
+.tarot-reading {
+  display: none;
+}
+
+body.tarot-after .tarot-reading {
+  display: block;
+}
+
+/* ===== MOBILE ===== */
 @media (max-width: 640px) {
-  .tarot-panel {
-    padding: 2.4rem 1.6rem 3rem;
+  .tarot-deck-row {
+    flex-direction: column;
   }
 
-  .tarot-selected-cards {
-    gap: 1rem;
+  .tarot-spread-area {
+    height: 300px;
+  }
+
+  .tarot-spread-card {
+    width: 72px;
+    height: 108px;
   }
 
   .tarot-slot {
     width: 112px;
     height: 168px;
   }
-}
-#reveal-reading {
-  opacity: 0.4;
-  pointer-events: none;
-}
-#reveal-reading.is-disabled {
-  opacity: 0.4;
-  pointer-events: none;
-  filter: grayscale(1);
-}
-#reveal-reading:not(.is-disabled) {
-  opacity: 1;
-  pointer-events: auto;
-}
-
-.tarot-slot.is-locked {
-  cursor: default;
-}
-
-/* ===== FIX CONTRAST LUẬN GIẢI ===== */
-.tarot-reading,
-.tarot-reading * {
-  opacity: 1 !important;
-}
-
-.tarot-reading-text,
-.tarot-reading p {
-  color: #f5f5f5;
-  text-shadow: 0 1px 2px rgba(0,0,0,0.6);
-}
-
-/* Nếu nền sáng hơn */
-.tarot-panel.is-active .tarot-reading-text {
-  color: #ffffff;
 }
