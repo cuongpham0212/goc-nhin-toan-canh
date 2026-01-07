@@ -24,13 +24,16 @@
   backdrop-filter: blur(8px) brightness(80%);
   -webkit-backdrop-filter: blur(8px) brightness(80%);
 
-  display: block;
+  /* 🔑 TRẠNG THÁI MẶC ĐỊNH: ẨN */
+  opacity: 0;
+  pointer-events: none;
+
+  display: flex;
   align-items: center;
   justify-content: center;
   overflow: hidden;
-
-  animation: tarot-overlay-fade-in 0.6s ease-out forwards;
 }
+
 
 .tarot-overlay[hidden] {
   display: none !important;
@@ -345,4 +348,10 @@
   .tarot-overlay-box { transform: scale(0.75); }
   .tarot-orb { width: 72px; height: 72px; }
   .tarot-orbit { width: 140px; height: 140px; }
+}
+
+.tarot-overlay.is-active {
+  opacity: 1;
+  pointer-events: auto;
+  animation: tarot-overlay-fade-in 0.6s ease-out forwards;
 }

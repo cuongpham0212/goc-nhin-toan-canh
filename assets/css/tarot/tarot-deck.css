@@ -1,0 +1,156 @@
+/* =========================================================
+   TAROT DECK – SHUFFLE & STACK
+   ========================================================= */
+
+.tarot-deck-stack {
+  position: relative;
+}
+
+.tarot-deck {
+  position: relative;
+  width: 150px;
+  height: 250px;
+  perspective: 1200px;
+  animation: tarot-float 4.5s ease-in-out infinite;
+}
+
+/* chỉ áp dụng cho 4 lá "stack" ban đầu trong deck */
+.tarot-deck img:not(.tarot-shuffle-card):not(.tarot-spread-card) {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 16px;
+  object-fit: cover;
+
+  transform:
+    translate(var(--sx, 0px), var(--sy, 0px))
+    rotate(var(--sr, 0deg))
+    translateZ(var(--sz, 0px));
+
+  transition: transform 0.6s ease;
+  will-change: transform;
+}
+
+/* vùng chứa toàn bộ hiệu ứng xào + trải (STAGE) */
+.tarot-deck-area {
+  position: relative;   /* neo tuyệt đối */
+  overflow: hidden;     /* không cho bay ra ngoài + không che nội dung ngoài stage */
+  min-height: 360px;    /* đủ không gian cho bung bài */
+}
+
+/* rút lá khỏi deck (nếu dùng) */
+.tarot-deck img.deck-used {
+  opacity: 0;
+  transform: translateY(-10px) scale(0.92);
+  transition: opacity 0.35s ease, transform 0.35s ease;
+  pointer-events: none;
+}
+
+/* shadow */
+.tarot-deck-stack::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: -26px;
+  width: 140px;
+  height: 36px;
+  background: radial-gradient(
+    ellipse at center,
+    rgba(0,0,0,0.45),
+    rgba(0,0,0,0) 70%
+  );
+  transform: translateX(-50%);
+  filter: blur(6px);
+  animation: deck-shadow 4.5s ease-in-out infinite;
+}
+
+@keyframes tarot-float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-8px); }
+}
+
+@keyframes deck-shadow {
+  0%, 100% {
+    transform: translateX(-50%) scale(1);
+    opacity: 0.45;
+  }
+  50% {
+    transform: translateX(-50%) scale(0.85);
+    opacity: 0.25;
+  }
+}
+
+/* khi đã trải bài: dừng float của deck gốc */
+body.tarot-shuffled .tarot-deck {
+  animation-play-state: paused;
+}
+
+/* ẩn stack gốc khi đã trải (anh đang dùng) */
+body.tarot-shuffled .tarot-deck-stack {
+  opacity: 0;
+  transform: scale(0.98) translateY(-6px);
+  pointer-events: none;
+}
+
+/* ==================================================
+   TAROT SHUFFLE & SPREAD STAGE
+   (IMPORTANT: KHÔNG SET transform theo var ở đây,
+   để tránh đánh nhau với JS ghost/position)
+   ================================================== */
+
+body.tarot-spread-final .tarot-deck-area {
+  min-height: auto;
+}
+
+/* lá bài dùng chung (shuffle/spread) */
+.tarot-shuffle-card,
+.tarot-spread-card {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 96px;
+  height: 144px;
+  border-radius: 14px;
+
+  /* chỉ giữ transition – transform sẽ do JS set */
+  transition: transform 0.9s cubic-bezier(.22,.61,.36,1);
+  will-change: transform;
+}
+
+/* khi đã vào trạng thái trải */
+.tarot-spread-card {
+  opacity: 1;
+  pointer-events: none;
+}
+
+.tarot-spread-card.is-dealt {
+  pointer-events: auto;
+}
+
+/* =========================================================
+   HARD KILL DECK – KHÔNG BACK FRAME / KHÔNG REPAINT
+   ========================================================= */
+
+body.tarot-spread-final .tarot-deck,
+body.tarot-spread-final .tarot-deck * {
+  animation: none !important;
+  transition: none !important;
+  transform: none !important;
+}
+
+body.tarot-spread-final .tarot-deck-stack {
+  display: none !important;
+}
+
+body.tarot-spread-final .tarot-deck {
+  display: none !important;
+}
+
+/* ======================================================
+   FREEZE SPREAD – KHÔNG CHO CSS GHI ĐÈ
+   ====================================================== */
+body.tarot-spread-final .tarot-spread-card {
+  transform: translate(-50%, -50%) !important;
+  transition: none !important;
+}

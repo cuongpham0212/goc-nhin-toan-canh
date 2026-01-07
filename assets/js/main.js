@@ -1,3 +1,4 @@
+// assets/js/main.js
 document.addEventListener("DOMContentLoaded", function () {
   const header = document.querySelector(".site-header");
   const toggle = document.querySelector(".menu-toggle");

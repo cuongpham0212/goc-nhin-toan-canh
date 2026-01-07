@@ -1,36 +1,105 @@
-let canvas, ctx
-let stars = []
-let animationId = null
-let running = false
-let startTime = 0
+/**
+ * ======================================================
+ * FILE: tarot-overlay.js
+ * VAI TRÒ (CHỐT):
+ * - Hiển thị overlay NGHI THỨC / LUẬN GIẢI
+ * - Chạy hiệu ứng sao nền (canvas)
+ * - Hiện khi user bấm "Xem luận giải"
+ * - Tắt khi user xác nhận (TIẾT LỘ Ý NGHĨA)
+ *
+ * LƯU Ý:
+ * - File này KHÔNG biết xáo bài
+ * - File này KHÔNG biết chọn bài
+ * - File này chỉ lo NGHI THỨC
+ * ======================================================
+ */
 
-const MIN_OVERLAY_DURATION = 3000
-let overlayEl = null
+/* ================== CANVAS STATE ================== */
+let canvas, ctx;
+let stars = [];
+let animationId = null;
+let running = false;
+let startTime = 0;
 
-function initStarsCanvas() {
-  if (running) return
+const MIN_OVERLAY_DURATION = 2500;
 
-  overlayEl = document.querySelector(".tarot-overlay")
-  canvas = document.getElementById("stars-canvas")
-  if (!canvas || !overlayEl) return
+/* ================== DOM ================== */
+let overlayEl = null;
+let closeBtn = null;
 
-  ctx = canvas.getContext("2d")
+/* ================== INIT ================== */
+function initTarotOverlay() {
+  overlayEl = document.getElementById('tarot-overlay');
+  canvas = document.getElementById('stars-canvas');
+  closeBtn = document.getElementById('close-overlay');
 
-  resizeCanvas()
-
-  // 🔒 đảm bảo canvas KHÔNG BAO GIỜ = 0
-  if (!canvas.width || !canvas.height) {
-    canvas.width = window.innerWidth
-    canvas.height = window.innerHeight
+  if (!overlayEl || !canvas) {
+    console.warn('[tarot-overlay] thiếu overlay hoặc canvas');
+    return;
   }
 
-  const STAR_COUNT = window.innerWidth < 768 ? 170 : 340
+  ctx = canvas.getContext('2d');
+  resizeCanvas();
+
+  window.addEventListener('resize', resizeCanvas);
+
+  // lắng nghe khi user muốn xem luận giải
+  window.addEventListener('tarot:reveal:start', showOverlay);
+
+  // nút đóng overlay nghi thức
+  if (closeBtn) {
+    closeBtn.addEventListener('click', hideOverlay);
+  }
+
+  console.log('[tarot-overlay] ready');
+}
+
+/* ================== OVERLAY CONTROL ================== */
+function showOverlay() {
+  if (running) return;
+
+  overlayEl.classList.remove('hidden');
+  overlayEl.setAttribute('aria-hidden', 'false');
+
+  startTime = Date.now();
+  running = true;
+
+  initStars();
+  animateStars();
+}
+
+function hideOverlay() {
+  const elapsed = Date.now() - startTime;
+  const remaining = Math.max(0, MIN_OVERLAY_DURATION - elapsed);
+
+  setTimeout(() => {
+    running = false;
+
+    if (animationId) {
+      cancelAnimationFrame(animationId);
+      animationId = null;
+    }
+
+    if (ctx && canvas) {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+    }
+
+    overlayEl.classList.add('hidden');
+    overlayEl.setAttribute('aria-hidden', 'true');
+
+    // báo cho hệ thống: bắt đầu render luận giải
+    window.dispatchEvent(new CustomEvent('tarot:reveal:done'));
+  }, remaining);
+}
+
+/* ================== STARS INIT ================== */
+function initStars() {
+  const STAR_COUNT = window.innerWidth < 768 ? 180 : 360;
 
   stars = Array.from({ length: STAR_COUNT }, () => {
-    const layer = Math.random()
+    const layer = Math.random();
 
-    if (layer < 0.75) {
-      // 🌑 sao nền xa
+    if (layer < 0.7) {
       return {
         x: Math.random() * canvas.width,
         y: Math.random() * canvas.height,
@@ -38,11 +107,10 @@ function initStarsCanvas() {
         o: Math.random() * 0.35 + 0.15,
         d: Math.random() * 0.002 + 0.001,
         glow: 0
-      }
+      };
     }
 
     if (layer < 0.9) {
-      // 🌌 sao trung
       return {
         x: Math.random() * canvas.width,
         y: Math.random() * canvas.height,
@@ -50,10 +118,9 @@ function initStarsCanvas() {
         o: Math.random() * 0.6 + 0.3,
         d: Math.random() * 0.006 + 0.003,
         glow: 6
-      }
+      };
     }
 
-      // ✨ sao linh
     return {
       x: Math.random() * canvas.width,
       y: Math.random() * canvas.height,
@@ -61,79 +128,49 @@ function initStarsCanvas() {
       o: Math.random() * 0.8 + 0.6,
       d: Math.random() * 0.004 + 0.002,
       glow: 14
-    }
-  })
-
-
-  // mở overlay (phù hợp với draw-one.js hiện tại)
-  overlayEl.hidden = false
-
-  running = true
-  startTime = Date.now()
-
-  animateStars()
+    };
+  });
 }
 
-function resizeCanvas() {
-  if (!canvas) return
-  canvas.width = window.innerWidth
-  canvas.height = window.innerHeight
-}
-
+/* ================== ANIMATION ================== */
 function animateStars() {
-  if (!running) return
+  if (!running) return;
 
-  ctx.clearRect(0, 0, canvas.width, canvas.height)
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
 
   stars.forEach(s => {
-    s.o += s.d
-    if (s.o >= 1 || s.o <= 0) s.d *= -1
+    s.o += s.d;
+    if (s.o >= 1 || s.o <= 0) s.d *= -1;
 
-    ctx.beginPath()
-    ctx.arc(s.x, s.y, s.r, 0, Math.PI * 2)
+    ctx.beginPath();
+    ctx.arc(s.x, s.y, s.r, 0, Math.PI * 2);
 
-    // ✨ SAO PHÁT SÁNG – CHẮC CHẮN THẤY
-    ctx.fillStyle = `rgba(255,255,255,${s.o})`
+    ctx.fillStyle = `rgba(255,255,255,${s.o})`;
 
     if (s.glow > 0) {
-      ctx.shadowBlur = s.glow
-      ctx.shadowColor = "rgba(160,180,255,0.9)"
+      ctx.shadowBlur = s.glow;
+      ctx.shadowColor = 'rgba(160,180,255,0.9)';
     } else {
-      ctx.shadowBlur = 0
+      ctx.shadowBlur = 0;
     }
 
-    ctx.fill()
+    ctx.fill();
+  });
 
-    })
-
-  // reset shadow để tránh ảnh hưởng frame sau
-  ctx.shadowBlur = 0
-
-  animationId = requestAnimationFrame(animateStars)
+  ctx.shadowBlur = 0;
+  animationId = requestAnimationFrame(animateStars);
 }
 
-function stopStarsCanvas() {
-  const elapsed = Date.now() - startTime
-  const remaining = Math.max(0, MIN_OVERLAY_DURATION - elapsed)
-
-  setTimeout(() => {
-    running = false
-
-    if (animationId) {
-      cancelAnimationFrame(animationId)
-      animationId = null
-    }
-
-    if (ctx && canvas) {
-      ctx.clearRect(0, 0, canvas.width, canvas.height)
-    }
-
-    if (overlayEl) overlayEl.hidden = true
-  }, remaining)
+/* ================== RESIZE ================== */
+function resizeCanvas() {
+  if (!canvas) return;
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
 }
 
-window.addEventListener("resize", resizeCanvas)
-
-/* ===== API dùng cho overlay ===== */
-window.startStars = initStarsCanvas
-window.stopStars = stopStarsCanvas
+/* ================== AUTO INIT ================== */
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initTarotOverlay);
+} else {
+  initTarotOverlay();
+}

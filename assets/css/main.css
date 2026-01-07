@@ -18,12 +18,16 @@
 @import "modules/gallery.css";
 @import "modules/gate.css";
 @import "modules/section.css";
-@import "modules/tarot.css";
-@import "modules/tarot-effects.css";
-@import "modules/tarot.article.css";
-@import "modules/tarot.list.css";
-@import "modules/tarot-overlay.css";
 
+/* ===== TAROT APP ===== */
+@import "tarot/tarot-layout.css";
+@import "tarot/tarot-deck.css";
+@import "tarot/tarot-spread.css";
+@import "tarot/tarot-effects.css";
+@import "tarot/tarot-overlay.css";
+@import "tarot/tarot-shuffle-overlay.css";
+@import "tarot//tarot.article.css";
+@import "tarot//tarot.list.css";
 
 /* ⬇️ LUÔN LUÔN CUỐI */
 @import "modules/article.css";

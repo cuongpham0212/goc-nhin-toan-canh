@@ -1,44 +1,15 @@
 {{ define "main" }}
-
 <body class="tarot-before">
 <div class="tarot-page">
 
-  <!-- ================= OVERLAY ================= -->
-  <div id="tarot-overlay" class="tarot-overlay" hidden>
-    <canvas id="stars-canvas"></canvas>
-    <div class="tarot-overlay-box">
-      <div class="tarot-orb"></div>
+  <!-- ================= OVERLAY: NGHI THỨC / LUẬN GIẢI ================= -->
+  {{ partial "tarot/tarot-overlay.html" . }}
 
-      <div class="orbit-tilt tilt-1">
-        <div class="orbit-rotate rotate-1">
-          <div class="satellite-orbit">
-            <div class="satellite-sprite"></div>
-          </div>
-        </div>
-      </div>
-
-      <div class="orbit-tilt tilt-2">
-        <div class="orbit-rotate rotate-2">
-          <div class="satellite-orbit">
-            <div class="satellite-sprite"></div>
-          </div>
-        </div>
-      </div>
-
-      <div class="tarot-overlay-text">
-        Đang kết nối với trường năng lượng…
-      </div>
-    </div>
-  </div>
-  <!-- ================= END OVERLAY ================= -->
-
-
+  <!-- ================= MAIN CONTENT ================= -->
   <section class="tarot-wrap">
-
-    <!-- ================= PANEL ================= -->
     <div class="tarot-panel">
 
-      <!-- ===== BLOCK 1: GIỚI THIỆU ===== -->
+      <!-- ===== GIỚI THIỆU ===== -->
       <header class="tarot-header">
         <h1>{{ .Title }}</h1>
         {{ with .Content }}
@@ -55,13 +26,16 @@
         </p>
       </section>
 
-      <!-- ===== BLOCK 2: STACK + SHUFFLE ===== -->
+      <!-- ===== KHU TAROT (NEO OVERLAY + DECK) ===== -->
       <section class="tarot-deck-area">
+
+        <!-- 🔥 OVERLAY XÁO BÀI – NEO ĐÚNG CHA -->
+        {{ partial "tarot/tarot-shuffle-overlay.html" . }}
 
         <div class="tarot-deck-row">
 
-          <!-- STACK -->
-          <div class="tarot-deck-stack">
+          <!-- BỘ BÀI ÚP -->
+          <div class="tarot-deck-stack" id="deck-closed">
             <div class="tarot-deck">
               <img src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp" alt="">
               <img src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp" alt="">
@@ -70,21 +44,21 @@
             </div>
           </div>
 
-          <!-- SHUFFLE BUTTON -->
+          <!-- NÚT XÁO -->
           <div class="tarot-shuffle-box">
-            <button class="tarot-btn" type="button">
+            <button id="tarot-shuffle-btn" class="tarot-btn" type="button">
               Xào bài
             </button>
           </div>
 
         </div>
-        <!-- 🔮 SPREAD STAGE – LAYER ĐỘC LẬP -->
-        <div class="tarot-spread-area"></div>
-        <div class="tarot-spread-spacer"></div>
 
+        <!-- ===== BỘ BÀI TRẢI ===== -->
+        <div class="tarot-spread-area" id="deck-spread" aria-hidden="true"></div>
+        <div class="tarot-spread-spacer"></div>
       </section>
 
-      <!-- ===== BLOCK 3: 3 SLOT CHỌN ===== -->
+      <!-- ===== 3 Ô CARD RỖNG ===== -->
       <section class="tarot-selected">
         <h2>Ba lá bạn đã chọn</h2>
 
@@ -94,7 +68,7 @@
             <div class="tarot-slot-label">
               LÁ {{ add $i 1 }} · {{ $label }}
             </div>
-            <div class="tarot-slot"></div>
+            <div class="tarot-slot" data-slot="{{ add $i 1 }}"></div>
           </div>
           {{ end }}
         </div>
@@ -109,46 +83,22 @@
         </button>
       </div>
 
-      <!-- ===== READING (HIỆN SAU OVERLAY) ===== -->
+      <!-- ===== LUẬN GIẢI ===== -->
       <article id="tarot-reading" class="tarot-reading" hidden>
-
-        <h2>Luận giải trải bài Tarot 3 lá</h2>
-
-        <section class="tarot-reading-block">
-          <h3>Lá 1 – Quá khứ</h3>
-          <p id="reading-1"></p>
-        </section>
-
-        <section class="tarot-reading-block">
-          <h3>Lá 2 – Hiện tại</h3>
-          <p id="reading-2"></p>
-        </section>
-
-        <section class="tarot-reading-block">
-          <h3>Lá 3 – Hướng đi</h3>
-          <p id="reading-3"></p>
-        </section>
-
-        <div class="tarot-action" style="margin-top:3.5rem">
-          <button id="reset-tarot" class="tarot-btn" type="button">
-            Trải bài khác
-          </button>
-        </div>
-
+        ...
       </article>
 
     </div>
-    <!-- ================= END PANEL ================= -->
-
   </section>
-
-  <!-- DATA TAROT -->
-  {{ partial "tarot/data.html" . }}
-
 </div>
 
+<!-- ================= DATA TAROT ================= -->
+{{ partial "tarot/data.html" . }}
+
 <!-- ================= JS ================= -->
-{{ $js := resources.Get "js/tarot/draw-one.js" | resources.Minify }}
-<script defer src="{{ $js.RelPermalink }}"></script>
+<script type="module" src="{{ (resources.Get "js/tarot/card-animations.js" | js.Build).Permalink }}"></script>
+<script type="module" src="{{ (resources.Get "js/tarot/deck-closed.js" | js.Build).Permalink }}"></script>
+<script type="module" src="{{ (resources.Get "js/tarot/shuffle-overlay.js" | js.Build).Permalink }}"></script>
+<script type="module" src="{{ (resources.Get "js/tarot/deck-spread.js" | js.Build).Permalink }}"></script>
 
 {{ end }}

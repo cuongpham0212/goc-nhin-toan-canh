@@ -1,0 +1,126 @@
+/* =========================================================
+   TAROT SPREAD – CARDS & SLOTS (FIXED)
+   ========================================================= */
+
+.tarot-spread-area {
+  position: relative;
+  width: 100%;
+  max-width: 1200px;
+  margin-top: 2rem;
+  height: 260px;
+  overflow: visible;
+  z-index: 20;
+
+  /* kiểm soát click ở container */
+  pointer-events: none;
+}
+
+/* chỉ mở click khi đã shuffled */
+body.tarot-shuffled .tarot-spread-area {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+body:not(.tarot-shuffled) .tarot-spread-area {
+  opacity: 0;
+}
+
+/* ==================================================
+   SPREAD CARD
+   ================================================== */
+
+.tarot-spread-card {
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+
+  width: 96px;
+  height: 144px;
+  border-radius: 14px;
+  object-fit: cover;
+
+  opacity: 0;
+
+  /* ❗ KHÔNG khóa click ở đây nữa */
+  pointer-events: auto;
+  cursor: pointer;
+
+  --x: 0px;
+  --y: 0px;
+  --r: 0deg;
+  --flip: 0deg;
+
+  transform:
+    translateX(var(--x))
+    translateY(var(--y))
+    rotate(var(--r))
+    rotate(var(--flip));
+
+  will-change: transform, opacity;
+}
+
+.tarot-spread-card.is-dealt {
+  opacity: 1;
+  transition: transform 0.45s ease, opacity 0.3s ease;
+}
+
+/* ==================================================
+   SELECTED SLOTS
+   ================================================== */
+
+.tarot-selected {
+  margin-top: 2.2rem;
+}
+
+.tarot-selected-cards {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.tarot-slot {
+  width: 170px;
+  height: 255px;
+  border-radius: 16px;
+  border: 1px dashed rgba(255,255,255,0.3);
+  position: relative;
+  overflow: hidden;
+  background: none;
+}
+
+/* ==================================================
+   MOBILE
+   ================================================== */
+
+@media (max-width: 640px) {
+  .tarot-spread-area { height: 300px; }
+  .tarot-spread-card { width: 72px; height: 108px; }
+  .tarot-slot { width: 112px; height: 168px; }
+}
+
+/* ==================================================
+   HARD FIX: SPREAD SPACER MUST NOT BLOCK CLICK
+   ================================================== */
+
+.tarot-spread-spacer {
+  pointer-events: none !important;
+  position: relative;
+  z-index: 0 !important;
+}
+
+/* ==================================================
+   HARD FIX: OVERLAY MUST NOT BLOCK CLICK WHEN HIDDEN
+   ================================================== */
+
+#tarot-overlay[hidden] {
+  display: none !important;
+  pointer-events: none !important;
+}
+
+.tarot-spread-area {
+  position: relative;
+  z-index: 50 !important;
+}
+.tarot-spread-card {
+  z-index: 51 !important;
+}
