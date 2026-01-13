@@ -20,19 +20,50 @@
 @import "modules/section.css";
 
 /* ===== TAROT APP ===== */
-@import "tarot/tarot-layout.css";
-@import "tarot/tarot-deck.css";
-@import "tarot/tarot-spread.css";
-@import "tarot/tarot-effects.css";
-@import "tarot/tarot-overlay.css";
-@import "tarot/tarot-shuffle-overlay.css";
-@import "tarot//tarot.article.css";
-@import "tarot//tarot.list.css";
+@import "tarot/tarot-base.css";
 
-/* ⬇️ LUÔN LUÔN CUỐI */
+/* ==================================================
+   TAROT – CORE COMPONENTS (STATIC)
+   ================================================== */
+
+/* lá bài đơn */
+@import "tarot/tarot-card.css";
+
+/* 🃏 bộ bài – hình khối – dùng chung A / B */
+@import "tarot/tarot-deck.css";
+
+/* ==================================================
+   TAROT – BEHAVIOR & VISUAL LAYERS
+   ================================================== */
+
+/* ✈️ bay bài – ghost – snake */
+@import "tarot/tarot-deck-motion.css";
+
+/* 🔮 khói – ma mị – chiều sâu (ritual layer) */
+@import "tarot/tarot-deck-ritual.css";
+
+/* logic hành vi */
+@import "tarot/tarot-shuffle.css";
+@import "tarot/tarot-spread.css";
+@import "tarot/tarot-selection.css";
+@import "tarot/tarot-reading.css";
+@import "tarot/tarot-overlay.css";
+
+/* article / list / ui */
+@import "tarot/tarot.article.css";
+@import "tarot/tarot.list.css";
+@import "tarot/tarot-ui.css";
+
+/* ==================================================
+   TAROT – STAGE (LUÔN CUỐI TRONG TAROT)
+   ================================================== */
+
+@import "tarot/tarot-stage.css";
+@import "tarot/tarot-spread-slots.css";
+
+/* ⬇️ LUÔN LUÔN CUỐI – GLOBAL MODULES */
 @import "modules/article.css";
 @import "modules/mua-sam.css";
-
 
 /* ===============================
    GLOBAL BACKGROUND & TEXT TONE

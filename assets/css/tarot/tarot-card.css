@@ -1,0 +1,51 @@
+/* ===============================
+   TAROT CARD (1 LÁ)
+   =============================== */
+
+.tarot-card {
+  width: var(--card-w);
+  height: var(--card-h);
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  border-radius: var(--card-radius);
+  cursor: pointer;
+
+  box-shadow:
+    0 6px 14px rgba(0,0,0,0.6),
+    0 0 0 1px rgba(212,178,106,0.35);
+
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease;
+}
+
+/* hover khi chọn */
+.tarot-card.hover,
+.tarot-card.selectable:hover {
+  transform: translateY(-12px) scale(1.04);
+  box-shadow:
+    0 16px 32px rgba(0,0,0,0.8),
+    0 0 16px rgba(212,178,106,0.55);
+}
+
+/* khi đã khóa */
+.tarot-card.locked {
+  cursor: default;
+  transform: none !important;
+}
+
+/* ===== TAROT CARD – BACK IMAGE SOURCE ===== */
+
+.tarot-card,
+.tarot-card-back,
+.tarot-spread-card,
+.flying-card {
+  background-image: url("https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+

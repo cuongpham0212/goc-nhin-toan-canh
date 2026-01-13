@@ -1,0 +1,14 @@
+.tarot-selected-cards {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  margin-top: 32px;
+}
+
+.tarot-slot {
+  width: var(--card-w);
+  height: var(--card-h);
+  border-radius: var(--card-radius);
+  border: 2px dashed rgba(212,178,106,0.5);
+}
+

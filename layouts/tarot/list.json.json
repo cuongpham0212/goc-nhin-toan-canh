@@ -1,0 +1,16 @@
+{{- $cards := where .Site.RegularPages "Params.arcana" "in" (slice "minor" "major") -}}
+[
+{{- range $i, $c := $cards -}}
+  {{- if $i}},{{ end }}
+  {
+    "slug": {{ $c.Params.slug | jsonify }},
+    "title": {{ $c.Title | jsonify }},
+    "arcana": {{ $c.Params.arcana | jsonify }},
+    "number": {{ $c.Params.number | default nil | jsonify }},
+    "suit": {{ $c.Params.suit | default nil | jsonify }},
+    "summary": {{ $c.Params.summary | jsonify }},
+    "image": {{ $c.Params.image | jsonify }},
+    "reading": {{ $c.Params.reading | jsonify }}
+  }
+{{- end }}
+]

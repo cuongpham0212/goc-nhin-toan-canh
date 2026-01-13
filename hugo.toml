@@ -9,7 +9,7 @@ enableRobotsTXT = true
 
 [outputs]
   home = ["HTML", "RSS", "SITEMAP"]
-  section = ["HTML"]
+  section = ["HTML", "JSON"]
   page = ["HTML"]
   taxonomy = ["HTML"]
   term = ["HTML"]

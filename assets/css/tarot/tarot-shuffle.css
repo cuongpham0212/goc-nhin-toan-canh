@@ -1,0 +1,120 @@
+/* ==============================
+   SHUFFLE FLOAT – CARD STATE
+   ============================== */
+
+body[data-state="SHUFFLING"] .tarot-card {
+  animation: shuffle-float 0.6s ease-in-out infinite alternate;
+}
+
+@keyframes shuffle-float {
+  from { transform: translateY(0); }
+  to   { transform: translateY(-6px); }
+}
+
+/* ==============================
+   SHUFFLE STAGE (KHUNG CHE ĐÃ PHỤC HỒI)
+   ============================== */
+
+.tarot-shuffle-stage {
+  position: absolute;
+  width: var(--card-w);
+  height: var(--card-h);
+  overflow: hidden;              /* 🔑 PHẦN CHE BỊ MẤT */
+  pointer-events: none;
+  z-index: 6;                    /* trên sân khấu */
+}
+
+/* ==============================
+   SHUFFLED DECK (GAME OBJECT)
+   ============================== */
+
+.tarot-shuffled-deck {
+  position: absolute;
+
+  /* neo theo game-space */
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+
+  width: var(--card-w);
+  height: var(--card-h);
+
+  pointer-events: none;
+  z-index: 10;
+}
+
+/* ===============================
+   SHUFFLED DECK – ANIMATION
+   =============================== */
+
+.tarot-shuffled-deck.is-animating {
+  animation: shuffle-wobble 0.35s infinite alternate ease-in-out;
+}
+
+/* ===============================
+   SHUFFLE CARD – VISUAL FIX (FINAL)
+   =============================== */
+
+.tarot-shuffle-card {
+  position: absolute;
+  inset: 0;
+
+  width: 100%;
+  height: 100%;
+
+  background-image: url("https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  animation: shuffle-jitter 0.6s infinite ease-in-out;
+
+  border-radius: var(--card-radius);
+  box-shadow:
+    0 10px 30px rgba(0,0,0,0.35),
+    0 0 0 1px rgba(212,178,106,0.35);
+
+  opacity: 1;
+}
+
+
+.tarot-shuffle-card:nth-child(odd) {
+  animation-duration: 0.65s;
+}
+.tarot-shuffle-card:nth-child(even) {
+  animation-duration: 0.45s;
+}
+
+/* ===== WOBBLE ===== */
+@keyframes shuffle-wobble {
+  0% {
+    transform: rotate(-1.2deg);
+  }
+  100% {
+    transform: rotate(1.2deg);
+  }
+}
+
+/* ===== JITTER ===== */
+@keyframes shuffle-jitter {
+  0% {
+    transform: translate(0, 0) rotate(0deg);
+  }
+  50% {
+    transform: translate(3px, -2px) rotate(1.5deg);
+  }
+  100% {
+    transform: translate(-2px, 2px) rotate(-1deg);
+  }
+}
+
+/* ===== FADE OUT ===== */
+.tarot-shuffled-deck.is-fade-out {
+  animation: shuffle-fade-out 0.5s forwards ease-out;
+}
+
+@keyframes shuffle-fade-out {
+  to {
+    opacity: 0;
+    transform: translateY(-10px) scale(0.95);
+  }
+}

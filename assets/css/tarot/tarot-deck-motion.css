@@ -1,0 +1,111 @@
+/* ===============================
+   TAROT DECK – MOTION
+   ===============================
+   Purpose:
+   - Flying card
+   - Ghost
+   - Snake trail
+   - KHÔNG layout
+   =============================== */
+
+/* ===============================
+   FLYING CARD (GHOST)
+   =============================== */
+
+.flying-card,
+.tarot-flying-card {
+  position: fixed;
+  width: var(--card-w);
+  height: var(--card-h);
+
+  pointer-events: none;
+  z-index: 2147483647;
+
+  will-change: transform, filter, opacity;
+}
+
+/* ===============================
+   TAROT – MOTION STRIP (SNAKE)
+   =============================== */
+
+.tarot-fly-snake {
+  position: fixed;
+  width: var(--card-w);
+  height: var(--card-h);
+
+  pointer-events: none;
+  will-change: transform;
+  transform-origin: center center;
+}
+
+/* RESET CỨNG – KHÔNG CHO IMG PHÓNG */
+.tarot-fly-snake img {
+  position: absolute;
+  inset: 0;
+
+  width: 100% !important;
+  height: 100% !important;
+  max-width: 100% !important;
+  max-height: 100% !important;
+
+  transform: none !important;
+  scale: 1 !important;
+  zoom: 1 !important;
+  object-fit: cover;
+}
+
+/* ===============================
+   HEAD & SEGMENTS – BASE
+   =============================== */
+
+.tarot-fly-head,
+.tarot-fly-seg {
+  position: absolute;
+  inset: 0;
+
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+/* HEAD – rõ hơn */
+.tarot-fly-head {
+  z-index: 10;
+  transform: scale(0.92);
+}
+
+/* SEGMENTS – mờ dần */
+.tarot-fly-seg {
+  z-index: 1;
+  transform: scale(0.85);
+  opacity: 0.4;
+  filter: blur(0.8px);
+}
+
+/* ===============================
+   SEGMENT OFFSETS – ÔM SÁT
+   =============================== */
+
+.tarot-fly-seg.seg-1 {
+  transform: scale(0.85) translate(-6px, 6px);
+  opacity: 0.38;
+}
+
+.tarot-fly-seg.seg-2 {
+  transform: scale(0.82) translate(-12px, 12px);
+  opacity: 0.30;
+}
+
+.tarot-fly-seg.seg-3 {
+  transform: scale(0.78) translate(-18px, 18px);
+  opacity: 0.22;
+}
+
+.tarot-fly-seg.seg-4 {
+  transform: scale(0.74) translate(-24px, 24px);
+  opacity: 0.16;
+}
+
+.tarot-fly-seg.seg-5 {
+  transform: scale(0.70) translate(-30px, 30px);
+  opacity: 0.10;
+}

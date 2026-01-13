@@ -1,0 +1,40 @@
+/* ==================================================
+   TAROT SPREAD SLOTS – FINAL (CLEAN)
+   Vai trò:
+   - chỉ lo layout slot
+   - KHÔNG can thiệp pointer-events
+   ================================================== */
+
+/* khung trải bài */
+.tarot-spread-area {
+  position: relative;
+  width: 100%;
+  max-width: 900px;
+  height: 360px;
+  margin: 0 auto;
+  overflow: visible;
+}
+
+/* container trải – KHÔNG KHÓA */
+.tarot-spread-slots {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+/* mỗi slot – KHUNG RỖNG */
+.tarot-spread-slot {
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+
+  width: var(--card-w);
+  height: var(--card-h);
+
+  box-sizing: border-box;
+  background: transparent;
+  border: 1px dashed rgba(212,178,106,0.45);
+  border-radius: var(--card-radius);
+
+  transform-origin: center bottom;
+}

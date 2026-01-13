@@ -1,0 +1,252 @@
+/* ===============================
+   TAROT STAGE – CLEAN LAYOUT
+   =============================== */
+
+body.tarot-before .tarot-page {
+  min-height: auto;
+  padding-bottom: 48px;
+  background-image: url("https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/hinh-nen-vu-tru-34.jpg.webp");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  position: relative;
+
+  overflow-x: hidden;   /* ✅ chỉ chặn ngang */
+  overflow-y: visible;  /* 🔥 BẮT BUỘC */
+}
+
+body.tarot-before .tarot-page::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.65);
+  z-index: 0;
+}
+
+body.tarot-before .tarot-page > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* ===== STAGE ===== */
+
+.tarot-stage {
+  margin-top: 32px;
+}
+
+/* ===== TOP ===== */
+
+.tarot-stage-top {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 32px;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 32px;
+  min-height: 360px;
+  z-index: 1;
+  align-items: flex-start;
+  align-content: flex-start;
+}
+
+/* ===== COLUMNS ===== */
+
+.tarot-col {
+  position: relative;
+}
+
+.tarot-col--left {
+  display: flex;
+  min-height: 200px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.tarot-col--right {
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* ===== DECK ===== */
+
+.tarot-deck-stack {
+  width: var(--card-w);
+  height: var(--card-h);
+  position: relative;
+}
+
+.tarot-deck {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.tarot-deck img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: var(--card-radius);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+}
+
+/* stack effect */
+.tarot-deck img:nth-child(2) { transform: translate(2px, -2px); }
+.tarot-deck img:nth-child(3) { transform: translate(4px, -4px); }
+.tarot-deck img:nth-child(4) { transform: translate(6px, -6px); }
+
+/* ===== SHUFFLE BUTTON ===== */
+
+.tarot-shuffle-box {
+  margin-top: 16px;
+}
+
+/* ===== BOTTOM / SPREAD ===== */
+
+.tarot-stage-bottom {
+  position: relative;
+  width: 100%;
+  min-height: 360px;
+
+  /* stage chỉ làm layout */
+  pointer-events: none;
+}
+
+/* ==================================================
+   DECK FLAT – GOM BÀI (CẦU NỐI THỊ GIÁC)
+   ================================================== */
+
+.tarot-flat-deck {
+  position: absolute;
+  left: 50%;
+  bottom: 18px;
+  transform: translateX(-50%);
+
+  width: var(--card-w);
+  height: var(--card-h);
+
+  border: 1px dashed rgba(212,178,106,0.42);
+  border-radius: var(--card-radius);
+  background: rgba(0,0,0,0.08);
+
+  box-shadow:
+    inset 0 0 0 1px rgba(255,255,255,0.06),
+    0 6px 18px rgba(0,0,0,0.22);
+
+  pointer-events: none;
+  z-index: 4;
+}
+
+/* ===== SPREAD AREA ===== */
+/* ❌ KHUNG VIỀN ĐÃ BỎ – CHỈ GIỮ CONTAINER KỸ THUẬT */
+
+.tarot-spread-area {
+  position: relative;
+  width: 100%;
+  max-width: 900px;
+  height: 320px;
+  margin: 0 auto;
+
+  /* ⛔ bỏ border + background */
+  border: none;
+  background: none;
+
+  overflow: visible;
+  pointer-events: auto;
+}
+
+/* ===============================
+   SPREAD SLOT / CARD
+   =============================== */
+
+.tarot-spread-slot,
+.tarot-spread-slot img {
+  pointer-events: auto;
+}
+
+/* ===============================
+   GAME SPACE – FIX TỌA ĐỘ
+   =============================== */
+
+.tarot-game-space {
+  position: relative;
+  width: 100%;
+}
+
+/* đảm bảo deck-shuffle không bị biến dạng */
+#deck-shuffle {
+  position: relative;
+}
+
+/* ===============================
+   SHUFFLE VISUAL
+   =============================== */
+
+.tarot-shuffle-stage {
+  top: 0;
+  left: 0;
+}
+
+/* ===============================
+   RESPONSIVE
+   =============================== */
+
+@media (max-width: 768px) {
+  .tarot-stage-top {
+    grid-template-columns: 1fr;
+    gap: 22px;
+    padding: 0 18px;
+    min-height: auto;
+  }
+
+  .tarot-col--right {
+    justify-content: flex-start;
+  }
+
+  .tarot-stage-bottom {
+    min-height: 340px;
+  }
+
+  .tarot-flat-deck {
+    bottom: 14px;
+  }
+}
+
+/* ==================================================
+   DECK A – CLOSED STACK (KHỐI LỆCH TRÁI)
+   ================================================== */
+
+.deck-a .tarot-deck {
+  position: relative;
+}
+
+.deck-a .tarot-deck::before,
+.deck-a .tarot-deck::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+
+  border-radius: var(--card-radius);
+  background-image: url("https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp");
+  background-size: cover;
+  background-position: center;
+
+  box-shadow: 0 8px 24px rgba(0,0,0,0.28);
+  z-index: 0;
+}
+
+.deck-a .tarot-deck::before {
+  transform: translate(-4px, -4px);
+  opacity: 0.85;
+}
+
+.deck-a .tarot-deck::after {
+  transform: translate(-8px, -8px);
+  opacity: 0.65;
+}
+
+.deck-a .tarot-deck img {
+  position: relative;
+  z-index: 2;
+}

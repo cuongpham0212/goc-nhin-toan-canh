@@ -1,64 +1,137 @@
 {{ define "main" }}
-<body class="tarot-before">
-<div class="tarot-page">
 
-  <!-- ================= OVERLAY: NGHI THỨC / LUẬN GIẢI ================= -->
-  {{ partial "tarot/tarot-overlay.html" . }}
+<!-- ==================================================
+     TAROT APP – RITUAL MODE (HTML MAP – CLEAN)
+     ================================================== -->
 
-  <!-- ================= MAIN CONTENT ================= -->
-  <section class="tarot-wrap">
-    <div class="tarot-panel">
+<!-- ==================================================
+     OVERLAY – MUST BE OUTSIDE TAROT APP ROOT
+     ================================================== -->
+{{ partial "tarot/tarot-overlay.html" . }}
 
-      <!-- ===== GIỚI THIỆU ===== -->
-      <header class="tarot-header">
-        <h1>{{ .Title }}</h1>
-        {{ with .Content }}
-        <div class="tarot-intro">
-          {{ . }}
-        </div>
-        {{ end }}
-      </header>
+<div class="tarot-page tarot-app-root" data-tarot-root>
 
-      <section class="tarot-guide">
-        <p>
-          Hãy hít thở sâu, thả lỏng tâm trí và tập trung vào câu hỏi trong lòng bạn.
-          Việc chọn bài hoàn toàn dựa trên <strong>trực giác</strong>.
-        </p>
-      </section>
+  <div class="tarot-app" data-tarot-app>
 
-      <!-- ===== KHU TAROT (NEO OVERLAY + DECK) ===== -->
-      <section class="tarot-deck-area">
+    <!-- ================= HEADER ================= -->
+    <header class="tarot-header">
+      <h1>{{ .Title }}</h1>
+      {{ with .Content }}
+      <div class="tarot-intro">
+        {{ . }}
+      </div>
+      {{ end }}
+    </header>
 
-        <!-- 🔥 OVERLAY XÁO BÀI – NEO ĐÚNG CHA -->
-        {{ partial "tarot/tarot-shuffle-overlay.html" . }}
+    <!-- ================= GUIDE ================= -->
+    <section class="tarot-guide">
+      <p>
+        Hãy hít thở sâu, thả lỏng tâm trí và tập trung vào câu hỏi trong lòng bạn.
+        Việc chọn bài hoàn toàn dựa trên <strong>trực giác</strong>.
+      </p>
+    </section>
 
-        <div class="tarot-deck-row">
+    <!-- ================= TAROT STAGE ================= -->
+    <section class="tarot-stage" data-tarot-stage>
 
-          <!-- BỘ BÀI ÚP -->
-          <div class="tarot-deck-stack" id="deck-closed">
-            <div class="tarot-deck">
-              <img src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp" alt="">
-              <img src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp" alt="">
-              <img src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp" alt="">
-              <img src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp" alt="">
+      <!-- GAME SPACE = MAP -->
+      <div class="tarot-game-space tarot-deck-area" data-tarot-space>
+
+        <!-- ================= TOP STAGE ================= -->
+        <div class="tarot-stage-top" data-tarot-stage-top>
+
+          <!-- ===== DECK A: ÚP (SOURCE) ===== -->
+          <div class="tarot-col tarot-col--left" data-tarot-col="A">
+            <div
+              class="tarot-deck-stack deck-a"
+              id="deck-closed"
+              data-deck="A"
+              data-deck-role="source"
+            >
+              <div class="tarot-deck tarot-deck--source" data-deck-visual>
+                <img
+                  src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp"
+                  alt="Tarot deck"
+                  data-card-face="back"
+                />
+              </div>
+            </div>
+
+            <div class="tarot-shuffle-box">
+              <button
+                id="btn-shuffle"
+                class="tarot-btn"
+                type="button"
+                data-action="shuffle"
+              >
+                Xào bài
+              </button>
             </div>
           </div>
 
-          <!-- NÚT XÁO -->
-          <div class="tarot-shuffle-box">
-            <button id="tarot-shuffle-btn" class="tarot-btn" type="button">
-              Xào bài
-            </button>
+          <!-- ===== DECK B: XÀO (SHUFFLE) ===== -->
+          <div class="tarot-col tarot-col--right" data-tarot-col="B">
+            <div
+              class="tarot-deck-stack deck-b"
+              id="deck-shuffle"
+              data-deck="B"
+              data-deck-role="shuffle"
+            >
+
+              <div class="tarot-deck tarot-deck--shuffle" data-deck-visual>
+                <img
+                  src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp"
+                  alt="Shuffled deck"
+                  data-card-face="back"
+                />
+              </div>
+
+              <!-- SLOT HIỆU ỨNG XÀO -->
+              <div
+                class="tarot-shuffle-stage"
+                data-shuffle-stage
+              ></div>
+
+            </div>
           </div>
 
         </div>
+        <!-- /top -->
 
-        <!-- ===== BỘ BÀI TRẢI ===== -->
-        <div class="tarot-spread-area" id="deck-spread" aria-hidden="true"></div>
-        <div class="tarot-spread-spacer"></div>
-      </section>
+        <!-- ================= BOTTOM STAGE ================= -->
+        <div class="tarot-stage-bottom" data-tarot-stage-bottom>
 
-      <!-- ===== 3 Ô CARD RỖNG ===== -->
+          <!-- ===== DECK FLAT: GOM BÀI (CẦU NỐI) ===== -->
+          <div
+            class="tarot-flat-deck"
+            data-deck-flat
+            aria-hidden="true"
+          ></div>
+
+          <!-- ===== DECK C: TRẢI (TARGET / SPREAD) ===== -->
+          <div
+            class="tarot-spread-area deck-c"
+            id="deck-spread"
+            data-deck="C"
+            data-deck-role="spread"
+          >
+            <div
+              class="tarot-spread-slots"
+              data-spread-slots
+            ></div>
+          </div>
+
+        </div>
+        <!-- /bottom -->
+
+      </div>
+      <!-- /game-space -->
+
+    </section>
+
+    <!-- ================= AFTER STAGE ================= -->
+    <section class="tarot-after-stage hidden" data-tarot-after>
+
       <section class="tarot-selected">
         <h2>Ba lá bạn đã chọn</h2>
 
@@ -68,37 +141,63 @@
             <div class="tarot-slot-label">
               LÁ {{ add $i 1 }} · {{ $label }}
             </div>
-            <div class="tarot-slot" data-slot="{{ add $i 1 }}"></div>
+            <div
+              class="tarot-slot"
+              data-slot="{{ add $i 1 }}"
+            ></div>
           </div>
           {{ end }}
         </div>
       </section>
 
-      <!-- ===== ACTION ===== -->
+      <!-- ACTION: CHỈ CÒN NÚT XEM LUẬN GIẢI -->
       <div class="tarot-action">
-        <button id="reveal-reading"
-                class="tarot-btn is-disabled"
-                disabled>
+        <button
+          id="btn-reading"
+          class="tarot-btn is-disabled"
+          disabled
+          data-action="reading"
+        >
           Xem luận giải
         </button>
       </div>
 
-      <!-- ===== LUẬN GIẢI ===== -->
-      <article id="tarot-reading" class="tarot-reading" hidden>
-        ...
-      </article>
+      <!-- NỘI DUNG LUẬN GIẢI -->
+      <article
+        id="reading-content"
+        class="tarot-reading hidden"
+        data-reading-content
+      ></article>
 
-    </div>
-  </section>
+      <!-- FOOTER: NÚT RESET (SAU NỘI DUNG) -->
+      <div class="tarot-reading-footer">
+        <button
+          id="btn-reset"
+          class="tarot-btn hidden"
+          type="button"
+          data-action="reset"
+        >
+          Xem trải bài khác
+        </button>
+      </div>
+
+    </section>
+
+  </div>
 </div>
 
-<!-- ================= DATA TAROT ================= -->
-{{ partial "tarot/data.html" . }}
+{{ $tarot := resources.Get "js/tarot/tarot-map-app.js"
+  | js.Build (dict
+      "format" "esm"
+      "targetPath" "js/tarot-map-app.js"
+    )
+  | resources.Fingerprint
+}}
 
-<!-- ================= JS ================= -->
-<script type="module" src="{{ (resources.Get "js/tarot/card-animations.js" | js.Build).Permalink }}"></script>
-<script type="module" src="{{ (resources.Get "js/tarot/deck-closed.js" | js.Build).Permalink }}"></script>
-<script type="module" src="{{ (resources.Get "js/tarot/shuffle-overlay.js" | js.Build).Permalink }}"></script>
-<script type="module" src="{{ (resources.Get "js/tarot/deck-spread.js" | js.Build).Permalink }}"></script>
+<script
+  type="module"
+  src="{{ $tarot.RelPermalink }}"
+  integrity="{{ $tarot.Data.Integrity }}"
+></script>
 
 {{ end }}

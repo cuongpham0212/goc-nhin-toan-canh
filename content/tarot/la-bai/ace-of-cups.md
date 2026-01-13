@@ -104,6 +104,7 @@ reading:
       thừa nhận cảm xúc của mình là có thật và đáng được lắng nghe.
 
 ---
+
 ## Ace of Cups là gì?
 
 **Ace of Cups** là lá bài đại diện cho **sự khởi đầu của cảm xúc**, tình yêu và quá trình chữa lành trong Tarot. Lá bài cho thấy thời điểm con người sẵn sàng mở lòng, đón nhận cảm xúc mới và kết nối sâu hơn với đời sống nội tâm của chính mình.

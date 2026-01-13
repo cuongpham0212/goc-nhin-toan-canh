@@ -1,0 +1,22 @@
+:root {
+  --card-w: 96px;
+  --card-h: 160px;
+  --card-radius: 10px;
+
+  --gold: #d4b26a;
+  --text-light: #f2f2f2;
+  --text-dim: #cfcfcf;
+}
+
+body {
+  color: var(--text-light);
+}
+
+.hidden {
+  display: none !important;
+}
+
+/* ✅ an toàn cho overlay/stage: tránh scroll ngang do transform */
+html, body {
+  overflow-x: hidden;
+}

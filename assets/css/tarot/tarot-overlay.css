@@ -1,5 +1,5 @@
 /* =========================================================
-   TAROT OVERLAY – COSMIC RITUAL (FINAL – STABLE)
+   TAROT OVERLAY – COSMIC RITUAL (MATCH REAL HTML)
    ========================================================= */
 
 /* =========================
@@ -8,350 +8,152 @@
 .tarot-overlay {
   position: fixed;
   inset: 0;
-  z-index: 9999;
+  z-index: 10000;
+
+  width: 100vw;
+  height: 100svh;
 
   background:
     radial-gradient(circle at 50% 45%,
       rgba(30,27,75,0.55),
       rgba(15,23,42,0.75),
       rgba(0,0,0,0.9)
-    ),
-    radial-gradient(circle at 20% 80%,
-      rgba(88,28,135,0.25),
-      transparent 60%
     );
 
-  backdrop-filter: blur(8px) brightness(80%);
-  -webkit-backdrop-filter: blur(8px) brightness(80%);
+  display: grid;
+  place-items: center;
 
-  /* 🔑 TRẠNG THÁI MẶC ĐỊNH: ẨN */
   opacity: 0;
   pointer-events: none;
-
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  overflow: hidden;
-}
-
-
-.tarot-overlay[hidden] {
-  display: none !important;
-  pointer-events: none;
-}
-
-/* =========================
-   VOID
-   ========================= */
-.tarot-overlay::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: rgba(0,0,0,0.55);
-  z-index: 0;
-}
-
-/* =========================
-   OVERLAY BOX
-   ========================= */
-.tarot-overlay-box {
-  position: fixed;
-
-  top: 50%;
-  left: 50%;
-
-  width: 300px;
-  height: 300px;
-
-  transform: translate(-50%, -50%);
-
-  z-index: 2;
-
-  /* ❌ không animation scale */
-  animation: none;
-}
-
-/* =========================
-   CENTRAL PLANET
-   ========================= */
-.tarot-orb {
-  position: absolute;
-  inset: 0;
-  margin: auto;
-
-  width: 130px;
-  height: 130px;
-  border-radius: 50%;
-
-  background: url("https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/hanh-tinh.png?v=1")
-    center / cover no-repeat;
-
-  box-shadow:
-    0 0 30px rgba(99,102,241,0.95),
-    0 0 90px rgba(129,140,248,0.7),
-    inset 0 0 20px rgba(255,255,255,0.25);
-
-  z-index: 3;
-  animation: tarot-orb-breath 4.4s ease-in-out infinite;
-}
-
-/* =========================
-   OVERLAY BOX (3D SPACE)
-   ========================= */
-.tarot-overlay-box {
-  position: fixed;
-  top: 50%;
-  left: 50%;
-
-  width: 320px;
-  height: 320px;
-
-  transform: translate(-50%, -50%);
-  perspective: 900px;
-
-  transform-style: preserve-3d;
-  z-index: 2;
-}
-
-/* =========================
-   CENTRAL PLANET
-   ========================= */
-.tarot-orb {
-  position: absolute;
-  inset: 0;
-  margin: auto;
-
-  width: 130px;
-  height: 130px;
-  border-radius: 50%;
-
-  background: url("https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/hanh-tinh.png")
-    center / cover no-repeat;
-
-  box-shadow:
-    0 0 35px rgba(99,102,241,0.95),
-    0 0 90px rgba(129,140,248,0.7),
-    inset 0 0 20px rgba(255,255,255,0.25);
-
-  z-index: 5;
-}
-
-/* =========================
-   ORBIT TILT (NGHIÊNG)
-   ========================= */
-.orbit-tilt {
-  position: absolute;
-  inset: 0;
-  transform-style: preserve-3d;
-}
-
-/* orbit nghiêng khác nhau */
-.tilt-1 { transform: rotateX(62deg) rotateZ(18deg); }
-.tilt-2 { transform: rotateX(68deg) rotateZ(-22deg); }
-
-/* =========================
-   ORBIT ROTATE
-   ========================= */
-.orbit-rotate {
-  position: absolute;
-  inset: 0;
-  transform-style: preserve-3d;
-}
-
-.rotate-1 {
-  animation: orbit-spin-1 26s linear infinite;
-}
-
-.rotate-2 {
-  animation: orbit-spin-2 36s linear infinite;
-}
-
-/* =========================
-   SATELLITE ORBIT
-   ========================= */
-.satellite-orbit {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-
-  transform-style: preserve-3d;
-  transform: rotateZ(0deg) translateX(135px);
-}
-
-/* =========================
-   SATELLITE SPRITE (KHÔNG DẸP)
-   ========================= */
-.satellite-sprite {
-  width: 36px;
-  height: 36px;
-
-  transform:
-    translate(-50%, -50%)
-    rotateX(-62deg); /* luôn facing camera */
-
-  background: url("https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/ve-tinh.png")
-    center / contain no-repeat;
-
-  filter:
-    drop-shadow(0 0 6px rgba(180,200,255,0.9))
-    drop-shadow(0 0 14px rgba(130,150,255,0.6));
-
-  backface-visibility: hidden;
-}
-
-/* =========================
-   DEPTH (TRƯỚC / SAU)
-   ========================= */
-.rotate-1 .satellite-orbit {
-  animation: depth-1 26s linear infinite;
-}
-
-.rotate-2 .satellite-orbit {
-  animation: depth-2 36s linear infinite;
-}
-
-/* =========================
-   ANIMATIONS
-   ========================= */
-@keyframes orbit-spin-1 {
-  from { transform: rotateZ(0deg); }
-  to   { transform: rotateZ(360deg); }
-}
-
-@keyframes orbit-spin-2 {
-  from { transform: rotateZ(180deg); }
-  to   { transform: rotateZ(540deg); }
-}
-
-@keyframes depth-1 {
-  0%, 100% {
-    filter: brightness(1.15);
-    z-index: 4;
-  }
-  50% {
-    filter: brightness(0.6) blur(0.6px);
-    z-index: 1;
-  }
-}
-
-@keyframes depth-2 {
-  0%, 100% {
-    filter: brightness(1.05);
-    z-index: 3;
-  }
-  50% {
-    filter: brightness(0.55) blur(0.8px);
-    z-index: 1;
-  }
-}
-
-/* =========================
-   TEXT
-   ========================= */
-.tarot-overlay-text {
-  position: absolute;
-  bottom: -3.2rem;
-  width: 100%;
-
-  font-size: 0.85rem;
-  letter-spacing: 0.22em;
-  text-transform: uppercase;
-  color: rgba(248,250,252,0.92);
-
-  animation: tarot-text-fade 3s ease-in-out infinite;
-}
-
-/* =========================
-   ANIMATIONS
-   ========================= */
-
-/* ORBIT ROTATE */
-@keyframes orbit-rotate {
-  from {
-    transform: scaleY(0.6) rotateZ(18deg) rotate(0deg);
-  }
-  to {
-    transform: scaleY(0.6) rotateZ(18deg) rotate(360deg);
-  }
-}
-
-/* SATELLITE PATH */
-@keyframes satellite-orbit-1 {
-  from {
-    transform: translate(-50%, -50%) rotate(0deg) translateX(80px);
-  }
-  to {
-    transform: translate(-50%, -50%) rotate(360deg) translateX(80px);
-  }
-}
-
-@keyframes satellite-orbit-2 {
-  from {
-    transform: translate(-50%, -50%) rotate(180deg) translateX(80px);
-  }
-  to {
-    transform: translate(-50%, -50%) rotate(540deg) translateX(80px);
-  }
-}
-
-/* DEPTH FAKE 3D */
-@keyframes satellite-depth {
-  0%, 100% {
-    opacity: 1;
-    z-index: 4;
-    filter: brightness(1.1);
-  }
-  50% {
-    opacity: 0.35;
-    z-index: 1;
-    filter: brightness(0.6) blur(0.6px);
-  }
-}
-
-/* APPEAR */
-@keyframes satellite-appear {
-  from {
-    opacity: 0;
-    transform: translate(-50%, -50%) scale(0.6);
-  }
-  to {
-    opacity: 1;
-    transform: translate(-50%, -50%) scale(1);
-  }
-}
-
-/* PLANET */
-@keyframes tarot-orb-breath {
-  0%, 100% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-}
-
-@keyframes tarot-overlay-pulse {
-  0%, 100% { transform: scale(1); }
-  50% { transform: scale(1.03); }
-}
-
-@keyframes tarot-text-fade {
-  0%, 100% { opacity: 0.6; }
-  50% { opacity: 1; }
-}
-
-@keyframes tarot-overlay-fade-in {
-  from { opacity: 0; transform: scale(1.02); }
-  to { opacity: 1; transform: scale(1); }
-}
-
-/* =========================
-   MOBILE
-   ========================= */
-@media (max-width: 640px) {
-  .tarot-overlay-box { transform: scale(0.75); }
-  .tarot-orb { width: 72px; height: 72px; }
-  .tarot-orbit { width: 140px; height: 140px; }
+  visibility: hidden;
 }
 
 .tarot-overlay.is-active {
   opacity: 1;
   pointer-events: auto;
-  animation: tarot-overlay-fade-in 0.6s ease-out forwards;
+  visibility: visible;
+}
+
+/* =========================
+   PLANET CENTER – NEO TRUNG TÂM
+   ========================= */
+.planet-center {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  z-index: 1;
+  pointer-events: none;
+}
+
+/* =========================
+   STAR CANVAS (FULL SCREEN)
+   ========================= */
+#stars-canvas {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+}
+
+/* =========================
+   CONTENT WRAPPER (KHUNG NGHI THỨC)
+   ========================= */
+.overlay-content {
+  position: relative;
+  z-index: 2;
+
+  width: min(90vw, 420px);
+  height: min(90vw, 420px);
+
+  display: grid;
+  grid-template-rows: 1fr auto;
+  place-items: center;
+
+  pointer-events: auto;
+}
+
+/* =========================
+   PLANET SYSTEM (TRUNG TÂM)
+   ========================= */
+
+/* Hành tinh */
+.planet {
+  position: absolute;
+  inset: 0;
+  margin: auto;
+
+  width: 38%;
+  height: 38%;
+  border-radius: 50%;
+
+  box-shadow:
+    0 0 30px rgba(99,102,241,0.9),
+    0 0 70px rgba(129,140,248,0.6);
+
+  animation: planet-breath 4s ease-in-out infinite;
+}
+
+/* =========================
+   ORBITS
+   ========================= */
+.orbit {
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+}
+
+.orbit-1 { animation: orbit-spin 22s linear infinite; }
+.orbit-2 { animation: orbit-spin-rev 32s linear infinite; }
+
+.moon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 28px;
+  height: 28px;
+  transform: translate(-50%, -50%) translateX(48%);
+}
+
+.moon-small {
+  width: 18px;
+  height: 18px;
+  transform: translate(-50%, -50%) translateX(60%);
+}
+
+/* =========================
+   CARDS SLOT
+   ========================= */
+.cards-slot {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+/* =========================
+   BUTTON
+   ========================= */
+.overlay-btn {
+  margin-top: 1rem;
+  padding: 0.6rem 1.2rem;
+  letter-spacing: 0.15em;
+}
+
+/* =========================
+   ANIMATIONS
+   ========================= */
+@keyframes orbit-spin {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+
+@keyframes orbit-spin-rev {
+  from { transform: rotate(360deg); }
+  to   { transform: rotate(0deg); }
+}
+
+@keyframes planet-breath {
+  0%, 100% { transform: scale(1); }
+  50%      { transform: scale(1.05); }
 }

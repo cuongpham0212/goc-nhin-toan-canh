@@ -1,0 +1,12 @@
+assets/
+└─ css/
+   └─ tarot/
+      ├─ tarot-base.css          # reset + biến chung
+      ├─ tarot-stage.css         # sân khấu / layout chính
+      ├─ tarot-deck.css          # bộ bài úp + chồng bài
+      ├─ tarot-card.css          # 1 lá bài (size, mặt sau, hover)
+      ├─ tarot-shuffle.css       # trạng thái xào
+      ├─ tarot-spread.css        # trải bài (fan / grid)
+      ├─ tarot-selection.css     # chọn 3 lá
+      ├─ tarot-reading.css       # khu luận giải
+      └─ tarot-overlay.css       # overlay nghi thức

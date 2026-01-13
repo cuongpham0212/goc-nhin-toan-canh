@@ -1,0 +1,67 @@
+tarot-reading.css
+/* ===============================
+   TAROT READING – ANCHOR
+   =============================== */
+
+.tarot-reading {
+  margin-top: 48px;
+  position: static; /* hoặc bỏ hẳn */
+  padding-bottom: 0;
+}
+
+/* ===============================
+   TAROT ACTION – AFTER STAGE
+   =============================== */
+
+.tarot-action {
+  display: grid;
+  grid-template-columns: 1fr;
+  row-gap: 12px;
+
+  justify-items: center; /* nút chính ở giữa */
+  margin-top: 24px;
+}
+
+/* nút phụ: Xem trải bài khác */
+#btn-reset {
+  justify-self: end;   /* lệch phải */
+  font-size: 0.85rem;
+  opacity: 0.8;
+}
+
+/* ===============================
+   RESET BUTTON – OUTSIDE READING
+   =============================== */
+
+.tarot-action {
+  display: grid;
+  grid-template-columns: 1fr;
+  row-gap: 12px;
+  justify-items: center; /* nút chính vẫn ở giữa */
+  margin-top: 24px;
+}
+
+/* nút reset: nằm dưới, lệch phải */
+#btn-reset {
+  justify-self: end;
+  margin-top: 12px;
+
+  font-size: 0.85rem;
+  opacity: 0.85;
+}
+
+/* ===============================
+   READING FOOTER
+   =============================== */
+
+.tarot-reading-footer {
+  display: flex;
+  justify-content: flex-end; /* góc phải */
+  margin-top: 16px;
+}
+
+/* nút reset phụ */
+.tarot-reading-footer #btn-reset {
+  font-size: 0.85rem;
+  opacity: 0.85;
+}

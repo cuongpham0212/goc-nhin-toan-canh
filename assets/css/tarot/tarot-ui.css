@@ -1,0 +1,98 @@
+/* ===== TEXT ===== */
+
+.tarot-header h1 {
+  font-size: 2rem;
+  color: var(--gold);
+  text-align: center;
+  margin-bottom: 12px;
+}
+
+.tarot-guide,
+.tarot-intro,
+.tarot-reading {
+  color: var(--text-light);
+  line-height: 1.7;
+  font-size: 1rem;
+}
+
+/* ===============================
+   SLOT LABEL – TÊN LÁ BÀI (FIX RÕ)
+   =============================== */
+
+.tarot-slot-label {
+  margin-bottom: 8px;
+  padding: 6px 12px;
+
+  font-size: 0.75rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  text-align: center;
+
+  color: #f5e7c3; /* vàng sáng hơn gold */
+
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.55),
+    rgba(0, 0, 0, 0.25)
+  );
+
+  border: 1px solid rgba(212,178,106,0.35);
+  border-radius: 6px;
+
+  box-shadow:
+    0 2px 10px rgba(0,0,0,0.45),
+    inset 0 0 0 1px rgba(255,255,255,0.04);
+
+  text-shadow:
+    0 1px 2px rgba(0,0,0,0.85),
+    0 0 8px rgba(212,178,106,0.35);
+}
+
+/* ===============================
+   SELECTED SECTION TITLE
+   =============================== */
+
+.tarot-selected h2 {
+  color: var(--gold);
+  text-align: center;
+  margin-bottom: 18px;
+  letter-spacing: 0.08em;
+}
+
+/* ===== BUTTON ===== */
+
+.tarot-btn {
+  padding: 12px 28px;
+  font-size: 1rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+
+  background: linear-gradient(
+    145deg,
+    #1e1a12,
+    #0e0c08
+  );
+
+  color: var(--gold);
+  border: 1px solid rgba(212,178,106,0.6);
+  border-radius: 999px;
+
+  cursor: pointer;
+  box-shadow:
+    0 0 0 rgba(0,0,0,0),
+    inset 0 0 0 rgba(0,0,0,0);
+
+  transition: all 0.25s ease;
+}
+
+.tarot-btn:hover {
+  box-shadow:
+    0 0 18px rgba(212,178,106,0.6),
+    inset 0 0 12px rgba(212,178,106,0.25);
+}
+
+.tarot-btn.is-disabled,
+.tarot-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}

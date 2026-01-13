@@ -1,0 +1,150 @@
+/* ==================================================
+   TAROT DECK – RITUAL (ARCANE FIRE WISPS)
+   ==================================================
+   - Energy flames (not fog)
+   - Floating, rising motion
+   - Wide field (x2 width)
+   - No UI blocking
+   ================================================== */
+
+/* ===============================
+   HOST – DECK CÓ NGHI LỄ
+   =============================== */
+
+.tarot-deck-stack.deck-a,
+.tarot-deck-stack.deck-b {
+  position: relative;
+  isolation: isolate;
+}
+
+/* ===============================
+   ENERGY FIELD – TRƯỜNG NĂNG LƯỢNG
+   =============================== */
+
+.tarot-deck-stack.deck-a::before,
+.tarot-deck-stack.deck-b::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: -18%;
+
+  width: 260%;   /* ⬅️ gấp ~2 lần deck */
+  height: 200%;
+
+  transform: translateX(-50%);
+  pointer-events: none;
+  z-index: 0;
+
+  /* nền năng lượng rất nhẹ */
+  background:
+    radial-gradient(
+      ellipse at center bottom,
+      rgba(180,140,255,0.22),
+      rgba(0,0,0,0) 70%
+    );
+}
+
+/* ===============================
+   FIRE WISPS – LƯỠI NĂNG LƯỢNG
+   =============================== */
+
+.tarot-deck-stack.deck-a::after,
+.tarot-deck-stack.deck-b::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: -18%;
+
+  width: 260%;
+  height: 200%;
+
+  transform: translateX(-50%);
+  pointer-events: none;
+  z-index: 1;
+
+  /* tạo nhiều lưỡi bằng background layer */
+  background:
+    radial-gradient(
+      ellipse at 15% 100%,
+      rgba(255,190,140,0.55),
+      rgba(170,120,255,0.38) 45%,
+      rgba(0,0,0,0) 78%
+    ),
+    radial-gradient(
+      ellipse at 35% 100%,
+      rgba(255,200,160,0.45),
+      rgba(160,110,255,0.32) 45%,
+      rgba(0,0,0,0) 78%
+    ),
+    radial-gradient(
+      ellipse at 55% 100%,
+      rgba(240,180,255,0.5),
+      rgba(150,100,220,0.35) 45%,
+      rgba(0,0,0,0) 78%
+    ),
+    radial-gradient(
+      ellipse at 75% 100%,
+      rgba(255,190,140,0.48),
+      rgba(170,120,255,0.34) 45%,
+      rgba(0,0,0,0) 78%
+    );
+
+  filter: blur(11px);
+  opacity: 0.75;
+
+  animation: tarot-arcane-wisps 6.5s ease-in-out infinite;
+}
+
+/* ===============================
+   WISP MOTION
+   =============================== */
+
+@keyframes tarot-arcane-wisps {
+  0% {
+    transform: translateX(-50%) translateY(0) scaleY(0.75);
+    opacity: 0.25;
+  }
+  35% {
+    opacity: 0.7;
+  }
+  100% {
+    transform: translateX(-50%) translateY(-45%) scaleY(1.5);
+    opacity: 0;
+  }
+}
+
+/* ===============================
+   DECK MASS – TÁCH KHỎI NỀN
+   =============================== */
+
+.tarot-deck-stack.deck-a .tarot-deck,
+.tarot-deck-stack.deck-b .tarot-deck {
+  position: relative;
+  z-index: 2;
+
+  filter:
+    drop-shadow(0 0 26px rgba(90,60,160,0.55))
+    drop-shadow(-12px 8px 22px rgba(0,0,0,0.65));
+}
+
+/* ===============================
+   TOP CARD – HƠI THỞ NĂNG LƯỢNG
+   =============================== */
+
+.tarot-deck-stack.deck-a .tarot-deck img,
+.tarot-deck-stack.deck-b .tarot-deck img {
+  position: relative;
+  z-index: 3;
+
+  box-shadow:
+    0 16px 40px rgba(0,0,0,0.65),
+    0 0 22px rgba(200,150,255,0.55);
+
+  animation: tarot-card-breath 8s ease-in-out infinite;
+}
+
+@keyframes tarot-card-breath {
+  0%   { transform: translateY(0); }
+  50%  { transform: translateY(-2px); }
+  100% { transform: translateY(0); }
+}

@@ -14,30 +14,30 @@ Tarot không đòi hỏi niềm tin mù quáng hay nghi thức phức tạp.
 
 Trải bài 3 lá là một trong những hình thức Tarot cơ bản và hiệu quả nhất, giúp bạn nhìn rõ một vấn đề qua ba lớp:
 
-- **Lá 1 – Quá khứ / Nền tảng**  
+ **Lá 1 – Quá khứ / Nền tảng**  
   Điều gì đã hình thành nên trạng thái hiện tại của bạn?
 
-- **Lá 2 – Hiện tại / Trạng thái**  
+ **Lá 2 – Hiện tại / Trạng thái**  
   Năng lượng, cảm xúc hoặc xung đột bạn đang mang theo lúc này.
 
-- **Lá 3 – Hướng đi / Gợi ý**  
+ **Lá 3 – Hướng đi / Gợi ý**  
   Cách bạn có thể điều chỉnh, buông bỏ hoặc bước tiếp một cách phù hợp.
 
 Ba lá bài không trả lời thay bạn, mà **đặt đúng câu hỏi để bạn tự đối thoại với chính mình**.
 
 ## Khi nào bạn nên trải bài 3 lá?
 
-- Khi một vấn đề lặp lại nhưng bạn chưa hiểu vì sao  
-- Khi đứng giữa ngã rẽ và cảm thấy mơ hồ  
-- Khi cảm xúc nặng nề, nhưng không rõ nguồn gốc  
-- Hoặc khi bạn chỉ muốn **lắng nghe nội tâm một cách nghiêm túc**
+ Khi một vấn đề lặp lại nhưng bạn chưa hiểu vì sao  
+ Khi đứng giữa ngã rẽ và cảm thấy mơ hồ  
+ Khi cảm xúc nặng nề, nhưng không rõ nguồn gốc  
+ Hoặc khi bạn chỉ muốn **lắng nghe nội tâm một cách nghiêm túc**
 
 ## Cách trải bài đúng tinh thần Tarot
 
-1. Dành vài giây để hít thở chậm, thả lỏng cơ thể  
-2. Nghĩ đến **một vấn đề, câu hỏi hoặc trạng thái bạn đang quan tâm**  
-3. Lần lượt **chọn 3 lá bài**  
-4. Đọc phần luận giải với tâm thế quan sát, không phán xét
+Dành vài giây để hít thở chậm, thả lỏng cơ thể  
+Nghĩ đến **một vấn đề, câu hỏi hoặc trạng thái bạn đang quan tâm**  
+Lần lượt **chọn 3 lá bài**  
+Đọc phần luận giải với tâm thế quan sát, không phán xét
 
 Tarot **không tiên đoán tương lai cố định**,  
 mà phản chiếu **dòng năng lượng bạn đang sống cùng**.

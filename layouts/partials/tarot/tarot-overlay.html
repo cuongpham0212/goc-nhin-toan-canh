@@ -1,16 +1,16 @@
-<div id="tarot-overlay" class="tarot-overlay hidden">
-  <!-- Canvas sao -->
+<div id="tarot-overlay"
+     class="tarot-overlay"
+     aria-hidden="true">
+
+  <!-- CANVAS SAO -->
   <canvas id="stars-canvas"></canvas>
 
-  <!-- Nội dung -->
-  <div class="overlay-content">
-    <!-- Cards slot (anh gắn logic hiện tại của anh vào đây) -->
-    <div class="cards-slot">
-      {{/* render 3 lá bài ở đây */}}
-    </div>
+  <!-- BOX GIỮ TRUNG TÂM THỊ GIÁC -->
+  <div class="planet-center">
 
-    <!-- Hệ hành tinh -->
+    <!-- HỆ HÀNH TINH -->
     <div class="planet-system">
+
       <img
         class="planet"
         src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/hanh-tinh.png"
@@ -29,11 +29,15 @@
           src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/ve-tinh.png"
           alt="Vệ tinh">
       </div>
-    </div>
 
-    <!-- Button -->
-    <button id="close-overlay" class="overlay-btn">
-      TIẾT LỘ Ý NGHĨA
-    </button>
+    </div>
   </div>
+
+  <!-- OVERLAY CONTENT -->
+  <div class="overlay-content">
+    <div class="cards-slot">
+      {{/* render 3 lá bài */}}
+    </div>
+  </div>
+
 </div>
