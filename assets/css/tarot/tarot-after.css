@@ -1,0 +1,18 @@
+/* ==================================================
+   TAROT AFTER – INNER CONTAINER
+   Giữ toàn bộ hậu nghi lễ trong 1 khối thật
+   ================================================== */
+
+.tarot-after-inner {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 24px;
+  padding-right: 24px;
+  box-sizing: border-box;
+}
+
+/* đảm bảo footer không tràn viewport */
+.tarot-after-inner .tarot-reading-footer {
+  justify-content: flex-end;
+}

@@ -47,6 +47,7 @@
 @import "tarot/tarot-spread.css";
 @import "tarot/tarot-selection.css";
 @import "tarot/tarot-reading.css";
+@import "tarot/tarot-after.css"; 
 @import "tarot/tarot-overlay.css";
 
 /* article / list / ui */

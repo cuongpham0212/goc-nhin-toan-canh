@@ -5,6 +5,7 @@
 import { TarotState } from './tarot-state.js'
 import { TarotMap } from './tarot-map.js'
 import { getTarotCardBySlug } from './tarot-data.js'
+import { ritualAfterFly } from './tarot-ritual-effects.js'
 
 export function initTarotPick() {
   const spreadArea = TarotMap.deckC
@@ -104,6 +105,17 @@ export function initTarotPick() {
     const dy =
       toRect.top + toRect.height / 2 -
       (fromRect.top + fromRect.height / 2)
+
+    /* ===============================
+       🌌 RITUAL BAY KÈM (ĐÚNG NHỊP)
+       👉 PHẢI ĐẶT TRƯỚC requestAnimationFrame
+       =============================== */
+    ritualAfterFly({
+      fromRect,
+      toRect,
+      count: 2,
+      duration: 600
+    })
 
     requestAnimationFrame(() => {
       ghost.style.transform =

@@ -77,7 +77,6 @@
               data-deck="B"
               data-deck-role="shuffle"
             >
-
               <div class="tarot-deck tarot-deck--shuffle" data-deck-visual>
                 <img
                   src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp"
@@ -91,7 +90,6 @@
                 class="tarot-shuffle-stage"
                 data-shuffle-stage
               ></div>
-
             </div>
           </div>
 
@@ -132,54 +130,60 @@
     <!-- ================= AFTER STAGE ================= -->
     <section class="tarot-after-stage hidden" data-tarot-after>
 
-      <section class="tarot-selected">
-        <h2>Ba lá bạn đã chọn</h2>
+      <!-- 🔒 INNER CONTAINER – FIX CANH LỀ TOÀN BỘ HẬU NGHI LỄ -->
+      <div class="tarot-after-inner">
 
-        <div class="tarot-selected-cards">
-          {{ range $i, $label := slice "QUÁ KHỨ" "HIỆN TẠI" "HƯỚNG ĐI" }}
-          <div class="tarot-slot-wrap">
-            <div class="tarot-slot-label">
-              LÁ {{ add $i 1 }} · {{ $label }}
+        <section class="tarot-selected">
+          <h2>Ba lá bạn đã chọn</h2>
+
+          <div class="tarot-selected-cards">
+            {{ range $i, $label := slice "QUÁ KHỨ" "HIỆN TẠI" "HƯỚNG ĐI" }}
+            <div class="tarot-slot-wrap">
+              <div class="tarot-slot-label">
+                LÁ {{ add $i 1 }} · {{ $label }}
+              </div>
+              <div
+                class="tarot-slot"
+                data-slot="{{ add $i 1 }}"
+              ></div>
             </div>
-            <div
-              class="tarot-slot"
-              data-slot="{{ add $i 1 }}"
-            ></div>
+            {{ end }}
           </div>
-          {{ end }}
+        </section>
+
+        <!-- ACTION: NÚT XEM LUẬN GIẢI -->
+        <div class="tarot-action">
+          <button
+            id="btn-reading"
+            class="tarot-btn is-disabled"
+            disabled
+            data-action="reading"
+          >
+            Xem luận giải
+          </button>
         </div>
-      </section>
 
-      <!-- ACTION: CHỈ CÒN NÚT XEM LUẬN GIẢI -->
-      <div class="tarot-action">
-        <button
-          id="btn-reading"
-          class="tarot-btn is-disabled"
-          disabled
-          data-action="reading"
-        >
-          Xem luận giải
-        </button>
+        <!-- NỘI DUNG LUẬN GIẢI -->
+        <article
+          id="reading-content"
+          class="tarot-reading hidden"
+          data-reading-content
+        ></article>
+
+        <!-- FOOTER: NÚT RESET (NAY ĐÃ NẰM TRONG KHỐI) -->
+        <div class="tarot-reading-footer">
+          <button
+            id="btn-reset"
+            class="tarot-btn hidden"
+            type="button"
+            data-action="reset"
+          >
+            Xem trải bài khác
+          </button>
+        </div>
+
       </div>
-
-      <!-- NỘI DUNG LUẬN GIẢI -->
-      <article
-        id="reading-content"
-        class="tarot-reading hidden"
-        data-reading-content
-      ></article>
-
-      <!-- FOOTER: NÚT RESET (SAU NỘI DUNG) -->
-      <div class="tarot-reading-footer">
-        <button
-          id="btn-reset"
-          class="tarot-btn hidden"
-          type="button"
-          data-action="reset"
-        >
-          Xem trải bài khác
-        </button>
-      </div>
+      <!-- /tarot-after-inner -->
 
     </section>
 

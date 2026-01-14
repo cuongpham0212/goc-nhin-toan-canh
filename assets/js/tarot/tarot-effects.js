@@ -1,53 +1,14 @@
 /* ======================================================
-   TAROT EFFECTS – SHUFFLE & FLY (FINAL – LOCK SAFE)
-   - xào bài bằng illusion (CSS + JS)
-   - không spawn 78 lá
-   - không phá layout
+   TAROT EFFECTS – SHUFFLE & FLY (FINAL – CLEAN)
+   - flyCard: bay 1 lá duy nhất (NO snake / NO trail)
+   - shuffle: giữ nguyên logic hiện tại
    ====================================================== */
 
 import { TarotState } from './tarot-state.js'
 
 /* ======================================================
-   FLYING CARD
+   FLY CARD (CLEAN – SINGLE GHOST)
    ====================================================== */
-function spawnFlyTrail(img, fromRect, dx, dy, options) {
-  const {
-    count = 6,
-    spread = 14,
-    duration = 600
-  } = options;
-
-  for (let i = 1; i <= count; i++) {
-    const t = img.cloneNode(true);
-    t.className = 'tarot-fly-trail';
-
-    t.style.position = 'fixed';
-    t.style.left = `${fromRect.left}px`;
-    t.style.top = `${fromRect.top}px`;
-    t.style.width = `${fromRect.width}px`;
-    t.style.height = `${fromRect.height}px`;
-    t.style.pointerEvents = 'none';
-    t.style.zIndex = '9998';
-    t.style.opacity = (0.5 - i * 0.06).toFixed(2);
-    t.style.filter = `blur(${i * 0.6}px)`;
-    t.style.transition = `
-      transform ${duration}ms cubic-bezier(.4,0,.2,1),
-      opacity ${duration * 0.9}ms ease
-    `;
-
-    document.body.appendChild(t);
-
-    requestAnimationFrame(() => {
-      t.style.transform = `
-        translate(${dx - i * spread}px, ${dy - i * spread}px)
-        scale(0.95)
-      `;
-      t.style.opacity = '0';
-    });
-
-    setTimeout(() => t.remove(), duration);
-  }
-}
 
 export function flyCard(fromEl, toEl, options = {}) {
   if (!fromEl || !toEl) {
@@ -59,13 +20,13 @@ export function flyCard(fromEl, toEl, options = {}) {
     duration = 600,
     rotate = 0,
     scale = 0.95,
+    easing = 'cubic-bezier(.4,0,.2,1)',
     onComplete
   } = options
 
   const fromRect = fromEl.getBoundingClientRect()
   const toRect = toEl.getBoundingClientRect()
 
-  // ✅ FIX GỐC: TÍNH DX / DY
   const dx =
     toRect.left + toRect.width / 2 -
     (fromRect.left + fromRect.width / 2)
@@ -84,51 +45,37 @@ export function flyCard(fromEl, toEl, options = {}) {
     return
   }
 
-  /* =====================================
-     SNAKE WRAPPER (1 TRANSFORM – SỐNG)
-     ===================================== */
+  /* ---------- SINGLE GHOST ---------- */
 
-  const wrapper = document.createElement('div')
-  wrapper.className = 'tarot-fly-snake'
-  wrapper.style.position = 'fixed'
-  wrapper.style.left = `${fromRect.left}px`
-  wrapper.style.top = `${fromRect.top}px`
-  wrapper.style.width = `${fromRect.width}px`
-  wrapper.style.height = `${fromRect.height}px`
-  wrapper.style.pointerEvents = 'none'
-  wrapper.style.zIndex = '9999'
-  wrapper.style.willChange = 'transform'
+  const ghost = img.cloneNode(true)
+  ghost.className = 'tarot-fly-ghost'
 
-  // ===== HEAD =====
-  const head = img.cloneNode(true)
-  head.className = 'tarot-fly-head'
-  wrapper.appendChild(head)
+  Object.assign(ghost.style, {
+    position: 'fixed',
+    left: `${fromRect.left}px`,
+    top: `${fromRect.top}px`,
+    width: `${fromRect.width}px`,
+    height: `${fromRect.height}px`,
+    pointerEvents: 'none',
+    zIndex: '9999',
+    willChange: 'transform',
+    transition: `transform ${duration}ms ${easing}`
+  })
 
-  // ===== SEGMENTS (THÂN RẮN) =====
-  const SEGMENTS = 5
-  for (let i = 1; i <= SEGMENTS; i++) {
-    const seg = img.cloneNode(true)
-    seg.className = `tarot-fly-seg seg-${i}`
-    wrapper.appendChild(seg)
-  }
+  document.body.appendChild(ghost)
 
-  document.body.appendChild(wrapper)
-
-  // ===== ANIMATE (CHỈ 1 LẦN) =====
   requestAnimationFrame(() => {
-    wrapper.style.transition =
-      `transform ${duration}ms cubic-bezier(.4,0,.2,1)`
-    wrapper.style.transform = `
+    ghost.style.transform = `
       translate(${dx}px, ${dy}px)
       scale(${scale})
       rotate(${rotate}deg)
     `.trim()
   })
 
-  wrapper.addEventListener(
+  ghost.addEventListener(
     'transitionend',
     () => {
-      wrapper.remove()
+      ghost.remove()
       onComplete && onComplete()
     },
     { once: true }
@@ -141,7 +88,7 @@ export function flyCardToSlot(fromEl, slotEl, options = {}) {
 }
 
 /* ======================================================
-   SHUFFLE EFFECT – CORE
+   SHUFFLE EFFECT – CORE (GIỮ NGUYÊN)
    ====================================================== */
 
 function rand(min, max) {
@@ -227,7 +174,6 @@ function spawnStageGhosts(deckB, stage, count = 12) {
 export function startShuffle(deckB) {
   if (!deckB) return
 
-  // 🔒 khóa nghi thức → không cho shuffle sống lại
   if (TarotState.deckLocked) {
     console.warn('[TarotEffects] deck locked – shuffle aborted')
     return
@@ -238,15 +184,9 @@ export function startShuffle(deckB) {
 
   deckB.classList.add('is-shuffling')
 
-  // ==================================================
-  // RANDOM ORIENTATION ONLY (LIGHTWEIGHT – FINAL)
-  // ==================================================
-
-  // số lá sẽ trải (lấy theo layout hiện tại)
   const slotCount =
     document.querySelectorAll('.tarot-spread-slot')?.length || 3
 
-  // chỉ random ngược / xuôi
   TarotState.spreadOrientation = Array.from(
     { length: slotCount },
     () => Math.random() < 0.5
@@ -257,7 +197,6 @@ export function startShuffle(deckB) {
     TarotState.spreadOrientation
   )
 
-  // ===== rung nền =====
   deckB.__shuffleTimer = setInterval(() => {
     if (TarotState.deckLocked) {
       stopShuffle(deckB)
@@ -272,8 +211,7 @@ export function startShuffle(deckB) {
 
   const stage = ensureShuffleStage(deckB)
   if (!stage) {
-    console.warn('[TarotEffects] shuffle stage not found – shake only')
-    console.log('[TarotEffects] shuffle started')
+    console.log('[TarotEffects] shuffle started (shake only)')
     return
   }
 

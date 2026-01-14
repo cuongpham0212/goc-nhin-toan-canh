@@ -66,8 +66,8 @@ Tarot …
 
 
 <link rel="stylesheet"
-      href="/css/main.min.4eed3fbcb8241cc843ebc9a2651434a1b530e3c8b712704482ecab6906465e0b.css"
-      integrity="sha256-Tu0/vLgkHMhD68miZRQ0obUw48i3EnBEguyraQZGXgs=">
+      href="/css/main.min.883f45b943b1494c9a58a6a6fe80129ec2c4e4fcec87d5ace0316236308f89f2.css"
+      integrity="sha256-iD9FuUOxSUyaWKam/oASnsLE5Pzsh9Ws4DFiNjCPifI=">
 
 
 
@@ -465,7 +465,6 @@ mà phản chiếu <strong>dòng năng lượng bạn đang sống cùng</strong
               data-deck="B"
               data-deck-role="shuffle"
             >
-
               <div class="tarot-deck tarot-deck--shuffle" data-deck-visual>
                 <img
                   src="https://cdn.jsdelivr.net/gh/cuongpham0212/kho-anh@main/tarot/anh-mat-sau-la-bai-tarot.webp"
@@ -479,7 +478,6 @@ mà phản chiếu <strong>dòng năng lượng bạn đang sống cùng</strong
                 class="tarot-shuffle-stage"
                 data-shuffle-stage
               ></div>
-
             </div>
           </div>
 
@@ -520,74 +518,80 @@ mà phản chiếu <strong>dòng năng lượng bạn đang sống cùng</strong
     
     <section class="tarot-after-stage hidden" data-tarot-after>
 
-      <section class="tarot-selected">
-        <h2>Ba lá bạn đã chọn</h2>
+      
+      <div class="tarot-after-inner">
 
-        <div class="tarot-selected-cards">
-          
-          <div class="tarot-slot-wrap">
-            <div class="tarot-slot-label">
-              LÁ 1 · QUÁ KHỨ
+        <section class="tarot-selected">
+          <h2>Ba lá bạn đã chọn</h2>
+
+          <div class="tarot-selected-cards">
+            
+            <div class="tarot-slot-wrap">
+              <div class="tarot-slot-label">
+                LÁ 1 · QUÁ KHỨ
+              </div>
+              <div
+                class="tarot-slot"
+                data-slot="1"
+              ></div>
             </div>
-            <div
-              class="tarot-slot"
-              data-slot="1"
-            ></div>
-          </div>
-          
-          <div class="tarot-slot-wrap">
-            <div class="tarot-slot-label">
-              LÁ 2 · HIỆN TẠI
+            
+            <div class="tarot-slot-wrap">
+              <div class="tarot-slot-label">
+                LÁ 2 · HIỆN TẠI
+              </div>
+              <div
+                class="tarot-slot"
+                data-slot="2"
+              ></div>
             </div>
-            <div
-              class="tarot-slot"
-              data-slot="2"
-            ></div>
-          </div>
-          
-          <div class="tarot-slot-wrap">
-            <div class="tarot-slot-label">
-              LÁ 3 · HƯỚNG ĐI
+            
+            <div class="tarot-slot-wrap">
+              <div class="tarot-slot-label">
+                LÁ 3 · HƯỚNG ĐI
+              </div>
+              <div
+                class="tarot-slot"
+                data-slot="3"
+              ></div>
             </div>
-            <div
-              class="tarot-slot"
-              data-slot="3"
-            ></div>
+            
           </div>
-          
+        </section>
+
+        
+        <div class="tarot-action">
+          <button
+            id="btn-reading"
+            class="tarot-btn is-disabled"
+            disabled
+            data-action="reading"
+          >
+            Xem luận giải
+          </button>
         </div>
-      </section>
 
-      
-      <div class="tarot-action">
-        <button
-          id="btn-reading"
-          class="tarot-btn is-disabled"
-          disabled
-          data-action="reading"
-        >
-          Xem luận giải
-        </button>
+        
+        <article
+          id="reading-content"
+          class="tarot-reading hidden"
+          data-reading-content
+        ></article>
+
+        
+        <div class="tarot-reading-footer">
+          <button
+            id="btn-reset"
+            class="tarot-btn hidden"
+            type="button"
+            data-action="reset"
+          >
+            Xem trải bài khác
+          </button>
+        </div>
+
       </div>
-
       
-      <article
-        id="reading-content"
-        class="tarot-reading hidden"
-        data-reading-content
-      ></article>
-
-      
-      <div class="tarot-reading-footer">
-        <button
-          id="btn-reset"
-          class="tarot-btn hidden"
-          type="button"
-          data-action="reset"
-        >
-          Xem trải bài khác
-        </button>
-      </div>
 
     </section>
 
@@ -598,8 +602,8 @@ mà phản chiếu <strong>dòng năng lượng bạn đang sống cùng</strong
 
 <script
   type="module"
-  src="/js/tarot-map-app.8a856f757b746c083214dea07235a4a817ca0c0be466f304cc41c9f41b11912e.js"
-  integrity="sha256-ioVvdXt0bAgyFN6gcjWkqBfKDAvkZvMEzEHJ9BsRkS4="
+  src="/js/tarot-map-app.6258a6fd782fb812de28a3ac7826b9266cda2742782a7f364ab4dbceb5568b01.js"
+  integrity="sha256-Ylim/XgvuBLeKKOseCa5JmzaJ0J4Kn82SrTbzrVWiwE="
 ></script>
 
 

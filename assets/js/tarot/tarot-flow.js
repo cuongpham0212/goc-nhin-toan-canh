@@ -4,6 +4,7 @@ import { TarotState } from './tarot-state.js'
 import { TarotMap } from './tarot-map.js'
 import { flyCard, startShuffle, stopShuffle } from './tarot-effects.js'
 import { runSpreadIllusion } from './tarot-spread-illusion.js'
+import { ritualAfterFly } from './tarot-ritual-effects.js'
 
 export function initTarotFlow() {
   if (!TarotMap.btnShuffle) return
@@ -22,31 +23,40 @@ export function initTarotFlow() {
     /* ==================================================
        A → B (ÚP → XÀO)
        ================================================== */
+    const fromRectAB = TarotMap.deckA.getBoundingClientRect()
+    const toRectAB = TarotMap.deckB.getBoundingClientRect()
+
+    // 🌌 Ritual bay kèm – CHỈ 1 LẦN – chạy song song fly chính
+    ritualAfterFly({
+      fromRect: fromRectAB,
+      toRect: toRectAB,
+      count: 3
+    })
+
     flyCard(TarotMap.deckA, TarotMap.deckB, {
       rotate: 12,
       onComplete() {
         // 🎥 CAMERA: FOCUS BỘ XÀO (DECK B)
-        document.dispatchEvent(new CustomEvent('tarot:camera:focus', {
-          detail: {
-            y: TarotMap.deckB.getBoundingClientRect().top +
-              TarotMap.deckB.getBoundingClientRect().height / 2
-          }
-        }))
+        document.dispatchEvent(
+          new CustomEvent('tarot:camera:focus', {
+            detail: {
+              y:
+                toRectAB.top +
+                toRectAB.height / 2
+            }
+          })
+        )
+
         /* ===== KẾT THÚC TRIỆT ĐỂ DECK A ===== */
         TarotMap.deckA.classList.add('is-hidden')
-
-        if (TarotMap.btnShuffle) {
-          TarotMap.hideShuffleButton()
-        }
+        TarotMap.hideShuffleButton?.()
 
         /* ===== DECK B: CHỈ SỐNG TỪ ĐÂY ===== */
-        // 1️⃣ hiện deck B NGAY SAU KHI A → B fly xong
         TarotMap.deckB.classList.add('is-visible')
 
-        // 2️⃣ chờ 1 frame để browser paint ảnh
         requestAnimationFrame(() => {
-        TarotState.phase = 'shuffling'
-        startShuffle(TarotMap.deckB)
+          TarotState.phase = 'shuffling'
+          startShuffle(TarotMap.deckB)
         })
 
         /* ==================================================
@@ -78,13 +88,22 @@ export function initTarotFlow() {
 
           const frFrom = from.getBoundingClientRect()
           const frFlat = flat.getBoundingClientRect()
-          // 🎥 CAMERA: FOCUS FLAT DECK (GOM BÀI)
-          document.dispatchEvent(new CustomEvent('tarot:camera:focus', {
-            detail: {
-              y: frFlat.top + frFlat.height / 2
-            }
-          }))
 
+          // 🎥 CAMERA: FOCUS FLAT DECK
+          document.dispatchEvent(
+            new CustomEvent('tarot:camera:focus', {
+              detail: {
+                y: frFlat.top + frFlat.height / 2
+              }
+            })
+          )
+
+          // 🌌 Ritual bay kèm – đặt TRƯỚC chuyển động
+          ritualAfterFly({
+            fromRect: frFrom,
+            toRect: frFlat,
+            count: 3
+          })
 
           const ghost = img.cloneNode(true)
           ghost.style.position = 'fixed'
@@ -116,7 +135,8 @@ export function initTarotFlow() {
             'transitionend',
             () => {
               ghost.remove()
-              // 🔥 ẨN DECK B NGAY TẠI ĐÂY (ĐÚNG NHỊP)
+
+              // 🔥 ẨN DECK B ĐÚNG NHỊP
               TarotMap.deckB.classList.remove('is-visible')
 
               /* ==================================================
@@ -136,15 +156,19 @@ export function initTarotFlow() {
                 duration: 900,
                 onComplete() {
                   // 🎥 CAMERA: FOCUS BỘ TRẢI
-                  const spreadArea = document.querySelector('.tarot-spread-area')
+                  const spreadArea =
+                    document.querySelector('.tarot-spread-area')
                   if (spreadArea) {
                     const r = spreadArea.getBoundingClientRect()
-                    document.dispatchEvent(new CustomEvent('tarot:camera:focus', {
-                      detail: {
-                        y: r.top + r.height / 2
-                      }
-                    }))
+                    document.dispatchEvent(
+                      new CustomEvent('tarot:camera:focus', {
+                        detail: {
+                          y: r.top + r.height / 2
+                        }
+                      })
+                    )
                   }
+
                   const cardBackSrc =
                     TarotMap.deckB.querySelector('img')?.src
 
@@ -155,9 +179,7 @@ export function initTarotFlow() {
                   }
 
                   /* ===== KẾT THÚC TRIỆT ĐỂ DECK B ===== */
-                  TarotMap.deckC.classList.add('is-visible')
-                  TarotMap.deckC.classList.add('is-interactive')
-
+                  TarotMap.deckC.classList.add('is-visible', 'is-interactive')
                   document
                     .querySelector('.tarot-spread-area')
                     ?.classList.add('is-interactive')
@@ -165,7 +187,6 @@ export function initTarotFlow() {
                   TarotState.phase = 'spread'
                   console.log('[TarotFlow] spread ready')
 
-                  /* báo nghi thức hoàn tất */
                   document.dispatchEvent(
                     new CustomEvent('tarot:ritual-complete')
                   )
@@ -178,6 +199,7 @@ export function initTarotFlow() {
       }
     })
   })
+
   window.addEventListener('tarot:reveal:done', () => {
     if (!TarotState.hasViewedReading) {
       TarotState.markReadingViewed()
@@ -203,11 +225,8 @@ function populateSpreadSlots(slots, cardBackSrc) {
     img.style.height = '100%'
     img.style.display = 'block'
 
-    if (orientation[index] === true) {
-      img.style.transform = 'rotate(180deg)'
-    } else {
-      img.style.transform = 'none'
-    }
+    img.style.transform =
+      orientation[index] === true ? 'rotate(180deg)' : 'none'
 
     img.style.opacity = '0'
     img.style.transition = 'opacity 200ms ease, transform 200ms ease'

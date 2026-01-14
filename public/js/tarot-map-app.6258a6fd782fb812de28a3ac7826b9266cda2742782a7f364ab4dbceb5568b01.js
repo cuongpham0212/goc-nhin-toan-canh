@@ -307,6 +307,7 @@ function flyCard(fromEl, toEl, options = {}) {
     duration = 600,
     rotate = 0,
     scale = 0.95,
+    easing = "cubic-bezier(.4,0,.2,1)",
     onComplete
   } = options;
   const fromRect = fromEl.getBoundingClientRect();
@@ -318,38 +319,31 @@ function flyCard(fromEl, toEl, options = {}) {
     console.warn("[TarotEffects] no image to fly", fromEl);
     return;
   }
-  const wrapper = document.createElement("div");
-  wrapper.className = "tarot-fly-snake";
-  wrapper.style.position = "fixed";
-  wrapper.style.left = `${fromRect.left}px`;
-  wrapper.style.top = `${fromRect.top}px`;
-  wrapper.style.width = `${fromRect.width}px`;
-  wrapper.style.height = `${fromRect.height}px`;
-  wrapper.style.pointerEvents = "none";
-  wrapper.style.zIndex = "9999";
-  wrapper.style.willChange = "transform";
-  const head = img.cloneNode(true);
-  head.className = "tarot-fly-head";
-  wrapper.appendChild(head);
-  const SEGMENTS = 5;
-  for (let i = 1; i <= SEGMENTS; i++) {
-    const seg = img.cloneNode(true);
-    seg.className = `tarot-fly-seg seg-${i}`;
-    wrapper.appendChild(seg);
-  }
-  document.body.appendChild(wrapper);
+  const ghost = img.cloneNode(true);
+  ghost.className = "tarot-fly-ghost";
+  Object.assign(ghost.style, {
+    position: "fixed",
+    left: `${fromRect.left}px`,
+    top: `${fromRect.top}px`,
+    width: `${fromRect.width}px`,
+    height: `${fromRect.height}px`,
+    pointerEvents: "none",
+    zIndex: "9999",
+    willChange: "transform",
+    transition: `transform ${duration}ms ${easing}`
+  });
+  document.body.appendChild(ghost);
   requestAnimationFrame(() => {
-    wrapper.style.transition = `transform ${duration}ms cubic-bezier(.4,0,.2,1)`;
-    wrapper.style.transform = `
+    ghost.style.transform = `
       translate(${dx}px, ${dy}px)
       scale(${scale})
       rotate(${rotate}deg)
     `.trim();
   });
-  wrapper.addEventListener(
+  ghost.addEventListener(
     "transitionend",
     () => {
-      wrapper.remove();
+      ghost.remove();
       onComplete && onComplete();
     },
     { once: true }
@@ -445,8 +439,7 @@ function startShuffle(deckB) {
   }, 70);
   const stage = ensureShuffleStage(deckB);
   if (!stage) {
-    console.warn("[TarotEffects] shuffle stage not found \u2013 shake only");
-    console.log("[TarotEffects] shuffle started");
+    console.log("[TarotEffects] shuffle started (shake only)");
     return;
   }
   clearStage(stage);
@@ -579,6 +572,43 @@ function runSpreadIllusion({
   });
 }
 
+// ns-hugo-imp:/Users/MN/goc-nhin-toan-canh/assets/js/tarot/tarot-ritual-effects.js
+function createGhost(fromRect) {
+  const g = document.createElement("div");
+  Object.assign(g.style, {
+    position: "fixed",
+    left: `${fromRect.left}px`,
+    top: `${fromRect.top}px`,
+    width: `${fromRect.width}px`,
+    height: `${fromRect.height}px`,
+    background: "rgba(180,120,255,0.6)",
+    borderRadius: "12px",
+    boxShadow: "0 0 40px rgba(200,150,255,.8)",
+    pointerEvents: "none",
+    zIndex: 9999999,
+    opacity: "0.8"
+  });
+  return g;
+}
+function ritualAfterFly({
+  fromRect,
+  toRect,
+  count = 3
+}) {
+  const dx = toRect.left + toRect.width / 2 - (fromRect.left + fromRect.width / 2);
+  const dy = toRect.top + toRect.height / 2 - (fromRect.top + fromRect.height / 2);
+  for (let i = 0; i < count; i++) {
+    const g = createGhost(fromRect);
+    document.body.appendChild(g);
+    setTimeout(() => {
+      g.style.transition = "transform 600ms ease, opacity 600ms ease";
+      g.style.transform = `translate(${dx * 0.6}px, ${dy * 0.6}px) scale(0.9)`;
+      g.style.opacity = "0";
+    }, i * 120);
+    setTimeout(() => g.remove(), 1200);
+  }
+}
+
 // ns-hugo-imp:/Users/MN/goc-nhin-toan-canh/assets/js/tarot/tarot-flow.js
 function initTarotFlow() {
   if (!TarotMap.btnShuffle) return;
@@ -590,18 +620,25 @@ function initTarotFlow() {
     }
     console.log("[TarotFlow] shuffle clicked");
     TarotState.phase = "toShuffle";
+    const fromRectAB = TarotMap.deckA.getBoundingClientRect();
+    const toRectAB = TarotMap.deckB.getBoundingClientRect();
+    ritualAfterFly({
+      fromRect: fromRectAB,
+      toRect: toRectAB,
+      count: 3
+    });
     flyCard(TarotMap.deckA, TarotMap.deckB, {
       rotate: 12,
       onComplete() {
-        document.dispatchEvent(new CustomEvent("tarot:camera:focus", {
-          detail: {
-            y: TarotMap.deckB.getBoundingClientRect().top + TarotMap.deckB.getBoundingClientRect().height / 2
-          }
-        }));
+        document.dispatchEvent(
+          new CustomEvent("tarot:camera:focus", {
+            detail: {
+              y: toRectAB.top + toRectAB.height / 2
+            }
+          })
+        );
         TarotMap.deckA.classList.add("is-hidden");
-        if (TarotMap.btnShuffle) {
-          TarotMap.hideShuffleButton();
-        }
+        TarotMap.hideShuffleButton?.();
         TarotMap.deckB.classList.add("is-visible");
         requestAnimationFrame(() => {
           TarotState.phase = "shuffling";
@@ -623,11 +660,18 @@ function initTarotFlow() {
           }
           const frFrom = from.getBoundingClientRect();
           const frFlat = flat.getBoundingClientRect();
-          document.dispatchEvent(new CustomEvent("tarot:camera:focus", {
-            detail: {
-              y: frFlat.top + frFlat.height / 2
-            }
-          }));
+          document.dispatchEvent(
+            new CustomEvent("tarot:camera:focus", {
+              detail: {
+                y: frFlat.top + frFlat.height / 2
+              }
+            })
+          );
+          ritualAfterFly({
+            fromRect: frFrom,
+            toRect: frFlat,
+            count: 3
+          });
           const ghost = img.cloneNode(true);
           ghost.style.position = "fixed";
           ghost.style.left = `${frFrom.left}px`;
@@ -663,11 +707,13 @@ function initTarotFlow() {
                   const spreadArea = document.querySelector(".tarot-spread-area");
                   if (spreadArea) {
                     const r = spreadArea.getBoundingClientRect();
-                    document.dispatchEvent(new CustomEvent("tarot:camera:focus", {
-                      detail: {
-                        y: r.top + r.height / 2
-                      }
-                    }));
+                    document.dispatchEvent(
+                      new CustomEvent("tarot:camera:focus", {
+                        detail: {
+                          y: r.top + r.height / 2
+                        }
+                      })
+                    );
                   }
                   const cardBackSrc = TarotMap.deckB.querySelector("img")?.src;
                   if (cardBackSrc) {
@@ -675,8 +721,7 @@ function initTarotFlow() {
                   } else {
                     console.warn("[TarotFlow] no card back src");
                   }
-                  TarotMap.deckC.classList.add("is-visible");
-                  TarotMap.deckC.classList.add("is-interactive");
+                  TarotMap.deckC.classList.add("is-visible", "is-interactive");
                   document.querySelector(".tarot-spread-area")?.classList.add("is-interactive");
                   TarotState.phase = "spread";
                   console.log("[TarotFlow] spread ready");
@@ -709,11 +754,7 @@ function populateSpreadSlots(slots, cardBackSrc) {
     img.style.width = "100%";
     img.style.height = "100%";
     img.style.display = "block";
-    if (orientation[index] === true) {
-      img.style.transform = "rotate(180deg)";
-    } else {
-      img.style.transform = "none";
-    }
+    img.style.transform = orientation[index] === true ? "rotate(180deg)" : "none";
     img.style.opacity = "0";
     img.style.transition = "opacity 200ms ease, transform 200ms ease";
     slot.appendChild(img);
@@ -847,6 +888,12 @@ function initTarotPick() {
     document.body.appendChild(ghost);
     const dx = toRect.left + toRect.width / 2 - (fromRect.left + fromRect.width / 2);
     const dy = toRect.top + toRect.height / 2 - (fromRect.top + fromRect.height / 2);
+    ritualAfterFly({
+      fromRect,
+      toRect,
+      count: 2,
+      duration: 600
+    });
     requestAnimationFrame(() => {
       ghost.style.transform = `translate(${dx}px, ${dy}px) scale(0.95)`;
     });
