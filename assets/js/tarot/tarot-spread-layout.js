@@ -105,7 +105,7 @@ export function createTarotSpreadLayout({
     const x = Math.sin(rad) * radius
 
     // lane dưới thấp hơn
-    const laneYOffset = laneIndex * 70
+    const laneYOffset = laneIndex * 150
 
     const y =
       (1 - Math.cos(rad)) * (H - cardHeight) +

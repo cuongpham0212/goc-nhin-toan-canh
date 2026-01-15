@@ -810,7 +810,7 @@ function createTarotSpreadLayout({
     const baseRadius = (W / 2 - cardWidth) * spreadFactor;
     const radius = baseRadius - laneIndex * 120;
     const x = Math.sin(rad) * radius;
-    const laneYOffset = laneIndex * 70;
+    const laneYOffset = laneIndex * 150;
     const y = (1 - Math.cos(rad)) * (H - cardHeight) + laneYOffset;
     const slot = document.createElement("div");
     slot.className = "tarot-spread-slot";

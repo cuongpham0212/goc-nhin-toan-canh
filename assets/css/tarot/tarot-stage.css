@@ -107,7 +107,7 @@ body.tarot-before .tarot-page > * {
 .tarot-stage-bottom {
   position: relative;
   width: 100%;
-  min-height: 360px;
+  min-height: 200px;
 
   /* stage chỉ làm layout */
   pointer-events: none;
@@ -136,6 +136,17 @@ body.tarot-before .tarot-page > * {
 
   pointer-events: none;
   z-index: 4;
+}
+
+/* ==================================================
+   DECK FLAT – HIDDEN VISUAL (KEEP ANCHOR)
+   ================================================== */
+
+/* Giữ khung để làm mốc bay, nhưng ẩn hoàn toàn phần nhìn thấy */
+.tarot-flat-deck {
+  border: none;
+  background: none;
+  box-shadow: none;
 }
 
 /* ===== SPREAD AREA ===== */
