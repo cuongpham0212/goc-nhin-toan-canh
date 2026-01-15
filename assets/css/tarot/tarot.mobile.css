@@ -1,0 +1,239 @@
+/* ==================================================
+   TAROT – MOBILE OVERRIDES
+   Scope:
+   - Mobile first enhancement
+   - KHÔNG đổi DOM
+   - KHÔNG ảnh hưởng JS / overlay / motion
+   - Chỉ override layout + UX
+   ================================================== */
+
+@media (max-width: 768px) {
+
+  /* ==================================================
+     ROOT & PAGE
+     ================================================== */
+
+  body.tarot-before .tarot-page {
+    padding-bottom: 32px;
+    background-attachment: scroll; /* mobile: tránh lag */
+  }
+
+  .tarot-app {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  /* ==================================================
+     HEADER / INTRO
+     ================================================== */
+
+  .tarot-header {
+    padding: 0 18px;
+    text-align: center;
+  }
+
+  .tarot-header h1 {
+    font-size: 1.4rem;
+    line-height: 1.25;
+  }
+
+  .tarot-intro {
+    font-size: 0.95rem;
+    line-height: 1.55;
+  }
+
+  .tarot-guide {
+    padding: 0 18px;
+    font-size: 0.95rem;
+  }
+
+  /* ==================================================
+     STAGE
+     ================================================== */
+
+  .tarot-stage {
+    margin-top: 24px;
+  }
+
+  /* ==================================================
+     STAGE TOP – DECK A / B
+     ================================================== */
+
+  .tarot-stage-top {
+    grid-template-columns: 1fr;
+    gap: 22px;
+    padding: 0 16px;
+    max-width: 100%;
+    min-height: auto;
+    justify-items: center;
+  }
+
+  /* column chung */
+  .tarot-col {
+    width: 100%;
+    display: flex;
+    align-items: center;
+  }
+
+  /* Deck A */
+  .tarot-col--left {
+    align-items: center;
+  }
+
+  /* Deck B */
+  .tarot-col--right {
+    justify-content: center;
+  }
+
+  /* ==================================================
+     DECK SIZE – SCALE NHẸ CHO MOBILE
+     ================================================== */
+
+  :root {
+    --card-w: 84px;
+    --card-h: 140px;
+  }
+
+  .tarot-deck-stack {
+    margin: 0 auto;
+  }
+
+  /* ==================================================
+     SHUFFLE BUTTON
+     ================================================== */
+
+  .tarot-shuffle-box {
+    margin-top: 14px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .tarot-shuffle-box .tarot-btn {
+    width: 100%;
+    max-width: 260px;
+    height: 44px;
+    font-size: 1rem;
+  }
+
+  /* ==================================================
+     STAGE BOTTOM / SPREAD
+     ================================================== */
+
+  .tarot-stage-bottom {
+    min-height: 300px;
+  }
+
+  .tarot-flat-deck {
+    bottom: 12px;
+    transform: translateX(-50%) scale(0.9);
+  }
+
+  .tarot-spread-area {
+    height: 280px;
+    padding: 0 12px;
+  }
+
+  /* ==================================================
+     AFTER STAGE
+     ================================================== */
+
+  .tarot-after-inner {
+    padding: 0 16px;
+    max-width: 100%;
+  }
+
+  /* ==================================================
+     SELECTED CARDS
+     ================================================== */
+
+  .tarot-selected h2 {
+    font-size: 1.2rem;
+    text-align: center;
+  }
+
+  .tarot-selected-cards {
+    gap: 16px;
+  }
+
+  .tarot-slot-label {
+    font-size: 0.85rem;
+    text-align: center;
+  }
+
+  /* ==================================================
+     ACTION BUTTONS
+     ================================================== */
+
+  .tarot-action {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .tarot-action .tarot-btn {
+    width: 100%;
+    max-width: 300px;
+    height: 48px;
+    font-size: 1.05rem;
+  }
+
+  /* reset button */
+  .tarot-reading-footer {
+    margin-top: 24px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .tarot-reading-footer .tarot-btn {
+    width: 100%;
+    max-width: 300px;
+    height: 44px;
+  }
+
+  /* ==================================================
+     READING CONTENT
+     ================================================== */
+
+  .tarot-reading {
+    padding: 20px 0;
+    font-size: 0.95rem;
+    line-height: 1.7;
+  }
+
+  .tarot-reading h3 {
+    font-size: 1.1rem;
+    margin-top: 1.2em;
+  }
+
+  .tarot-reading p {
+    margin-bottom: 1em;
+  }
+
+}
+
+/* ==================================================
+   SMALL MOBILE (≤ 480px)
+   ================================================== */
+
+@media (max-width: 480px) {
+
+  :root {
+    --card-w: 76px;
+    --card-h: 128px;
+  }
+
+  .tarot-header h1 {
+    font-size: 1.25rem;
+  }
+
+  .tarot-guide,
+  .tarot-intro {
+    font-size: 0.9rem;
+  }
+
+  .tarot-spread-area {
+    height: 260px;
+  }
+
+}

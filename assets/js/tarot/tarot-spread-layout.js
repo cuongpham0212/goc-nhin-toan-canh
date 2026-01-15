@@ -1,9 +1,9 @@
 /* ======================================================
    TAROT SPREAD LAYOUT – HORIZONTAL ARC (FINAL)
-   - nằm gọn trong deck C
-   - lõm hướng xuống
-   - giãn ngang, thoáng, đẹp mắt
-   - khung rỗng (không bóng, không ảnh)
+   - 1 logic spread
+   - 1 hoặc 2 visual lanes (auto)
+   - không wrap CSS
+   - không phá animation / pick
    ====================================================== */
 
 /**
@@ -20,15 +20,15 @@ export function createTarotSpreadLayout({
   container,
   cardCount = 78,
 
-  // kích thước card – đúng với UI hiện tại
+  // kích thước card – khớp UI hiện tại
   cardWidth = 72,
   cardHeight = 120,
 
   // độ xoè & giãn
-  arc = 140,            // độ mở quạt
-  spreadFactor = 1.25,  // giãn ngang (khoảng cách lá)
+  arc = 140,            // độ mở quạt (độ)
+  spreadFactor = 1.25,  // giãn ngang
 
-  // 🔥 danh sách slug (78 lá)
+  // danh sách slug (78 lá)
   slugs = []
 } = {}) {
   if (!container) {
@@ -36,11 +36,13 @@ export function createTarotSpreadLayout({
     return
   }
 
-  // reset layout cũ (an toàn tuyệt đối)
+  /* ===============================
+     RESET & PREPARE
+     =============================== */
+
   container.innerHTML = ''
   container.classList.add('tarot-spread-layout')
 
-  // lấy kích thước thật của deck C
   const area = container.closest('.tarot-spread-area')
   if (!area) {
     console.warn('[TarotSpreadLayout] tarot-spread-area not found')
@@ -56,28 +58,68 @@ export function createTarotSpreadLayout({
     return
   }
 
+  /* ===============================
+     LANE DECISION (🔑 CỐT LÕI)
+     =============================== */
+
+  // chỉ dùng 2 lane khi nhiều lá
+  const useTwoLane = cardCount > 56
+
+  const laneCount = useTwoLane ? 2 : 1
+  const perLane = Math.ceil(cardCount / laneCount)
+
+  /* ===============================
+     ARC SETUP
+     =============================== */
+
   const start = -arc / 2
-  const step = cardCount > 1 ? arc / (cardCount - 1) : 0
+  const step = (perLane > 1) ? arc / (perLane - 1) : 0
+
+  /* ===============================
+     RENDER SLOTS
+     =============================== */
 
   for (let i = 0; i < cardCount; i++) {
-    const angle = start + step * i
+
+    /* ---------- LANE LOGIC ---------- */
+
+    const laneIndex = useTwoLane
+      ? Math.floor(i / perLane)
+      : 0
+
+    const indexInLane = useTwoLane
+      ? i % perLane
+      : i
+
+    const angle = start + step * indexInLane
     const rad = angle * Math.PI / 180
 
     /* ===============================
        HORIZONTAL FAN – FINAL FORMULA
        =============================== */
 
-    // giãn ngang
-    const x = Math.sin(rad) * (W / 2 - cardWidth) * spreadFactor
+    // mỗi lane có radius riêng → cong tự nhiên
+    const baseRadius = (W / 2 - cardWidth) * spreadFactor
+    const radius = baseRadius - laneIndex * 120
 
-    // lõm xuống, luôn nằm trong khung
-    const y = (1 - Math.cos(rad)) * (H - cardHeight)
+    const x = Math.sin(rad) * radius
+
+    // lane dưới thấp hơn
+    const laneYOffset = laneIndex * 70
+
+    const y =
+      (1 - Math.cos(rad)) * (H - cardHeight) +
+      laneYOffset
+
+    /* ===============================
+       SLOT ELEMENT
+       =============================== */
 
     const slot = document.createElement('div')
     slot.className = 'tarot-spread-slot'
     slot.dataset.index = i
+    slot.dataset.lane = laneIndex + 1
 
-    // 🔑 gắn slug nếu có
     if (slugs[i]) {
       slot.dataset.slug = slugs[i]
     }
@@ -95,8 +137,15 @@ export function createTarotSpreadLayout({
     `
     slot.style.transformOrigin = 'center top'
 
+    // z-index: lane trên nổi hơn
+    slot.style.zIndex = String(10 - laneIndex)
+
     container.appendChild(slot)
   }
 
-  console.log('[TarotSpreadLayout] FINAL spread rendered:', cardCount)
+  console.log(
+    '[TarotSpreadLayout] FINAL spread rendered:',
+    cardCount,
+    useTwoLane ? '(2 lanes)' : '(1 lane)'
+  )
 }

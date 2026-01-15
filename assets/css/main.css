@@ -62,6 +62,9 @@
 @import "tarot/tarot-stage.css";
 @import "tarot/tarot-spread-slots.css";
 
+/* 📱 mobile */
+@import "tarot/tarot.mobile.css";
+
 /* ⬇️ LUÔN LUÔN CUỐI – GLOBAL MODULES */
 @import "modules/article.css";
 @import "modules/mua-sam.css";

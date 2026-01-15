@@ -768,15 +768,15 @@ function populateSpreadSlots(slots, cardBackSrc) {
 function createTarotSpreadLayout({
   container,
   cardCount = 78,
-  // kích thước card – đúng với UI hiện tại
+  // kích thước card – khớp UI hiện tại
   cardWidth = 72,
   cardHeight = 120,
   // độ xoè & giãn
   arc = 140,
-  // độ mở quạt
+  // độ mở quạt (độ)
   spreadFactor = 1.25,
-  // giãn ngang (khoảng cách lá)
-  // 🔥 danh sách slug (78 lá)
+  // giãn ngang
+  // danh sách slug (78 lá)
   slugs = []
 } = {}) {
   if (!container) {
@@ -797,16 +797,25 @@ function createTarotSpreadLayout({
     console.warn("[TarotSpreadLayout] invalid spread area size", { W, H });
     return;
   }
+  const useTwoLane = cardCount > 56;
+  const laneCount = useTwoLane ? 2 : 1;
+  const perLane = Math.ceil(cardCount / laneCount);
   const start = -arc / 2;
-  const step = cardCount > 1 ? arc / (cardCount - 1) : 0;
+  const step = perLane > 1 ? arc / (perLane - 1) : 0;
   for (let i = 0; i < cardCount; i++) {
-    const angle = start + step * i;
+    const laneIndex = useTwoLane ? Math.floor(i / perLane) : 0;
+    const indexInLane = useTwoLane ? i % perLane : i;
+    const angle = start + step * indexInLane;
     const rad = angle * Math.PI / 180;
-    const x = Math.sin(rad) * (W / 2 - cardWidth) * spreadFactor;
-    const y = (1 - Math.cos(rad)) * (H - cardHeight);
+    const baseRadius = (W / 2 - cardWidth) * spreadFactor;
+    const radius = baseRadius - laneIndex * 120;
+    const x = Math.sin(rad) * radius;
+    const laneYOffset = laneIndex * 70;
+    const y = (1 - Math.cos(rad)) * (H - cardHeight) + laneYOffset;
     const slot = document.createElement("div");
     slot.className = "tarot-spread-slot";
     slot.dataset.index = i;
+    slot.dataset.lane = laneIndex + 1;
     if (slugs[i]) {
       slot.dataset.slug = slugs[i];
     }
@@ -820,9 +829,14 @@ function createTarotSpreadLayout({
       rotate(${angle}deg)
     `;
     slot.style.transformOrigin = "center top";
+    slot.style.zIndex = String(10 - laneIndex);
     container.appendChild(slot);
   }
-  console.log("[TarotSpreadLayout] FINAL spread rendered:", cardCount);
+  console.log(
+    "[TarotSpreadLayout] FINAL spread rendered:",
+    cardCount,
+    useTwoLane ? "(2 lanes)" : "(1 lane)"
+  );
 }
 
 // ns-hugo-imp:/Users/MN/goc-nhin-toan-canh/assets/js/tarot/tarot-data.js
